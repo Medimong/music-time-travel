@@ -79,7 +79,9 @@ def send(to, subj, body):
     msg["Subject"], msg["To"] = subj, to
     msg["From"] = formataddr(("대중음악 시간여행", os.environ["SMTP_USER"]))
     with smtplib.SMTP_SSL("smtp.gmail.com", 465, timeout=60) as s:
-        s.login(os.environ["SMTP_USER"], os.environ["SMTP_PASS"])
+        pw = os.environ.get("SMTP_PASS", "").replace(" ", "").strip()
+        print(f"SMTP 비밀번호 길이: {len(pw)} (16이어야 정상)")
+        s.login(os.environ["SMTP_USER"], pw)
         s.send_message(msg)
 
 
