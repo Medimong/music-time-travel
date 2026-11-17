@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "lanes": [
   "재즈와 즉흥",
   "소울과 펑크",
@@ -1488,6 +1488,60 @@
     "label": "4곡"
    },
    "part": "1973-P2"
+  },
+  {
+   "id": "eno-warm-jets",
+   "year": 1974,
+   "title": "Here Come the Warm Jets",
+   "artist": "Brian Eno",
+   "short": "Here Come the Warm Jets",
+   "lane": 2,
+   "status": "sent",
+   "part": "1974-P1",
+   "spotify": {
+    "url": "https://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi",
+    "label": "10곡 · 42분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/kr/album/723783174",
+    "label": "10곡 · 42분"
+   }
+  },
+  {
+   "id": "court-spark",
+   "year": 1974,
+   "title": "Court and Spark",
+   "artist": "Joni Mitchell",
+   "short": "Court and Spark",
+   "lane": 3,
+   "status": "sent",
+   "part": "1974-P1",
+   "spotify": {
+    "url": "https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM",
+    "label": "11곡 · 37분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/kr/album/1492263239",
+    "label": "11곡 · 37분"
+   }
+  },
+  {
+   "id": "radio-city",
+   "year": 1974,
+   "title": "Radio City",
+   "artist": "Big Star",
+   "short": "Radio City",
+   "lane": 4,
+   "status": "sent",
+   "part": "1974-P1",
+   "spotify": {
+    "url": "https://open.spotify.com/album/79Kv2xKvtqXrDcY2acvqfT",
+    "label": "1–12곡 · 36분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/kr/album/1442997142",
+    "label": "1–12곡 · 36분"
+   }
   }
  ],
  "edges": [
@@ -2073,6 +2127,37 @@
    "to": "head-hunters",
    "type": "listen",
    "label": "짧은 반복 위에서 긴 합주를 쌓는 두 방식"
+  },
+  {
+   "from": "for-your-pleasure",
+   "to": "eno-warm-jets",
+   "type": "document",
+   "label": "록시 뮤직을 떠난 이노의 첫 솔로 음반",
+   "source": "https://en.wikipedia.org/wiki/Here_Come_the_Warm_Jets"
+  },
+  {
+   "from": "crimson",
+   "to": "eno-warm-jets",
+   "type": "listen",
+   "label": "로버트 프립의 기타가 다른 밴드에서 어떻게 들리는지"
+  },
+  {
+   "from": "blue",
+   "to": "court-spark",
+   "type": "listen",
+   "label": "혼자 노래하던 목소리가 재즈 밴드를 만났을 때"
+  },
+  {
+   "from": "tambourine",
+   "to": "radio-city",
+   "type": "listen",
+   "label": "찰랑이는 기타 팝을 메마른 멤피스 소리로"
+  },
+  {
+   "from": "velvet-nico",
+   "to": "radio-city",
+   "type": "listen",
+   "label": "팔리지 않았지만 다음 세대가 찾아 들은 음반"
   }
  ]
 }

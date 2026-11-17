@@ -68,7 +68,7 @@ def render(q, who):
 {essays}
 <h2 style="font-size:17px;margin:30px 0 10px">더 읽을거리</h2><ul style="padding-left:18px;margin:0;font-size:14px">{reads}</ul>
 <div style="margin:30px 0 4px;padding:16px;background:#f6f4ee;border-radius:8px;text-align:center">
-<a href="{SITE}" style="font-size:15px;font-weight:700;color:#2f6f4f;text-decoration:none">흐름도에서 지금까지의 연결 보기 →</a></div>
+<a href="{SITE}" style="font-size:15px;font-weight:700;color:#2f6f4f;text-decoration:none">흐름도에서 지금까지의 연결 보기</a></div>
 </div></body></html>"""
     subj = f"대중음악 시간여행 · {q['year']}년 {q['partNo']}/{q['partTotal']} · {svc_name}"
     return subj, body
