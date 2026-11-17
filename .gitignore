@@ -2,3 +2,4 @@ site/
 .firebase/
 __pycache__/
 .DS_Store
+.gmail/

@@ -6,6 +6,21 @@ from collections import defaultdict
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 d = json.load(open(f"{ROOT}/data/chronology.json"))
 nodes, edges, lanes = d["nodes"], d["edges"], d["lanes"]
+# 아직 날짜가 안 된 큐 회차도 미리 넣어 두고, 페이지가 오늘 날짜(KST)를 보고 보여 준다.
+import glob
+known = {n["id"] for n in nodes}
+for f in sorted(glob.glob(f"{ROOT}/queue/*.json")):
+    q = json.load(open(f))
+    for ln in q.get("lanes", []):
+        if ln not in lanes: lanes.append(ln)
+    for a in q["albums"]:
+        if a["id"] in known: continue
+        known.add(a["id"])
+        nodes.append({"id": a["id"], "year": q["year"], "title": a["title"], "artist": a["artist"], "short": a.get("short", a["title"]),
+                      "lane": lanes.index(a["lane"]), "status": "sent", "sendDate": q["date"],
+                      "spotify": {"url": a["spotify"]}, "apple": {"url": a["apple"]}})
+    have = {(e["from"], e["to"]) for e in edges}
+    edges += [dict(e, sendDate=q["date"]) for e in q.get("edges", []) if (e["from"], e["to"]) not in have]
 
 COL_W, NODE_W, NODE_H, LABEL_W, TOP = 168, 120, 132, 96, 56
 years = sorted({n["year"] for n in nodes})
@@ -35,27 +50,28 @@ for e in edges:
         sx, tx = (sx + 40, tx - 40) if tx > sx else (sx - 40, tx + 40)
     mx = (sx + tx) / 2
     cls = "doc" if e["type"] == "document" else "lis"
-    svg.append(f'<path class="{cls}" data-f="{e["from"]}" data-t="{e["to"]}" d="M{sx:.0f},{sy:.0f} C{mx:.0f},{sy:.0f} {mx:.0f},{ty:.0f} {tx:.0f},{ty:.0f}"/>')
+    svg.append(f'<path class="{cls}" data-d="{e.get("sendDate","")}" data-f="{e["from"]}" data-t="{e["to"]}" d="M{sx:.0f},{sy:.0f} C{mx:.0f},{sy:.0f} {mx:.0f},{ty:.0f} {tx:.0f},{ty:.0f}"/>')
 
 cards = []
 for n in nodes:
     x, y = pos[n["id"]]
     badge = '<em>수업</em>' if n["status"] == "sent" else ""
-    cards.append(f'<button class="card" data-id="{n["id"]}" style="left:{x}px;top:{y}px">'
+    cards.append(f'<button class="card" data-d="{n.get("sendDate","")}" data-id="{n["id"]}" style="left:{x}px;top:{y}px">'
                  f'<img src="covers/{n["id"]}.jpg" alt="" loading="lazy" width="80" height="80">{badge}'
                  f'<b>{esc(n["short"])}</b><span>{esc(n["artist"])}</span></button>')
 
-heads = "".join(f'<div class="yr" id="y{y}" style="left:{LABEL_W + i * COL_W}px">{y}</div>' for i, y in enumerate(years))
+firstd = {y: min((n.get("sendDate","") for n in nodes if n["year"] == y), default="") for y in years}
+heads = "".join(f'<div class="yr" data-d="{firstd[y]}" id="y{y}" style="left:{LABEL_W + i * COL_W}px">{y}</div>' for i, y in enumerate(years))
 lanelbl = "".join(f'<div class="ln" style="top:{lane_y[i]}px;height:{lane_rows[i] * NODE_H}px">{esc(l)}</div>' for i, l in enumerate(lanes))
 bands = "".join(f'<div class="band" style="top:{lane_y[i] - 8}px;height:{lane_rows[i] * NODE_H + 4}px"></div>' for i in range(len(lanes)) if i % 2 == 0)
-nav = "".join(f'<a href="#y{y}">{y}</a>' for y in years)
+nav = "".join(f'<a data-d="{firstd[y]}" href="#y{y}">{y}</a>' for y in years)
 
 def rym(n):
     return "https://rateyourmusic.com/search?" + urllib.parse.urlencode({"searchtype": "l", "searchterm": f'{n["artist"]} {n["title"]}'})
 
 meta = {n["id"]: {"t": n["title"], "a": n["artist"], "y": n["year"], "s": n["status"],
                   "sp": n.get("spotify", {}).get("url"), "ap": n.get("apple", {}).get("url"),
-                  "rym": n.get("rym") or rym(n), "part": n.get("part")} for n in nodes}
+                  "rym": n.get("rym") or rym(n), "part": n.get("part"), "d": n.get("sendDate", "")} for n in nodes}
 rel = defaultdict(list)
 for e in edges:
     rel[e["from"]].append([e["to"], e["type"], e["label"], "out"])
@@ -101,7 +117,7 @@ path.hl{{stroke:var(--hi);stroke-width:3;stroke-dasharray:none}}
 </style></head><body>
 <div id="gate"><h1>누구세요?</h1><button data-u="gihun">기훈</button><button data-u="junghun">정훈</button></div>
 <header><h1>대중음악 시간여행</h1>
-<p>1965년부터 발매 순서대로 듣는 음악사 흐름도. 수업 {n_sent}장 · 전체 {len(nodes)}장 · 연결 {len(edges)}개. 표지를 누르면 듣기·RYM·들었음 체크.</p>
+<p>1965년부터 발매 순서대로 듣는 음악사 흐름도. <span id="cnt"></span> 표지를 누르면 듣기·RYM·들었음 체크.</p>
 <div class="who"><button data-u="gihun">기훈</button><button data-u="junghun">정훈</button><span id="prog"></span></div></header>
 <div class="legend"><span>진한 표지 = 들음 · 옅은 표지 = 아직</span><span><i></i>근거 있는 직접 관계</span><span><i class="l"></i>이어 들어볼 경로</span></div>
 <nav class="nav">{nav}</nav><div id="err"></div>
@@ -115,6 +131,11 @@ import {{getFirestore,doc,onSnapshot,setDoc,updateDoc,deleteField,serverTimestam
 const D={DATA};
 const NAME={{gihun:'기훈',junghun:'정훈'}}, OTHER={{gihun:'junghun',junghun:'gihun'}};
 const db=getFirestore(initializeApp({{apiKey:'AIzaSyAtUfasA-8gg2qZb0IFz8to10_yEc_Gd6U',authDomain:'music-time-travel-gk.firebaseapp.com',projectId:'music-time-travel-gk',appId:'1:634754441954:web:9e5f699f12706d4c1074bb'}}));
+const TODAY=new Date(Date.now()+9*3600e3).toISOString().slice(0,10);
+const live=id=>!D.m[id].d||D.m[id].d<=TODAY;
+document.querySelectorAll('[data-d]').forEach(el=>{{const x=el.dataset.d;if(x&&x>TODAY)el.style.display='none'}});
+for(const k of Object.keys(D.m))if(!live(k))delete D.m[k];
+for(const k of Object.keys(D.r))D.r[k]=(D.r[k]||[]).filter(r=>D.m[r[0]]);
 const S={{gihun:{{}},junghun:{{}}}}; let me=null, cur=null;
 try{{me=localStorage.getItem('mtt_who')}}catch(e){{}}
 const $=s=>document.querySelector(s), $$=s=>[...document.querySelectorAll(s)];
@@ -124,6 +145,7 @@ if(me&&NAME[me])pick(me);
 for(const u of ['gihun','junghun'])onSnapshot(doc(db,'listen',u),s=>{{S[u]=(s.data()||{{}}).a||{{}};paint();if(cur)open(cur)}},e=>$('#err').textContent='기록을 불러오지 못했습니다: '+e.code);
 function paint(){{
   $$('.who button').forEach(b=>b.classList.toggle('on',b.dataset.u===me));
+  const ids0=Object.keys(D.m);document.getElementById('cnt').textContent=`수업 ${{ids0.filter(i=>D.m[i].s==='sent').length}}장 · 전체 ${{ids0.length}}장`;
   if(!me)return; const a=S[me];
   $$('.card').forEach(c=>c.classList.toggle('done',!!a[c.dataset.id]));
   const ids=Object.keys(D.m), lec=ids.filter(i=>D.m[i].s==='sent');
@@ -143,6 +165,7 @@ function open(id){{
   $('#sheet').classList.add('open');
 }}
 $$('.card').forEach(c=>c.onclick=()=>open(c.dataset.id));
+paint();
 $('#x').onclick=()=>{{$('#sheet').classList.remove('open');cur=null;$$('.card').forEach(c=>c.classList.remove('sel'));$$('path').forEach(p=>p.classList.remove('hl'))}};
 $('#sc2').onclick=async()=>{{
   if(!me||!cur)return; const ref=doc(db,'listen',me), on=!S[me][cur];
@@ -151,7 +174,7 @@ $('#sc2').onclick=async()=>{{
   catch(e){{$('#err').textContent='저장 실패: '+e.code}}
 }};
 // 첫 화면은 가장 최근 연도로
-addEventListener('load',()=>{{const s=$('#sc');s.scrollLeft=s.scrollWidth}});
+addEventListener('load',()=>{{const v=[...document.querySelectorAll('.yr')].filter(e=>e.style.display!=='none').pop();if(v)$('#sc').scrollLeft=v.offsetLeft-200}});
 </script>
 </body></html>"""
 

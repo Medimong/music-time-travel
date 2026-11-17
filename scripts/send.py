@@ -131,6 +131,13 @@ def main():
             print("test sent", w, f, len(body.encode()) // 1024, "KB")
         return
 
+    # Gmail 예약 발송으로 이미 처리된 회차도 날짜가 되면 연표에 반영
+    sent_nodes = {n["id"] for n in load("data/chronology.json")["nodes"] if n["status"] == "sent"}
+    for f in due:
+        q = load("queue/" + f)
+        if f not in pending and any(a["id"] not in sent_nodes for a in q["albums"]):
+            promote(q); commit(f"chronology: {q['part']}")
+
     if not pending:
         print("보낼 회차 없음")
         k = f"empty|{target}"
