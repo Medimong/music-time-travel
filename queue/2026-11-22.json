@@ -1,0 +1,37 @@
+{
+ "date": "2026-11-22", "part": "1975-P3", "year": 1975, "partNo": 3, "partTotal": 3, "total": "약 124분",
+ "title": "시인의 펑크, 여섯 분짜리 오페라, 우주선을 타고 온 펑크(Funk)",
+ "intro": "1975년 10월, 연방 정부에 구제를 요청한 뉴욕시에 포드 대통령이 사실상 거절 의사를 밝히자 한 신문은 ‘포드가 뉴욕에게: 죽어라’라는 제목을 달았다. 쓰레기가 쌓이고 임대료가 싸진 맨해튼 남쪽 바워리 거리의 작은 클럽 CBGB에서는 시인과 미술학도, 동네 청년들이 서툴지만 날 선 록을 연주하고 있었다. 같은 해 말 영국의 퀸은 녹음실 기술을 끝까지 밀어붙인 화려한 음반을 냈고, 조지 클린턴의 팔리아먼트는 흑인들이 우주선을 타고 내려오는 공상과학 쇼를 펼쳤다. 한쪽은 록을 맨몸으로 되돌리고, 한쪽은 할 수 있는 모든 장치를 동원하고, 또 한쪽은 아예 다른 우주를 상상한다. 1975년의 마지막 두 달에 나온 이 세 음반은 1970년대 후반 대중음악이 갈라질 세 방향을 미리 보여 준다.",
+ "lanes": ["펑크(Punk)"],
+ "albums": [
+  {"id": "horses", "artist": "Patti Smith", "title": "Horses", "short": "Horses", "released": "1975년 11월", "genre": "프로토펑크 · 아트 록", "blurb": "시 낭송과 거친 록을 하나로 엮은, 뉴욕 CBGB 무대에서 나온 첫 메이저 음반.", "length": "8곡 · 43분", "spotify": "https://open.spotify.com/album/3EB1sESQb1FRIAGEaHyb8R", "apple": "https://music.apple.com/kr/album/1038568061", "lane": "펑크(Punk)"},
+  {"id": "night-opera", "artist": "Queen", "title": "A Night at the Opera", "short": "A Night at the Opera", "released": "1975년 11월", "genre": "록 · 팝", "blurb": "다중 녹음으로 합창단과 오케스트라를 흉내 낸, 〈Bohemian Rhapsody〉가 실린 퀸의 대표작.", "length": "12곡 · 43분", "spotify": "https://open.spotify.com/album/7HVoV2lgVsmuiHsjbbUJB4", "apple": "https://music.apple.com/kr/album/6781023399", "lane": "팝과 녹음"},
+  {"id": "mothership", "artist": "Parliament", "title": "Mothership Connection", "short": "Mothership Connection", "released": "1975년 12월", "genre": "펑크(Funk)", "blurb": "흑인이 우주선을 타고 내려온다는 공상과학 이야기로 펑크를 쇼로 만든 P-펑크의 정점.", "length": "7곡 · 38분", "spotify": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2", "apple": "https://music.apple.com/kr/album/1440837684", "lane": "소울과 펑크"}
+ ],
+ "essays": [
+  {"id": "horses", "heading": "시를 읽던 목소리가 록을 만났을 때", "paras": [
+   "음반은 패티 스미스가 ‘예수는 누군가의 죄 때문에 죽었지만 내 죄 때문은 아니다’라고 읊조리는 말로 열린다. 이어 피아노와 기타가 들어오며 곡은 1960년대 개러지 록 밴드 뎀의 〈Gloria〉로 바뀐다. 세 개의 코드만 반복되는 단순한 곡 위에서 스미스는 노래와 낭독 사이를 오가며 점점 목소리를 높이고, 이야기는 한 여자를 유혹하는 장면으로 흘러간다. 〈Birdland〉와 〈Land〉는 9분 넘게 이어지는데, 밴드가 몇 개 코드를 되풀이하는 동안 스미스는 즉흥시처럼 이미지를 쏟아 낸다. 정해진 곡을 부르는 가수라기보다 반주 위에서 시를 실시간으로 쓰는 시인처럼 들린다.",
+   "스미스는 원래 뉴욕 시 낭송 무대에서 활동하던 시인이었다. 기타리스트 레니 케이와 낭송에 기타를 곁들이며 시작한 공연이 밴드가 됐고, 1975년에는 CBGB에서 밴드 텔레비전과 함께 장기 공연을 하며 주목받았다. 제작은 벨벳 언더그라운드의 존 케일이 맡았다. 표지 사진은 친구 로버트 메이플소프가 찍었는데, 흰 셔츠에 재킷을 어깨에 건 스미스의 중성적인 모습은 당시 여성 가수에게 기대되던 이미지와 정반대였다.",
+   "《Horses》는 CBGB 무대에서 나온 첫 메이저 음반사 데뷔작으로 꼽히고, 이듬해 라몬즈와 함께 펑크(Punk)가 시작되는 문을 열었다. 1967년 벨벳 언더그라운드의 음반과 이어 들으면, 뉴욕의 거리와 예술가들이 만든 록이 어떻게 한 세대를 건너 이어졌는지 알 수 있다."]},
+  {"id": "night-opera", "heading": "녹음실에서 만든 오페라", "paras": [
+   "〈Bohemian Rhapsody〉는 6분 동안 후렴 없이 전혀 다른 장면들을 이어 붙인다. 무반주 합창으로 시작해 프레디 머큐리의 피아노 발라드가 되고, 브라이언 메이의 기타 독주를 지나 오페라를 흉내 낸 장면이 나온다. 이 부분의 수많은 목소리는 멤버 세 명이 같은 소절을 몇 번이고 겹쳐 녹음해 합창단처럼 만든 것이다. 그 뒤 곡은 갑자기 하드록으로 폭발했다가 조용한 피아노로 끝난다. 메이는 직접 만든 기타로 여러 대의 기타 선율을 겹쳐 오케스트라 같은 화음을 만들었고, 〈Love of My Life〉에서는 하프까지 연주했다.",
+   "음반 제목은 마르크스 형제의 코미디 영화에서 따왔다. 당시 퀸은 히트곡이 있었지만 불리한 계약 탓에 돈이 없었고, 첫 곡 〈Death on Two Legs〉는 전 매니저를 겨냥한 곡으로 알려져 있다. 음반사는 6분짜리 〈Bohemian Rhapsody〉가 라디오에서 틀기에 너무 길다고 걱정했지만, 런던의 한 DJ가 반복해서 틀며 화제가 됐다. 밴드는 텔레비전 출연 대신 짧은 홍보 영상을 찍어 보냈고, 곡은 영국 싱글 차트 1위에 9주 동안 머물렀다.",
+   "이 영상은 1980년대 뮤직비디오 시대를 앞당긴 사례로 꼽힌다. 1967년 비틀스의 《Sgt. Pepper's》가 녹음실을 무대로 삼은 첫걸음이었다면, 이 음반은 그 생각을 가장 화려하게 밀어붙인 경우다."]},
+  {"id": "mothership", "heading": "우주선을 타고 내려온 펑크", "paras": [
+   "첫 곡은 가상의 라디오 방송국 ‘WEFUNK’의 진행자가 지구인들에게 인사하는 장면으로 시작한다. 그 아래에서 부치 콜린스의 베이스가 고무줄처럼 튀고, 버니 워렐의 신시사이저가 베이스 선율과 우주선 효과음을 오간다. 관악기는 제임스 브라운 밴드 출신의 프레드 웨슬리와 메이시오 파커가 맡았다. 펑크의 핵심은 마디의 첫 박, 이른바 ‘원(The One)’에 모두가 힘을 모으고 나머지 박에서는 각자 짧은 리듬을 엇갈리게 넣는 것인데, 〈Give Up the Funk (Tear the Roof off the Sucker)〉에서 ‘We want the funk’를 외치는 합창이 그 원 위에 정확히 내려앉는다.",
+   "조지 클린턴은 같은 연주자 집단으로 두 개의 밴드를 운영했다. 기타 중심의 거친 쪽이 펑커델릭, 관악기와 노래 중심의 쇼 밴드가 팔리아먼트다. 이 음반에서 그는 흑인들이 거대한 모선(Mothership)을 타고 지구에 펑크를 전하러 온다는 이야기를 만들었다. 우주 개발의 시대에도 공상과학 속 미래에는 흑인이 거의 등장하지 않았는데, 클린턴은 그 미래를 농담과 의상과 리듬으로 차지해 버렸다. 이듬해 투어에서는 실제로 거대한 우주선 모형이 무대에 내려앉았다. 훗날 이런 상상을 아프로퓨처리즘(Afrofuturism)이라고 부르게 된다.",
+   "1990년대 웨스트코스트 힙합의 지펑크(G-Funk)는 이 음반과 P-펑크의 소리를 샘플로 가져와 다시 짰다. 1971년 펑커델릭의 《Maggot Brain》, 1970년 제임스 브라운의 《Sex Machine》과 나란히 들으면 같은 연주자들이 어떻게 이어지는지 들린다."]}
+ ],
+ "readings": [
+  {"title": "Horses (album) · Wikipedia", "url": "https://en.wikipedia.org/wiki/Horses_(album)"},
+  {"title": "A Night at the Opera (Queen album) · Wikipedia", "url": "https://en.wikipedia.org/wiki/A_Night_at_the_Opera_(Queen_album)"},
+  {"title": "Mothership Connection · Wikipedia", "url": "https://en.wikipedia.org/wiki/Mothership_Connection"},
+  {"title": "CBGB · Wikipedia", "url": "https://en.wikipedia.org/wiki/CBGB"}
+ ],
+ "edges": [
+  {"from": "velvet-nico", "to": "horses", "type": "document", "label": "벨벳 언더그라운드의 존 케일이 제작", "source": "https://en.wikipedia.org/wiki/Horses_(album)"},
+  {"from": "sgt-pepper", "to": "night-opera", "type": "listen", "label": "녹음실을 무대로 삼는 생각이 가장 화려해졌을 때"},
+  {"from": "maggot", "to": "mothership", "type": "listen", "label": "같은 조지 클린턴 집단의 다른 이름, 기타 대신 관악기와 신시사이저"},
+  {"from": "sex-machine", "to": "mothership", "type": "listen", "label": "제임스 브라운 밴드 출신 연주자들이 이어 간 ‘원’의 그루브"}
+ ]
+}

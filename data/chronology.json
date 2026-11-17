@@ -1,0 +1,2078 @@
+{
+ "schema": 1,
+ "updated": "2026-11-17",
+ "lanes": [
+  "재즈와 즉흥",
+  "소울과 펑크",
+  "팝과 녹음",
+  "목소리와 이야기",
+  "기타와 록",
+  "브라질 음악",
+  "아프로비트"
+ ],
+ "nodes": [
+  {
+   "year": 1965,
+   "title": "A Love Supreme",
+   "artist": "John Coltrane",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/5mHaZSJyH9DJcOlq1HVsjh",
+    "label": "1–4곡 · 약 33분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/a-love-supreme/1440713018",
+    "label": "4곡 · 약 33분"
+   },
+   "id": "love-supreme",
+   "lane": 0,
+   "short": "A Love Supreme"
+  },
+  {
+   "year": 1965,
+   "title": "Highway 61 Revisited",
+   "artist": "Bob Dylan",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD",
+    "label": "9곡 · 약 51분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/highway-61-revisited/201281514",
+    "label": "9곡 · 약 51분"
+   },
+   "id": "highway61",
+   "lane": 3,
+   "short": "Highway 61 Revisited"
+  },
+  {
+   "year": 1965,
+   "title": "Otis Blue",
+   "artist": "Otis Redding",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz",
+    "label": "1–11곡 · 약 34분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/otis-blue-mono/922351495",
+    "label": "11곡 · 약 32분"
+   },
+   "id": "otis-blue",
+   "lane": 1,
+   "short": "Otis Blue"
+  },
+  {
+   "year": 1965,
+   "title": "Rubber Soul",
+   "artist": "The Beatles",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/3OdI6e43crvyAHhaqpxSyz",
+    "label": "14곡 · 약 35분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/rubber-soul/1441164359",
+    "label": "1–14곡 · 약 35분"
+   },
+   "id": "rubber-soul",
+   "lane": 2,
+   "short": "Rubber Soul"
+  },
+  {
+   "year": 1966,
+   "title": "Pet Sounds",
+   "artist": "The Beach Boys",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/0BBduHWw9CbB5dctxFp48f",
+    "label": "모노 원앨범 13곡 · 약 36분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/pet-sounds/1440841241",
+    "label": "원앨범 13곡 · 약 37분"
+   },
+   "id": "pet-sounds",
+   "lane": 2,
+   "short": "Pet Sounds"
+  },
+  {
+   "year": 1966,
+   "title": "Revolver",
+   "artist": "The Beatles",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/0PYyrqs9NXtxPhf0CZkq2L",
+    "label": "영국 원앨범 14곡 · 약 35분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/revolver-remastered/6818124164",
+    "label": "영국 원앨범 14곡 · 약 35분"
+   },
+   "id": "revolver",
+   "lane": 2,
+   "short": "Revolver"
+  },
+  {
+   "year": 1966,
+   "title": "Wild Is the Wind",
+   "artist": "Nina Simone",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr",
+    "label": "11곡 · 약 39분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/wild-is-the-wind/1469552026",
+    "label": "11곡 · 약 39분"
+   },
+   "id": "wild-wind",
+   "lane": 1,
+   "short": "Wild Is the Wind"
+  },
+  {
+   "year": 1967,
+   "title": "The Velvet Underground & Nico",
+   "artist": "The Velvet Underground & Nico",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/3uBzdduNvhZqb0gLve9cmT",
+    "label": "원앨범 11곡 · 48분 56초"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/the-velvet-underground-nico-45th-anniversary-deluxe/1444213891",
+    "label": "원앨범 첫 11곡"
+   },
+   "id": "velvet-nico",
+   "lane": 4,
+   "short": "The Velvet Underground & Nico"
+  },
+  {
+   "year": 1967,
+   "title": "I Never Loved a Man the Way I Love You",
+   "artist": "Aretha Franklin",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V",
+    "label": "원앨범 1–11곡 · 약 32분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/i-never-loved-a-man-the-way-i-love-you/937107826",
+    "label": "원앨범 11곡 · 32분"
+   },
+   "id": "aretha1967",
+   "lane": 1,
+   "short": "I Never Loved a Man…"
+  },
+  {
+   "year": 1967,
+   "title": "Are You Experienced",
+   "artist": "The Jimi Hendrix Experience",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/0nEQophafuoWyzQ00Ze31L",
+    "label": "영국 원앨범 1–11곡 · 약 40분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/de/album/are-you-experienced/357864586",
+    "label": "영국 원앨범 11곡은 곡명·순서 기준"
+   },
+   "id": "experienced",
+   "lane": 4,
+   "short": "Are You Experienced"
+  },
+  {
+   "year": 1968,
+   "title": "Odessey and Oracle",
+   "artist": "The Zombies",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/1Rad3I77vbl5L65DjbSIzJ",
+    "label": "원앨범 모노 12곡 · 약 35분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/odessey-and-oracle-mono-remastered/1810776077",
+    "label": "모노 리마스터 원앨범 12곡 · 34분"
+   },
+   "id": "odessey",
+   "lane": 2,
+   "short": "Odessey and Oracle"
+  },
+  {
+   "year": 1968,
+   "title": "Tropicália ou Panis et Circencis",
+   "artist": "Various Artists",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/0samM57T0WsA9JhEmWkKEM",
+    "label": "원앨범 12곡 · 38분 45초"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/tropic%C3%A1lia-ou-panis-et-circensis/1549688567",
+    "label": "원앨범 12곡 · 38분"
+   },
+   "id": "tropicalia",
+   "lane": 5,
+   "short": "Tropicália"
+  },
+  {
+   "year": 1968,
+   "title": "Astral Weeks",
+   "artist": "Van Morrison",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz",
+    "label": "원앨범 8곡 · 약 46분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/astral-weeks/1031002336",
+    "label": "원앨범 8곡 · 46분"
+   },
+   "id": "astral-weeks",
+   "lane": 3,
+   "short": "Astral Weeks"
+  },
+  {
+   "year": 1969,
+   "title": "Stand!",
+   "artist": "Sly & the Family Stone",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/search/Sly%20and%20the%20Family%20Stone%20Stand",
+    "label": "검색 · 원앨범 8곡 · 약 41분 38초"
+   },
+   "apple": {
+    "url": "https://music.apple.com/kr/search?term=Sly%20and%20the%20Family%20Stone%20Stand",
+    "label": "검색 · 원앨범 8곡 · 약 41분 38초"
+   },
+   "id": "stand",
+   "lane": 1,
+   "short": "Stand!"
+  },
+  {
+   "year": 1969,
+   "title": "In a Silent Way",
+   "artist": "Miles Davis",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/4XYrpGJarC5eu1oChE2QHM",
+    "label": "원앨범 2곡 · 약 38분 7초"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/in-a-silent-way/193603857",
+    "label": "원앨범 2곡 · 약 38분"
+   },
+   "id": "silent-way",
+   "lane": 0,
+   "short": "In a Silent Way"
+  },
+  {
+   "year": 1969,
+   "title": "In the Court of the Crimson King",
+   "artist": "King Crimson",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/1Lzi2p6CUH156zbJTcOjNX",
+    "label": "원앨범 5곡 · 약 43분 51초"
+   },
+   "apple": {
+    "url": "https://music.apple.com/kr/search?term=King%20Crimson%20In%20the%20Court%20of%20the%20Crimson%20King",
+    "label": "검색 · 영국 원앨범 5곡 · 약 44분"
+   },
+   "id": "crimson",
+   "lane": 4,
+   "short": "In the Court of the Crimson King"
+  },
+  {
+   "year": 1970,
+   "title": "Bridge over Troubled Water",
+   "artist": "Simon & Garfunkel",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV",
+    "label": "원앨범 1–11"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/bridge-over-troubled-water/324127933",
+    "label": "원앨범 1–11"
+   },
+   "id": "bridge",
+   "lane": 3,
+   "short": "Bridge over Troubled Water"
+  },
+  {
+   "year": 1970,
+   "title": "Curtis",
+   "artist": "Curtis Mayfield",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/3tgJmEz0R0ZsRSrpwafp4R",
+    "label": "Expanded Edition의 1–8"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/curtis-expanded-edition/29168201",
+    "label": "Expanded Edition의 1–8"
+   },
+   "id": "curtis",
+   "lane": 1,
+   "short": "Curtis"
+  },
+  {
+   "year": 1970,
+   "title": "Paranoid",
+   "artist": "Black Sabbath",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/4kA2o0L3tz9vFKJetiFUJI",
+    "label": "2009 Remaster의 1–8"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/paranoid/785232473",
+    "label": "원앨범 1–8"
+   },
+   "id": "paranoid",
+   "lane": 4,
+   "short": "Paranoid"
+  },
+  {
+   "year": 1971,
+   "title": "Histoire de Melody Nelson",
+   "artist": "Serge Gainsbourg",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/66Y8VrfvHnwJSk2ahGOr32",
+    "label": "열기"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/histoire-de-melody-nelson/1443118514",
+    "label": "열기"
+   },
+   "id": "melody-nelson",
+   "lane": 3,
+   "short": "Histoire de Melody Nelson"
+  },
+  {
+   "year": 1971,
+   "title": "What's Going On",
+   "artist": "Marvin Gaye",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/3XuNIQWd0C0dc1fkoTsJSi",
+    "label": "열기"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/whats-going-on/1538081586",
+    "label": "열기"
+   },
+   "id": "whats-going-on",
+   "lane": 1,
+   "short": "What's Going On"
+  },
+  {
+   "year": 1971,
+   "title": "Blue",
+   "artist": "Joni Mitchell",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/1vz94WpXDVYIEGja8cjFNa",
+    "label": "열기"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/blue/1492263092",
+    "label": "열기"
+   },
+   "id": "blue",
+   "lane": 3,
+   "short": "Blue"
+  },
+  {
+   "year": 1971,
+   "title": "Led Zeppelin IV",
+   "artist": "Led Zeppelin",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/4Ib1gx1Yb4kvmcc7eZH0Mi",
+    "label": "열기"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/led-zeppelin-iv-remastered/580708175",
+    "label": "열기"
+   },
+   "id": "led-zep4",
+   "lane": 4,
+   "short": "Led Zeppelin IV"
+  },
+  {
+   "year": 1972,
+   "title": "Clube da Esquina",
+   "artist": "Milton Nascimento & Lô Borges",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/0nSO875vzrNiNNaVcz5G0P",
+    "label": "열기"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/clube-da-esquina/1473446573",
+    "label": "열기"
+   },
+   "id": "clube",
+   "lane": 5,
+   "short": "Clube da Esquina"
+  },
+  {
+   "year": 1972,
+   "title": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+   "artist": "David Bowie",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56",
+    "label": "열기"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/the-rise-and-fall-of-ziggy-stardust-and-the/1039796877",
+    "label": "열기"
+   },
+   "id": "ziggy",
+   "lane": 3,
+   "short": "Ziggy Stardust"
+  },
+  {
+   "year": 1972,
+   "title": "Talking Book",
+   "artist": "Stevie Wonder",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw",
+    "label": "열기"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/talking-book/1440808973",
+    "label": "열기"
+   },
+   "id": "talking-book",
+   "lane": 1,
+   "short": "Talking Book"
+  },
+  {
+   "id": "pink-moon",
+   "year": 1972,
+   "lane": 3,
+   "title": "Pink Moon",
+   "artist": "Nick Drake",
+   "spotify": {
+    "url": "https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg",
+    "label": "11곡"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/pink-moon/1567147188",
+    "label": "11곡"
+   },
+   "status": "sent",
+   "short": "Pink Moon"
+  },
+  {
+   "id": "exile",
+   "year": 1972,
+   "lane": 4,
+   "title": "Exile on Main St.",
+   "artist": "The Rolling Stones",
+   "spotify": {
+    "url": "https://open.spotify.com/album/0xO9kRgdKZ3wzqrzJhM3sE",
+    "label": "18곡"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/exile-on-main-street-2010-remaster/1440872228",
+    "label": "18곡"
+   },
+   "status": "sent",
+   "short": "Exile on Main St."
+  },
+  {
+   "id": "still-love",
+   "year": 1972,
+   "lane": 1,
+   "title": "I’m Still in Love with You",
+   "artist": "Al Green",
+   "spotify": {
+    "url": "https://open.spotify.com/album/7hI0QCwcx9GB8MZK24IfTT",
+    "label": "9곡"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/im-still-in-love-with-you/1133378411",
+    "label": "9곡"
+   },
+   "status": "sent",
+   "short": "I’m Still in Love with You"
+  },
+  {
+   "year": 1965,
+   "id": "bringing-home",
+   "title": "Bringing It All Back Home",
+   "artist": "Bob Dylan",
+   "lane": 3,
+   "summary": "전기 밴드와 어쿠스틱 독창을 나란히 두고, 긴 노랫말의 리듬을 바꾸어 듣는다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/Bob%20Dylan%20Bringing%20It%20All%20Back%20Home",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/bringing-it-all-back-home/177964575",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/bringing-it-all-back-home/177964575",
+   "short": "Bringing It All Back Home"
+  },
+  {
+   "year": 1965,
+   "id": "tambourine",
+   "title": "Mr. Tambourine Man",
+   "artist": "The Byrds",
+   "lane": 3,
+   "summary": "맑게 울리는 전기기타와 여러 목소리의 화음으로 포크 노래를 밴드 음악으로 넓힌다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/The%20Byrds%20Mr.%20Tambourine%20Man",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/mr-tambourine-man-reissue-edition-with-bonus-tracks/153421296",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/mr-tambourine-man-reissue-edition-with-bonus-tracks/153421296",
+   "short": "Mr. Tambourine Man"
+  },
+  {
+   "year": 1965,
+   "id": "my-generation",
+   "title": "My Generation",
+   "artist": "The Who",
+   "lane": 4,
+   "summary": "목소리와 기타뿐 아니라 베이스와 드럼도 앞에 나서는 거친 합주다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/The%20Who%20My%20Generation",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/my-generation-deluxe-edition/1444150535",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/my-generation-deluxe-edition/1444150535",
+   "short": "My Generation"
+  },
+  {
+   "year": 1965,
+   "id": "sonics",
+   "title": "Here Are the Sonics",
+   "artist": "The Sonics",
+   "lane": 4,
+   "summary": "거친 가창과 기타, 색소폰이 짧은 곡을 거침없이 밀어붙인다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/The%20Sonics%20Here%20Are%20the%20Sonics",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/here-are-the-sonics/626208502",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/here-are-the-sonics/626208502",
+   "short": "Here Are the Sonics"
+  },
+  {
+   "year": 1965,
+   "id": "today",
+   "title": "The Beach Boys Today!",
+   "artist": "The Beach Boys",
+   "lane": 2,
+   "summary": "겹겹의 보컬 화음과 섬세한 반주에서 《Pet Sounds》와 비교할 소리를 찾는다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/The%20Beach%20Boys%20The%20Beach%20Boys%20Today%21",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/the-beach-boys-today/1443096398",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/the-beach-boys-today/1443096398",
+   "short": "The Beach Boys Today!"
+  },
+  {
+   "year": 1966,
+   "id": "blonde",
+   "title": "Blonde on Blonde",
+   "artist": "Bob Dylan",
+   "lane": 3,
+   "summary": "기타와 건반이 뒤섞인 밴드 위로 긴 문장과 장면이 이어진다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/Bob%20Dylan%20Blonde%20on%20Blonde",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/blonde-on-blonde/178049863",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/blonde-on-blonde/178049863",
+   "short": "Blonde on Blonde"
+  },
+  {
+   "year": 1966,
+   "id": "face",
+   "title": "Face to Face",
+   "artist": "The Kinks",
+   "lane": 2,
+   "summary": "짧은 팝송마다 서로 다른 인물의 생활과 말투를 그린다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/The%20Kinks%20Face%20to%20Face",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/face-to-face/1439223710",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/face-to-face/1439223710",
+   "short": "Face to Face"
+  },
+  {
+   "year": 1966,
+   "id": "elevators",
+   "title": "The Psychedelic Sounds of the 13th Floor Elevators",
+   "artist": "13th Floor Elevators",
+   "lane": 4,
+   "summary": "반복되는 기타와 낯선 울림이 어우러진 초기 사이키델릭 록이다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/13th%20Floor%20Elevators%20The%20Psychedelic%20Sounds%20of%20the%2013th%20Floor%20Elevators",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/the-psychedelic-sounds-of-the-13th-floor-elevators/558685692",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/the-psychedelic-sounds-of-the-13th-floor-elevators/558685692",
+   "short": "The Psychedelic Sounds…"
+  },
+  {
+   "year": 1966,
+   "id": "parsley",
+   "title": "Parsley, Sage, Rosemary and Thyme",
+   "artist": "Simon & Garfunkel",
+   "lane": 3,
+   "summary": "어쿠스틱 기타와 두 목소리의 화음, 세심한 녹음의 결을 함께 듣는다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/Simon%20%26%20Garfunkel%20Parsley%2C%20Sage%2C%20Rosemary%20and%20Thyme",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/parsley-sage-rosemary-and-thyme/1467438660",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/parsley-sage-rosemary-and-thyme/1467438660",
+   "short": "Parsley, Sage, Rosemary and Thyme"
+  },
+  {
+   "year": 1966,
+   "id": "freak-out",
+   "title": "Freak Out!",
+   "artist": "The Mothers of Invention",
+   "lane": 4,
+   "summary": "팝송과 풍자, 소음과 긴 실험적 연주를 한 음반 안에 나란히 놓는다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/The%20Mothers%20of%20Invention%20Freak%20Out%21",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/freak-out/1440928854",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/freak-out/1440928854",
+   "short": "Freak Out!"
+  },
+  {
+   "year": 1967,
+   "id": "sgt-pepper",
+   "title": "Sgt. Pepper’s Lonely Hearts Club Band",
+   "artist": "The Beatles",
+   "lane": 2,
+   "summary": "가상의 공연을 둘러싼 노래들에 여러 악기와 녹음 기법이 들어온다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/The%20Beatles%20Sgt.%20Pepper%E2%80%99s%20Lonely%20Hearts%20Club%20Band",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/sgt-peppers-lonely-hearts-club-band/1441164604",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/sgt-peppers-lonely-hearts-club-band/1441164604",
+   "short": "Sgt. Pepper’s Lonely Hearts Club Band"
+  },
+  {
+   "year": 1967,
+   "id": "forever",
+   "title": "Forever Changes",
+   "artist": "Love",
+   "lane": 2,
+   "summary": "어쿠스틱 기타와 관현악의 맑은 소리 사이에 불안한 노랫말이 스민다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/Love%20Forever%20Changes",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/forever-changes-remastered/1125521386",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/forever-changes-remastered/1125521386",
+   "short": "Forever Changes"
+  },
+  {
+   "year": 1967,
+   "id": "doors",
+   "title": "The Doors",
+   "artist": "The Doors",
+   "lane": 4,
+   "summary": "오르간과 기타의 반복 위에서 노래가 긴 연주로 뻗어나간다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/The%20Doors%20The%20Doors",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/the-doors/1622368510",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/the-doors/1622368510",
+   "short": "The Doors"
+  },
+  {
+   "year": 1967,
+   "id": "piper",
+   "title": "The Piper at the Gates of Dawn",
+   "artist": "Pink Floyd",
+   "lane": 4,
+   "summary": "짧고 기묘한 팝송과 공간감 있는 기악 연주를 오간다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/Pink%20Floyd%20The%20Piper%20at%20the%20Gates%20of%20Dawn",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/the-piper-at-the-gates-of-dawn/1065975041",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/the-piper-at-the-gates-of-dawn/1065975041",
+   "short": "The Piper at the Gates of Dawn"
+  },
+  {
+   "year": 1967,
+   "id": "surrealistic",
+   "title": "Surrealistic Pillow",
+   "artist": "Jefferson Airplane",
+   "lane": 4,
+   "summary": "포크의 화음과 전기기타, 서로 다른 보컬의 목소리가 만난다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/Jefferson%20Airplane%20Surrealistic%20Pillow",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/surrealistic-pillow-2003-bonus-track-edition/281811707",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/surrealistic-pillow-2003-bonus-track-edition/281811707",
+   "short": "Surrealistic Pillow"
+  },
+  {
+   "year": 1967,
+   "id": "disraeli",
+   "title": "Disraeli Gears",
+   "artist": "Cream",
+   "lane": 4,
+   "summary": "블루스의 짧은 음형을 기타·베이스·드럼의 굵은 합주로 밀어붙인다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/Cream%20Disraeli%20Gears",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/disraeli-gears/1440817229",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/disraeli-gears/1440817229",
+   "short": "Disraeli Gears"
+  },
+  {
+   "year": 1967,
+   "id": "cohen",
+   "title": "Songs of Leonard Cohen",
+   "artist": "Leonard Cohen",
+   "lane": 3,
+   "summary": "말에 가까운 낮은 가창과 단출한 반주로 인물과 장면을 오래 바라본다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/Leonard%20Cohen%20Songs%20of%20Leonard%20Cohen",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/songs-of-leonard-cohen/1826864082",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/songs-of-leonard-cohen/1826864082",
+   "short": "Songs of Leonard Cohen"
+  },
+  {
+   "year": 1968,
+   "id": "white-album",
+   "title": "The Beatles",
+   "artist": "The Beatles",
+   "lane": 2,
+   "summary": "서로 다른 작곡가의 말투와 편성이 넓게 펼쳐지는 더블 음반이다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/The%20Beatles%20The%20Beatles",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/the-beatles-the-white-album/1441133180",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/the-beatles-the-white-album/1441133180",
+   "short": "The Beatles (White Album)"
+  },
+  {
+   "year": 1968,
+   "id": "electric-ladyland",
+   "title": "Electric Ladyland",
+   "artist": "The Jimi Hendrix Experience",
+   "lane": 4,
+   "summary": "긴 기타 연주와 스튜디오에서 만든 공간감, 여러 겹의 소리를 함께 듣는다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/The%20Jimi%20Hendrix%20Experience%20Electric%20Ladyland",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/electric-ladyland/357652252",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/electric-ladyland/357652252",
+   "short": "Electric Ladyland"
+  },
+  {
+   "year": 1968,
+   "id": "big-pink",
+   "title": "Music from Big Pink",
+   "artist": "The Band",
+   "lane": 3,
+   "summary": "피아노와 오르간, 여러 목소리가 컨트리와 소울의 어법을 함께 품는다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/The%20Band%20Music%20from%20Big%20Pink",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/music-from-big-pink-remastered-2000/1440814725",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/music-from-big-pink-remastered-2000/1440814725",
+   "short": "Music from Big Pink"
+  },
+  {
+   "year": 1968,
+   "id": "village",
+   "title": "The Kinks Are the Village Green Preservation Society",
+   "artist": "The Kinks",
+   "lane": 2,
+   "summary": "사라지는 장소와 작은 인물들의 이야기를 짧은 노래들로 이어간다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/The%20Kinks%20The%20Kinks%20Are%20the%20Village%20Green%20Preservation%20Society",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/the-kinks-are-the-village-green-preservation/1415003287",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/the-kinks-are-the-village-green-preservation/1415003287",
+   "short": "Village Green Preservation Society"
+  },
+  {
+   "year": 1968,
+   "id": "beggars",
+   "title": "Beggars Banquet",
+   "artist": "The Rolling Stones",
+   "lane": 4,
+   "summary": "어쿠스틱 기타의 질감과 블루스, 컨트리의 리듬을 밴드의 소리로 엮는다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/The%20Rolling%20Stones%20Beggars%20Banquet",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/beggars-banquet-2018-remaster/1500643395",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/beggars-banquet-2018-remaster/1500643395",
+   "short": "Beggars Banquet"
+  },
+  {
+   "year": 1968,
+   "id": "white-light",
+   "title": "White Light/White Heat",
+   "artist": "The Velvet Underground",
+   "lane": 4,
+   "summary": "반복되는 음형과 거친 녹음, 길게 밀고 나가는 연주를 들려준다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/The%20Velvet%20Underground%20White%20Light%2FWhite%20Heat",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/white-light-white-heat-deluxe-edition/1469584557",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/white-light-white-heat-deluxe-edition/1469584557",
+   "short": "White Light/White Heat"
+  },
+  {
+   "year": 1969,
+   "id": "abbey",
+   "title": "Abbey Road",
+   "artist": "The Beatles",
+   "lane": 2,
+   "summary": "정교한 화음과 짧은 곡들이 이어지는 긴 흐름을 함께 듣는다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/The%20Beatles%20Abbey%20Road",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/abbey-road-2019-mix/1474815798",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/abbey-road-2019-mix/1474815798",
+   "short": "Abbey Road"
+  },
+  {
+   "year": 1969,
+   "id": "let-bleed",
+   "title": "Let It Bleed",
+   "artist": "The Rolling Stones",
+   "lane": 4,
+   "summary": "블루스와 컨트리, 합창이 한 밴드 안에서 부딪치고 어우러진다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/The%20Rolling%20Stones%20Let%20It%20Bleed",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/let-it-bleed-remastered-2019/1500642838",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/let-it-bleed-remastered-2019/1500642838",
+   "short": "Let It Bleed"
+  },
+  {
+   "year": 1969,
+   "id": "stooges",
+   "title": "The Stooges",
+   "artist": "The Stooges",
+   "lane": 4,
+   "summary": "적은 음과 단순한 반복, 거친 가창으로 긴장을 만든다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/The%20Stooges%20The%20Stooges",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/the-stooges/393789238",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/the-stooges/393789238",
+   "short": "The Stooges"
+  },
+  {
+   "year": 1969,
+   "id": "santana",
+   "title": "Santana",
+   "artist": "Santana",
+   "lane": 4,
+   "summary": "전기기타와 오르간 주위로 여러 타악기의 리듬이 겹친다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/Santana%20Santana",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/santana/871131767",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/santana/871131767",
+   "short": "Santana"
+  },
+  {
+   "year": 1969,
+   "id": "led-zep2",
+   "title": "Led Zeppelin II",
+   "artist": "Led Zeppelin",
+   "lane": 4,
+   "summary": "굵은 기타 리프와 베이스·드럼의 움직임으로 곡의 무게를 만든다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/Led%20Zeppelin%20Led%20Zeppelin%20II",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/led-zeppelin-ii-remastered/580708374",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/led-zeppelin-ii-remastered/580708374",
+   "short": "Led Zeppelin II"
+  },
+  {
+   "year": 1969,
+   "id": "mc5",
+   "title": "Kick Out the Jams",
+   "artist": "MC5",
+   "lane": 4,
+   "summary": "라이브의 함성과 거친 기타, 밴드가 한꺼번에 몰아치는 힘을 듣는다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/MC5%20Kick%20Out%20the%20Jams",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/kick-out-the-jams/1018383064",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/kick-out-the-jams/1018383064",
+   "short": "Kick Out the Jams"
+  },
+  {
+   "year": 1969,
+   "id": "tommy",
+   "title": "Tommy",
+   "artist": "The Who",
+   "lane": 4,
+   "summary": "한 인물의 이야기를 여러 곡과 되돌아오는 선율로 이어간다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/The%20Who%20Tommy",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/tommy/1461210985",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/tommy/1461210985",
+   "short": "Tommy"
+  },
+  {
+   "year": 1970,
+   "id": "gold-rush",
+   "title": "After the Gold Rush",
+   "artist": "Neil Young",
+   "lane": 3,
+   "summary": "가까운 목소리와 피아노, 어쿠스틱 기타와 전기기타를 오간다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/Neil%20Young%20After%20the%20Gold%20Rush",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/after-the-gold-rush/1015783330",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/after-the-gold-rush/1015783330",
+   "short": "After the Gold Rush"
+  },
+  {
+   "year": 1970,
+   "id": "bitches",
+   "title": "Bitches Brew",
+   "artist": "Miles Davis",
+   "lane": 0,
+   "summary": "여러 전기악기와 타악기가 반복되는 리듬 위에서 길게 반응한다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/Miles%20Davis%20Bitches%20Brew",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/bitches-brew/168376392",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/bitches-brew/168376392",
+   "short": "Bitches Brew"
+  },
+  {
+   "year": 1970,
+   "id": "sex-machine",
+   "title": "Sex Machine",
+   "artist": "James Brown",
+   "lane": 1,
+   "summary": "베이스와 드럼, 기타가 각자의 짧은 패턴으로 리듬을 팽팽하게 유지한다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/James%20Brown%20Sex%20Machine",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/sex-machine/1442983352",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/sex-machine/1442983352",
+   "short": "Sex Machine"
+  },
+  {
+   "year": 1970,
+   "id": "plastic-ono",
+   "title": "John Lennon/Plastic Ono Band",
+   "artist": "John Lennon",
+   "lane": 3,
+   "summary": "작은 편성과 가까운 목소리로 개인적인 말과 감정의 변화를 드러낸다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/John%20Lennon%20John%20Lennon%2FPlastic%20Ono%20Band",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/john-lennon-plastic-ono-band/1440858209",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/john-lennon-plastic-ono-band/1440858209",
+   "short": "John Lennon/Plastic Ono Band"
+  },
+  {
+   "year": 1970,
+   "id": "all-things",
+   "title": "All Things Must Pass",
+   "artist": "George Harrison",
+   "lane": 2,
+   "summary": "여러 겹의 기타와 건반, 목소리가 겹쳐 만드는 넓은 울림을 듣는다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/George%20Harrison%20All%20Things%20Must%20Pass",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/all-things-must-pass-2014-remaster/1666672128",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/all-things-must-pass-2014-remaster/1666672128",
+   "short": "All Things Must Pass"
+  },
+  {
+   "year": 1970,
+   "id": "fun-house",
+   "title": "Fun House",
+   "artist": "The Stooges",
+   "lane": 4,
+   "summary": "반복되는 기타와 드럼, 색소폰이 거칠고 긴 합주로 번져간다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/The%20Stooges%20Fun%20House",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/fun-house/843836692",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/fun-house/843836692",
+   "short": "Fun House"
+  },
+  {
+   "year": 1971,
+   "id": "tapestry",
+   "title": "Tapestry",
+   "artist": "Carole King",
+   "lane": 3,
+   "summary": "피아노와 친밀한 가창으로 사랑과 관계의 말을 일상의 거리에서 건넨다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/Carole%20King%20Tapestry",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/tapestry/747087657",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/tapestry/747087657",
+   "short": "Tapestry"
+  },
+  {
+   "year": 1971,
+   "id": "riot",
+   "title": "There’s a Riot Goin’ On",
+   "artist": "Sly & the Family Stone",
+   "lane": 1,
+   "summary": "리듬과 목소리가 뚜렷이 분리되지 않은 채 묵직하게 뒤엉킨다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/Sly%20%26%20the%20Family%20Stone%20There%E2%80%99s%20a%20Riot%20Goin%E2%80%99%20On",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/theres-a-riot-goin-on-expanded-edition/216546634",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/theres-a-riot-goin-on-expanded-edition/216546634",
+   "short": "There’s a Riot Goin’ On"
+  },
+  {
+   "year": 1971,
+   "id": "fela-live",
+   "title": "Fela with Ginger Baker Live!",
+   "artist": "Fela Kuti & Africa 70 with Ginger Baker",
+   "lane": 6,
+   "summary": "길게 되풀이되는 리듬 속에서 베이스와 기타, 드럼과 관악기의 차이를 듣는다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/Fela%20Kuti%20%26%20Africa%2070%20with%20Ginger%20Baker%20Fela%20with%20Ginger%20Baker%20Live%21",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/fela-with-ginger-baker-live/1783198879",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/fela-with-ginger-baker-live/1783198879",
+   "short": "Fela with Ginger Baker Live!"
+  },
+  {
+   "year": 1971,
+   "id": "maggot",
+   "title": "Maggot Brain",
+   "artist": "Funkadelic",
+   "lane": 1,
+   "summary": "긴 기타 독주와 펑크 밴드의 리듬을 한 음반 안에서 만난다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/Funkadelic%20Maggot%20Brain",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/maggot-brain/1595227414",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/maggot-brain/1595227414",
+   "short": "Maggot Brain"
+  },
+  {
+   "year": 1971,
+   "id": "meddle",
+   "title": "Meddle",
+   "artist": "Pink Floyd",
+   "lane": 4,
+   "summary": "짧은 노래들과 긴 〈Echoes〉를 통해 음색과 곡의 긴 호흡을 듣는다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/Pink%20Floyd%20Meddle",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/meddle-2016-remaster/1065973614",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/meddle-2016-remaster/1065973614",
+   "short": "Meddle"
+  },
+  {
+   "year": 1971,
+   "id": "fragile",
+   "title": "Fragile",
+   "artist": "Yes",
+   "lane": 4,
+   "summary": "각 악기의 개성과 여러 부분으로 이어지는 긴 합주를 함께 들려준다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/Yes%20Fragile",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/fragile/1049008924",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/fragile/1049008924",
+   "short": "Fragile"
+  },
+  {
+   "year": 1971,
+   "id": "aqualung",
+   "title": "Aqualung",
+   "artist": "Jethro Tull",
+   "lane": 4,
+   "summary": "굵은 기타 리프와 조용한 어쿠스틱 대목이 한 곡 안에서 교차한다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/Jethro%20Tull%20Aqualung",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/kr/search?term=Jethro%20Tull%20Aqualung",
+    "label": "검색"
+   },
+   "source": "https://jethrotull.com/discography-item/aqualung/",
+   "short": "Aqualung"
+  },
+  {
+   "year": 1971,
+   "id": "tago",
+   "title": "Tago Mago",
+   "artist": "Can",
+   "lane": 4,
+   "summary": "반복되는 드럼과 베이스 주위에서 목소리와 녹음된 소리가 끊임없이 바뀐다.",
+   "status": "supplement",
+   "added": "2026-11-09",
+   "spotify": {
+    "url": "https://open.spotify.com/search/Can%20Tago%20Mago",
+    "label": "검색"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/tago-mago-2011-remastered/967464923",
+    "label": "열기"
+   },
+   "source": "https://music.apple.com/us/album/tago-mago-2011-remastered/967464923",
+   "short": "Tago Mago"
+  },
+  {
+   "id": "happy-end",
+   "year": 1973,
+   "title": "HAPPY END",
+   "artist": "Happy End",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/4nm0IN2hUxftqWUq5Xlj5W",
+    "label": "1–9곡 · 30분 11초"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/happy-end/1642929485",
+    "label": "1–9곡 · 30분 11초"
+   },
+   "lane": 4,
+   "short": "HAPPY END"
+  },
+  {
+   "id": "dark-side",
+   "year": 1973,
+   "title": "The Dark Side of the Moon",
+   "artist": "Pink Floyd",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/2WT1pbYjLJciAR26yMebkH",
+    "label": "1–10곡 · 42분 35초"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/the-dark-side-of-the-moon/1065973699",
+    "label": "1–10곡 · 42분 35초"
+   },
+   "lane": 2,
+   "short": "Dark Side"
+  },
+  {
+   "id": "for-your-pleasure",
+   "year": 1973,
+   "title": "For Your Pleasure",
+   "artist": "Roxy Music",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/6gKMWnGptVs6yT2MgCxw29",
+    "label": "1–8곡 · 42분 19초"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/for-your-pleasure/724399564",
+    "label": "1–8곡 · 42분 19초"
+   },
+   "lane": 4,
+   "short": "For Your Pleasure"
+  },
+  {
+   "id": "innervisions",
+   "year": 1973,
+   "lane": 1,
+   "title": "Innervisions",
+   "short": "Innervisions",
+   "artist": "Stevie Wonder",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8",
+    "label": "9곡"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/innervisions/1440806790",
+    "label": "9곡"
+   },
+   "part": "1973-P2"
+  },
+  {
+   "id": "gentleman",
+   "year": 1973,
+   "lane": 6,
+   "title": "Gentleman",
+   "short": "Gentleman",
+   "artist": "Fela Kuti & Africa 70",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/56UAK81XOvDgAcTsI0Olpk",
+    "label": "3곡"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/gentleman/1783205715",
+    "label": "3곡"
+   },
+   "part": "1973-P2"
+  },
+  {
+   "id": "head-hunters",
+   "year": 1973,
+   "lane": 0,
+   "title": "Head Hunters",
+   "short": "Head Hunters",
+   "artist": "Herbie Hancock",
+   "status": "sent",
+   "spotify": {
+    "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA",
+    "label": "4곡"
+   },
+   "apple": {
+    "url": "https://music.apple.com/us/album/head-hunters/158571524",
+    "label": "4곡"
+   },
+   "part": "1973-P2"
+  }
+ ],
+ "edges": [
+  {
+   "from": "rubber-soul",
+   "to": "revolver",
+   "label": "같은 밴드가 녹음과 편곡을 더 넓혀 간 다음 음반",
+   "type": "document",
+   "source": "https://chatgpt.com/space/page_eb296cbc125c81c28d3622707466729b"
+  },
+  {
+   "from": "love-supreme",
+   "to": "silent-way",
+   "label": "긴 합주 속 작은 변화를 듣는 재미가 좋았다면",
+   "type": "listen"
+  },
+  {
+   "from": "love-supreme",
+   "to": "astral-weeks",
+   "label": "목소리와 베이스가 서로 반응하는 연주가 좋았다면",
+   "type": "listen"
+  },
+  {
+   "from": "highway61",
+   "to": "astral-weeks",
+   "label": "문장과 장면을 길게 이어 가는 노래가 좋았다면",
+   "type": "listen"
+  },
+  {
+   "from": "otis-blue",
+   "to": "aretha1967",
+   "label": "한 소절에 힘을 싣는 가창과 응답하는 합창이 좋았다면",
+   "type": "listen"
+  },
+  {
+   "from": "aretha1967",
+   "to": "curtis",
+   "label": "목소리로 사회를 이야기하는 소울을 더 듣고 싶다면",
+   "type": "listen"
+  },
+  {
+   "from": "curtis",
+   "to": "whats-going-on",
+   "label": "사회 이야기를 앨범 전체로 이어 듣고 싶다면",
+   "type": "listen"
+  },
+  {
+   "from": "whats-going-on",
+   "to": "talking-book",
+   "label": "다중 녹음과 건반으로 만든 소울이 좋았다면",
+   "type": "listen"
+  },
+  {
+   "from": "stand",
+   "to": "talking-book",
+   "label": "베이스와 건반이 서로 비켜 가는 펑크가 좋았다면",
+   "type": "listen"
+  },
+  {
+   "from": "pet-sounds",
+   "to": "odessey",
+   "label": "여러 겹의 화음과 섬세한 건반 편곡이 좋았다면",
+   "type": "listen"
+  },
+  {
+   "from": "revolver",
+   "to": "odessey",
+   "label": "짧은 팝송 안의 음색과 화성 변화가 좋았다면",
+   "type": "listen"
+  },
+  {
+   "from": "odessey",
+   "to": "crimson",
+   "label": "멜로트론 소리를 더 큰 밴드 편성으로 듣고 싶다면",
+   "type": "listen"
+  },
+  {
+   "from": "experienced",
+   "to": "paranoid",
+   "label": "기타의 굵은 리프와 빈틈이 좋았다면",
+   "type": "listen"
+  },
+  {
+   "from": "crimson",
+   "to": "led-zep4",
+   "label": "강한 합주와 조용한 대목의 대비가 좋았다면",
+   "type": "listen"
+  },
+  {
+   "from": "paranoid",
+   "to": "led-zep4",
+   "label": "리프를 중심으로 움직이는 밴드가 좋았다면",
+   "type": "listen"
+  },
+  {
+   "from": "velvet-nico",
+   "to": "ziggy",
+   "label": "록에서 인물과 말투가 만들어지는 과정이 좋았다면",
+   "type": "listen"
+  },
+  {
+   "from": "melody-nelson",
+   "to": "ziggy",
+   "label": "가수와 다른 인물이 등장하는 앨범을 더 듣고 싶다면",
+   "type": "listen"
+  },
+  {
+   "from": "astral-weeks",
+   "to": "blue",
+   "label": "가까운 목소리와 어쿠스틱 악기의 호흡이 좋았다면",
+   "type": "listen"
+  },
+  {
+   "from": "bridge",
+   "to": "blue",
+   "label": "노래와 가사를 가까이 듣는 시간이 좋았다면",
+   "type": "listen"
+  },
+  {
+   "from": "tropicalia",
+   "to": "clube",
+   "label": "브라질의 여러 목소리와 리듬이 만나는 음악이 좋았다면",
+   "type": "listen"
+  },
+  {
+   "from": "blue",
+   "to": "pink-moon",
+   "type": "listen",
+   "label": "가까이 들리는 목소리와 기타로 개인의 이야기를 풀어내는 노래가 좋았다면"
+  },
+  {
+   "from": "astral-weeks",
+   "to": "pink-moon",
+   "type": "listen",
+   "label": "목소리와 어쿠스틱 악기가 각자 움직이는 연주가 좋았다면"
+  },
+  {
+   "from": "led-zep4",
+   "to": "exile",
+   "type": "listen",
+   "label": "블루스와 어쿠스틱 음악을 오가는 밴드의 합주가 좋았다면"
+  },
+  {
+   "from": "aretha1967",
+   "to": "still-love",
+   "type": "listen",
+   "label": "가스펠에서 익힌 가창을 사랑 노래에 쓰는 방식이 궁금하다면"
+  },
+  {
+   "from": "curtis",
+   "to": "still-love",
+   "type": "listen",
+   "label": "가성의 섬세함과 반복되는 소울 반주가 좋았다면"
+  },
+  {
+   "from": "bringing-home",
+   "to": "highway61",
+   "type": "listen",
+   "label": "포크의 긴 노랫말이 전기기타와 만나는 방식이 좋았다면"
+  },
+  {
+   "from": "bringing-home",
+   "to": "tambourine",
+   "type": "listen",
+   "label": "〈Mr. Tambourine Man〉을 독창과 밴드의 화음으로 나란히 듣고 싶다면"
+  },
+  {
+   "from": "tambourine",
+   "to": "rubber-soul",
+   "type": "listen",
+   "label": "맑은 기타 울림과 여러 목소리의 화음이 좋았다면"
+  },
+  {
+   "from": "my-generation",
+   "to": "experienced",
+   "type": "listen",
+   "label": "베이스와 드럼이 목소리만큼 앞에 나서는 록이 좋았다면"
+  },
+  {
+   "from": "sonics",
+   "to": "my-generation",
+   "type": "listen",
+   "label": "거친 가창과 급하게 몰아치는 드럼이 좋았다면"
+  },
+  {
+   "from": "sonics",
+   "to": "stooges",
+   "type": "listen",
+   "label": "편곡을 줄인 거친 리듬과 외치는 목소리가 좋았다면"
+  },
+  {
+   "from": "today",
+   "to": "pet-sounds",
+   "type": "listen",
+   "label": "여러 성부의 화음과 세심한 반주를 더 들어보고 싶다면"
+  },
+  {
+   "from": "highway61",
+   "to": "blonde",
+   "type": "listen",
+   "label": "긴 문장에 기타와 건반이 반응하는 밴드의 호흡이 좋았다면"
+  },
+  {
+   "from": "rubber-soul",
+   "to": "face",
+   "type": "listen",
+   "label": "짧은 팝송에서 사람의 생활과 말투를 그리는 가사가 좋았다면"
+  },
+  {
+   "from": "face",
+   "to": "village",
+   "type": "listen",
+   "label": "노래마다 다른 인물과 장소가 등장하는 방식이 좋았다면"
+  },
+  {
+   "from": "elevators",
+   "to": "doors",
+   "type": "listen",
+   "label": "단순한 음형을 반복하며 낯선 음색을 쌓는 록이 좋았다면"
+  },
+  {
+   "from": "elevators",
+   "to": "piper",
+   "type": "listen",
+   "label": "기타 뒤에서 반복되는 이상한 울림과 몽환적인 리듬이 좋았다면"
+  },
+  {
+   "from": "parsley",
+   "to": "bridge",
+   "type": "listen",
+   "label": "어쿠스틱 기타 위에 두 목소리가 겹치는 화음이 좋았다면"
+  },
+  {
+   "from": "freak-out",
+   "to": "white-light",
+   "type": "listen",
+   "label": "팝송의 틀을 벗어난 소음과 길어진 연주가 궁금하다면"
+  },
+  {
+   "from": "freak-out",
+   "to": "piper",
+   "type": "listen",
+   "label": "짧은 노래와 실험적인 기악곡이 함께 있는 음반이 좋았다면"
+  },
+  {
+   "from": "revolver",
+   "to": "sgt-pepper",
+   "type": "listen",
+   "label": "기타 밴드가 녹음실에서 여러 악기와 음색을 겹치는 방식이 좋았다면"
+  },
+  {
+   "from": "pet-sounds",
+   "to": "sgt-pepper",
+   "type": "listen",
+   "label": "보컬 화음과 낯선 악기를 촘촘히 쌓은 팝이 좋았다면"
+  },
+  {
+   "from": "sgt-pepper",
+   "to": "odessey",
+   "type": "listen",
+   "label": "짧은 곡마다 새로운 음색과 화음이 나타나는 팝이 좋았다면"
+  },
+  {
+   "from": "forever",
+   "to": "clube",
+   "type": "listen",
+   "label": "어쿠스틱 기타에 금관과 현악의 색채가 더해지는 음악이 좋았다면"
+  },
+  {
+   "from": "doors",
+   "to": "crimson",
+   "type": "listen",
+   "label": "노래 한 곡 안에서 건반과 밴드의 연주가 길게 뻗는 방식이 좋았다면"
+  },
+  {
+   "from": "surrealistic",
+   "to": "forever",
+   "type": "listen",
+   "label": "사이키델릭 록의 불안한 정서와 맑은 멜로디를 함께 듣고 싶다면"
+  },
+  {
+   "from": "experienced",
+   "to": "disraeli",
+   "type": "listen",
+   "label": "블루스의 짧은 음형을 굵은 기타 소리로 밀어붙이는 연주가 좋았다면"
+  },
+  {
+   "from": "disraeli",
+   "to": "led-zep2",
+   "type": "listen",
+   "label": "기타와 베이스, 드럼이 서로 치고받는 합주가 좋았다면"
+  },
+  {
+   "from": "cohen",
+   "to": "blue",
+   "type": "listen",
+   "label": "노랫말의 억양을 가까이 따라가는 가창이 좋았다면"
+  },
+  {
+   "from": "cohen",
+   "to": "pink-moon",
+   "type": "listen",
+   "label": "작은 편성에서 기타와 말 사이의 여백을 듣는 일이 좋았다면"
+  },
+  {
+   "from": "sgt-pepper",
+   "to": "white-album",
+   "type": "listen",
+   "label": "한 밴드가 곡마다 말투와 편성을 크게 바꾸는 방식이 궁금하다면"
+  },
+  {
+   "from": "white-album",
+   "to": "abbey",
+   "type": "listen",
+   "label": "서로 다른 성격의 곡들이 한 음반 안에서 이어지는 방식이 좋았다면"
+  },
+  {
+   "from": "experienced",
+   "to": "electric-ladyland",
+   "type": "listen",
+   "label": "기타의 음색과 공간감을 더 큰 규모로 듣고 싶다면"
+  },
+  {
+   "from": "electric-ladyland",
+   "to": "maggot",
+   "type": "listen",
+   "label": "긴 기타 독주가 감정의 흐름을 만드는 방식이 좋았다면"
+  },
+  {
+   "from": "electric-ladyland",
+   "to": "silent-way",
+   "type": "listen",
+   "label": "전자 음색과 되풀이되는 리듬 사이에서 이어지는 긴 연주가 좋았다면"
+  },
+  {
+   "from": "big-pink",
+   "to": "exile",
+   "type": "listen",
+   "label": "피아노와 합창, 컨트리와 블루스가 한 밴드의 소리가 되는 순간이 좋았다면"
+  },
+  {
+   "from": "beggars",
+   "to": "let-bleed",
+   "type": "listen",
+   "label": "어쿠스틱 기타의 질감과 블루스, 컨트리를 오가는 밴드가 좋았다면"
+  },
+  {
+   "from": "village",
+   "to": "white-album",
+   "type": "listen",
+   "label": "곡마다 다른 인물과 말투가 등장하는 팝이 좋았다면"
+  },
+  {
+   "from": "velvet-nico",
+   "to": "white-light",
+   "type": "listen",
+   "label": "반복되는 음형과 기타의 거친 마찰을 더 듣고 싶다면"
+  },
+  {
+   "from": "white-light",
+   "to": "stooges",
+   "type": "listen",
+   "label": "단순한 반복과 거친 기타만으로 긴장을 만드는 록이 좋았다면"
+  },
+  {
+   "from": "abbey",
+   "to": "clube",
+   "type": "listen",
+   "label": "기타와 건반, 화음이 곡과 곡 사이에 긴 흐름을 만드는 방식이 좋았다면"
+  },
+  {
+   "from": "let-bleed",
+   "to": "exile",
+   "type": "listen",
+   "label": "블루스 기타와 어쿠스틱 악기, 여러 사람의 목소리가 섞이는 소리가 좋았다면"
+  },
+  {
+   "from": "stooges",
+   "to": "fun-house",
+   "type": "listen",
+   "label": "단순한 리프와 거친 가창이 더 긴 합주로 번지는 음악이 좋았다면"
+  },
+  {
+   "from": "santana",
+   "to": "fela-live",
+   "type": "listen",
+   "label": "여러 타악기가 서로 다른 반복을 겹쳐 놓는 연주가 좋았다면"
+  },
+  {
+   "from": "led-zep2",
+   "to": "paranoid",
+   "type": "listen",
+   "label": "짧고 굵은 기타 리프를 반복해 무게를 만드는 록이 좋았다면"
+  },
+  {
+   "from": "led-zep2",
+   "to": "led-zep4",
+   "type": "listen",
+   "label": "강한 전기기타와 조용한 어쿠스틱 대목을 오가는 밴드가 좋았다면"
+  },
+  {
+   "from": "mc5",
+   "to": "stooges",
+   "type": "listen",
+   "label": "라이브처럼 들뜬 에너지와 거친 기타 소리가 좋았다면"
+  },
+  {
+   "from": "my-generation",
+   "to": "tommy",
+   "type": "listen",
+   "label": "앞으로 튀어나오는 베이스와 드럼을 긴 이야기 속에서도 듣고 싶다면"
+  },
+  {
+   "from": "tommy",
+   "to": "ziggy",
+   "type": "listen",
+   "label": "가수가 인물의 역할을 맡아 여러 노래를 이어가는 방식이 좋았다면"
+  },
+  {
+   "from": "gold-rush",
+   "to": "blue",
+   "type": "listen",
+   "label": "자신의 목소리로 가까이 이야기하며 기타와 피아노를 오가는 노래가 좋았다면"
+  },
+  {
+   "from": "silent-way",
+   "to": "bitches",
+   "type": "listen",
+   "label": "반복되는 리듬 위에 전기악기와 트럼펫이 겹치는 합주가 좋았다면"
+  },
+  {
+   "from": "bitches",
+   "to": "tago",
+   "type": "listen",
+   "label": "같은 리듬이 돌아오는 동안 악기와 녹음된 소리가 조금씩 달라지는 음악이 좋았다면"
+  },
+  {
+   "from": "stand",
+   "to": "sex-machine",
+   "type": "listen",
+   "label": "짧은 기타 음형과 베이스, 드럼이 맞물리는 리듬이 좋았다면"
+  },
+  {
+   "from": "sex-machine",
+   "to": "fela-live",
+   "type": "listen",
+   "label": "여러 악기가 서로 비켜 가는 반복을 오래 유지하는 음악이 좋았다면"
+  },
+  {
+   "from": "sex-machine",
+   "to": "riot",
+   "type": "listen",
+   "label": "단단한 펑크 리듬을 더 가라앉고 뒤엉킨 녹음으로 듣고 싶다면"
+  },
+  {
+   "from": "plastic-ono",
+   "to": "pink-moon",
+   "type": "listen",
+   "label": "작은 편성에서 목소리의 숨과 말끝에 귀를 기울이는 노래가 좋았다면"
+  },
+  {
+   "from": "all-things",
+   "to": "exile",
+   "type": "listen",
+   "label": "여러 겹의 기타와 건반, 합창이 뒤섞인 울림이 좋았다면"
+  },
+  {
+   "from": "fun-house",
+   "to": "maggot",
+   "type": "listen",
+   "label": "곡의 모양이 풀리며 밴드의 에너지가 앞서는 록이 좋았다면"
+  },
+  {
+   "from": "tapestry",
+   "to": "blue",
+   "type": "listen",
+   "label": "피아노와 기타에 기댄 개인적인 이야기를 더 듣고 싶다면"
+  },
+  {
+   "from": "tapestry",
+   "to": "still-love",
+   "type": "listen",
+   "label": "사랑을 큰 선언보다 가까운 말투로 건네는 노래가 좋았다면"
+  },
+  {
+   "from": "stand",
+   "to": "riot",
+   "type": "listen",
+   "label": "밝게 튀는 펑크 합주와 뒤엉키는 리듬을 나란히 듣고 싶다면"
+  },
+  {
+   "from": "riot",
+   "to": "talking-book",
+   "type": "listen",
+   "label": "베이스와 건반, 드럼이 서로 비켜 가며 움직이는 소울이 좋았다면"
+  },
+  {
+   "from": "fela-live",
+   "to": "tago",
+   "type": "listen",
+   "label": "긴 반복 속에서 악기들이 조금씩 역할을 바꾸는 연주가 좋았다면"
+  },
+  {
+   "from": "fela-live",
+   "to": "talking-book",
+   "type": "listen",
+   "label": "짧은 음형들이 겹쳐 하나의 리듬을 만드는 방식이 좋았다면"
+  },
+  {
+   "from": "piper",
+   "to": "meddle",
+   "type": "listen",
+   "label": "실험적인 음색이 더 긴 곡의 흐름 안에서 움직이는 방식이 궁금하다면"
+  },
+  {
+   "from": "crimson",
+   "to": "meddle",
+   "type": "listen",
+   "label": "조용한 대목과 강한 합주를 길게 이어가는 록이 좋았다면"
+  },
+  {
+   "from": "crimson",
+   "to": "fragile",
+   "type": "listen",
+   "label": "여러 부분으로 이어지는 큰 곡과 복잡한 박자의 합주가 좋았다면"
+  },
+  {
+   "from": "crimson",
+   "to": "aqualung",
+   "type": "listen",
+   "label": "굵은 리프와 조용한 어쿠스틱 대목이 교차하는 록이 좋았다면"
+  },
+  {
+   "from": "aqualung",
+   "to": "led-zep4",
+   "type": "listen",
+   "label": "어쿠스틱 기타와 거친 전기기타의 대비가 좋았다면"
+  },
+  {
+   "from": "big-pink",
+   "to": "happy-end",
+   "type": "listen",
+   "label": "노래에 짧게 답하는 악기와 빈틈을 남긴 합주가 좋았다면"
+  },
+  {
+   "from": "meddle",
+   "to": "dark-side",
+   "type": "listen",
+   "label": "〈Echoes〉의 긴 흐름과 소리 전환이 좋았다면, 한 장 전체로 이어지는 구성으로"
+  },
+  {
+   "from": "revolver",
+   "to": "dark-side",
+   "type": "listen",
+   "label": "〈Tomorrow Never Knows〉의 반복·테이프 소리가 좋았다면 〈On the Run〉의 전자음으로"
+  },
+  {
+   "from": "ziggy",
+   "to": "for-your-pleasure",
+   "type": "listen",
+   "label": "노래하는 인물의 연기가 좋았다면 페리의 과장된 억양과 이노의 소리 처리로"
+  },
+  {
+   "from": "dark-side",
+   "to": "for-your-pleasure",
+   "type": "listen",
+   "label": "〈On the Run〉의 불안한 반복이 좋았다면 〈The Bogus Man〉의 긴 리듬으로"
+  },
+  {
+   "from": "talking-book",
+   "to": "innervisions",
+   "type": "listen",
+   "label": "같은 음악가가 다중 녹음과 신시사이저로 이어 간 다음 음반"
+  },
+  {
+   "from": "head-hunters",
+   "to": "innervisions",
+   "type": "listen",
+   "label": "클라비넷이 리듬을 끄는 두 방식 비교"
+  },
+  {
+   "from": "gentleman",
+   "to": "head-hunters",
+   "type": "listen",
+   "label": "짧은 반복 위에서 긴 합주를 쌓는 두 방식"
+  }
+ ]
+}

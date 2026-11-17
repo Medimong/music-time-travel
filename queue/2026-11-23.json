@@ -1,0 +1,39 @@
+{
+ "date": "2026-11-23", "part": "1976-P1", "year": 1976, "partNo": 1, "partTotal": 2, "total": "약 105분",
+ "title": "차가운 공작, 2분짜리 펑크, 녹음실을 뜯어 고친 덥",
+ "intro": "1976년 미국은 독립 200주년을 기념했지만 분위기는 축제와 거리가 멀었다. 영국은 실업과 물가 상승, 유난히 뜨거운 여름 속에서 젊은이들의 불만이 쌓여 갔고, 그해 말 섹스 피스톨스의 첫 싱글과 함께 펑크(Punk)가 사회 문제로 떠올랐다. 자메이카에서는 총선을 앞두고 정당 간 폭력이 심해져 6월에 비상사태가 선포됐고, 12월에는 밥 말리가 집에서 총격을 당했다. 오늘의 세 음반은 모두 록과 레게의 ‘정상적인’ 만듦새를 거꾸로 뒤집는다. 보위는 소울 밴드를 독일식 기계 박동 위에 올렸고, 라몬즈는 기타 독주와 긴 곡을 모두 버렸으며, 리 스크래치 페리는 노래를 뜯어내고 남은 리듬과 메아리를 음악의 주인공으로 만들었다.",
+ "lanes": [],
+ "albums": [
+  {"id": "station-to-station", "artist": "David Bowie", "title": "Station to Station", "short": "Station to Station", "released": "1976년 1월", "genre": "아트 록 · 펑크(Funk)", "blurb": "소울 밴드와 유럽식 반복 리듬 사이에서 ‘씬 화이트 듀크’를 연기한, 베를린 시절로 가는 다리.", "length": "6곡 · 38분", "spotify": "https://open.spotify.com/album/0MWrKayUshRuT8maG4ZAOU", "apple": "https://music.apple.com/kr/album/1195104858", "lane": "팝과 녹음"},
+  {"id": "ramones", "artist": "Ramones", "title": "Ramones", "short": "Ramones", "released": "1976년 4월", "genre": "펑크(Punk)", "blurb": "14곡을 29분에 몰아친, 펑크 록의 설계도가 된 데뷔 음반.", "length": "14곡 · 29분", "spotify": "https://open.spotify.com/album/7u31R0chlCbztAqHlEEQM6", "apple": "https://music.apple.com/kr/album/847972873", "lane": "펑크(Punk)"},
+  {"id": "super-ape", "artist": "The Upsetters", "title": "Super Ape", "short": "Super Ape", "released": "1976년", "genre": "덥", "blurb": "리 스크래치 페리가 자기 집 뒷마당 스튜디오에서 메아리와 저음으로 빚은 덥의 고전.", "length": "1–10곡 · 38분", "spotify": "https://open.spotify.com/album/6vvu7QDWpkG3qkpQ2P84rM", "apple": "https://music.apple.com/kr/album/1443210297", "lane": "레게와 덥"}
+ ],
+ "essays": [
+  {"id": "station-to-station", "heading": "소울 밴드 위의 차가운 공작", "paras": [
+   "10분짜리 타이틀곡은 기차가 다가오는 소리로 시작하는데, 사실은 기타 소리를 일그러뜨리고 좌우로 움직여 만든 것이다. 피아노와 기타가 같은 음을 고집스럽게 반복하는 긴 전주가 3분 넘게 이어진 뒤에야 보위가 노래를 시작하고, 곡은 중간에 갑자기 빠른 펑크(Funk)로 바뀐다. 리듬을 맡은 카를로스 알로마(기타), 조지 머리(베이스), 데니스 데이비스(드럼)는 미국 소울 밴드의 탄력을 갖고 있지만, 그 위의 보위는 감정을 드러내지 않는 차가운 크루너처럼 노래한다. 마지막 곡 〈Wild Is the Wind〉는 니나 시몬의 녹음에 감동해 부른 것으로 알려져 있으며, 이 음반에서 가장 따뜻한 순간이다.",
+   "1975년 로스앤젤레스에서 보위는 코카인 중독이 심해져 훗날 녹음 과정을 거의 기억하지 못한다고 말했다. 그는 마른 몸에 흰 셔츠와 검은 조끼를 입은 냉정한 귀족 ‘씬 화이트 듀크(Thin White Duke)’라는 인물을 연기했다. 동시에 그는 크라프트베르크와 노이! 같은 서독 음악의 반복 리듬에 빠져 있었다. 그래서 이 음반은 《Young Americans》의 미국 소울과 이듬해 베를린에서 만들 전자음 음반 사이에 서 있다.",
+   "그해 말 보위는 로스앤젤레스를 떠나 유럽으로 건너가 브라이언 이노와 함께 《Low》(1977)를 만들고 베를린에 자리 잡는다. 1974년 크라프트베르크의 《Autobahn》과 이 타이틀곡을 이어 들으면 고속도로와 기찻길, 두 개의 반복되는 이동이 겹쳐 들린다."]},
+  {"id": "ramones", "heading": "모든 것을 덜어낸 2분", "paras": [
+   "첫 곡 〈Blitzkrieg Bop〉은 ‘Hey! Ho! Let's go!’라는 구호와 함께 시작해 2분 남짓 만에 끝난다. 조니 라몬은 기타 줄을 처음부터 끝까지 아래로만 긁는 다운스트로크(Downstroke)로 8분음표를 쉬지 않고 쏟아 내고, 독주는 한 번도 하지 않는다. 코드는 서너 개뿐이다. 그 위에서 조이 라몬은 1960년대 걸 그룹이나 서프 음악 가수처럼 둥글게 노래한다. 음반을 헤드폰으로 들으면 기타가 한쪽 귀, 베이스가 다른 쪽 귀에 따로 나오는데, 1960년대 초 비틀스 음반의 스테레오 배치를 일부러 따라 한 것으로 알려져 있다. 노랫말은 만화처럼 과장된 폭력, 지루함, 본드 흡입 같은 십 대의 일상을 짧게 던진다.",
+   "라몬즈는 뉴욕 퀸스의 동네 친구들이 1974년에 만들었고, 모두 ‘라몬’이라는 가짜 성을 썼다. 당시 록은 10분짜리 곡과 긴 기타 독주, 웅장한 무대로 커져 있었는데, 라몬즈는 그 반대편에서 1950~60년대 팝의 짧은 형식을 더 빠르고 시끄럽게 되살렸다. 적은 예산으로 일주일 남짓 만에 녹음했다고 알려져 있다. 미국에서는 거의 팔리지 않았지만 1976년 7월 런던 공연에는 훗날 영국 펑크 밴드를 이끌 젊은이들이 객석에 있었다는 이야기가 전해진다.",
+   "1969년 스투지스의 단순한 리프, 1975년 패티 스미스의 《Horses》와 이어 들으면 같은 뉴욕 무대에서 시와 2분짜리 구호가 어떻게 함께 자랐는지 보인다. 이후 하드코어, 팝펑크까지 수많은 밴드가 이 음반의 공식을 출발점으로 삼았다."]},
+  {"id": "super-ape", "heading": "노래를 뜯어내고 남은 것", "paras": [
+   "《Super Ape》를 틀면 노래보다 저음이 먼저 몸에 닿는다. 베이스와 드럼이 앞으로 크게 나오고, 관악기나 목소리는 한 소절 들렸다가 메아리를 남기고 사라진다. 소리가 반복되며 점점 작아지는 테이프 에코(Echo)와 공간의 울림을 더하는 리버브(Reverb), 소리를 소용돌이처럼 휘게 하는 페이저(Phaser)가 곳곳에서 걸려 전체가 뿌연 연기 속에 있는 것처럼 들린다. 이렇게 이미 녹음된 레게 곡에서 악기를 빼고 넣고 효과를 걸어 새로 만든 음악을 덥(Dub)이라고 한다.",
+   "덥은 자메이카의 사운드 시스템(Sound System) 문화에서 나왔다. 거리 파티에서 거대한 스피커로 음반을 트는 DJ들은 싱글 뒷면에 실린 노래 빠진 반주판 위에서 즉석으로 말을 얹었고, 킹 터비 같은 엔지니어들이 그 반주판을 믹싱 콘솔로 해체하고 재조립하며 하나의 예술로 만들었다. 리 스크래치 페리는 1973년 킹스턴의 자기 집 뒷마당에 블랙 아크 스튜디오를 지었다. 장비는 4트랙 녹음기 정도로 소박했지만, 트랙을 여러 번 합치고 덧입히는 과정에서 생긴 탁하고 두꺼운 소리가 그의 개성이 됐다. 비상사태가 선포될 만큼 불안한 시기였고, 페리의 음악에는 라스타파리 신앙의 영적인 색채와 기묘한 유머가 함께 들어 있다.",
+   "덥이 남긴 ‘원곡을 해체해 새 곡을 만든다’는 생각은 리믹스(Remix) 문화, 영국 포스트펑크, 그리고 자메이카 출신 DJ 쿨 허크가 뉴욕 브롱크스에 들여온 사운드 시스템을 통해 힙합까지 이어진다. 1974년 밥 말리의 《Natty Dread》와 이어 들으면 같은 레게가 노래와 소리 양쪽으로 갈라지는 모습이 들린다."]}
+ ],
+ "readings": [
+  {"title": "Station to Station · Wikipedia", "url": "https://en.wikipedia.org/wiki/Station_to_Station"},
+  {"title": "Ramones (album) · Wikipedia", "url": "https://en.wikipedia.org/wiki/Ramones_(album)"},
+  {"title": "Super Ape · Wikipedia", "url": "https://en.wikipedia.org/wiki/Super_Ape"},
+  {"title": "덥(Dub music) · Wikipedia", "url": "https://en.wikipedia.org/wiki/Dub_music"}
+ ],
+ "edges": [
+  {"from": "young-americans", "to": "station-to-station", "type": "document", "label": "같은 리듬 기타리스트 알로마와 이어 간 다음 정규 음반", "source": "https://en.wikipedia.org/wiki/Station_to_Station"},
+  {"from": "wild-wind", "to": "station-to-station", "type": "listen", "label": "같은 곡 〈Wild Is the Wind〉를 두 사람의 목소리로"},
+  {"from": "autobahn", "to": "station-to-station", "type": "listen", "label": "고속도로와 기찻길, 반복되는 이동의 박동"},
+  {"from": "stooges", "to": "ramones", "type": "listen", "label": "단순한 리프와 날것의 소리를 더 짧고 빠르게"},
+  {"from": "horses", "to": "ramones", "type": "listen", "label": "같은 CBGB 무대의 두 끝, 긴 시와 2분짜리 구호"},
+  {"from": "natty-dread", "to": "super-ape", "type": "listen", "label": "노래하는 레게와 소리를 뜯어낸 덥"}
+ ]
+}

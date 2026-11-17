@@ -1,0 +1,39 @@
+name: daily-send
+on:
+  schedule:
+    # GitHub 스케줄은 수 분~수십 분 늦을 수 있어 여러 번 건다. 보낸 기록(sent-log.json)으로 한 번만 발송된다.
+    - cron: '40 14 * * *'   # 23:40 KST, 자정까지 대기 후 발송
+    - cron: '52 14 * * *'
+    - cron: '5 15 * * *'
+    - cron: '25 15 * * *'
+    - cron: '0 17 * * *'    # 02:00 KST 최후 보루
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'test = 기훈 개인 Gmail로만 미리보기 발송'
+        default: 'test'
+concurrency: { group: daily-send, cancel-in-progress: false }
+permissions: { contents: write, pages: write, id-token: write }
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    environment: { name: github-pages }
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          git config user.name "music-time-travel-bot"
+          git config user.email "actions@users.noreply.github.com"
+      - name: send
+        env:
+          MODE: ${{ github.event.inputs.mode }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          TO_GIHUN: ${{ secrets.TO_GIHUN }}
+          TO_JUNGHUN: ${{ secrets.TO_JUNGHUN }}
+        run: python3 scripts/send.py
+      - run: python3 scripts/build_site.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: site }
+      - uses: actions/deploy-pages@v4

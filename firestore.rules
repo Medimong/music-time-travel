@@ -1,0 +1,20 @@
+rules_version = '2';
+// 대중음악 시간여행: 기훈·정훈의 '들었음' 체크만 저장한다. 비번 없는 사이트라 형식만 엄격히 검사한다.
+service cloud.firestore {
+  match /databases/{db}/documents {
+    match /listen/{who} {
+      function ok() {
+        return who in ['gihun', 'junghun']
+          && request.resource.data.keys().hasOnly(['a', 'at'])
+          && request.resource.data.a is map
+          && request.resource.data.a.size() < 3000;
+      }
+      allow read: if who in ['gihun', 'junghun'];
+      allow create: if ok();
+      // 한 번에 기록이 크게 줄어드는 쓰기(옛 탭의 덮어쓰기 등)는 막는다
+      allow update: if ok() && request.resource.data.a.size() >= resource.data.a.size() - 3;
+      allow delete: if false;
+    }
+    match /{document=**} { allow read, write: if false; }
+  }
+}

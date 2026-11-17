@@ -1,0 +1,38 @@
+{
+ "date": "2026-11-18", "part": "1974-P1", "year": 1974, "partNo": 1, "partTotal": 2, "total": "약 115분",
+ "title": "녹음실의 비음악가, 재즈를 만난 포크, 아무도 사지 않은 명반",
+ "intro": "1974년의 미국은 지쳐 있었다. 1973년 가을에 시작된 석유 파동으로 기름값이 치솟았고, 8월에는 워터게이트 사건 끝에 닉슨 대통령이 물러났다. 1960년대의 낙관은 이미 식었고, 록은 경기장을 채우는 큰 산업이 되어 있었다. 녹음실도 달라졌다. 16트랙, 24트랙 녹음기가 흔해지자 음반은 무대 연주를 옮겨 담는 기록에서 녹음실 안에서만 만들 수 있는 작품으로 바뀌어 갔다. 오늘의 세 음반은 같은 해 겨울에 나왔지만 이 변화에 대응하는 방식이 전혀 다르다. 브라이언 이노는 악보를 읽지 못하는 자신을 ‘비음악가’라 부르며 녹음실을 악기처럼 다뤘고, 조니 미첼은 재즈 연주자들과 손잡고 노래의 화성을 넓혔다. 멤피스의 빅 스타는 1960년대 기타 팝을 가장 단정하게 다시 썼지만 음반이 가게에 거의 깔리지도 못했다.",
+ "lanes": [],
+ "albums": [
+  {"id": "eno-warm-jets", "artist": "Brian Eno", "title": "Here Come the Warm Jets", "short": "Here Come the Warm Jets", "released": "1974년 1월", "genre": "아트 록 · 글램", "blurb": "록시 뮤직을 떠난 이노가 여러 밴드의 연주자를 모아 녹음실에서 소리를 조각한 첫 솔로 음반.", "length": "10곡 · 42분", "spotify": "https://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi", "apple": "https://music.apple.com/kr/album/723783174", "lane": "팝과 녹음"},
+  {"id": "court-spark", "artist": "Joni Mitchell", "title": "Court and Spark", "short": "Court and Spark", "released": "1974년 1월", "genre": "포크 · 팝 · 재즈", "blurb": "혼자 노래하던 싱어송라이터가 재즈 밴드와 함께 만든, 그의 가장 큰 상업적 성공작.", "length": "11곡 · 37분", "spotify": "https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM", "apple": "https://music.apple.com/kr/album/1492263239", "lane": "목소리와 이야기"},
+  {"id": "radio-city", "artist": "Big Star", "title": "Radio City", "short": "Radio City", "released": "1974년", "genre": "파워 팝 · 록", "blurb": "발매 당시엔 거의 팔리지 않았지만 1980년대 얼터너티브 록의 교과서가 된 멤피스 밴드의 두 번째 음반.", "length": "1–12곡 · 36분", "spotify": "https://open.spotify.com/album/79Kv2xKvtqXrDcY2acvqfT", "apple": "https://music.apple.com/kr/album/1442997142", "lane": "기타와 록"}
+ ],
+ "essays": [
+  {"id": "eno-warm-jets", "heading": "녹음실을 악기로 쓴 비음악가", "paras": [
+   "〈Baby's on Fire〉에서 이노는 콧소리 섞인 목소리로 노래를 비꼬듯 흘리고, 곡의 중간은 로버트 프립(King Crimson)의 기타 독주가 통째로 차지한다. 일그러진 음색으로 같은 음 주변을 찌르듯 맴도는 이 독주는 곡의 한가운데를 오래 차지하는데, 노래의 반주라기보다 곡 한가운데 뚫린 다른 방처럼 들린다. 마지막 곡 〈Here Come the Warm Jets〉에서는 기타 여러 대를 겹치고 가공해서 낱낱의 악기를 구별하기 어려운 하나의 두꺼운 소리 덩어리를 만든다. 음반 크레디트에도 이노의 담당 악기는 ‘단순한 건반’, ‘뱀 기타(snake guitar)’처럼 장난스럽게 적혀 있다.",
+   "이노는 1973년 《For Your Pleasure》를 끝으로 록시 뮤직을 떠났다. 밴드에서 그의 역할은 신시사이저와 테이프로 다른 멤버의 소리를 비틀어 바꾸는 일이었는데, 솔로 음반에서는 그 방식을 음반 전체로 넓혔다. 록시 뮤직의 동료들, 프립, 하드록 밴드의 연주자들처럼 서로 어울리지 않을 사람들을 한 방에 모으고, 말 대신 몸짓으로 원하는 느낌을 전했다는 일화가 전해진다. 녹음이 끝난 뒤에는 테이프를 잘라 붙이고 소리를 덧입혀 곡을 다시 짰다. 연주를 잘하는 것보다 어떤 소리를 고르고 배치하느냐가 작곡이 된 셈이다.",
+   "이 생각은 이듬해 《Another Green World》를 거쳐 앰비언트(Ambient) 음악으로 이어지고, 이노가 제작자로 참여한 토킹 헤즈와 U2의 음반, 그리고 1970년대 말 포스트펑크의 녹음실 실험에까지 닿는다. 오늘은 노래보다 소리의 질감이 언제 앞으로 나오는지에 귀를 기울여 보자."]},
+  {"id": "court-spark", "heading": "재즈 연주자들과 만난 고백", "paras": [
+   "첫 곡 〈Court and Spark〉는 피아노 한 대로 시작하지만 곧 베이스와 드럼, 관악기가 조용히 들어온다. 1971년 《Blue》에서 미첼은 거의 혼자 기타나 덜시머, 피아노를 치며 노래했다. 이번에는 색소폰 연주자 톰 스콧이 이끄는 재즈 밴드 L.A. 익스프레스가 함께한다. 미첼의 화음에는 원래도 기본 3화음에 음을 하나 더 얹거나 해결을 미룬 서스펜디드(Suspended) 화음이 많아서 노래가 땅에 착지하지 않고 떠 있는 느낌이 있었는데, 재즈 연주자들은 그 열린 화음을 자연스럽게 받아 더 넓게 펼친다.",
+   "〈Help Me〉는 그의 유일한 미국 싱글 차트 10위권 곡이다. 선율이 낮은 말소리에서 갑자기 높은 음으로 뛰어오르고, 드럼은 박을 딱딱 맞추기보다 노래를 따라 느슨하게 흔들린다. 사랑에 빠지는 것을 반기면서도 경계하는 가사와 이 불안정한 리듬이 잘 어울린다. 〈Free Man in Paris〉는 소속 음반사 대표 데이비드 게펜의 처지에서 쓴 곡으로, 음악 산업 한가운데서 자유를 꿈꾸는 사람을 그린다. 마지막 곡 〈Twisted〉는 재즈 가수 애니 로스의 곡을 가져와 악기 즉흥연주를 가사로 부르는 보컬리즈(Vocalese) 방식을 들려준다.",
+   "《Court and Spark》는 앨범 차트 2위까지 오르며 미첼의 가장 큰 상업적 성공이 됐다. 그런데 미첼은 그 성공을 되풀이하지 않고 이후 몇 년 동안 점점 더 재즈 쪽으로 걸어가 1979년에는 찰스 밍거스와 음반을 만든다. 포크 가수의 고백이 어떤 반주를 만나 더 복잡한 감정을 담게 되는지 들어 보자."]},
+  {"id": "radio-city", "heading": "팔리지 않은 명반의 탄생", "paras": [
+   "〈September Gurls〉의 기타는 비틀스와 버즈의 1960년대 중반 음반처럼 맑게 찰랑거리고, 짧은 곡 안에 귀에 남는 후렴과 화음이 가득하다. 그런데 앨릭스 칠턴의 목소리는 얇고 갈라져서 매끄러운 팝이 될 수 있던 곡에 쓸쓸함을 묻힌다. 〈O My Soul〉은 5분 넘게 느슨한 리듬 위에서 기타와 드럼이 서로 밀고 당기는데, 일부러 다듬지 않은 듯한 소리가 오히려 밴드가 한 방에서 연주하는 느낌을 준다. 이렇게 짧고 선율이 강한 노래에 강하게 긁는 기타를 더한 록을 흔히 파워 팝(Power Pop)이라고 부른다.",
+   "빅 스타는 멤피스의 아덴트 스튜디오를 근거지로 삼은 밴드다. 칠턴은 열여섯 살에 박스 톱스의 보컬로 〈The Letter〉(1967)를 1위에 올린 적이 있는 전직 아이돌이었다. 1972년 첫 음반이 평단의 칭찬에도 불구하고 팔리지 않자 공동 리더 크리스 벨이 떠났고, 남은 세 사람이 만든 것이 이 음반이다. 이번에도 평은 좋았지만 음반을 유통하던 스택스 레코드가 배급사와 분쟁에 휘말리면서 레코드 가게에 제대로 깔리지조차 못했다.",
+   "빅 스타는 1974년의 실패가 아니라 1980년대의 재발견으로 기억된다. R.E.M., 리플레이스먼츠 같은 대학가 밴드들이 이 음반을 찾아 들었고, 리플레이스먼츠는 아예 〈Alex Chilton〉이라는 곡을 썼다. 1986년에는 뱅글스가 〈September Gurls〉를 다시 불렀다. 많이 팔리지 않았어도 오래 영향을 남긴 음반이라는 점에서 1967년의 벨벳 언더그라운드와 나란히 놓고 들어도 좋다."]}
+ ],
+ "readings": [
+  {"title": "Here Come the Warm Jets · Wikipedia", "url": "https://en.wikipedia.org/wiki/Here_Come_the_Warm_Jets"},
+  {"title": "Court and Spark · Wikipedia", "url": "https://en.wikipedia.org/wiki/Court_and_Spark"},
+  {"title": "Radio City (album) · Wikipedia", "url": "https://en.wikipedia.org/wiki/Radio_City_(album)"},
+  {"title": "1973년 석유 파동 · Wikipedia", "url": "https://en.wikipedia.org/wiki/1973_oil_crisis"}
+ ],
+ "edges": [
+  {"from": "for-your-pleasure", "to": "eno-warm-jets", "type": "document", "label": "록시 뮤직을 떠난 이노의 첫 솔로 음반", "source": "https://en.wikipedia.org/wiki/Here_Come_the_Warm_Jets"},
+  {"from": "crimson", "to": "eno-warm-jets", "type": "listen", "label": "로버트 프립의 기타가 다른 밴드에서 어떻게 들리는지"},
+  {"from": "blue", "to": "court-spark", "type": "listen", "label": "혼자 노래하던 목소리가 재즈 밴드를 만났을 때"},
+  {"from": "tambourine", "to": "radio-city", "type": "listen", "label": "찰랑이는 기타 팝을 메마른 멤피스 소리로"},
+  {"from": "velvet-nico", "to": "radio-city", "type": "listen", "label": "팔리지 않았지만 다음 세대가 찾아 들은 음반"}
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "date": "2026-11-20", "part": "1975-P1", "year": 1975, "partNo": 1, "partTotal": 3, "total": "약 131분",
+ "title": "헤어짐의 노래, 필라델피아로 간 영국 스타, 우주를 노래한 소울 밴드",
+ "intro": "1975년 4월 사이공이 함락되며 베트남 전쟁이 끝났다. 미국은 물가와 실업이 함께 오르는 스태그플레이션 속에 있었고, 뉴욕시는 파산 직전까지 몰렸다. 한편 흑인 음악은 어느 때보다 크게 팔렸다. 민권운동의 법적 성과 뒤에 성장한 흑인 중산층과 라디오, 클럽 문화가 소울과 펑크(Funk)를 미국 대중음악의 중심으로 끌어올렸고, 뉴욕의 클럽에서는 디스코가 자라고 있었다. 오늘의 세 음반은 이 해의 첫 석 달 사이에 나왔다. 밥 딜런은 가장 사적인 이별의 노래를 썼고, 데이비드 보위는 영국의 글램 록 스타에서 필라델피아 소울을 부르는 가수로 변신했으며, 어스 윈드 앤드 파이어는 관악기와 합창으로 무장한 대형 밴드로 정상에 섰다. 백인 록과 흑인 소울이 서로의 영역을 넘나드는 장면을 함께 들어 보자.",
+ "lanes": [],
+ "albums": [
+  {"id": "blood-tracks", "artist": "Bob Dylan", "title": "Blood on the Tracks", "short": "Blood on the Tracks", "released": "1975년 1월", "genre": "포크 록", "blurb": "시간과 인칭이 뒤섞이는 이야기로 사랑의 끝을 그린, 딜런의 1970년대 최고작.", "length": "10곡 · 52분", "spotify": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF", "apple": "https://music.apple.com/kr/album/158320766", "lane": "목소리와 이야기"},
+  {"id": "young-americans", "artist": "David Bowie", "title": "Young Americans", "short": "Young Americans", "released": "1975년 3월", "genre": "소울 · 팝", "blurb": "필라델피아 소울의 본거지에서 녹음한 보위의 ‘플라스틱 소울’, 존 레넌과 쓴 〈Fame〉이 1위에 올랐다.", "length": "8곡 · 41분", "spotify": "https://open.spotify.com/album/0lITGovWgaQGi42EfqcE5P", "apple": "https://music.apple.com/kr/album/1195107061", "lane": "소울과 펑크"},
+  {"id": "way-of-world", "artist": "Earth, Wind & Fire", "title": "That's the Way of the World", "short": "That's the Way of the World", "released": "1975년 3월", "genre": "소울 · 펑크", "blurb": "흥행에 실패한 영화의 사운드트랙이었지만 앨범과 싱글 모두 1위에 오른 대형 소울 밴드의 대표작.", "length": "8곡 · 39분", "spotify": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL", "apple": "https://music.apple.com/kr/album/532975789", "lane": "소울과 펑크"}
+ ],
+ "essays": [
+  {"id": "blood-tracks", "heading": "기억처럼 뒤섞이는 이별의 이야기", "paras": [
+   "〈Tangled Up in Blue〉는 어쿠스틱 기타와 베이스, 오르간이 조용히 받치는 가운데 딜런이 한 사랑의 이야기를 들려준다. 그런데 이야기가 순서대로 흐르지 않는다. 여러 해가 한 절 사이에 건너뛰고, ‘나’로 시작한 이야기가 어느새 ‘그’의 이야기가 되며, 같은 여자를 만났다 헤어지는 장면이 장소를 바꿔 되풀이된다. 실제 기억이 시간 순서가 아니라 감정의 순서로 떠오르듯, 노래도 그렇게 짜여 있다. 매 절이 같은 짧은 후렴으로 돌아올 때마다 앞에서 쌓인 사연 때문에 그 한마디가 다르게 들린다.",
+   "딜런은 1974년 9월 뉴욕에서 단출한 반주로 음반을 녹음했다가, 12월 고향 미네소타에서 동생의 권유로 다섯 곡을 현지 연주자들과 다시 녹음했다. 〈Tangled Up in Blue〉와 〈Idiot Wind〉가 그때 새로 녹음된 곡이라, 음반 안에서 조용하고 사적인 뉴욕 녹음과 더 밝고 힘 있는 미네소타 녹음이 섞여 있다. 당시 딜런은 아내 사라와의 결혼 생활이 흔들리던 때여서 많은 사람이 이 음반을 자전적 고백으로 읽었다. 딜런은 그런 해석을 부정했고, 과거와 현재를 한 화면에 그리는 법을 화가 노먼 래빈의 수업에서 배웠다고 말했다.",
+   "1965년 《Highway 61 Revisited》의 딜런이 초현실적인 이미지와 일렉트릭 밴드로 세상을 향해 말했다면, 이 음반의 딜런은 낮은 목소리로 한 사람에게 말한다. 〈Idiot Wind〉의 분노와 〈Shelter from the Storm〉의 다정함이 한 음반에 함께 있다는 점이 이별 음반의 본보기가 된 이유다."]},
+  {"id": "young-americans", "heading": "영국 글램 스타의 필라델피아 소울", "paras": [
+   "타이틀곡 〈Young Americans〉는 색소폰이 쉬지 않고 대꾸하고, 여러 명의 코러스가 보위의 말을 받아치는 가스펠식 주고받기(Call and Response)로 가득하다. 보위는 지기 스타더스트 시절의 연극적인 목소리 대신 숨이 찰 만큼 몰아붙이는 소울 창법을 시도한다. 마지막 곡 〈Fame〉은 정반대로 비어 있다. 카를로스 알로마의 짧게 끊어 치는 기타 리프가 곡을 이끌고, 보위의 목소리가 ‘페임’을 여러 음높이로 반복하며 내려간다. 이 곡은 존 레넌과 함께 썼고, 보위의 첫 미국 1위 싱글이 됐다.",
+   "1973년 지기 스타더스트를 무대에서 은퇴시킨 보위는 미국으로 건너가 흑인 음악에 빠져들었다. 녹음은 필라델피아의 시그마 사운드 스튜디오에서 했는데, 이곳은 오제이스 같은 가수들의 매끈한 필라델피아 소울이 만들어지던 곳이다. 코러스에는 당시 무명이던 루서 밴드로스가 참여해 편곡까지 도왔다. 보위 스스로 이 음반을 ‘플라스틱 소울’이라고 불렀다. 영국 백인 스타가 흑인 음악을 빌려 입는다는 사실을 숨기지 않고 오히려 드러낸 표현이다. 그해 말 그는 흑인 음악 방송 〈Soul Train〉에 출연했다.",
+   "알로마와 리듬 섹션은 이듬해 《Station to Station》과 베를린 시절 음반에서도 보위와 함께하며, 루서 밴드로스는 1980년대 R&B의 대표 가수가 된다. 1972년 《Ziggy Stardust》와 이어 들으면 같은 사람이 3년 만에 얼마나 다른 옷을 입었는지가 분명하게 들린다."]},
+  {"id": "way-of-world", "heading": "관악기와 합창으로 쌓은 낙관", "paras": [
+   "〈Shining Star〉는 기타가 짧은 리프를 반복하는 사이로 관악기가 날카롭게 찌르고, 밴드 전원이 한목소리로 노래한다. 마지막에는 악기가 모두 빠지고 목소리만 남는다. 〈Reasons〉에서는 필립 베일리가 남성 가수가 머리 위로 띄워 내는 높은 가성(Falsetto)으로 선율을 끌고 올라간다. 리더 모리스 화이트는 엄지로 쇠막대를 튕기는 아프리카 악기 칼림바(Kalimba)를 즐겨 썼는데, 연주곡 〈Africano〉처럼 재즈와 아프리카 리듬이 섞이는 순간에 이 밴드의 뿌리가 드러난다.",
+   "모리스 화이트는 시카고에서 세션 드러머로 일했고 재즈 피아니스트 램지 루이스의 트리오에서 연주한 경력이 있다. 그는 여러 명의 가수와 관악기, 타악기를 거느린 대형 밴드를 만들고 고대 이집트와 우주의 이미지를 빌려 흑인의 자부심과 영적인 낙관을 노래했다. 이 음반은 원래 음악 산업을 다룬 같은 제목 영화의 사운드트랙이었다. 영화는 흥행에 실패했지만 음반은 앨범 차트 1위, 〈Shining Star〉는 싱글 차트 1위에 올랐다.",
+   "1960년대 말 슬라이 앤드 더 패밀리 스톤이 보여 준 ‘여럿이 함께 부르는 펑크’가 1970년대 중반에는 이렇게 정교하게 편곡된 대형 쇼가 됐다. 이 밴드의 관악 편곡과 화음은 이후 R&B와 팝의 큰 무대 사운드에 오랫동안 참고서가 됐다."]}
+ ],
+ "readings": [
+  {"title": "Blood on the Tracks · Wikipedia", "url": "https://en.wikipedia.org/wiki/Blood_on_the_Tracks"},
+  {"title": "Young Americans (album) · Wikipedia", "url": "https://en.wikipedia.org/wiki/Young_Americans_(album)"},
+  {"title": "That's the Way of the World · Wikipedia", "url": "https://en.wikipedia.org/wiki/That%27s_the_Way_of_the_World"},
+  {"title": "필라델피아 소울 · Wikipedia", "url": "https://en.wikipedia.org/wiki/Philadelphia_soul"}
+ ],
+ "edges": [
+  {"from": "highway61", "to": "blood-tracks", "type": "listen", "label": "같은 목소리가 세상에서 한 사람에게로 돌아선 10년"},
+  {"from": "ziggy", "to": "young-americans", "type": "listen", "label": "글램 록 스타가 필라델피아 소울로 옷을 갈아입기까지"},
+  {"from": "stand", "to": "way-of-world", "type": "listen", "label": "여럿이 함께 부르는 펑크가 대형 쇼가 되기까지"}
+ ]
+}
