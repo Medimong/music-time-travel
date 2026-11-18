@@ -18,7 +18,7 @@ section.view{display:none}section.view.on{display:block}
 .nav{display:flex;flex-wrap:wrap;gap:6px;padding:6px 16px 8px}.nav a{font-size:13px;color:var(--fg);text-decoration:none;border:1px solid var(--line);border-radius:12px;padding:2px 9px}
 .legend{font-size:12px;color:var(--mute);padding:0 16px 8px;display:flex;gap:14px;flex-wrap:wrap}.legend i{display:inline-block;width:22px;border-top:2px solid var(--doc);vertical-align:middle;margin-right:4px}.legend i.l{border-top:2px dashed var(--mute)}
 .scroll{overflow-x:auto;-webkit-overflow-scrolling:touch;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
-.chart{position:relative;width:__W__px;height:__H__px}svg{position:absolute;inset:0;pointer-events:none}
+.chart{position:relative;width:__W__px;height:__H__px}.chart svg{position:absolute;inset:0;pointer-events:none}
 path{fill:none;stroke-width:1.5;transition:opacity .2s}path.lis{stroke:var(--line);stroke-dasharray:5 5}path.doc{stroke:var(--doc);stroke-width:2.2}
 path.hl{stroke:var(--hi);stroke-width:3;stroke-dasharray:none;opacity:1}path.dim{opacity:.08}path.gl{stroke:var(--fg);opacity:.75}
 .band{position:absolute;left:0;right:0;background:var(--band)}.band.alt{background:var(--band2)}
@@ -54,6 +54,11 @@ path.hl{stroke:var(--hi);stroke-width:3;stroke-dasharray:none;opacity:1}path.dim
 h2.s{font-size:17px;margin:18px 0 6px}
 .recent{display:flex;gap:10px;overflow-x:auto;padding-bottom:8px}.recent button{border:0;background:none;padding:0;width:84px;text-align:center;cursor:pointer;flex:none}
 .recent img{width:80px;height:80px;border-radius:6px;display:block;margin-bottom:4px}.recent small{font-size:11px;color:var(--mute);display:block}
+.mapwrap{padding:12px 16px 60px;max-width:1200px;margin:0 auto}#mapsvg svg{width:100%;height:auto;display:block}
+#mapsvg .gl{font-size:11px;fill:var(--mute)}#mapsvg .yl{font-size:10px;fill:var(--mute)}#mapsvg .row{fill:var(--band)}
+#mapsvg circle{cursor:pointer}#mapsvg .off{fill:var(--line)}#mapsvg .on{fill:var(--acc)}#mapsvg .oth{stroke:var(--hi);stroke-width:1.4}
+#mapsvg .now{stroke:var(--hi);stroke-width:1.5;stroke-dasharray:3 3}#mapsvg .fut{fill:var(--bg);opacity:.6}
+.maphint{font-size:13px;color:var(--mute)}.lg .dot{display:inline-block;border-radius:50%;margin-right:5px;vertical-align:-1px}
 details.part{background:var(--card);border:1px solid var(--line);border-radius:10px;margin:10px 0;padding:0 14px}
 details.part summary{cursor:pointer;padding:14px 0;font-weight:700;list-style:none;display:flex;gap:10px;align-items:center}
 details.part summary small{font-weight:400;color:var(--mute)}.minis{display:flex;gap:6px;margin-left:auto}.minis img{width:34px;height:34px;border-radius:4px;opacity:.35;filter:grayscale(.8)}.minis img.done{opacity:1;filter:none}
@@ -64,7 +69,7 @@ details.part summary small{font-weight:400;color:var(--mute)}.minis{display:flex
 <header><h1>대중음악 시간여행</h1>
 <p>1965년부터 발매 순서대로 듣는 음악사. <span id="cnt"></span></p>
 <div class="who"><button data-u="gihun">기훈</button><button data-u="junghun">정훈</button><span id="prog"></span></div></header>
-<nav class="tabs"><button data-v="flow" class="on">흐름도</button><button data-v="me">내 진도</button><button data-v="read">회차별 읽기</button></nav>
+<nav class="tabs"><button data-v="flow" class="on">흐름도</button><button data-v="map">지도</button><button data-v="me">내 진도</button><button data-v="read">회차별 읽기</button></nav>
 <div id="err"></div>
 
 <section class="view on" id="v-flow">
@@ -74,6 +79,12 @@ details.part summary small{font-weight:400;color:var(--mute)}.minis{display:flex
 <div class="scroll" id="sc"><div class="chart">__BANDS____HEADS__<svg width="__W__" height="__H__">__SVG__</svg>__CARDS__</div></div>
 <div style="height:40vh"></div>
 </section>
+
+<section class="view" id="v-map"><div class="mapwrap">
+<div class="lg" id="maplg"></div>
+<div id="mapsvg"></div>
+<p class="maphint">점 하나가 음반 하나, 1965~2025년 61년을 장르별로 펼친 지도입니다. 점을 누르면 상세가 열립니다.</p>
+</div></section>
 
 <section class="view" id="v-me"><div class="wrap">
 <div class="kpi" id="kpi"></div>
@@ -125,7 +136,46 @@ function paint(){
   if(!me)return;const a=S[me];
   $$('.card').forEach(c=>c.classList.toggle('done',!!a[c.dataset.id]));
   $('#prog').textContent=`${NAME[me]}: 수업 ${lec().filter(i=>a[i]).length}/${lec().length}장 · 전체 ${ids().filter(i=>a[i]).length}/${ids().length}장`;
-  dash();parts();if(cur)open(cur);
+  dash();parts();drawMap();if(cur)open(cur);
+}
+// 61년 지도
+const SHORT={'Jazz':'Jazz','Soul / R&B':'Soul','Funk':'Funk','Afrobeat':'Afro','Reggae / Dub':'Reggae','Brazilian':'Brazil','Folk / Singer-Songwriter':'Folk','Pop / Art Pop':'Pop','Rock':'Rock','Psychedelic / Prog':'Psych','Hard Rock / Metal':'Metal','Punk & Proto-Punk':'Punk','Electronic':'Elec'};
+addEventListener('resize',()=>{if(me)drawMap()});
+function drawMap(){
+  const Y0=1965,Y1=2025,CW=17,L=150,T=26,a=S[me]||{},o=S[OTHER[me]]||{};
+  const cell={};for(const i of ids()){const m=D.m[i],k=m.g+'|'+m.y;(cell[k]=cell[k]||[]).push(i)}
+  const dot=(i,cx,cy)=>{const m=D.m[i];return `<circle data-o="${i}" cx="${cx}" cy="${cy}" r="${m.s==='sent'?3.3:2.4}" class="${a[i]?'on':'off'}${o[i]?' oth':''}"><title>${E(m.a)} · ${E(m.t)} (${m.y})</title></circle>`};
+  const front=Math.max(...lec().map(i=>D.m[i].y));
+  if(($('#mapsvg').clientWidth||innerWidth)<700){ // 폰: 연도 세로, 장르 가로
+    const LW=38,HT=58,GW=Math.max(24,Math.floor(((($('#mapsvg').clientWidth||360))-LW-4)/D.tops.length));
+    const rh=[];for(let y=Y0;y<=Y1;y++){let mx=1;for(const t of D.tops)mx=Math.max(mx,(cell[t+'|'+y]||[]).length);rh.push(Math.ceil(mx/3)*8+6)}
+    const W=LW+GW*D.tops.length+4,H=HT+rh.reduce((s,h)=>s+h,0)+6;
+    let s=`<svg viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg">`;
+    D.tops.forEach((t,c)=>{if(c%2===0)s+=`<rect class="row" x="${LW+c*GW}" y="${HT-4}" width="${GW}" height="${H-HT+4}"/>`;
+      s+=`<text class="gl" transform="translate(${LW+c*GW+GW/2+3},${HT-8}) rotate(-60)">${E(SHORT[t]||t)}</text>`});
+    let y0=HT,fy=null;
+    for(let y=Y0;y<=Y1;y++){const h=rh[y-Y0];if(y===front+1)fy=y0;
+      if(y%5===0)s+=`<text class="yl" x="${LW-6}" y="${y0+9}" text-anchor="end">${y}</text>`;
+      D.tops.forEach((t,c)=>(cell[t+'|'+y]||[]).forEach((i,k)=>{s+=dot(i,LW+c*GW+5+(k%3)*7,y0+6+Math.floor(k/3)*8)}));y0+=h}
+    if(fy!==null)s+=`<rect class="fut" x="${LW}" y="${fy}" width="${W-LW}" height="${H-fy}"/><line class="now" x1="${LW-30}" x2="${W}" y1="${fy}" y2="${fy}"/><text class="yl" x="${W-2}" y="${fy-3}" text-anchor="end" style="fill:var(--hi)">지금 여기</text>`;
+    $('#mapsvg').innerHTML=s+'</svg>';
+  }else{
+  const rowH=D.tops.map(t=>{let mx=1;for(let y=Y0;y<=Y1;y++)mx=Math.max(mx,(cell[t+'|'+y]||[]).length);return Math.ceil(mx/2)*8+12});
+  const W=L+(Y1-Y0+1)*CW+8,H=T+rowH.reduce((s,h)=>s+h,0)+6;
+  const fx=L+(front-Y0+1)*CW;
+  let s=`<svg viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg">`,y0=T;
+  D.tops.forEach((t,r)=>{if(r%2===0)s+=`<rect class="row" x="0" y="${y0}" width="${W}" height="${rowH[r]}"/>`;
+    s+=`<text class="gl" x="${L-8}" y="${y0+rowH[r]/2+4}" text-anchor="end">${E(t)}</text>`;
+    for(let y=Y0;y<=Y1;y++)(cell[t+'|'+y]||[]).forEach((i,k)=>{s+=dot(i,L+(y-Y0)*CW+5+(k%2)*7,y0+8+Math.floor(k/2)*8)});
+    y0+=rowH[r]});
+  s+=`<rect class="fut" x="${fx}" y="${T}" width="${W-fx}" height="${H-T}"/><line class="now" x1="${fx}" x2="${fx}" y1="${T-6}" y2="${H}"/>`;
+  s+=`<text class="yl" x="${fx+3}" y="${T-8}" style="fill:var(--hi)">지금 여기</text>`;
+  for(let y=Y0;y<=Y1;y+=5)s+=`<text class="yl" x="${L+(y-Y0)*CW+8}" y="12" text-anchor="middle">${y}</text>`;
+  $('#mapsvg').innerHTML=s+'</svg>';
+  }
+  const n=c=>ids().filter(i=>c[i]).length;
+  $('#maplg').innerHTML=`<span><i class="dot" style="width:9px;height:9px;background:var(--acc)"></i>${NAME[me]||''} 들음 ${n(a)}</span><span><i class="dot" style="width:9px;height:9px;background:var(--line)"></i>아직</span><span><i class="dot" style="width:9px;height:9px;border:1.6px solid var(--hi)"></i>${NAME[OTHER[me]]||'상대'} 들음 ${n(o)}</span><span>큰 점 = 수업 음반 · 작은 점 = 맥락 음반</span>`;
+  $$('#mapsvg [data-o]').forEach(c=>c.onclick=()=>open(c.dataset.o));
 }
 // 내 진도
 function bar(v,t,col){const p=t?Math.round(v/t*100):0;return `<div><span style="width:${p}%;background:${col}"></span></div>`}
