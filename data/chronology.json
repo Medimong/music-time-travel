@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "lanes": [
   "재즈와 즉흥",
   "소울과 펑크",
@@ -1542,6 +1542,63 @@
     "url": "https://music.apple.com/kr/album/1442997142",
     "label": "1–12곡 · 36분"
    }
+  },
+  {
+   "id": "on-the-beach",
+   "year": 1974,
+   "title": "On the Beach",
+   "artist": "Neil Young",
+   "short": "On the Beach",
+   "top": null,
+   "sub": null,
+   "status": "sent",
+   "part": "1974-P2",
+   "spotify": {
+    "url": "https://open.spotify.com/album/3w5Hok05AFjCLy269xXM7e",
+    "label": "8곡 · 39분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/kr/album/1015732002",
+    "label": "8곡 · 39분"
+   }
+  },
+  {
+   "id": "natty-dread",
+   "year": 1974,
+   "title": "Natty Dread",
+   "artist": "Bob Marley & The Wailers",
+   "short": "Natty Dread",
+   "top": null,
+   "sub": null,
+   "status": "sent",
+   "part": "1974-P2",
+   "spotify": {
+    "url": "https://open.spotify.com/album/2fUrVWDYASjthLVsVH53zP",
+    "label": "1–9곡 · 39분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/kr/album/1440861483",
+    "label": "1–9곡 · 39분"
+   }
+  },
+  {
+   "id": "autobahn",
+   "year": 1974,
+   "title": "Autobahn",
+   "artist": "Kraftwerk",
+   "short": "Autobahn",
+   "top": null,
+   "sub": null,
+   "status": "sent",
+   "part": "1974-P2",
+   "spotify": {
+    "url": "https://open.spotify.com/album/5ysfe4Bmv9xLNaPDrXFMBr",
+    "label": "5곡 · 43분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/kr/album/726154713",
+    "label": "5곡 · 43분"
+   }
   }
  ],
  "edges": [
@@ -2158,6 +2215,36 @@
    "to": "radio-city",
    "type": "listen",
    "label": "팔리지 않았지만 다음 세대가 찾아 들은 음반"
+  },
+  {
+   "from": "gold-rush",
+   "to": "on-the-beach",
+   "type": "listen",
+   "label": "같은 목소리가 성공 뒤에 일부러 거칠어진 4년"
+  },
+  {
+   "from": "big-pink",
+   "to": "on-the-beach",
+   "type": "listen",
+   "label": "더 밴드의 리듬 섹션이 〈Revolution Blues〉에서 다시 들린다"
+  },
+  {
+   "from": "whats-going-on",
+   "to": "natty-dread",
+   "type": "listen",
+   "label": "사회의 고통을 몸이 움직이는 리듬에 싣는 두 방식"
+  },
+  {
+   "from": "tago",
+   "to": "autobahn",
+   "type": "listen",
+   "label": "같은 서독에서 나온 반복 리듬의 두 갈래, 밴드와 기계"
+  },
+  {
+   "from": "dark-side",
+   "to": "autobahn",
+   "type": "listen",
+   "label": "신시사이저가 록 밴드의 양념에서 음악의 주인공이 되기까지"
   }
  ]
 }
