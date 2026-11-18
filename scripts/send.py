@@ -88,9 +88,6 @@ def send(to, subj, body):
 def promote(q):
     """두 사람 모두 발송된 회차를 연표에 반영."""
     c = load("data/chronology.json")
-    for ln in q.get("lanes", []):
-        if ln not in c["lanes"]:
-            c["lanes"].append(ln)
     ids = {n["id"]: n for n in c["nodes"]}
     for a in q["albums"]:
         n = ids.get(a["id"])
@@ -98,7 +95,7 @@ def promote(q):
             n = {"id": a["id"]}
             c["nodes"].append(n)
         n.update(year=q["year"], title=a["title"], artist=a["artist"], short=a.get("short", a["title"]),
-                 lane=c["lanes"].index(a["lane"]), status="sent", part=q["part"],
+                 top=a.get("top"), sub=a.get("sub"), status="sent", part=q["part"],
                  spotify={"url": a["spotify"], "label": a["length"]}, apple={"url": a["apple"], "label": a["length"]})
     have = {(e["from"], e["to"]) for e in c["edges"]}
     c["edges"] += [e for e in q.get("edges", []) if (e["from"], e["to"]) not in have]

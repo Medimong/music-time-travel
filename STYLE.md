@@ -23,10 +23,9 @@
 ```json
 {"date":"2026-11-18","part":"1974-P1","year":1974,"partNo":1,"partTotal":2,"total":"약 115분",
  "title":"그날 제목","intro":"연도 맥락 단락",
- "lanes":["새 레인 이름(필요할 때만)"],
  "albums":[{"id":"kebab-id","artist":"","title":"","short":"","released":"1974년 1월","genre":"",
    "blurb":"한 줄 소개","length":"10곡 · 42분","spotify":"https://open.spotify.com/album/...",
-   "apple":"https://music.apple.com/kr/album/<id>","lane":"기존 또는 새 레인 이름"}],
+   "apple":"https://music.apple.com/kr/album/<id>","top":"data/genres.json의 _tops 중 하나","sub":"세부장르(영문, 예: Power Pop)"}],
  "essays":[{"id":"앨범 id","heading":"소제목","paras":["단락", "단락"]}],
  "readings":[{"title":"제목","url":"https://..."}],
  "edges":[{"from":"기존 id","to":"새 id","type":"listen|document","label":"구체적인 청취 경로나 직접 관계","source":"document일 때 근거 URL"}]}

@@ -19,8 +19,8 @@
    - em dash·화살표·이모지는 쓰지 않는다.
    - 읽을거리는 실제로 열리는 URL 3–5개를 넣는다.
    - edges는 기존 노드나 앞선 큐의 앨범만 가리킨다. document 타입은 근거 URL(source)이 있을 때만 쓴다.
-   - 새 장르가 필요하면 lanes에 새 레인을 추가한다.
+   - 앨범마다 top(상위 장르, data/genres.json의 _tops 중 하나)과 sub(세부장르, 영문 관용 명칭)를 넣는다. 정말 새로운 상위 장르가 필요할 때만 _tops에 추가한다.
 6. `python3 scripts/validate.py`를 실행해 OK가 나올 때까지 고친다. 샌드박스 네트워크 제한으로 확인 자체가 불가능하면 `--offline`으로 형식만 통과시키고, 보고서에 확인하지 못한 링크를 적는다.
 7. `git add queue data/covers STYLE.md`로 스테이징하고 `원고 보충: <연도들>`로 commit한 뒤 main에 push한다. main push가 거부되면 브랜치로 push하고 main 대상 PR을 연다. PR은 자동 병합되지 않으므로 사람이 병합해야 한다는 점을 보고서 첫 줄에 적는다.
-8. `data/chronology.json`, `sent-log.json`, `scripts/`, `.github/`는 수정하지 않는다. 이미 있는 큐 파일도 고치지 않는다.
+8. `data/chronology.json`(단, data/genres.json의 _tops 추가는 허용), `sent-log.json`, `scripts/`, `.github/`는 수정하지 않는다. 이미 있는 큐 파일도 고치지 않는다.
 9. 마지막 보고: 추가한 날짜·회차·앨범 목록, 남은 버퍼 일수, 검증 결과.

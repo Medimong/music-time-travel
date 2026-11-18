@@ -9,7 +9,8 @@ errs = []
 chron = json.load(open(f"{ROOT}/data/chronology.json"))
 known = {n["id"] for n in chron["nodes"]}
 sent_ids = {n["id"] for n in chron["nodes"] if n["status"] == "sent"}
-lanes = list(chron["lanes"])
+G = json.load(open(f"{ROOT}/data/genres.json"))
+tops = G["_tops"]
 log = json.load(open(f"{ROOT}/sent-log.json")) if os.path.exists(f"{ROOT}/sent-log.json") else {}
 
 
@@ -33,15 +34,16 @@ for f in files:
     if q["date"] != f[:10]: E("date와 파일명 불일치")
     if all(f"{q['part']}|{w}" in log for w in ("gihun", "junghun")):
         known |= {a["id"] for a in q["albums"]}; continue  # 이미 보낸 회차
-    lanes += [l for l in q.get("lanes", []) if l not in lanes]
     ids = [a["id"] for a in q["albums"]]
     if len(ids) < 2: E("앨범이 2장 미만")
     if len(ids) < 3 and "두 장" not in q["intro"]: E("2장인 날은 intro에 이유를 적을 것")
     for a in q["albums"]:
-        for k in ("id", "artist", "title", "released", "genre", "blurb", "length", "spotify", "apple", "lane"):
+        for k in ("id", "artist", "title", "released", "genre", "blurb", "length", "spotify", "apple"):
             if not a.get(k): E(f"{a.get('id')} {k} 없음")
         if a["id"] in sent_ids: E(f"{a['id']} 이미 수업에서 보낸 음반")
-        if a["lane"] not in lanes: E(f"{a['id']} 레인 '{a['lane']}' 미정의")
+        top, sub = G.get(a["id"], [a.get("top"), a.get("sub")])
+        if top not in tops: E(f"{a['id']} 상위 장르 top '{top}'가 data/genres.json의 _tops에 없음")
+        if not sub: E(f"{a['id']} 세부장르 sub 없음")
         if not os.path.exists(f"{ROOT}/data/covers/{a['id']}.jpg"): E(f"{a['id']} 커버 없음")
         if not re.match(r"https://open\.spotify\.com/album/[A-Za-z0-9]{22}$", a["spotify"]): E(f"{a['id']} spotify 형식")
         m = re.match(r"https://music\.apple\.com/kr/album/(\d+)$", a["apple"])
