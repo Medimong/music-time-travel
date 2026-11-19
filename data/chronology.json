@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "lanes": [
   "재즈와 즉흥",
   "소울과 펑크",
@@ -1599,6 +1599,63 @@
     "url": "https://music.apple.com/kr/album/726154713",
     "label": "5곡 · 43분"
    }
+  },
+  {
+   "id": "blood-tracks",
+   "year": 1975,
+   "title": "Blood on the Tracks",
+   "artist": "Bob Dylan",
+   "short": "Blood on the Tracks",
+   "top": null,
+   "sub": null,
+   "status": "sent",
+   "part": "1975-P1",
+   "spotify": {
+    "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF",
+    "label": "10곡 · 52분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/kr/album/158320766",
+    "label": "10곡 · 52분"
+   }
+  },
+  {
+   "id": "young-americans",
+   "year": 1975,
+   "title": "Young Americans",
+   "artist": "David Bowie",
+   "short": "Young Americans",
+   "top": null,
+   "sub": null,
+   "status": "sent",
+   "part": "1975-P1",
+   "spotify": {
+    "url": "https://open.spotify.com/album/0lITGovWgaQGi42EfqcE5P",
+    "label": "8곡 · 41분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/kr/album/1195107061",
+    "label": "8곡 · 41분"
+   }
+  },
+  {
+   "id": "way-of-world",
+   "year": 1975,
+   "title": "That's the Way of the World",
+   "artist": "Earth, Wind & Fire",
+   "short": "That's the Way of the World",
+   "top": null,
+   "sub": null,
+   "status": "sent",
+   "part": "1975-P1",
+   "spotify": {
+    "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL",
+    "label": "8곡 · 39분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/kr/album/532975789",
+    "label": "8곡 · 39분"
+   }
   }
  ],
  "edges": [
@@ -2245,6 +2302,24 @@
    "to": "autobahn",
    "type": "listen",
    "label": "신시사이저가 록 밴드의 양념에서 음악의 주인공이 되기까지"
+  },
+  {
+   "from": "highway61",
+   "to": "blood-tracks",
+   "type": "listen",
+   "label": "같은 목소리가 세상에서 한 사람에게로 돌아선 10년"
+  },
+  {
+   "from": "ziggy",
+   "to": "young-americans",
+   "type": "listen",
+   "label": "글램 록 스타가 필라델피아 소울로 옷을 갈아입기까지"
+  },
+  {
+   "from": "stand",
+   "to": "way-of-world",
+   "type": "listen",
+   "label": "여럿이 함께 부르는 펑크가 대형 쇼가 되기까지"
   }
  ]
 }
