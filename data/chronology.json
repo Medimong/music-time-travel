@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "lanes": [
   "재즈와 즉흥",
   "소울과 펑크",
@@ -1656,6 +1656,63 @@
     "url": "https://music.apple.com/kr/album/532975789",
     "label": "8곡 · 39분"
    }
+  },
+  {
+   "id": "born-to-run",
+   "year": 1975,
+   "title": "Born to Run",
+   "artist": "Bruce Springsteen",
+   "short": "Born to Run",
+   "top": null,
+   "sub": null,
+   "status": "sent",
+   "part": "1975-P2",
+   "spotify": {
+    "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu",
+    "label": "8곡 · 39분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/kr/album/310730204",
+    "label": "8곡 · 39분"
+   }
+  },
+  {
+   "id": "wish-you-were-here",
+   "year": 1975,
+   "title": "Wish You Were Here",
+   "artist": "Pink Floyd",
+   "short": "Wish You Were Here",
+   "top": null,
+   "sub": null,
+   "status": "sent",
+   "part": "1975-P2",
+   "spotify": {
+    "url": "https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw",
+    "label": "5곡 · 44분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/kr/album/1065973975",
+    "label": "5곡 · 44분"
+   }
+  },
+  {
+   "id": "another-green-world",
+   "year": 1975,
+   "title": "Another Green World",
+   "artist": "Brian Eno",
+   "short": "Another Green World",
+   "top": null,
+   "sub": null,
+   "status": "sent",
+   "part": "1975-P2",
+   "spotify": {
+    "url": "https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY",
+    "label": "14곡 · 41분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/kr/album/724357753",
+    "label": "14곡 · 41분"
+   }
   }
  ],
  "edges": [
@@ -2320,6 +2377,32 @@
    "to": "way-of-world",
    "type": "listen",
    "label": "여럿이 함께 부르는 펑크가 대형 쇼가 되기까지"
+  },
+  {
+   "from": "pet-sounds",
+   "to": "born-to-run",
+   "type": "listen",
+   "label": "스펙터식 소리의 벽이 내면과 거리로 갈라진 두 방향"
+  },
+  {
+   "from": "dark-side",
+   "to": "wish-you-were-here",
+   "type": "document",
+   "label": "엄청난 성공 직후 같은 밴드의 다음 정규 음반",
+   "source": "https://en.wikipedia.org/wiki/Wish_You_Were_Here_(Pink_Floyd_album)"
+  },
+  {
+   "from": "piper",
+   "to": "wish-you-were-here",
+   "type": "document",
+   "label": "첫 음반의 리더 시드 배럿에게 바친 〈Shine On You Crazy Diamond〉",
+   "source": "https://en.wikipedia.org/wiki/Shine_On_You_Crazy_Diamond"
+  },
+  {
+   "from": "eno-warm-jets",
+   "to": "another-green-world",
+   "type": "listen",
+   "label": "같은 음악가가 록의 소란에서 고요한 질감으로"
   }
  ]
 }
