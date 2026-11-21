@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "lanes": [
   "재즈와 즉흥",
   "소울과 펑크",
@@ -1713,6 +1713,63 @@
     "url": "https://music.apple.com/kr/album/724357753",
     "label": "14곡 · 41분"
    }
+  },
+  {
+   "id": "horses",
+   "year": 1975,
+   "title": "Horses",
+   "artist": "Patti Smith",
+   "short": "Horses",
+   "top": null,
+   "sub": null,
+   "status": "sent",
+   "part": "1975-P3",
+   "spotify": {
+    "url": "https://open.spotify.com/album/3EB1sESQb1FRIAGEaHyb8R",
+    "label": "8곡 · 43분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/kr/album/1038568061",
+    "label": "8곡 · 43분"
+   }
+  },
+  {
+   "id": "night-opera",
+   "year": 1975,
+   "title": "A Night at the Opera",
+   "artist": "Queen",
+   "short": "A Night at the Opera",
+   "top": null,
+   "sub": null,
+   "status": "sent",
+   "part": "1975-P3",
+   "spotify": {
+    "url": "https://open.spotify.com/album/7HVoV2lgVsmuiHsjbbUJB4",
+    "label": "12곡 · 43분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/kr/album/6781023399",
+    "label": "12곡 · 43분"
+   }
+  },
+  {
+   "id": "mothership",
+   "year": 1975,
+   "title": "Mothership Connection",
+   "artist": "Parliament",
+   "short": "Mothership Connection",
+   "top": null,
+   "sub": null,
+   "status": "sent",
+   "part": "1975-P3",
+   "spotify": {
+    "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2",
+    "label": "7곡 · 38분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/kr/album/1440837684",
+    "label": "7곡 · 38분"
+   }
   }
  ],
  "edges": [
@@ -2403,6 +2460,31 @@
    "to": "another-green-world",
    "type": "listen",
    "label": "같은 음악가가 록의 소란에서 고요한 질감으로"
+  },
+  {
+   "from": "velvet-nico",
+   "to": "horses",
+   "type": "document",
+   "label": "벨벳 언더그라운드의 존 케일이 제작",
+   "source": "https://en.wikipedia.org/wiki/Horses_(album)"
+  },
+  {
+   "from": "sgt-pepper",
+   "to": "night-opera",
+   "type": "listen",
+   "label": "녹음실을 무대로 삼는 생각이 가장 화려해졌을 때"
+  },
+  {
+   "from": "maggot",
+   "to": "mothership",
+   "type": "listen",
+   "label": "같은 조지 클린턴 집단의 다른 이름, 기타 대신 관악기와 신시사이저"
+  },
+  {
+   "from": "sex-machine",
+   "to": "mothership",
+   "type": "listen",
+   "label": "제임스 브라운 밴드 출신 연주자들이 이어 간 ‘원’의 그루브"
   }
  ]
 }
