@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "lanes": [
   "재즈와 즉흥",
   "소울과 펑크",
@@ -1770,6 +1770,63 @@
     "url": "https://music.apple.com/kr/album/1440837684",
     "label": "7곡 · 38분"
    }
+  },
+  {
+   "id": "station-to-station",
+   "year": 1976,
+   "title": "Station to Station",
+   "artist": "David Bowie",
+   "short": "Station to Station",
+   "top": null,
+   "sub": null,
+   "status": "sent",
+   "part": "1976-P1",
+   "spotify": {
+    "url": "https://open.spotify.com/album/0MWrKayUshRuT8maG4ZAOU",
+    "label": "6곡 · 38분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/kr/album/1195104858",
+    "label": "6곡 · 38분"
+   }
+  },
+  {
+   "id": "ramones",
+   "year": 1976,
+   "title": "Ramones",
+   "artist": "Ramones",
+   "short": "Ramones",
+   "top": null,
+   "sub": null,
+   "status": "sent",
+   "part": "1976-P1",
+   "spotify": {
+    "url": "https://open.spotify.com/album/7u31R0chlCbztAqHlEEQM6",
+    "label": "14곡 · 29분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/kr/album/847972873",
+    "label": "14곡 · 29분"
+   }
+  },
+  {
+   "id": "super-ape",
+   "year": 1976,
+   "title": "Super Ape",
+   "artist": "The Upsetters",
+   "short": "Super Ape",
+   "top": null,
+   "sub": null,
+   "status": "sent",
+   "part": "1976-P1",
+   "spotify": {
+    "url": "https://open.spotify.com/album/6vvu7QDWpkG3qkpQ2P84rM",
+    "label": "1–10곡 · 38분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/kr/album/1443210297",
+    "label": "1–10곡 · 38분"
+   }
   }
  ],
  "edges": [
@@ -2485,6 +2542,43 @@
    "to": "mothership",
    "type": "listen",
    "label": "제임스 브라운 밴드 출신 연주자들이 이어 간 ‘원’의 그루브"
+  },
+  {
+   "from": "young-americans",
+   "to": "station-to-station",
+   "type": "document",
+   "label": "같은 리듬 기타리스트 알로마와 이어 간 다음 정규 음반",
+   "source": "https://en.wikipedia.org/wiki/Station_to_Station"
+  },
+  {
+   "from": "wild-wind",
+   "to": "station-to-station",
+   "type": "listen",
+   "label": "같은 곡 〈Wild Is the Wind〉를 두 사람의 목소리로"
+  },
+  {
+   "from": "autobahn",
+   "to": "station-to-station",
+   "type": "listen",
+   "label": "고속도로와 기찻길, 반복되는 이동의 박동"
+  },
+  {
+   "from": "stooges",
+   "to": "ramones",
+   "type": "listen",
+   "label": "단순한 리프와 날것의 소리를 더 짧고 빠르게"
+  },
+  {
+   "from": "horses",
+   "to": "ramones",
+   "type": "listen",
+   "label": "같은 CBGB 무대의 두 끝, 긴 시와 2분짜리 구호"
+  },
+  {
+   "from": "natty-dread",
+   "to": "super-ape",
+   "type": "listen",
+   "label": "노래하는 레게와 소리를 뜯어낸 덥"
   }
  ]
 }
