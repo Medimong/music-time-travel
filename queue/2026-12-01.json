@@ -1,0 +1,123 @@
+{
+ "date": "2026-12-01",
+ "part": "1979-P1",
+ "year": 1979,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 119분",
+ "title": "텅 빈 공간의 베이스, 지옥행 고속도로, 디스코의 마지막 우아함",
+ "intro": "1979년 영국은 파업이 잇따른 ‘불만의 겨울’을 지나 5월에 마거릿 대처를 총리로 맞았다. 이란 혁명으로 두 번째 석유 파동이 닥쳤고, 7월 일본에서는 소니 워크맨이 나와 음악을 혼자 걸으며 듣는 시대가 열렸다. 같은 7월 미국 시카고의 야구장에서는 디스코 음반을 모아 폭파하는 ‘디스코 폭파의 밤’ 행사가 열렸는데, 그 밑바닥에는 흑인과 동성애자 문화에 대한 반감도 섞여 있었다. 오늘의 세 음반은 이 해 여름에 나왔다. 맨체스터의 조이 디비전은 무너진 공업 도시의 공허를, 호주의 AC/DC는 가장 단순하고 큰 록을, 뉴욕의 시크는 디스코가 공격받던 바로 그때 가장 우아한 그루브를 내놓았다.",
+ "albums": [
+  {
+   "id": "unknown-pleasures",
+   "artist": "Joy Division",
+   "title": "Unknown Pleasures",
+   "short": "Unknown Pleasures",
+   "released": "1979년 6월",
+   "genre": "포스트펑크",
+   "blurb": "맨체스터의 공허를 텅 빈 공간과 선율적인 베이스로 그린 포스트펑크의 대표작.",
+   "length": "10곡 · 39분",
+   "spotify": "https://open.spotify.com/album/5Dgqy4bBg09Rdw7CQM545s",
+   "apple": "https://music.apple.com/kr/album/1476702180"
+  },
+  {
+   "id": "highway-to-hell",
+   "artist": "AC/DC",
+   "title": "Highway to Hell",
+   "short": "Highway to Hell",
+   "released": "1979년 7월",
+   "genre": "하드 록",
+   "blurb": "본 스콧의 마지막 음반이 된, 가장 단순한 리프로 가장 큰 소리를 낸 하드 록.",
+   "length": "10곡 · 42분",
+   "spotify": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS",
+   "apple": "https://music.apple.com/kr/album/574043989"
+  },
+  {
+   "id": "risque",
+   "artist": "Chic",
+   "title": "Risqué",
+   "short": "Risqué",
+   "released": "1979년 7월",
+   "genre": "디스코",
+   "blurb": "〈Good Times〉의 베이스 라인이 곧바로 첫 힙합 히트곡의 바탕이 된 시크의 세 번째 음반.",
+   "length": "7곡 · 36분",
+   "spotify": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU",
+   "apple": "https://music.apple.com/kr/album/1442986865"
+  }
+ ],
+ "essays": [
+  {
+   "id": "unknown-pleasures",
+   "heading": "텅 빈 공간에 울리는 베이스",
+   "paras": [
+    "조이 디비전에서는 베이스가 노래한다. 피터 훅은 베이스의 높은 줄로 선율을 연주하고, 그 아래를 드럼이 받친다. 제작자 마틴 해닛은 스티븐 모리스의 드럼을 마른 소리로 따로 떼어 녹음한 뒤 기계 장비로 울림을 입혀서, 드럼이 넓고 차가운 방 저편에서 울리는 것처럼 만들었다. 악기 사이에 남은 빈 공간 위로 이언 커티스의 낮고 무거운 목소리가 떨어진다. 〈Disorder〉에서 시작해 〈She's Lost Control〉, 〈Shadowplay〉, 〈New Dawn Fades〉까지, 펑크의 속도는 남아 있지만 분노 대신 불안과 고립이 들린다.",
+    "1976년 6월 맨체스터에서 열린 섹스 피스톨스의 공연을 본 젊은이들 가운데 훅과 버나드 섬너가 있었다. 그들은 밴드를 만들어 처음에는 보위의 〈Warszawa〉에서 따온 워소라는 이름을 썼다. 공장들이 문을 닫아 가던 맨체스터의 황량한 거리와 독립 음반사 팩토리 레코드가 이 음반의 배경이다. 피터 새빌이 디자인한 표지의 물결선은 천문학 백과사전에 실린 펄서 전파 그래프다. 커티스는 뇌전증과 우울을 앓다가 이듬해 5월 세상을 떠났고, 남은 멤버들은 뉴 오더가 됐다.",
+    "이 음반은 포스트펑크, 고딕 록, 이후 인디 록의 어두운 계보에서 가장 자주 언급되는 출발점이다. 1977년 보위의 《Low》 뒷면과 이어 들으면 밴드 이름이 어디서 왔는지, 그리고 그 공기가 어떻게 이어졌는지 들린다."
+   ]
+  },
+  {
+   "id": "highway-to-hell",
+   "heading": "가장 단순한 리프의 힘",
+   "paras": [
+    "타이틀곡의 기타 리프는 단 세 개의 화음으로 이루어져 있다. 말콤 영은 화음을 꽉 채워 긁기보다 짧게 치고 비워 두며 리듬의 뼈대를 세우고, 동생 앵거스 영의 리드 기타가 그 위를 날카롭게 찌른다. 리프와 리프 사이의 빈자리가 크기 때문에 소리가 오히려 더 크게 느껴진다. 본 스콧은 갈라진 목소리로 지옥행 고속도로를 달리는 삶을 장난스럽게 노래하고, 후렴에서는 여러 사람이 함께 소리를 높인다.",
+    "AC/DC는 스코틀랜드에서 이민 온 영 형제가 호주에서 만든 밴드다. 이 음반에서 처음으로 제작자 로버트 존 ‘머트’ 랭을 만나 곡의 구조와 코러스를 단단하게 다듬었고, 미국에서 처음으로 큰 성공을 거뒀다. 그러나 1980년 2월 본 스콧이 세상을 떠나면서 이 음반은 그의 마지막 앨범이 됐다. 밴드는 새 보컬 브라이언 존슨과 함께 같은 해 《Back in Black》을 냈다.",
+    "1978년 밴 헤일런이 기타의 기교를 보여 줬다면, AC/DC는 기교를 최대한 덜어 낸 리프의 힘을 보여 준다. 두 음반을 이어 들으면 하드 록이 1980년대로 넘어가며 갈라진 두 방향이 들린다."
+   ]
+  },
+  {
+   "id": "risque",
+   "heading": "공격받던 디스코의 가장 우아한 순간",
+   "paras": [
+    "〈Good Times〉는 버나드 에드워즈의 베이스 라인 하나로 기억된다. 몇 개의 음이 반복되다 미끄러지듯 움직이는 이 선율은 한 번 들으면 잊기 어렵다. 나일 로저스의 기타는 짧게 끊어 리듬을 채우고, 현악기와 보컬은 절제된 채 흐른다. 가사는 ‘좋은 시절’을 노래하지만, 대공황 시절의 노래 제목들을 슬쩍 끌어와 경제가 어려운 시기에 애써 즐거움을 붙잡는 분위기를 담았다.",
+    "이 음반은 1979년 7월 30일에 나왔다. 시카고에서 디스코 음반을 폭파한 지 3주도 지나지 않은 때였다. 그러나 디스코의 소리는 사라지지 않고 다른 이름으로 옮겨 갔다. 같은 해 9월 뉴욕의 슈거힐 갱은 〈Good Times〉의 베이스 라인을 밴드가 다시 연주한 반주 위에서 랩을 한 〈Rapper's Delight〉를 냈고, 이 곡이 상업적으로 성공한 첫 힙합 싱글이 됐다. 이듬해 퀸의 〈Another One Bites the Dust〉도 이 베이스 라인에서 영향을 받은 것으로 알려져 있다.",
+    "1978년 《C'est Chic》과 이어 들으면 같은 두 사람이 1년 만에 화려함을 덜고 더 차분한 그루브로 옮겨 간 것이 들린다. 디스코가 끝났다는 말은 장르 이름이 사라졌다는 뜻이었을 뿐, 그 리듬은 힙합과 1980년대 팝 속에서 계속 살아남았다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Unknown Pleasures · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Unknown_Pleasures"
+  },
+  {
+   "title": "Highway to Hell · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Highway_to_Hell"
+  },
+  {
+   "title": "Risqué (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Risqu%C3%A9_(album)"
+  },
+  {
+   "title": "Disco Demolition Night · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Disco_Demolition_Night"
+  }
+ ],
+ "edges": [
+  {
+   "from": "low",
+   "to": "unknown-pleasures",
+   "type": "document",
+   "label": "보위의 〈Warszawa〉에서 따온 첫 밴드 이름 워소",
+   "source": "https://en.wikipedia.org/wiki/Joy_Division"
+  },
+  {
+   "from": "bollocks",
+   "to": "unknown-pleasures",
+   "type": "listen",
+   "label": "섹스 피스톨스 공연을 본 맨체스터 청년들의 포스트펑크"
+  },
+  {
+   "from": "van-halen",
+   "to": "highway-to-hell",
+   "type": "listen",
+   "label": "기교와 단순함, 하드 록의 두 방향"
+  },
+  {
+   "from": "cest-chic",
+   "to": "risque",
+   "type": "document",
+   "label": "같은 밴드의 다음 정규 음반",
+   "source": "https://en.wikipedia.org/wiki/Risqu%C3%A9_(album)"
+  }
+ ]
+}

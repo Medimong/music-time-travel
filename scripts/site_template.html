@@ -224,5 +224,8 @@ $('#chk').onclick=async()=>{if(!me||!cur)return;const ref=doc(db,'listen',me),on
   try{if(on)await setDoc(ref,{a:{[cur]:Date.now()},at:serverTimestamp()},{merge:true});else await updateDoc(ref,{['a.'+cur]:deleteField(),at:serverTimestamp()})}
   catch(e){$('#err').textContent='저장 실패: '+e.code}};
 if(me&&NAME[me])pick(me);else paint();
+// 날짜가 바뀌면(자정이 지나면) 새 회차가 보이도록 캐시를 피해 다시 불러온다
+const recheck=()=>{const t=new Date(Date.now()+9*3600e3).toISOString().slice(0,10);if(t!==TODAY)location.replace(location.pathname+'?d='+t)};
+document.addEventListener('visibilitychange',()=>{if(!document.hidden)recheck()});setInterval(recheck,60000);
 addEventListener('load',()=>{const v=$$('.yr').filter(e=>e.style.display!=='none').pop();if(v)$('#sc').scrollLeft=v.offsetLeft-200});
 </script></body></html>

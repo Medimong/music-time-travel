@@ -1,0 +1,121 @@
+{
+ "date": "2026-11-26",
+ "part": "1977-P2",
+ "year": 1977,
+ "partNo": 2,
+ "partTotal": 3,
+ "total": "약 114분",
+ "title": "유럽을 달리는 기차, 런던의 하얀 폭동, 뮌헨에서 온 미래",
+ "intro": "1977년 봄에 나온 세 음반은 서독 뒤셀도르프, 영국 런던, 서독 뮌헨에서 만들어졌다. 크라프트베르크는 국경을 넘나드는 열차로 전쟁 뒤의 유럽을 하나의 풍경으로 그렸고, 클래시는 실업과 인종 갈등으로 들끓던 런던 거리에서 분노를 2분짜리 노래로 만들었다. 미국 가수 도나 서머는 뮌헨의 제작자 조르조 모로더와 함께 신시사이저만으로 춤곡을 만들었다. 서로 아무 관계가 없어 보이지만 세 음반 모두 1960년대 록 밴드의 방식에서 벗어나 기계와 거리, 댄스 플로어에서 새로운 소리를 찾았다. 오늘 들을 세 장은 뒤이은 10년의 전자음악, 펑크, 댄스음악이 각각 어디서 출발했는지 보여 준다.",
+ "albums": [
+  {
+   "id": "trans-europe",
+   "artist": "Kraftwerk",
+   "title": "Trans-Europe Express",
+   "short": "Trans-Europe Express",
+   "released": "1977년 3월",
+   "genre": "전자음악",
+   "blurb": "유럽을 가로지르는 열차의 리듬을 전자음으로 옮긴, 힙합과 테크노가 가장 많이 빌려 쓴 음반.",
+   "length": "8곡 · 43분",
+   "spotify": "https://open.spotify.com/album/0HHRIVjvBcnTepfeRVgS2f",
+   "apple": "https://music.apple.com/kr/album/726144557"
+  },
+  {
+   "id": "clash1977",
+   "artist": "The Clash",
+   "title": "The Clash",
+   "short": "The Clash",
+   "released": "1977년 4월",
+   "genre": "펑크",
+   "blurb": "실업과 인종 갈등의 런던을 노래한 펑크 데뷔작, 레게 커버 〈Police and Thieves〉가 실렸다.",
+   "length": "14곡 · 35분",
+   "spotify": "https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo",
+   "apple": "https://music.apple.com/kr/album/684737755"
+  },
+  {
+   "id": "remember-yesterday",
+   "artist": "Donna Summer",
+   "title": "I Remember Yesterday",
+   "short": "I Remember Yesterday",
+   "released": "1977년 5월",
+   "genre": "디스코",
+   "blurb": "과거의 팝을 시대별로 훑다가 마지막 곡 〈I Feel Love〉에서 신시사이저 춤곡의 미래로 뛰어넘는 음반.",
+   "length": "8곡 · 36분",
+   "spotify": "https://open.spotify.com/album/04nlrp346ZfIBhxsNOxpqe",
+   "apple": "https://music.apple.com/kr/album/1442959303"
+  }
+ ],
+ "essays": [
+  {
+   "id": "trans-europe",
+   "heading": "레일 위의 박자",
+   "paras": [
+    "타이틀곡 〈Trans-Europe Express〉는 열차 바퀴가 레일 이음새를 넘어갈 때의 철컥거림을 전자음으로 흉내 낸 리듬 위에서 움직인다. 금속을 두드리는 듯한 차가운 박자가 일정하게 이어지고, 단순한 선율이 그 위로 지나가며, 곡은 끊기지 않고 〈Metal on Metal〉의 쇳소리 타악기로 넘어간다. 가사에는 역에서 역으로 달려 뒤셀도르프로 돌아와 ‘이기 팝과 데이비드 보위를 만난다’는 구절이 나온다. 당시 보위가 이들의 음악에 빠져 있었다는 사실을 생각하면 재미있는 농담이다.",
+    "트랜스 유럽 익스프레스는 1957년부터 서유럽의 주요 도시를 잇던 국제 특급열차의 이름이다. 전쟁으로 갈라졌던 대륙을 열차가 하나로 묶는 모습은 미국 록이 아닌 유럽의 대중음악을 만들고 싶어 했던 크라프트베르크의 생각과 잘 맞았다. 〈Showroom Dummies〉와 〈The Hall of Mirrors〉에서는 진열장의 마네킹과 거울 속 자기 모습을 노래하며 대중 앞에 서는 음악가의 이미지 자체를 낯설게 바라본다.",
+    "1982년 뉴욕의 아프리카 밤바타는 이 곡의 선율을 가져와 〈Planet Rock〉을 만들었고, 이 곡은 일렉트로와 초기 힙합의 기준이 됐다. 디트로이트의 테크노 음악가들도 크라프트베르크를 출발점으로 꼽는다. 1974년 《Autobahn》의 고속도로와 이 음반의 철도를 이어 들으면 기계의 반복이 어떻게 춤추는 리듬으로 바뀌어 가는지 들린다."
+   ]
+  },
+  {
+   "id": "clash1977",
+   "heading": "런던 거리의 분노",
+   "paras": [
+    "《The Clash》는 거칠고 빠르다. 조 스트러머가 목을 긁듯 외치고, 믹 존스의 기타가 짧은 리프를 내리꽂으며, 대부분의 곡이 2~3분 안에 끝난다. 그런데 가사는 막연한 반항보다 훨씬 구체적이다. 〈Career Opportunities〉는 젊은이에게 남은 일자리가 군대와 경찰, 지루한 사무직뿐이라고 비꼬고, 〈London's Burning〉은 텔레비전만 켜진 채 무료하게 타들어 가는 도시를 그린다. 〈White Riot〉은 백인 젊은이들도 흑인 젊은이들처럼 자기 문제로 들고일어나야 한다는 외침이다.",
+    "1976년 8월 런던 노팅힐 카니발에서 서인도 출신 젊은이들과 경찰이 충돌했을 때 스트러머와 베이시스트 폴 시모넌이 그 현장에 있었고, 이 경험이 〈White Riot〉이 됐다. 음반은 1977년 2월 몇 차례의 주말 동안 4천 파운드 정도의 비용으로 녹음됐다. 미국 음반사는 소리가 너무 거칠다며 발매를 2년 가까이 미뤘고, 그 사이 이 음반은 미국에서 가장 많이 팔린 수입 음반 가운데 하나가 됐다.",
+    "6분짜리 〈Police and Thieves〉는 1976년 리 스크래치 페리가 제작한 주니어 머빈의 레게 곡을 다시 부른 것이다. 펑크 밴드가 레게를 연주한다는 사실 자체가 같은 거리에서 살던 백인 노동계급과 카리브계 이민자 문화의 만남을 보여 준다. 1976년 페리의 《Super Ape》와 이어 들은 뒤, 12월 3일에 올 《London Calling》에서 이 만남이 어디까지 넓어지는지 들어 보자."
+   ]
+  },
+  {
+   "id": "remember-yesterday",
+   "heading": "어제를 지나 미래로",
+   "paras": [
+    "《I Remember Yesterday》는 대중음악의 시대를 하나씩 지나가는 음반이다. 첫 곡은 1940년대 스윙 밴드처럼 시작하고, 〈Love's Unkind〉는 1960년대 걸 그룹의 화음과 손뼉을, 〈Back in Love Again〉은 모타운의 소울을 흉내 낸다. 그리고 마지막 곡 〈I Feel Love〉에서 음반은 갑자기 미래로 뛰어넘는다. 이 곡의 반주는 킥 드럼 정도를 빼면 모두 무그(Moog) 신시사이저로 만든 것으로 알려져 있다. 같은 음을 빠르게 반복하는 베이스에 메아리가 걸려 말이 질주하는 듯한 박동이 생기고, 그 위로 도나 서머의 목소리가 높고 가볍게 떠다닌다.",
+    "도나 서머는 미국 보스턴 출신이지만 뮤지컬 〈Hair〉의 독일 공연에 참여하면서 뮌헨에 자리를 잡았다. 그곳에서 이탈리아 출신 제작자 조르조 모로더, 작사가 피트 벨로트와 함께 유럽식 디스코를 만들었다. 미국 디스코가 현악기와 관악기로 풍성했다면 이들의 소리는 기계의 반복을 그대로 드러냈다. 베를린에서 《Low》 작업 중이던 브라이언 이노가 이 곡을 듣고 보위에게 ‘미래의 소리’를 들었다고 말했다는 일화가 전해진다.",
+    "〈I Feel Love〉 이후 하이 에너지(Hi-NRG), 신스팝, 하우스, 테크노가 차례로 생겨났다. 오늘 들은 크라프트베르크와 이 곡을 이어 들으면, 유럽의 전자음이 한쪽에서는 예술로, 다른 쪽에서는 댄스 플로어로 동시에 퍼져 나간 1977년 봄이 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Trans-Europe Express (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Trans-Europe_Express_(album)"
+  },
+  {
+   "title": "The Clash (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Clash_(album)"
+  },
+  {
+   "title": "I Remember Yesterday · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/I_Remember_Yesterday"
+  },
+  {
+   "title": "I Feel Love · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/I_Feel_Love"
+  }
+ ],
+ "edges": [
+  {
+   "from": "autobahn",
+   "to": "trans-europe",
+   "type": "listen",
+   "label": "고속도로에서 철도로, 기계의 반복이 춤의 리듬이 되기까지"
+  },
+  {
+   "from": "ramones",
+   "to": "clash1977",
+   "type": "listen",
+   "label": "뉴욕의 2분짜리 펑크가 런던의 거리 노래로"
+  },
+  {
+   "from": "super-ape",
+   "to": "clash1977",
+   "type": "listen",
+   "label": "리 페리가 제작한 〈Police and Thieves〉를 펑크로"
+  },
+  {
+   "from": "autobahn",
+   "to": "remember-yesterday",
+   "type": "listen",
+   "label": "신시사이저 반복이 댄스 플로어로 간 길"
+  }
+ ]
+}

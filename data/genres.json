@@ -1,102 +1,519 @@
 {
- "_tops": ["Jazz", "Soul / R&B", "Funk", "Afrobeat", "Reggae / Dub", "Brazilian", "Folk / Singer-Songwriter", "Pop / Art Pop", "Rock", "Psychedelic / Prog", "Hard Rock / Metal", "Punk & Proto-Punk", "Electronic"],
- "love-supreme": ["Jazz", "Spiritual Jazz"],
- "wild-wind": ["Jazz", "Vocal Jazz"],
- "silent-way": ["Jazz", "Jazz Fusion"],
- "bitches": ["Jazz", "Jazz Fusion"],
- "head-hunters": ["Jazz", "Jazz-Funk"],
- "otis-blue": ["Soul / R&B", "Southern Soul"],
- "aretha1967": ["Soul / R&B", "Southern Soul"],
- "curtis": ["Soul / R&B", "Chicago Soul"],
- "whats-going-on": ["Soul / R&B", "Concept Soul"],
- "still-love": ["Soul / R&B", "Memphis Soul"],
- "talking-book": ["Soul / R&B", "Progressive Soul"],
- "innervisions": ["Soul / R&B", "Progressive Soul"],
- "sitkol": ["Soul / R&B", "Progressive Soul"],
- "young-americans": ["Soul / R&B", "Blue-Eyed Soul"],
- "stand": ["Funk", "Psychedelic Soul"],
- "riot": ["Funk", "Funk"],
- "sex-machine": ["Funk", "Funk"],
- "maggot": ["Funk", "Psychedelic Funk"],
- "mothership": ["Funk", "P-Funk"],
- "way-of-world": ["Funk", "Funk · Soul"],
- "fela-live": ["Afrobeat", "Afrobeat"],
- "gentleman": ["Afrobeat", "Afrobeat"],
- "zombie": ["Afrobeat", "Afrobeat"],
- "natty-dread": ["Reggae / Dub", "Roots Reggae"],
- "super-ape": ["Reggae / Dub", "Dub"],
- "tropicalia": ["Brazilian", "Tropicália"],
- "clube": ["Brazilian", "MPB"],
- "highway61": ["Folk / Singer-Songwriter", "Folk Rock"],
- "bringing-home": ["Folk / Singer-Songwriter", "Folk Rock"],
- "blonde": ["Folk / Singer-Songwriter", "Folk Rock"],
- "blood-tracks": ["Folk / Singer-Songwriter", "Folk Rock"],
- "parsley": ["Folk / Singer-Songwriter", "Folk Pop"],
- "bridge": ["Folk / Singer-Songwriter", "Folk Pop"],
- "cohen": ["Folk / Singer-Songwriter", "Chamber Folk"],
- "pink-moon": ["Folk / Singer-Songwriter", "Chamber Folk"],
- "astral-weeks": ["Folk / Singer-Songwriter", "Folk Jazz"],
- "blue": ["Folk / Singer-Songwriter", "Singer-Songwriter"],
- "court-spark": ["Folk / Singer-Songwriter", "Folk Jazz · Soft Rock"],
- "tapestry": ["Folk / Singer-Songwriter", "Soft Rock"],
- "gold-rush": ["Folk / Singer-Songwriter", "Folk Rock"],
- "on-the-beach": ["Folk / Singer-Songwriter", "Folk Rock"],
- "rubber-soul": ["Pop / Art Pop", "Pop Rock"],
- "today": ["Pop / Art Pop", "Pop Rock"],
- "pet-sounds": ["Pop / Art Pop", "Baroque Pop"],
- "revolver": ["Pop / Art Pop", "Psychedelic Pop"],
- "sgt-pepper": ["Pop / Art Pop", "Psychedelic Pop"],
- "odessey": ["Pop / Art Pop", "Baroque Pop"],
- "white-album": ["Pop / Art Pop", "Rock · Eclectic"],
- "abbey": ["Pop / Art Pop", "Pop Rock"],
- "melody-nelson": ["Pop / Art Pop", "Chanson · Orchestral Pop"],
- "tambourine": ["Rock", "Folk Rock · Jangle"],
- "my-generation": ["Rock", "Mod · Beat"],
- "face": ["Rock", "British Beat"],
- "village": ["Rock", "Baroque Pop"],
- "big-pink": ["Rock", "Roots Rock"],
- "beggars": ["Rock", "Roots Rock"],
- "let-bleed": ["Rock", "Blues Rock"],
- "exile": ["Rock", "Roots Rock"],
- "tommy": ["Rock", "Rock Opera"],
- "santana": ["Rock", "Latin Rock"],
- "plastic-ono": ["Rock", "Singer-Songwriter Rock"],
- "all-things": ["Rock", "Rock · Wall of Sound"],
- "ziggy": ["Rock", "Glam Rock"],
- "for-your-pleasure": ["Rock", "Art Rock · Glam"],
- "eno-warm-jets": ["Rock", "Art Rock · Glam"],
- "happy-end": ["Rock", "Japanese Folk Rock"],
- "radio-city": ["Rock", "Power Pop"],
- "born-to-run": ["Rock", "Heartland Rock"],
- "station-to-station": ["Rock", "Art Rock"],
- "elevators": ["Psychedelic / Prog", "Psychedelic Rock"],
- "freak-out": ["Psychedelic / Prog", "Experimental Rock"],
- "forever": ["Psychedelic / Prog", "Baroque Psych"],
- "doors": ["Psychedelic / Prog", "Psychedelic Rock"],
- "piper": ["Psychedelic / Prog", "Psychedelic Rock"],
- "surrealistic": ["Psychedelic / Prog", "Psychedelic Rock"],
- "disraeli": ["Psychedelic / Prog", "Psychedelic Blues Rock"],
- "experienced": ["Psychedelic / Prog", "Psychedelic Rock"],
- "electric-ladyland": ["Psychedelic / Prog", "Psychedelic Rock"],
- "crimson": ["Psychedelic / Prog", "Progressive Rock"],
- "meddle": ["Psychedelic / Prog", "Progressive Rock"],
- "fragile": ["Psychedelic / Prog", "Progressive Rock"],
- "aqualung": ["Psychedelic / Prog", "Progressive Rock"],
- "tago": ["Psychedelic / Prog", "Krautrock"],
- "dark-side": ["Psychedelic / Prog", "Progressive Rock"],
- "wish-you-were-here": ["Psychedelic / Prog", "Progressive Rock"],
- "led-zep2": ["Hard Rock / Metal", "Hard Rock"],
- "paranoid": ["Hard Rock / Metal", "Heavy Metal"],
- "led-zep4": ["Hard Rock / Metal", "Hard Rock"],
- "night-opera": ["Hard Rock / Metal", "Hard Rock · Art Rock"],
- "sonics": ["Punk & Proto-Punk", "Garage Rock"],
- "velvet-nico": ["Punk & Proto-Punk", "Art Rock · Proto-Punk"],
- "white-light": ["Punk & Proto-Punk", "Noise Rock · Proto-Punk"],
- "stooges": ["Punk & Proto-Punk", "Proto-Punk"],
- "mc5": ["Punk & Proto-Punk", "Proto-Punk"],
- "fun-house": ["Punk & Proto-Punk", "Proto-Punk"],
- "horses": ["Punk & Proto-Punk", "Art Punk"],
- "ramones": ["Punk & Proto-Punk", "Punk Rock"],
- "autobahn": ["Electronic", "Krautrock · Electronic"],
- "another-green-world": ["Electronic", "Ambient · Art Pop"]
+ "_tops": [
+  "Jazz",
+  "Soul / R&B",
+  "Funk",
+  "Disco",
+  "Afrobeat",
+  "Reggae / Dub",
+  "Brazilian",
+  "Folk / Singer-Songwriter",
+  "Pop / Art Pop",
+  "Rock",
+  "Psychedelic / Prog",
+  "Hard Rock / Metal",
+  "Punk & Proto-Punk",
+  "New Wave / Post-Punk",
+  "Electronic"
+ ],
+ "love-supreme": [
+  "Jazz",
+  "Spiritual Jazz"
+ ],
+ "wild-wind": [
+  "Jazz",
+  "Vocal Jazz"
+ ],
+ "silent-way": [
+  "Jazz",
+  "Jazz Fusion"
+ ],
+ "bitches": [
+  "Jazz",
+  "Jazz Fusion"
+ ],
+ "head-hunters": [
+  "Jazz",
+  "Jazz-Funk"
+ ],
+ "otis-blue": [
+  "Soul / R&B",
+  "Southern Soul"
+ ],
+ "aretha1967": [
+  "Soul / R&B",
+  "Southern Soul"
+ ],
+ "curtis": [
+  "Soul / R&B",
+  "Chicago Soul"
+ ],
+ "whats-going-on": [
+  "Soul / R&B",
+  "Concept Soul"
+ ],
+ "still-love": [
+  "Soul / R&B",
+  "Memphis Soul"
+ ],
+ "talking-book": [
+  "Soul / R&B",
+  "Progressive Soul"
+ ],
+ "innervisions": [
+  "Soul / R&B",
+  "Progressive Soul"
+ ],
+ "sitkol": [
+  "Soul / R&B",
+  "Progressive Soul"
+ ],
+ "young-americans": [
+  "Soul / R&B",
+  "Blue-Eyed Soul"
+ ],
+ "stand": [
+  "Funk",
+  "Psychedelic Soul"
+ ],
+ "riot": [
+  "Funk",
+  "Funk"
+ ],
+ "sex-machine": [
+  "Funk",
+  "Funk"
+ ],
+ "maggot": [
+  "Funk",
+  "Psychedelic Funk"
+ ],
+ "mothership": [
+  "Funk",
+  "P-Funk"
+ ],
+ "way-of-world": [
+  "Funk",
+  "Funk · Soul"
+ ],
+ "fela-live": [
+  "Afrobeat",
+  "Afrobeat"
+ ],
+ "gentleman": [
+  "Afrobeat",
+  "Afrobeat"
+ ],
+ "zombie": [
+  "Afrobeat",
+  "Afrobeat"
+ ],
+ "natty-dread": [
+  "Reggae / Dub",
+  "Roots Reggae"
+ ],
+ "super-ape": [
+  "Reggae / Dub",
+  "Dub"
+ ],
+ "tropicalia": [
+  "Brazilian",
+  "Tropicália"
+ ],
+ "clube": [
+  "Brazilian",
+  "MPB"
+ ],
+ "highway61": [
+  "Folk / Singer-Songwriter",
+  "Folk Rock"
+ ],
+ "bringing-home": [
+  "Folk / Singer-Songwriter",
+  "Folk Rock"
+ ],
+ "blonde": [
+  "Folk / Singer-Songwriter",
+  "Folk Rock"
+ ],
+ "blood-tracks": [
+  "Folk / Singer-Songwriter",
+  "Folk Rock"
+ ],
+ "parsley": [
+  "Folk / Singer-Songwriter",
+  "Folk Pop"
+ ],
+ "bridge": [
+  "Folk / Singer-Songwriter",
+  "Folk Pop"
+ ],
+ "cohen": [
+  "Folk / Singer-Songwriter",
+  "Chamber Folk"
+ ],
+ "pink-moon": [
+  "Folk / Singer-Songwriter",
+  "Chamber Folk"
+ ],
+ "astral-weeks": [
+  "Folk / Singer-Songwriter",
+  "Folk Jazz"
+ ],
+ "blue": [
+  "Folk / Singer-Songwriter",
+  "Singer-Songwriter"
+ ],
+ "court-spark": [
+  "Folk / Singer-Songwriter",
+  "Folk Jazz · Soft Rock"
+ ],
+ "tapestry": [
+  "Folk / Singer-Songwriter",
+  "Soft Rock"
+ ],
+ "gold-rush": [
+  "Folk / Singer-Songwriter",
+  "Folk Rock"
+ ],
+ "on-the-beach": [
+  "Folk / Singer-Songwriter",
+  "Folk Rock"
+ ],
+ "rubber-soul": [
+  "Pop / Art Pop",
+  "Pop Rock"
+ ],
+ "today": [
+  "Pop / Art Pop",
+  "Pop Rock"
+ ],
+ "pet-sounds": [
+  "Pop / Art Pop",
+  "Baroque Pop"
+ ],
+ "revolver": [
+  "Pop / Art Pop",
+  "Psychedelic Pop"
+ ],
+ "sgt-pepper": [
+  "Pop / Art Pop",
+  "Psychedelic Pop"
+ ],
+ "odessey": [
+  "Pop / Art Pop",
+  "Baroque Pop"
+ ],
+ "white-album": [
+  "Pop / Art Pop",
+  "Rock · Eclectic"
+ ],
+ "abbey": [
+  "Pop / Art Pop",
+  "Pop Rock"
+ ],
+ "melody-nelson": [
+  "Pop / Art Pop",
+  "Chanson · Orchestral Pop"
+ ],
+ "tambourine": [
+  "Rock",
+  "Folk Rock · Jangle"
+ ],
+ "my-generation": [
+  "Rock",
+  "Mod · Beat"
+ ],
+ "face": [
+  "Rock",
+  "British Beat"
+ ],
+ "village": [
+  "Rock",
+  "Baroque Pop"
+ ],
+ "big-pink": [
+  "Rock",
+  "Roots Rock"
+ ],
+ "beggars": [
+  "Rock",
+  "Roots Rock"
+ ],
+ "let-bleed": [
+  "Rock",
+  "Blues Rock"
+ ],
+ "exile": [
+  "Rock",
+  "Roots Rock"
+ ],
+ "tommy": [
+  "Rock",
+  "Rock Opera"
+ ],
+ "santana": [
+  "Rock",
+  "Latin Rock"
+ ],
+ "plastic-ono": [
+  "Rock",
+  "Singer-Songwriter Rock"
+ ],
+ "all-things": [
+  "Rock",
+  "Rock · Wall of Sound"
+ ],
+ "ziggy": [
+  "Rock",
+  "Glam Rock"
+ ],
+ "for-your-pleasure": [
+  "Rock",
+  "Art Rock · Glam"
+ ],
+ "eno-warm-jets": [
+  "Rock",
+  "Art Rock · Glam"
+ ],
+ "happy-end": [
+  "Rock",
+  "Japanese Folk Rock"
+ ],
+ "radio-city": [
+  "Rock",
+  "Power Pop"
+ ],
+ "born-to-run": [
+  "Rock",
+  "Heartland Rock"
+ ],
+ "station-to-station": [
+  "Rock",
+  "Art Rock"
+ ],
+ "elevators": [
+  "Psychedelic / Prog",
+  "Psychedelic Rock"
+ ],
+ "freak-out": [
+  "Psychedelic / Prog",
+  "Experimental Rock"
+ ],
+ "forever": [
+  "Psychedelic / Prog",
+  "Baroque Psych"
+ ],
+ "doors": [
+  "Psychedelic / Prog",
+  "Psychedelic Rock"
+ ],
+ "piper": [
+  "Psychedelic / Prog",
+  "Psychedelic Rock"
+ ],
+ "surrealistic": [
+  "Psychedelic / Prog",
+  "Psychedelic Rock"
+ ],
+ "disraeli": [
+  "Psychedelic / Prog",
+  "Psychedelic Blues Rock"
+ ],
+ "experienced": [
+  "Psychedelic / Prog",
+  "Psychedelic Rock"
+ ],
+ "electric-ladyland": [
+  "Psychedelic / Prog",
+  "Psychedelic Rock"
+ ],
+ "crimson": [
+  "Psychedelic / Prog",
+  "Progressive Rock"
+ ],
+ "meddle": [
+  "Psychedelic / Prog",
+  "Progressive Rock"
+ ],
+ "fragile": [
+  "Psychedelic / Prog",
+  "Progressive Rock"
+ ],
+ "aqualung": [
+  "Psychedelic / Prog",
+  "Progressive Rock"
+ ],
+ "tago": [
+  "Psychedelic / Prog",
+  "Krautrock"
+ ],
+ "dark-side": [
+  "Psychedelic / Prog",
+  "Progressive Rock"
+ ],
+ "wish-you-were-here": [
+  "Psychedelic / Prog",
+  "Progressive Rock"
+ ],
+ "led-zep2": [
+  "Hard Rock / Metal",
+  "Hard Rock"
+ ],
+ "paranoid": [
+  "Hard Rock / Metal",
+  "Heavy Metal"
+ ],
+ "led-zep4": [
+  "Hard Rock / Metal",
+  "Hard Rock"
+ ],
+ "night-opera": [
+  "Hard Rock / Metal",
+  "Hard Rock · Art Rock"
+ ],
+ "sonics": [
+  "Punk & Proto-Punk",
+  "Garage Rock"
+ ],
+ "velvet-nico": [
+  "Punk & Proto-Punk",
+  "Art Rock · Proto-Punk"
+ ],
+ "white-light": [
+  "Punk & Proto-Punk",
+  "Noise Rock · Proto-Punk"
+ ],
+ "stooges": [
+  "Punk & Proto-Punk",
+  "Proto-Punk"
+ ],
+ "mc5": [
+  "Punk & Proto-Punk",
+  "Proto-Punk"
+ ],
+ "fun-house": [
+  "Punk & Proto-Punk",
+  "Proto-Punk"
+ ],
+ "horses": [
+  "Punk & Proto-Punk",
+  "Art Punk"
+ ],
+ "ramones": [
+  "Punk & Proto-Punk",
+  "Punk Rock"
+ ],
+ "autobahn": [
+  "Electronic",
+  "Krautrock · Electronic"
+ ],
+ "another-green-world": [
+  "Electronic",
+  "Ambient · Art Pop"
+ ],
+ "low": [
+  "Rock",
+  "Art Rock · Electronic"
+ ],
+ "rumours": [
+  "Rock",
+  "Soft Rock"
+ ],
+ "marquee-moon": [
+  "Punk & Proto-Punk",
+  "Art Punk"
+ ],
+ "trans-europe": [
+  "Electronic",
+  "Krautrock · Electronic"
+ ],
+ "clash1977": [
+  "Punk & Proto-Punk",
+  "Punk Rock"
+ ],
+ "remember-yesterday": [
+  "Disco",
+  "Euro Disco"
+ ],
+ "exodus": [
+  "Reggae / Dub",
+  "Roots Reggae"
+ ],
+ "aja": [
+  "Pop / Art Pop",
+  "Jazz Rock"
+ ],
+ "bollocks": [
+  "Punk & Proto-Punk",
+  "Punk Rock"
+ ],
+ "van-halen": [
+  "Hard Rock / Metal",
+  "Hard Rock"
+ ],
+ "this-years-model": [
+  "New Wave / Post-Punk",
+  "New Wave"
+ ],
+ "man-machine": [
+  "Electronic",
+  "Synth-Pop"
+ ],
+ "some-girls": [
+  "Rock",
+  "Rock · Disco Rock"
+ ],
+ "cest-chic": [
+  "Disco",
+  "Disco"
+ ],
+ "devo": [
+  "New Wave / Post-Punk",
+  "New Wave"
+ ],
+ "one-nation": [
+  "Funk",
+  "P-Funk"
+ ],
+ "parallel-lines": [
+  "New Wave / Post-Punk",
+  "New Wave · Power Pop"
+ ],
+ "ymo": [
+  "Electronic",
+  "Synth-Pop · Techno-pop"
+ ],
+ "unknown-pleasures": [
+  "New Wave / Post-Punk",
+  "Post-Punk"
+ ],
+ "highway-to-hell": [
+  "Hard Rock / Metal",
+  "Hard Rock"
+ ],
+ "risque": [
+  "Disco",
+  "Disco"
+ ],
+ "fear-of-music": [
+  "New Wave / Post-Punk",
+  "Art Punk · New Wave"
+ ],
+ "off-the-wall": [
+  "Disco",
+  "Disco · Pop Soul"
+ ],
+ "pleasure-principle": [
+  "Electronic",
+  "Synth-Pop"
+ ],
+ "specials": [
+  "Reggae / Dub",
+  "2 Tone Ska"
+ ],
+ "london-calling": [
+  "Punk & Proto-Punk",
+  "Punk · Post-Punk"
+ ]
 }
