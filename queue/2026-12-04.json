@@ -1,0 +1,139 @@
+{
+ "date": "2026-12-04",
+ "part": "1980-P1",
+ "year": 1980,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 131분",
+ "title": "런던에 온 오하이오의 목소리, 펑크의 속도로 달린 메탈, 심벌 없는 드럼",
+ "intro": "1980년은 대중음악이 유난히 많은 목소리를 잃은 해다. 2월에 AC/DC의 보컬 본 스콧이, 5월에 조이 디비전의 이언 커티스가, 9월에 레드 제플린의 드러머 존 보넘이 세상을 떠났고, 12월 8일에는 존 레넌이 뉴욕 자택 앞에서 총에 맞아 숨졌다. 영국은 대처 정부 아래 실업이 빠르게 늘었고, 미국은 11월 대선에서 로널드 레이건을 뽑았다. 한국에서는 5월 광주에서 일어난 민주화운동이 계엄군에 진압됐다. 음악에서는 펑크가 남긴 자리를 여러 갈래가 나눠 가졌다. 오늘은 펑크 이후의 록이 다시 노래로 돌아온 프리텐더스, 펑크의 속도를 헤비메탈로 가져간 아이언 메이든, 드럼 소리 하나로 1980년대의 음색을 바꾼 피터 게이브리얼을 듣는다.",
+ "albums": [
+  {
+   "id": "pretenders",
+   "artist": "Pretenders",
+   "title": "Pretenders",
+   "short": "Pretenders",
+   "released": "1980년 1월",
+   "genre": "뉴웨이브 · 록",
+   "blurb": "런던으로 건너간 미국인 크리시 하인드가 펑크의 에너지에 팝의 선율을 되살린 데뷔작.",
+   "length": "12곡 · 47분",
+   "spotify": "https://open.spotify.com/album/6xJyws224mOzcUqY01X1jk",
+   "apple": "https://music.apple.com/kr/album/118127946",
+   "top": "New Wave / Post-Punk",
+   "sub": "New Wave"
+  },
+  {
+   "id": "iron-maiden",
+   "artist": "Iron Maiden",
+   "title": "Iron Maiden",
+   "short": "Iron Maiden",
+   "released": "1980년 4월",
+   "genre": "헤비메탈 (NWOBHM)",
+   "blurb": "펑크 시대의 거친 속도로 뉴 웨이브 오브 브리티시 헤비메탈을 연 아이언 메이든의 데뷔작.",
+   "length": "8곡 · 38분",
+   "spotify": "https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi",
+   "apple": "https://music.apple.com/kr/album/979942735",
+   "top": "Hard Rock / Metal",
+   "sub": "New Wave of British Heavy Metal"
+  },
+  {
+   "id": "melt",
+   "artist": "Peter Gabriel",
+   "title": "Peter Gabriel (Melt)",
+   "short": "Melt",
+   "released": "1980년 5월",
+   "genre": "아트 록",
+   "blurb": "게이티드 리버브 드럼으로 1980년대의 소리를 미리 들려준 피터 게이브리얼의 세 번째 솔로 음반.",
+   "length": "10곡 · 46분",
+   "spotify": "https://open.spotify.com/album/0KLyPao7XpXHSAMmbkxCoz",
+   "apple": "https://music.apple.com/kr/album/986713177",
+   "top": "Pop / Art Pop",
+   "sub": "Art Rock"
+  }
+ ],
+ "essays": [
+  {
+   "id": "pretenders",
+   "heading": "런던에 온 오하이오의 목소리",
+   "paras": [
+    "첫 곡 〈Precious〉부터 제임스 허니먼스콧의 기타가 날카롭게 긁고, 크리시 하인드가 낮고 건조한 목소리로 밀어붙인다. 그런데 이 음반의 진짜 매력은 그 사이사이 숨은 팝 감각이다. 〈Brass in Pocket〉은 느긋한 리듬 위에서 자신감과 수줍음을 함께 드러내고, 〈Kid〉는 맑은 기타 아르페지오(arpeggio, 화음을 한 음씩 풀어 치는 연주)가 노래를 감싼다. 〈Stop Your Sobbing〉은 1964년 킹크스의 잘 알려지지 않은 곡을 다시 부른 것이고, 〈Private Life〉는 레게 리듬을 빌려 왔다.",
+    "하인드는 미국 오하이오 출신으로, 1970년대 초 런던으로 건너가 음악 잡지 NME에 글을 쓰며 펑크 초창기 사람들과 어울렸다. 밴드는 영국인 연주자 셋과 꾸렸다. 제작은 섹스 피스톨스의 《Never Mind the Bollocks》를 만든 크리스 토머스가 맡았고, 〈Stop Your Sobbing〉만 엘비스 코스텔로의 음반을 만든 닉 로가 제작했다. 음반은 영국 앨범 차트 1위로 데뷔해 4주 동안 자리를 지켰다. 같은 해 그레이스 존스가 〈Private Life〉를 다시 불러 영국 싱글 차트 17위에 올리기도 했다.",
+    "펑크의 에너지를 지니면서도 선율과 노래의 짜임을 버리지 않은 이 음반은 여성이 이끄는 록 밴드의 본보기가 됐다. 1978년 블론디의 《Parallel Lines》와 이어 들으면, 뉴웨이브(New Wave)가 대서양 양쪽에서 어떻게 다른 표정을 지었는지 들린다."
+   ]
+  },
+  {
+   "id": "iron-maiden",
+   "heading": "펑크의 속도로 달린 헤비메탈",
+   "paras": [
+    "〈Prowler〉는 와와 페달을 건 기타 리프로 시작해 숨 쉴 틈 없이 달린다. 아이언 메이든 소리의 중심은 리더이자 베이시스트인 스티브 해리스다. 그는 베이스를 뒤에 깔아 두지 않고 손가락으로 빠르게 튕기며 기타와 같은 선율을 함께 달린다. 두 대의 기타가 같은 선율을 화음으로 겹쳐 연주하는 트윈 기타(twin guitar)도 이 밴드의 표지다. 7분이 넘는 〈Phantom of the Opera〉는 템포와 분위기가 여러 번 바뀌는데, 해리스는 이 곡을 처음으로 조금 더 프로그레시브하게 쓴 곡이라고 말했다. 폴 디아노의 거친 목소리는 때로 펑크 가수처럼 들린다.",
+    "1970년대 말 영국에서는 작은 클럽에서 연주하고 직접 음반을 내는 펑크식 방법을 받아들인 젊은 메탈 밴드들이 쏟아졌다. 이 흐름을 뉴 웨이브 오브 브리티시 헤비메탈(New Wave of British Heavy Metal, 줄여서 NWOBHM)이라 부른다. 해리스 자신은 펑크를 싫어했다고 말했지만, 이 음반의 속도와 거친 녹음에는 그 시대의 공기가 묻어 있다. 해리스에 따르면 녹음은 13일 만에 끝났고, 밴드는 결과물의 소리에 불만이 많았다. 싱글 〈Running Free〉는 BBC 〈Top of the Pops〉에서 립싱크 없이 라이브로 연주했는데, 1972년 더 후 이후 처음 있는 일이었다. 앨범은 영국 차트 4위에 올랐다.",
+    "표지의 해골 같은 캐릭터 에디는 데릭 리그스의 그림으로, 이후 밴드의 거의 모든 음반 표지에 등장한다. 1970년 블랙 사바스의 《Paranoid》와 이어 들으면, 무겁고 느리던 헤비메탈이 10년 만에 얼마나 빨라졌는지 들린다. 밴드는 이듬해 보컬을 브루스 디킨슨으로 바꾸고 1982년 《The Number of the Beast》로 세계적인 성공을 거둔다."
+   ]
+  },
+  {
+   "id": "melt",
+   "heading": "심벌 없는 드럼, 녹아내리는 얼굴",
+   "paras": [
+    "첫 곡 〈Intruder〉에서 필 콜린스의 드럼이 거대하게 울리다가 뚝 끊긴다. 이것이 게이티드 리버브(gated reverb)다. 드럼에 큰 방의 울림(리버브)을 더한 뒤, 소리가 일정 크기 아래로 떨어지면 문(게이트)을 닫아 울림의 꼬리를 잘라 버리는 방식이다. 소리는 크게 들리지만 꼬리가 짧아 리듬이 단단해진다. 게이브리얼이 녹음에서 심벌을 쓰지 말라고 한 덕분에 북의 몸통 소리가 그대로 드러났고, 제작자 스티브 릴리화이트, 엔지니어 휴 패점, 콜린스가 함께 이 소리를 찾아냈다. 〈Start〉에서는 당시 막 나온 샘플링 신시사이저 페어라이트 CMI(Fairlight CMI)도 살짝 들린다.",
+    "게이브리얼은 1975년 제네시스를 떠나 혼자 활동하던 중이었다. 노래들은 남의 집에 숨어드는 침입자, 기억을 잃은 사람, 암살자처럼 불안한 인물의 목소리로 쓰였다. 〈Games Without Frontiers〉는 전쟁을 어린이 놀이에 빗댄 반전 노래로, 케이트 부시가 배경 보컬을 불렀고 영국 싱글 차트 4위에 올랐다. 마지막 곡 〈Biko〉는 1977년 남아프리카공화국 경찰에 구금됐다가 숨진 흑인 운동가 스티브 비코를 기린다. 미국 음반사 애틀랜틱은 상업성이 없다며 발매를 거절했지만, 음반은 그의 첫 영국 차트 1위가 됐다. 표지의 녹아내리는 얼굴 때문에 흔히 《Melt》라고 부른다.",
+    "게이티드 리버브 드럼은 곧 1980년대 팝과 록 전체의 소리가 된다. 콜린스는 이듬해 솔로곡 〈In the Air Tonight〉에서 같은 소리를 썼다. 킹 크림슨의 로버트 프립도 세 곡에서 기타를 쳤다. 1975년 브라이언 이노의 《Another Green World》와 이어 들으면, 스튜디오를 악기처럼 쓰던 흐름이 어떻게 이어지는지 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Pretenders (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pretenders_(album)"
+  },
+  {
+   "title": "Iron Maiden (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Iron_Maiden_(album)"
+  },
+  {
+   "title": "Peter Gabriel (1980 album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Peter_Gabriel_(1980_album)"
+  },
+  {
+   "title": "New wave of British heavy metal · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/New_wave_of_British_heavy_metal"
+  },
+  {
+   "title": "Gated reverb · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gated_reverb"
+  }
+ ],
+ "edges": [
+  {
+   "from": "bollocks",
+   "to": "pretenders",
+   "type": "document",
+   "label": "같은 제작자 크리스 토머스",
+   "source": "https://en.wikipedia.org/wiki/Chris_Thomas_(record_producer)"
+  },
+  {
+   "from": "parallel-lines",
+   "to": "pretenders",
+   "type": "listen",
+   "label": "여성이 이끈 뉴웨이브, 뉴욕과 런던의 두 표정"
+  },
+  {
+   "from": "paranoid",
+   "to": "iron-maiden",
+   "type": "listen",
+   "label": "느리고 무겁던 헤비메탈이 10년 만에 빨라지기까지"
+  },
+  {
+   "from": "crimson",
+   "to": "melt",
+   "type": "document",
+   "label": "로버트 프립이 세 곡에서 기타 연주",
+   "source": "https://en.wikipedia.org/wiki/Peter_Gabriel_(1980_album)"
+  },
+  {
+   "from": "another-green-world",
+   "to": "melt",
+   "type": "listen",
+   "label": "스튜디오를 악기처럼 쓰는 아트 록"
+  }
+ ]
+}
