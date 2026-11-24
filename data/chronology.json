@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-11-23",
+ "updated": "2026-11-24",
  "lanes": [
   "재즈와 즉흥",
   "소울과 펑크",
@@ -1827,6 +1827,44 @@
     "url": "https://music.apple.com/kr/album/1443210297",
     "label": "1–10곡 · 38분"
    }
+  },
+  {
+   "id": "sitkol",
+   "year": 1976,
+   "title": "Songs in the Key of Life",
+   "artist": "Stevie Wonder",
+   "short": "Songs in the Key of Life",
+   "top": null,
+   "sub": null,
+   "status": "sent",
+   "part": "1976-P2",
+   "spotify": {
+    "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0",
+    "label": "21곡 · 105분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/kr/album/1440788438",
+    "label": "21곡 · 105분"
+   }
+  },
+  {
+   "id": "zombie",
+   "year": 1976,
+   "title": "Zombie",
+   "artist": "Fela Kuti & Africa 70",
+   "short": "Zombie",
+   "top": null,
+   "sub": null,
+   "status": "sent",
+   "part": "1976-P2",
+   "spotify": {
+    "url": "https://open.spotify.com/album/5daEPaHfFiOSpKJLMraH9D",
+    "label": "1–2곡 · 25분"
+   },
+   "apple": {
+    "url": "https://music.apple.com/kr/album/559710299",
+    "label": "1–2곡 · 25분"
+   }
   }
  ],
  "edges": [
@@ -2579,6 +2617,25 @@
    "to": "super-ape",
    "type": "listen",
    "label": "노래하는 레게와 소리를 뜯어낸 덥"
+  },
+  {
+   "from": "innervisions",
+   "to": "sitkol",
+   "type": "listen",
+   "label": "도시를 고발하던 목소리가 3년 뒤 더 넓은 세계를 담기까지"
+  },
+  {
+   "from": "head-hunters",
+   "to": "sitkol",
+   "type": "document",
+   "label": "허비 행콕이 〈As〉에서 건반 연주",
+   "source": "https://en.wikipedia.org/wiki/Songs_in_the_Key_of_Life"
+  },
+  {
+   "from": "gentleman",
+   "to": "zombie",
+   "type": "listen",
+   "label": "같은 밴드의 풍자가 식민지의 습관에서 군사정부로"
   }
  ]
 }
