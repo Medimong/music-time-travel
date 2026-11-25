@@ -1,0 +1,107 @@
+{
+ "date": "2027-03-03",
+ "part": "2010-P1",
+ "year": 2010,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 106분",
+ "title": "꿈꾸는 오르간, 플라스틱 섬",
+ "intro": "2010년 1월 27일 애플의 스티브 잡스가 태블릿 컴퓨터 아이패드를 발표했다. 손안의 화면으로 음악과 영상, 책을 함께 보는 시대가 가까워졌다. 오늘의 두 음반은 그 발표 전날과 한 달 남짓 뒤에 나왔다. 미국 볼티모어의 두 사람은 오래된 오르간과 기타, 값싼 드럼 머신으로 꿈속 같은 소리를 만들었고, 영국의 가상 밴드는 바다 위에 떠도는 쓰레기로 만든 섬이라는 이야기를 바탕으로 전 세계의 음악가를 불러 모았다. 한쪽은 두 사람이 만든 작은 방의 음악이고, 다른 쪽은 수십 명이 오가는 큰 무대의 음악이다. 오늘은 두 장으로 약 106분이다. 2010년의 긴 음반들 사이에서 두 장씩 나눠 듣는다.",
+ "albums": [
+  {
+   "id": "teen-dream",
+   "artist": "Beach House",
+   "title": "Teen Dream",
+   "short": "Teen Dream",
+   "released": "2010년 1월",
+   "genre": "드림 팝",
+   "blurb": "오래된 오르간과 흔들리는 기타, 깊은 목소리로 꿈결 같은 소리를 넓힌 비치 하우스의 세 번째 음반.",
+   "length": "10곡 · 49분",
+   "spotify": "https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e",
+   "apple": "https://music.apple.com/kr/album/1247675137",
+   "top": "Pop / Art Pop",
+   "sub": "Dream Pop"
+  },
+  {
+   "id": "plastic-beach",
+   "artist": "Gorillaz",
+   "title": "Plastic Beach",
+   "short": "Plastic Beach",
+   "released": "2010년 3월",
+   "genre": "아트 팝 · 얼터너티브 힙합",
+   "blurb": "쓰레기로 만든 섬을 무대로 스눕 독부터 루 리드, 바비 워맥까지 불러 모은 고릴라즈의 세 번째 음반.",
+   "length": "16곡 · 57분",
+   "spotify": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8",
+   "apple": "https://music.apple.com/kr/album/850569437",
+   "top": "Pop / Art Pop",
+   "sub": "Art Pop · Alternative Hip-Hop"
+  }
+ ],
+ "essays": [
+  {
+   "id": "teen-dream",
+   "heading": "흔들리는 꿈",
+   "paras": [
+    "〈Zebra〉는 맑은 기타 아르페지오가 반복되고, 그 위로 빅토리아 르그랑의 낮고 굵은 목소리가 천천히 퍼진다. 소리 전체에 깊은 잔향이 걸려 있어 먼 곳에서 들려오는 듯하다. 〈Norway〉는 음정이 일부러 출렁이게 흔들리는 기타로 어지러운 느낌을 주고, 〈Silver Soul〉과 〈Walk in the Park〉은 오르간 화음과 단순한 드럼 머신 위에서 같은 선율을 반복하며 점점 커진다. 마지막 곡 〈Take Care〉는 오래 기다린 고백처럼 조용히 끝난다. 이런 몽롱한 소리를 드림 팝(Dream Pop)이라고 부른다.",
+    "비치 하우스는 볼티모어에서 만난 빅토리아 르그랑과 알렉스 스컬리의 듀오다. 르그랑은 파리에서 태어났고, 프랑스 영화 음악 작곡가 미셸 르그랑의 조카로 알려져 있다. 앞선 두 음반은 작은 방에서 녹음한 듯 소박했지만, 세 번째 음반은 서브 팝으로 옮긴 뒤 뉴욕 북부의 오래된 교회를 개조한 스튜디오에서 프로듀서 크리스 코디와 함께 녹음해 소리가 훨씬 넓어졌다.",
+    "음반은 그해 여러 매체의 연말 목록 상위에 올랐고, 이후 듀오는 2010년대 드림 팝을 대표하는 이름이 됐다. 그들의 노래는 영화와 드라마, 다른 음악가의 샘플로도 자주 쓰였다. 1991년 마이 블러디 밸런타인의 《Loveless》와 이어 들으면 꿈결 같은 기타 소리가 어떻게 더 느리고 맑아졌는지 들린다."
+   ]
+  },
+  {
+   "id": "plastic-beach",
+   "heading": "바다 위의 쓰레기 섬",
+   "paras": [
+    "〈Orchestral Intro〉의 현악과 갈매기 소리가 지나면, 〈Welcome to the World of the Plastic Beach〉에서 스눕 독이 랩을 한다. 〈White Flag〉는 레바논의 아랍 전통 악단 연주로 시작해 런던 그라임 래퍼들의 랩으로 넘어가고, 〈Stylo〉는 미끄러지는 신시사이저 베이스 위로 소울 가수 바비 워맥이 거칠게 외친다. 〈Some Kind of Nature〉에서는 루 리드가 낮은 목소리로 노래하고, 타이틀곡에는 클래시의 믹 존스와 폴 시모넌이 연주한다. 〈On Melancholy Hill〉은 데이먼 알반이 부른 아련한 신스 팝이다.",
+    "고릴라즈는 블러의 데이먼 알반과 만화가 제이미 휴렛이 만든 가상 밴드다. 세 번째 음반에서 알반은 바다에 떠도는 플라스틱 쓰레기로 만들어진 섬이라는 이야기를 세우고, 소비와 쓰레기, 인공적인 것에 대한 생각을 담았다. 그는 힙합과 소울, 아랍 음악, 영국 펑크 세대 음악가를 한 음반에 불러 모았다. 앞선 두 음반의 데인저 마우스 같은 외부 프로듀서 없이 알반이 직접 대부분을 제작했다.",
+    "음반은 영국 2위, 미국 2위에 올랐다. 고릴라즈는 이후에도 매 음반마다 세계 여러 장르의 음악가를 손님으로 부르는 방식을 이어 갔다. 2005년 《Demon Days》와 이어 들으면 가상 밴드의 세계가 어떻게 넓어졌는지 들리고, 1977년 클래시의 데뷔작과 1967년 벨벳 언더그라운드의 데뷔작을 이어 들으면 이 음반에 온 손님들의 젊은 날이 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Teen Dream · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Teen_Dream"
+  },
+  {
+   "title": "Beach House · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Beach_House"
+  },
+  {
+   "title": "Plastic Beach · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Plastic_Beach"
+  },
+  {
+   "title": "iPad (1st generation) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/IPad_(1st_generation)"
+  }
+ ],
+ "edges": [
+  {
+   "from": "loveless",
+   "to": "teen-dream",
+   "type": "listen",
+   "label": "꿈결 같은 기타 소리가 더 느리고 맑아지다"
+  },
+  {
+   "from": "demon-days",
+   "to": "plastic-beach",
+   "type": "document",
+   "label": "《Demon Days》 다음 고릴라즈의 세 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/Plastic_Beach"
+  },
+  {
+   "from": "clash1977",
+   "to": "plastic-beach",
+   "type": "document",
+   "label": "클래시의 믹 존스와 폴 시모넌이 타이틀곡에 참여",
+   "source": "https://en.wikipedia.org/wiki/Plastic_Beach"
+  },
+  {
+   "from": "velvet-nico",
+   "to": "plastic-beach",
+   "type": "document",
+   "label": "루 리드가 〈Some Kind of Nature〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/Plastic_Beach"
+  }
+ ]
+}

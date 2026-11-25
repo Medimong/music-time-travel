@@ -1,0 +1,144 @@
+{
+ "date": "2027-02-20",
+ "part": "2006-P1",
+ "year": 2006,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 123분",
+ "title": "인터넷이 먼저 안 밴드, 병상의 비트, 다운로드로 1위에 오른 노래",
+ "intro": "2006년 영국에서는 음반사보다 인터넷이 먼저 신인을 알아보는 일이 벌어졌다. 셰필드의 10대 밴드는 공연장에서 나눠 준 데모 음원이 팬들 사이에 퍼지면서 데뷔 전부터 이름을 얻었고, 그해 4월에는 음원 다운로드 판매만으로 영국 싱글 차트 1위에 오른 첫 노래가 나왔다. 미국 디트로이트 출신 프로듀서는 병원 침대에서 만든 짧은 비트 서른한 곡을 생일에 내놓고 사흘 뒤 세상을 떠났다. 오늘의 세 음반은 모두 1월에서 4월 사이에 나왔다. 하나는 기타 밴드의 데뷔작, 하나는 가사 없는 힙합, 하나는 프로듀서와 가수가 만난 소울 음반이다. 오늘은 세 장으로 약 123분이다.",
+ "albums": [
+  {
+   "id": "whatever-people",
+   "artist": "Arctic Monkeys",
+   "title": "Whatever People Say I Am, That's What I'm Not",
+   "short": "Whatever People Say I Am",
+   "released": "2006년 1월",
+   "genre": "인디 록 · 개러지 록",
+   "blurb": "셰필드의 10대 네 명이 밤거리와 클럽의 풍경을 빠른 기타와 사투리 섞인 가사로 담은 데뷔작.",
+   "length": "13곡 · 41분",
+   "spotify": "https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1",
+   "apple": "https://music.apple.com/kr/album/111153953",
+   "top": "Rock",
+   "sub": "Indie Rock · Garage Rock Revival"
+  },
+  {
+   "id": "donuts",
+   "artist": "J Dilla",
+   "title": "Donuts",
+   "short": "Donuts",
+   "released": "2006년 2월",
+   "genre": "인스트루멘털 힙합",
+   "blurb": "병상에서 휴대용 샘플러로 만든 1분 남짓한 비트 서른한 곡, 제이 딜라가 남긴 마지막 음반.",
+   "length": "31곡 · 44분",
+   "spotify": "https://open.spotify.com/album/5fMlysqhFE0itGn4KezMBW",
+   "apple": "https://music.apple.com/kr/album/108233171",
+   "top": "Hip-Hop",
+   "sub": "Instrumental Hip-Hop"
+  },
+  {
+   "id": "st-elsewhere",
+   "artist": "Gnarls Barkley",
+   "title": "St. Elsewhere",
+   "short": "St. Elsewhere",
+   "released": "2006년 4월",
+   "genre": "사이키델릭 소울 · 얼터너티브 힙합",
+   "blurb": "프로듀서 데인저 마우스와 가수 씨로 그린이 만나, 〈Crazy〉로 다운로드 시대의 첫 영국 1위를 만든 음반.",
+   "length": "14곡 · 38분",
+   "spotify": "https://open.spotify.com/album/7p2aWivr9OLXocSTTKtG9B",
+   "apple": "https://music.apple.com/kr/album/145545207",
+   "top": "Soul / R&B",
+   "sub": "Psychedelic Soul · Alternative Hip-Hop"
+  }
+ ],
+ "essays": [
+  {
+   "id": "whatever-people",
+   "heading": "토요일 밤의 기록",
+   "paras": [
+    "〈The View from the Afternoon〉은 드럼이 혼자 몰아치며 시작하고, 기타 두 대가 날카롭게 엇갈린다. 〈I Bet You Look Good on the Dancefloor〉는 3분이 채 안 되는 시간 동안 한 번도 숨을 고르지 않는다. 알렉스 터너는 셰필드 억양을 감추지 않고 빠르게 말하듯 노래하는데, 가사에는 클럽 줄에 선 사람들, 택시, 경찰 승합차(〈Riot Van〉), 술 취한 친구들이 사진처럼 담겨 있다. 마지막 곡 〈A Certain Romance〉는 고향 사람들을 비웃는 듯하다가 결국 그들을 감싸 안는다.",
+    "밴드는 2002년 무렵 셰필드 교외에서 결성됐다. 공연장에서 직접 구운 CD를 나눠 줬고, 팬들이 그 음원을 인터넷에 올리고 마이스페이스 페이지를 만들어 퍼뜨렸다. 밴드는 마이스페이스를 자신들이 시작한 것이 아니라고 말했다. 이렇게 쌓인 관심 덕분에 음반은 2006년 1월 발매 첫 주에 약 36만 장이 팔려, 당시 영국 데뷔 음반 가운데 가장 빨리 팔린 기록을 세웠다.",
+    "음반은 그해 머큐리 상을 받았다. 이후 영국에서는 인터넷에서 먼저 팬을 모은 뒤 음반사와 계약하는 길이 흔해졌다. 1994년 오아시스의 《Definitely Maybe》와 이어 들으면 노동계급 도시의 10대가 기타로 자기 동네를 노래하는 영국 록의 전통이 들리고, 2001년 스트록스의 《Is This It》과 비교하면 짧고 건조한 기타 록이 대서양을 건너온 길이 보인다."
+   ]
+  },
+  {
+   "id": "donuts",
+   "heading": "끝과 시작이 이어진 테이프",
+   "paras": [
+    "첫 곡 이름이 〈Donuts (Outro)〉이고 마지막 곡이 〈Welcome to the Show〉다. 끝 곡이 첫 곡으로 이어지도록 짜여 있어, 반복 재생하면 원처럼 돈다. 곡은 대부분 1분 남짓이다. 옛 소울 음반에서 따온 짧은 구절을 잘게 자르고, 박자에 딱 맞추지 않고 조금씩 밀거나 당겨 사람이 흔들리듯 들리게 한다. 사이렌 소리가 여러 번 끼어들고, 〈Don't Cry〉는 소울 가수의 애원하는 목소리를 계속 되풀이한다. 〈Workinonit〉은 10cc의 노래를 거칠게 잘라 쓴다.",
+    "제이 딜라(본명 제임스 듀이 얀시)는 디트로이트 출신으로, 슬럼 빌리지와 어 트라이브 콜드 퀘스트, 디안젤로, 커먼과 작업한 프로듀서다. 그는 혈액 질환과 루푸스로 오래 투병했고, 이 음반의 상당 부분은 로스앤젤레스의 병원에 입원해 있는 동안 휴대용 샘플러와 작은 레코드 플레이어로 만든 것으로 알려져 있다. 음반은 그의 32번째 생일인 2006년 2월 7일에 나왔고, 그는 사흘 뒤인 2월 10일 세상을 떠났다.",
+    "발매 당시에는 조용히 지나갔지만, 이후 비트 메이커들 사이에서 교과서처럼 여겨졌다. 박자를 일부러 어긋나게 두는 그의 방식은 '딜라 타임'이라고 불리며 플라잉 로터스 같은 전자음악가와 2010년대 '로파이 힙합' 유행에까지 이어졌다. 1993년 트라이브의 《Midnight Marauders》와 1996년 DJ 섀도의 《Endtroducing.....》를 먼저 들으면, 샘플로 음악을 짓는 전통이 어디까지 갔는지 알 수 있다."
+   ]
+  },
+  {
+   "id": "st-elsewhere",
+   "heading": "미친 노래가 다운로드로 1위가 되다",
+   "paras": [
+    "〈Crazy〉는 1960년대 이탈리아 서부극 음악풍의 샘플 위로 둥근 베이스와 손뼉 같은 드럼이 깔리고, 씨로 그린이 가성과 진성을 오가며 소울 가수처럼 노래한다. 2분 58초짜리 노래에 현악과 합창이 겹쳐 오래된 영화 음악처럼 들린다. 음반 전체는 40분이 안 되는 짧은 곡들로 이뤄졌는데, 〈Gone Daddy Gone〉은 미국 밴드 바이올런트 펨스의 노래를 다시 부른 것이고, 〈Transformer〉와 〈Necromancer〉는 장난스럽고 기괴한 사운드가 가득하다.",
+    "데인저 마우스는 비틀스의 《White Album》과 제이지의 《The Black Album》을 섞은 2004년 《The Grey Album》으로 이름을 알렸고, 2005년 고릴라즈의 《Demon Days》를 제작했다. 씨로 그린은 애틀랜타 힙합 그룹 구디 몹 출신이다. 둘은 몇 년에 걸쳐 조금씩 곡을 만들었다. 〈Crazy〉는 음반이 나오기 전 2006년 4월 다운로드 판매만으로 영국 싱글 차트 1위에 올랐고 9주 동안 그 자리를 지켰다.",
+    "음원 다운로드가 실물 음반만큼 인정받는 시대가 이 노래와 함께 열렸다. 데인저 마우스는 이후 블랙 키스와 벡 등 많은 음악가의 음반을 제작했다. 2005년 《Demon Days》와 이어 들으면 같은 프로듀서의 어둡고 넓은 소리가 들리고, 1970년 커티스 메이필드의 《Curtis》와 함께 들으면 이 음반이 기댄 사이키델릭 소울의 뿌리가 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Whatever People Say I Am, That's What I'm Not · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Whatever_People_Say_I_Am,_That%27s_What_I%27m_Not"
+  },
+  {
+   "title": "Donuts (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Donuts_(album)"
+  },
+  {
+   "title": "J Dilla · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/J_Dilla"
+  },
+  {
+   "title": "St. Elsewhere (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/St._Elsewhere_(album)"
+  },
+  {
+   "title": "Crazy (Gnarls Barkley song) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Crazy_(Gnarls_Barkley_song)"
+  }
+ ],
+ "edges": [
+  {
+   "from": "definitely-maybe",
+   "to": "whatever-people",
+   "type": "listen",
+   "label": "노동계급 도시의 10대가 기타로 자기 동네를 노래하는 영국 록"
+  },
+  {
+   "from": "is-this-it",
+   "to": "whatever-people",
+   "type": "listen",
+   "label": "짧고 건조한 개러지 록 부활이 영국으로"
+  },
+  {
+   "from": "midnight-marauders",
+   "to": "donuts",
+   "type": "listen",
+   "label": "재즈와 소울 샘플을 다듬는 힙합 프로듀싱의 다음 세대"
+  },
+  {
+   "from": "endtroducing",
+   "to": "donuts",
+   "type": "listen",
+   "label": "샘플만으로 짓는 가사 없는 힙합 음반"
+  },
+  {
+   "from": "demon-days",
+   "to": "st-elsewhere",
+   "type": "document",
+   "label": "《Demon Days》를 제작한 데인저 마우스의 다음 프로젝트",
+   "source": "https://en.wikipedia.org/wiki/Danger_Mouse_(musician)"
+  },
+  {
+   "from": "curtis",
+   "to": "st-elsewhere",
+   "type": "listen",
+   "label": "현악과 가성이 어우러진 사이키델릭 소울의 뿌리"
+  }
+ ]
+}

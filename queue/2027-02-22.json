@@ -1,0 +1,133 @@
+{
+ "date": "2027-02-22",
+ "part": "2006-P3",
+ "year": 2006,
+ "partNo": 3,
+ "partTotal": 3,
+ "total": "약 127분",
+ "title": "장례 행렬, 열여섯 살의 일기장, 런던의 소울",
+ "intro": "2006년 10월 구글은 동영상 사이트 유튜브를 16억 5천만 달러에 사들였다. 노래를 알리는 가장 큰 무대가 라디오와 텔레비전에서 인터넷으로 옮겨 가기 시작했다. 같은 달 나흘 사이에 오늘의 세 음반이 나왔다. 뉴저지의 록 밴드는 죽어 가는 환자의 이야기로 록 오페라를 만들었고, 내슈빌의 열여섯 살 소녀는 자기가 쓴 노래로 데뷔했으며, 런던의 스물세 살 가수는 1960년대 걸 그룹과 소울을 빌려 자신의 무너진 연애를 노래했다. 장르는 모두 다르지만 셋 다 옛 형식에 자기 이야기를 담았다. 오늘은 세 장으로 약 127분이다.",
+ "albums": [
+  {
+   "id": "black-parade",
+   "artist": "My Chemical Romance",
+   "title": "The Black Parade",
+   "short": "The Black Parade",
+   "released": "2006년 10월",
+   "genre": "이모 · 록 오페라",
+   "blurb": "죽음을 앞둔 환자가 행진하는 장례 악대를 만난다는 이야기로 만든 마이 케미컬 로맨스의 록 오페라.",
+   "length": "14곡 · 52분",
+   "spotify": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK",
+   "apple": "https://music.apple.com/kr/album/1156310650",
+   "top": "Rock",
+   "sub": "Emo · Rock Opera"
+  },
+  {
+   "id": "taylor-swift-2006",
+   "artist": "Taylor Swift",
+   "title": "Taylor Swift",
+   "short": "Taylor Swift",
+   "released": "2006년 10월",
+   "genre": "컨트리 팝",
+   "blurb": "열여섯 살의 테일러 스위프트가 모든 곡을 직접 쓰거나 함께 써서 낸 데뷔작.",
+   "length": "11곡 · 40분",
+   "spotify": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3",
+   "apple": "https://music.apple.com/kr/album/1860454442",
+   "top": "Folk / Singer-Songwriter",
+   "sub": "Country Pop"
+  },
+  {
+   "id": "back-to-black",
+   "artist": "Amy Winehouse",
+   "title": "Back to Black",
+   "short": "Back to Black",
+   "released": "2006년 10월",
+   "genre": "레트로 소울",
+   "blurb": "1960년대 걸 그룹과 소울의 소리에 자신의 상처를 담아 노래한 에이미 와인하우스의 두 번째이자 마지막 정규 음반.",
+   "length": "11곡 · 35분",
+   "spotify": "https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV",
+   "apple": "https://music.apple.com/kr/album/1440856219",
+   "top": "Soul / R&B",
+   "sub": "Retro Soul"
+  }
+ ],
+ "essays": [
+  {
+   "id": "black-parade",
+   "heading": "죽음이 이끄는 행진",
+   "paras": [
+    "〈Welcome to the Black Parade〉는 피아노 한 음이 천천히 반복되며 시작하고, 제라드 웨이가 아버지가 데려간 행진 이야기를 들려준다. 곡은 행진곡 드럼을 거쳐 빠른 펑크 록으로 터지고, 마지막에는 합창하듯 부르는 후렴이 거듭 올라간다. 〈Mama〉는 오페라와 카바레 음악을 흉내 내고 배우 라이자 미넬리가 함께 부른다. 〈Teenagers〉는 1970년대 글램 록처럼 손뼉 박자로 흔들리고, 〈Famous Last Words〉는 무너지는 기타로 끝을 맺는다.",
+    "음반은 암으로 죽어 가는 '환자'라는 인물이 죽음을 기억 속 행진 악대의 모습으로 맞는다는 줄거리를 따른다. 밴드는 뉴저지 출신으로 2001년 9·11 테러를 목격한 뒤 결성됐다. 그린 데이의 《American Idiot》을 만든 롭 카발로가 제작했고, 퀸과 핑크 플로이드의 큰 규모 록 음반이 참고가 됐다. 밴드는 이 음반을 위해 '블랙 퍼레이드'라는 가상 밴드로 분장하고 공연했다.",
+    "〈Welcome to the Black Parade〉는 영국 싱글 차트 1위에 올랐다. 검은 옷과 짙은 화장의 이모(Emo) 문화는 이 음반으로 정점에 올랐고, 지금도 그 세대의 상징처럼 기억된다. 1975년 퀸의 《A Night at the Opera》와 이어 들으면 록 오페라의 화려함이 들리고, 2004년 그린 데이의 《American Idiot》과 이어 들으면 같은 프로듀서가 만든 2000년대 펑크 오페라 두 편을 비교할 수 있다."
+   ]
+  },
+  {
+   "id": "taylor-swift-2006",
+   "heading": "침실에서 쓴 노래",
+   "paras": [
+    "〈Tim McGraw〉는 어쿠스틱 기타와 밴조, 피들 위에서, 여름에 헤어진 남자친구가 라디오에서 컨트리 가수 팀 맥그로의 노래를 들을 때 자기를 떠올리길 바라는 노래다. 〈Teardrops on My Guitar〉는 친구를 짝사랑하는 마음을 실명까지 넣어 털어놓고, 〈Picture to Burn〉은 같은 이별을 화난 목소리로 노래한다. 목소리는 꾸미지 않았고, 가사는 학교 복도와 자동차, 동네 이야기로 가득하다. 소리는 컨트리지만 멜로디는 팝에 가깝다.",
+    "테일러 스위프트는 펜실베이니아에서 자랐고, 컨트리 음악을 하려고 10대 초반에 가족과 함께 내슈빌 근처로 이사했다. 그는 작곡가 리즈 로즈와 함께 학교가 끝난 뒤 곡을 썼다. 큰 음반사 대신 막 생긴 소형 음반사 빅 머신 레코드와 계약했고, 마이스페이스에 직접 노래를 올리며 또래 팬과 소통했다. 음반이 나왔을 때 그는 열여섯 살이었다.",
+    "음반은 빌보드 앨범 차트에 3년 가까이 머물렀다. 10대 소녀가 자기 노래를 써서 컨트리 차트와 팝 차트를 동시에 오르는 길은 이 음반에서 시작됐고, 그는 이후 팝으로 옮겨 가 2010년대 최대 스타가 됐다. 2025년 그는 이 음반을 포함한 초기 음반들의 원본 녹음 권리를 되샀다. 1971년 캐럴 킹의 《Tapestry》와 이어 들으면 자기 일기를 노래로 쓰는 싱어송라이터의 전통이 들린다."
+   ]
+  },
+  {
+   "id": "back-to-black",
+   "heading": "걸 그룹의 소리, 무너진 마음",
+   "paras": [
+    "〈Rehab〉은 손뼉과 탬버린, 굵은 금관이 1960년대 소울 음반처럼 울리고, 에이미 와인하우스는 재활원에 가라는 말에 싫다고 노래한다. 〈Back to Black〉은 장례식처럼 무거운 피아노와 종소리 위로 떠나간 연인을 노래하고, 〈Tears Dry on Their Own〉은 모타운의 〈Ain't No Mountain High Enough〉 반주를 빌렸다. 연주는 실제 악기로 녹음됐고, 뉴욕의 소울 밴드 댑 킹스가 여러 곡을 연주했다. 그의 낮고 거친 목소리는 재즈 가수처럼 박자를 끌었다 당긴다.",
+    "와인하우스는 런던 북부 출신으로, 2003년 재즈풍의 데뷔작 《Frank》를 냈다. 두 번째 음반은 연인 블레이크 필더시빌과의 이별 뒤 그 경험을 거의 그대로 썼고, 프로듀서 마크 론슨과 살람 레미가 나눠 제작했다. 론슨은 섕그릴라스와 로네츠 같은 1960년대 걸 그룹의 소리를 참고했다. 음반은 영국에서 크게 팔렸고, 2008년 그래미에서 그는 다섯 개 부문을 받았다.",
+    "음반의 성공은 아델과 더피 같은 영국 여성 소울 가수들의 길을 열었다. 하지만 그는 알코올과 약물 문제로 힘들어했고, 2011년 7월 스물일곱 살에 세상을 떠났다. 이 음반이 그가 남긴 마지막 정규 음반이 됐다. 1967년 아리사 프랭클린의 《I Never Loved a Man the Way I Love You》와 이어 들으면 그가 배운 소울 창법이 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "The Black Parade · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Black_Parade"
+  },
+  {
+   "title": "Taylor Swift (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Taylor_Swift_(album)"
+  },
+  {
+   "title": "Back to Black · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Back_to_Black"
+  },
+  {
+   "title": "Amy Winehouse · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Amy_Winehouse"
+  }
+ ],
+ "edges": [
+  {
+   "from": "night-opera",
+   "to": "black-parade",
+   "type": "listen",
+   "label": "오페라처럼 짜인 화려한 록 음반"
+  },
+  {
+   "from": "american-idiot",
+   "to": "black-parade",
+   "type": "listen",
+   "label": "프로듀서 롭 카발로가 만든 2000년대 펑크 오페라"
+  },
+  {
+   "from": "tapestry",
+   "to": "taylor-swift-2006",
+   "type": "listen",
+   "label": "자기 일기를 노래로 쓰는 싱어송라이터의 전통"
+  },
+  {
+   "from": "aretha1967",
+   "to": "back-to-black",
+   "type": "listen",
+   "label": "금관과 거친 목소리로 부르는 소울의 뿌리"
+  },
+  {
+   "from": "songs-a-minor",
+   "to": "back-to-black",
+   "type": "listen",
+   "label": "옛 소울을 새 세대가 다시 부르는 길"
+  }
+ ]
+}

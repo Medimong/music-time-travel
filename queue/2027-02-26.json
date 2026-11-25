@@ -1,0 +1,140 @@
+{
+ "date": "2027-02-26",
+ "part": "2008-P1",
+ "year": 2008,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 122분",
+ "title": "대학가의 아프리카 기타, 11년 만의 침묵, 숲속의 화음",
+ "intro": "2008년 4월 애플의 아이튠스 스토어가 월마트를 제치고 미국에서 음악을 가장 많이 파는 곳이 됐다는 조사 결과가 나왔다. 음반 가게 진열대 대신 인터넷 블로그와 음악 웹진이 새 밴드를 소개하는 무대가 됐다. 오늘의 세 음반은 그해 1월부터 6월 사이에 나왔다. 뉴욕 대학가의 네 청년은 아프리카 팝 기타와 현악 사중주를 섞었고, 영국 브리스틀의 트립합 밴드는 11년 만에 훨씬 거칠고 차가운 소리로 돌아왔으며, 시애틀의 젊은 밴드는 1960년대 포크 록의 화음을 숲속 메아리처럼 불러냈다. 셋 다 옛 소리를 빌렸지만 빌려 온 곳은 서로 멀다. 오늘은 세 장으로 약 122분이다.",
+ "albums": [
+  {
+   "id": "vampire-weekend-2008",
+   "artist": "Vampire Weekend",
+   "title": "Vampire Weekend",
+   "short": "Vampire Weekend",
+   "released": "2008년 1월",
+   "genre": "인디 록 · 인디 팝",
+   "blurb": "콜롬비아 대학교 친구 넷이 아프리카 팝 기타와 하프시코드, 현악을 섞어 만든 34분짜리 데뷔작.",
+   "length": "11곡 · 34분",
+   "spotify": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY",
+   "apple": "https://music.apple.com/kr/album/271489741",
+   "top": "Rock",
+   "sub": "Indie Rock · Indie Pop"
+  },
+  {
+   "id": "third-portishead",
+   "artist": "Portishead",
+   "title": "Third",
+   "short": "Third",
+   "released": "2008년 4월",
+   "genre": "트립합 · 실험 록",
+   "blurb": "11년 만에 돌아온 포티스헤드가 따뜻한 재즈 샘플 대신 차갑고 거친 소리를 택한 세 번째 음반.",
+   "length": "11곡 · 49분",
+   "spotify": "https://open.spotify.com/album/4BnNSzOWadogStvyYshJIo",
+   "apple": "https://music.apple.com/kr/album/1585215704",
+   "top": "Electronic",
+   "sub": "Trip Hop · Experimental Rock"
+  },
+  {
+   "id": "fleet-foxes-2008",
+   "artist": "Fleet Foxes",
+   "title": "Fleet Foxes",
+   "short": "Fleet Foxes",
+   "released": "2008년 6월",
+   "genre": "인디 포크",
+   "blurb": "시애틀의 20대 밴드가 교회 성가처럼 겹친 화음으로 숲과 산을 노래한 데뷔작.",
+   "length": "11곡 · 39분",
+   "spotify": "https://open.spotify.com/album/1rfgmU0AYNwWfS88pCOlX7",
+   "apple": "https://music.apple.com/kr/album/281086394",
+   "top": "Folk / Singer-Songwriter",
+   "sub": "Indie Folk · Chamber Folk"
+  }
+ ],
+ "essays": [
+  {
+   "id": "vampire-weekend-2008",
+   "heading": "콩고 기타와 옥스퍼드 쉼표",
+   "paras": [
+    "〈Mansard Roof〉는 장난감 같은 오르간과 통통 튀는 드럼으로 시작해 2분 만에 끝난다. 〈Cape Cod Kwassa Kwassa〉는 콩고와 남아프리카 팝에서 빌린 맑고 높은 기타 선율이 반복되고, 〈A-Punk〉는 짧은 기타 리프와 외침으로 2분 남짓 달린다. 〈M79〉에는 하프시코드와 현악 사중주가 들어와 고전음악 같은 장식을 더한다. 에즈라 코닉은 맨해튼의 버스 노선, 문장부호 같은 소재를 가사에 넣으며 냉소적이면서도 다정한 목소리로 노래한다.",
+    "밴드는 뉴욕 콜롬비아 대학교에서 만난 네 명으로 이뤄졌다. 건반과 편곡을 맡은 로스탐 바트망글리지가 음반을 직접 제작했다. 블로그에서 먼저 화제가 됐고, 영국 음반사 XL과 계약했다. 1986년 폴 사이먼의 《Graceland》와 자주 비교됐는데, 아프리카 음악을 빌려 쓰는 백인 대학생 밴드라는 점을 두고 비판도 있었다. 밴드는 이 음악을 진지하게 사랑했다고 말했다.",
+    "음반은 그해 가장 많이 이야기된 인디 록 데뷔작 가운데 하나가 됐고, 깔끔한 옷차림과 밝은 기타 소리는 2000년대 후반 인디 팝의 한 얼굴이 됐다. 밴드는 이후 2013년에 낸 《Modern Vampires of the City》로 그래미를 받았다. 1986년 《Graceland》와 이어 들으면 뉴욕 음악가가 아프리카 기타를 만난 두 시대를 비교할 수 있다."
+   ]
+  },
+  {
+   "id": "third-portishead",
+   "heading": "따뜻함을 버린 귀환",
+   "paras": [
+    "첫 곡 〈Silence〉는 포르투갈어 말소리로 시작해 빠르고 불안한 드럼과 날카로운 기타가 몰아치고, 베스 기번스의 목소리가 한참 뒤에야 들어온다. 〈Machine Gun〉은 기관총처럼 딱딱 끊어지는 드럼 머신 소리가 전부에 가깝고, 마지막에 1980년대 영화 음악 같은 신시사이저가 터진다. 〈The Rip〉은 조용한 기타로 시작해 반복하는 신시사이저 선율로 바뀌고, 〈Deep Water〉는 우쿨렐레와 남성 화음이 곁들인 1분 반짜리 소품이다. 〈We Carry On〉은 독일 크라우트록처럼 같은 박자를 끝없이 밀고 간다.",
+    "포티스헤드는 1994년 《Dummy》로 트립합(Trip Hop)을 대표하는 밴드가 됐지만, 1997년 두 번째 음반 이후 오랫동안 새 음반을 내지 않았다. 제프 배로와 에이드리언 어틀리는 그 사이 자신들이 만든 소리가 카페 배경 음악처럼 흔해졌다고 느꼈고, 이를 피하려고 옛 재즈와 소울 샘플을 거의 버렸다. 대신 직접 연주한 거친 악기와 크라우트록, 실험 음악에서 길을 찾았다.",
+    "음반은 영국 2위, 미국 7위에 올랐고 그해 여러 매체가 최고 음반 가운데 하나로 꼽았다. 오래 쉰 밴드가 과거를 반복하지 않고 돌아온 드문 예로 자주 이야기된다. 1994년 《Dummy》와 이어 들으면 같은 목소리가 얼마나 다른 공간에 놓였는지 들리고, 1972년 캔의 《Tago Mago》와 이어 들으면 그들이 새로 찾은 반복 리듬의 뿌리가 들린다."
+   ]
+  },
+  {
+   "id": "fleet-foxes-2008",
+   "heading": "숲속에서 부르는 돌림노래",
+   "paras": [
+    "〈White Winter Hymnal〉은 같은 구절을 여러 목소리가 시간차를 두고 따라 부르는 돌림노래(Round)로 시작한다. 드럼이 둥둥 울리고, 목소리들이 쌓이며 넓은 교회 안처럼 울린다. 로빈 페크놀드의 맑은 목소리는 멀리서 부르듯 깊은 잔향에 싸여 있다. 〈Ragged Wood〉는 빠른 기타 스트로크로 달리다 갑자기 느린 화음으로 바뀌고, 〈Blue Ridge Mountains〉는 동생에게 건네는 편지 같은 노래다. 가사는 산과 강, 겨울과 들판 같은 자연의 이미지로 가득하다.",
+    "플릿 폭시스는 시애틀에서 고등학교 친구였던 페크놀드와 기타리스트 스카일러 셸셋을 중심으로 결성됐다. 시애틀은 1990년대 그런지의 도시였지만, 이들은 비치 보이스와 버즈, 크로스비 스틸스 앤드 내시 같은 1960년대 화음과 영국 포크, 교회 성가에 빠져 있었다. 그해 봄 나온 EP 《Sun Giant》와 데뷔작이 잇따라 나오며 서브 팝에서 크게 주목받았다.",
+    "음반은 그해 피치포크 등 여러 매체가 올해 최고 음반으로 꼽았고, 본 이베어와 함께 2000년대 후반 인디 포크 유행을 이끌었다. 이후 수염과 플란넬 셔츠, 화음 합창은 한동안 인디 음악의 상징처럼 쓰였다. 1966년 비치 보이스의 《Pet Sounds》와 1965년 버즈의 《Mr. Tambourine Man》을 이어 들으면 이 화음의 조상이 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Vampire Weekend (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Vampire_Weekend_(album)"
+  },
+  {
+   "title": "Third (Portishead album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Third_(Portishead_album)"
+  },
+  {
+   "title": "Fleet Foxes (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fleet_Foxes_(album)"
+  },
+  {
+   "title": "iTunes Store · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/ITunes_Store"
+  }
+ ],
+ "edges": [
+  {
+   "from": "graceland",
+   "to": "vampire-weekend-2008",
+   "type": "listen",
+   "label": "뉴욕 음악가가 아프리카 팝 기타를 만난 두 시대"
+  },
+  {
+   "from": "dummy",
+   "to": "third-portishead",
+   "type": "document",
+   "label": "《Dummy》로 데뷔한 포티스헤드가 11년 만에 낸 세 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/Third_(Portishead_album)"
+  },
+  {
+   "from": "tago",
+   "to": "third-portishead",
+   "type": "listen",
+   "label": "끝없이 같은 박자를 미는 크라우트록 리듬"
+  },
+  {
+   "from": "pet-sounds",
+   "to": "fleet-foxes-2008",
+   "type": "listen",
+   "label": "겹겹이 쌓은 화음의 조상"
+  },
+  {
+   "from": "tambourine",
+   "to": "fleet-foxes-2008",
+   "type": "listen",
+   "label": "1960년대 포크 록의 맑은 화음"
+  },
+  {
+   "from": "for-emma",
+   "to": "fleet-foxes-2008",
+   "type": "listen",
+   "label": "2000년대 후반 인디 포크를 이끈 두 데뷔작"
+  }
+ ]
+}

@@ -1,0 +1,112 @@
+{
+ "date": "2027-03-04",
+ "part": "2010-P2",
+ "year": 2010,
+ "partNo": 2,
+ "partTotal": 3,
+ "total": "약 130분",
+ "title": "안드로이드의 오페라, 토론토의 고백",
+ "intro": "2010년 6월 남아프리카공화국에서 아프리카 대륙의 첫 월드컵이 열렸다. 트위터와 유튜브는 음악가가 음반사를 거치지 않고 팬과 직접 만나는 자리가 됐고, 래퍼들은 정규 음반 전에 무료 믹스테이프를 인터넷에 풀어 이름을 알렸다. 오늘의 두 음반은 그해 5월과 6월에 나왔다. 캔자스시티 출신 가수는 미래 도시의 안드로이드를 주인공으로 펑크와 록, 오케스트라를 오가는 콘셉트 음반을 만들었고, 캐나다의 배우 출신 래퍼는 무료 믹스테이프로 얻은 인기를 바탕으로 명성의 무게를 털어놓는 데뷔작을 냈다. 오늘은 두 장으로 약 130분이다. 두 음반 모두 60분이 넘어 두 장만 묶었다.",
+ "albums": [
+  {
+   "id": "archandroid",
+   "artist": "Janelle Monáe",
+   "title": "The ArchAndroid",
+   "short": "The ArchAndroid",
+   "released": "2010년 5월",
+   "genre": "네오 소울 · 사이키델릭 소울",
+   "blurb": "미래 도시의 안드로이드 신디 메이웨더 이야기로 펑크와 록, 오케스트라를 넘나든 재닐 모네의 첫 정규 음반.",
+   "length": "18곡 · 69분",
+   "spotify": "https://open.spotify.com/album/7MvSB0JTdtl1pSwZcgvYQX",
+   "apple": "https://music.apple.com/kr/album/370918921",
+   "top": "Soul / R&B",
+   "sub": "Neo Soul · Psychedelic Soul"
+  },
+  {
+   "id": "thank-me-later",
+   "artist": "Drake",
+   "title": "Thank Me Later",
+   "short": "Thank Me Later",
+   "released": "2010년 6월",
+   "genre": "힙합 · 얼터너티브 R&B",
+   "blurb": "물속처럼 흐린 비트 위에서 랩과 노래를 섞으며 명성의 무게를 털어놓은 드레이크의 데뷔작.",
+   "length": "14곡 · 61분",
+   "spotify": "https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU",
+   "apple": "https://music.apple.com/kr/album/1440815890",
+   "top": "Hip-Hop",
+   "sub": "Pop Rap · Alternative R&B"
+  }
+ ],
+ "essays": [
+  {
+   "id": "archandroid",
+   "heading": "미래에서 온 안드로이드",
+   "paras": [
+    "음반은 영화 음악 같은 오케스트라 서곡 〈Suite II Overture〉로 시작한다. 〈Dance or Die〉와 〈Faster〉는 빠른 펑크로 이어지고, 〈Tightrope〉는 아웃캐스트의 빅 보이와 함께 금관과 손뼉, 날렵한 베이스로 몰아친다. 재닐 모네는 제임스 브라운처럼 짧게 끊어 외치다가도 〈Oh, Maker〉에서는 포크 가수처럼 부드럽게 부른다. 〈Cold War〉는 빠른 록 박자 위의 절규이고, 마지막 〈BaBopByeYa〉는 재즈와 영화 음악이 섞인 9분 가까운 곡이다.",
+    "모네는 캔자스주 캔자스시티의 노동자 가정에서 자랐고, 애틀랜타로 옮겨 동료 음악가들과 창작 집단 원더랜드를 만들었다. 빅 보이의 소개로 음반사와 계약했다. 그는 1927년 프리츠 랑의 영화 〈메트로폴리스〉에서 따온 미래 도시에서, 인간을 사랑해 쫓기는 안드로이드 신디 메이웨더의 이야기를 여러 음반에 걸쳐 이어 갔다. 안드로이드는 소수자와 차별받는 사람들의 은유였다. 이 음반은 2007년 EP에 이은 이야기의 두 번째와 세 번째 장이다.",
+    "음반은 그해 여러 매체의 연말 목록에 올랐고, 모네는 프린스와 함께 작업하며 2010년대 가장 독창적인 R&B 음악가로 자리 잡았다. 흑인 음악과 공상과학을 엮는 아프로퓨처리즘(Afrofuturism)의 흐름도 이 음반과 함께 다시 주목받았다. 2003년 아웃캐스트의 《Speakerboxxx》와 1975년 팔러먼트의 《Mothership Connection》을 이어 들으면 그 계보가 들린다."
+   ]
+  },
+  {
+   "id": "thank-me-later",
+   "heading": "성공 전에 하는 성공 이야기",
+   "paras": [
+    "〈Fireworks〉는 흐릿한 피아노와 앨리샤 키스의 목소리로 시작하고, 드레이크는 첫 음반을 내기도 전에 찾아온 명성과 그 때문에 잃은 관계를 이야기한다. 비트는 높은 음을 깎아 낸 듯 먹먹해서 물속이나 벽 너머에서 들리는 것처럼 울린다. 그는 한 곡 안에서 랩과 노래를 자연스럽게 오간다. 〈Over〉는 무거운 드럼과 금관으로 자신감을 내세우고, 〈Find Your Love〉는 카니예 웨스트가 제작한 댄스홀풍의 노래다. 〈Miss Me〉에서는 그를 발굴한 릴 웨인이 함께한다.",
+    "드레이크(본명 오브리 그레이엄)는 캐나다 토론토 출신으로, 10대 시절 청소년 드라마 〈디그래시〉에 출연한 배우였다. 2009년 무료로 공개한 믹스테이프 《So Far Gone》의 〈Best I Ever Had〉가 크게 히트하면서 릴 웨인의 음반사 영 머니와 계약했다. 그의 오랜 동료 프로듀서 노아 '포티' 셰비브가 음반 대부분을 만들었다. 카니예 웨스트의 《808s & Heartbreak》가 연 감정적인 힙합을 그는 더 일상적이고 솔직한 대화로 바꿨다.",
+    "음반은 미국에서 첫 주에 40만 장 넘게 팔리며 1위로 데뷔했다. 이후 드레이크는 2010년대 가장 많이 팔리고 많이 스트리밍된 음악가가 됐고, 먹먹한 비트와 랩과 노래를 섞는 방식은 토론토 사운드라 불리며 힙합과 R&B 전체로 퍼졌다. 2008년 《808s & Heartbreak》와 《Tha Carter III》를 먼저 들으면 그의 출발점이 보인다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "The ArchAndroid · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_ArchAndroid"
+  },
+  {
+   "title": "Janelle Monáe · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Janelle_Mon%C3%A1e"
+  },
+  {
+   "title": "Thank Me Later · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Thank_Me_Later"
+  },
+  {
+   "title": "So Far Gone (mixtape) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/So_Far_Gone_(mixtape)"
+  }
+ ],
+ "edges": [
+  {
+   "from": "speakerboxxx",
+   "to": "archandroid",
+   "type": "document",
+   "label": "아웃캐스트의 빅 보이가 〈Tightrope〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/The_ArchAndroid"
+  },
+  {
+   "from": "mothership",
+   "to": "archandroid",
+   "type": "listen",
+   "label": "공상과학과 흑인 음악을 엮는 아프로퓨처리즘"
+  },
+  {
+   "from": "sex-machine",
+   "to": "archandroid",
+   "type": "listen",
+   "label": "짧게 끊어 외치는 펑크의 창법"
+  },
+  {
+   "from": "carter-iii",
+   "to": "thank-me-later",
+   "type": "document",
+   "label": "릴 웨인의 영 머니와 계약한 드레이크의 데뷔작, 〈Miss Me〉에 릴 웨인 참여",
+   "source": "https://en.wikipedia.org/wiki/Thank_Me_Later"
+  },
+  {
+   "from": "808s",
+   "to": "thank-me-later",
+   "type": "listen",
+   "label": "랩과 노래를 섞는 감정적인 힙합의 다음 세대"
+  }
+ ]
+}

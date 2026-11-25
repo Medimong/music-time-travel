@@ -1,0 +1,137 @@
+{
+ "date": "2027-02-25",
+ "part": "2007-P3",
+ "year": 2007,
+ "partNo": 3,
+ "partTotal": 3,
+ "total": "약 134분",
+ "title": "판매 대결, 대학 기숙사의 꿈, 원하는 만큼 내세요",
+ "intro": "2007년 9월 11일 카니예 웨스트와 50센트가 같은 날 새 음반을 냈다. 둘의 판매 대결은 몇 주 전부터 큰 화제가 됐고, 첫 주에 카니예 웨스트가 약 95만 장, 50센트가 약 69만 장을 팔았다. 거친 갱스터 랩 대신 더 개인적이고 실험적인 힙합이 앞서 나간 순간으로 자주 기억된다. 한 달 뒤 라디오헤드는 새 음반을 음반사 없이 인터넷에 올리고 값을 듣는 사람이 정하게 했다. 오늘의 세 음반은 모두 가을에 나왔고, 하나는 경기장을 위한 힙합, 하나는 대학 친구 둘이 만든 사이키델릭 팝, 하나는 밴드가 스스로 배급한 록 음반이다. 오늘은 세 장으로 약 134분이다.",
+ "albums": [
+  {
+   "id": "graduation",
+   "artist": "Kanye West",
+   "title": "Graduation",
+   "short": "Graduation",
+   "released": "2007년 9월",
+   "genre": "힙합 · 일렉트로 팝",
+   "blurb": "신시사이저와 경기장 록의 규모를 힙합에 들여온 카니예 웨스트의 세 번째 음반.",
+   "length": "1–13곡 · 51분",
+   "spotify": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3",
+   "apple": "https://music.apple.com/kr/album/1451901307",
+   "top": "Hip-Hop",
+   "sub": "Pop Rap · Electro Hip-Hop"
+  },
+  {
+   "id": "oracular",
+   "artist": "MGMT",
+   "title": "Oracular Spectacular",
+   "short": "Oracular Spectacular",
+   "released": "2007년 10월",
+   "genre": "네오 사이키델리아 · 신스 팝",
+   "blurb": "대학 친구 둘이 록 스타의 삶을 비꼬며 만든, 〈Kids〉와 〈Time to Pretend〉의 데뷔작.",
+   "length": "10곡 · 40분",
+   "spotify": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv",
+   "apple": "https://music.apple.com/kr/album/264720008",
+   "top": "Psychedelic / Prog",
+   "sub": "Neo-Psychedelia · Synth-Pop"
+  },
+  {
+   "id": "in-rainbows",
+   "artist": "Radiohead",
+   "title": "In Rainbows",
+   "short": "In Rainbows",
+   "released": "2007년 10월",
+   "genre": "아트 록",
+   "blurb": "음반사 없이 인터넷에 올려 듣는 사람이 값을 정하게 한, 라디오헤드의 가장 따뜻한 음반.",
+   "length": "10곡 · 43분",
+   "spotify": "https://open.spotify.com/album/5vkqYmiPBYLaalcmjujWxK",
+   "apple": "https://music.apple.com/kr/album/1109714933",
+   "top": "Rock",
+   "sub": "Art Rock"
+  }
+ ],
+ "essays": [
+  {
+   "id": "graduation",
+   "heading": "경기장을 위한 힙합",
+   "paras": [
+    "〈Stronger〉는 다프트 펑크의 〈Harder, Better, Faster, Stronger〉에서 로봇 목소리를 따와, 묵직한 드럼과 신시사이저 위에 얹었다. 〈Flashing Lights〉는 현악과 신시사이저가 겹친 밤거리 같은 곡이고, 〈Homecoming〉에서는 콜드플레이의 크리스 마틴이 피아노와 후렴을 맡았다. 〈Can't Tell Me Nothing〉은 낮게 깔린 신시사이저 위에서 성공 뒤의 불안을 털어놓는다. 앞선 두 음반의 소울 샘플 대신 반짝이는 신시사이저와 크게 울리는 후렴이 중심에 섰다.",
+    "카니예 웨스트는 2006년 U2와 롤링 스톤스의 경기장 공연을 함께 다니며, 큰 공간에서 사람들이 따라 부를 수 있는 노래를 만들고 싶어 했다고 말했다. 그는 하우스 음악과 영국 록, 일렉트로닉 음악을 참고했다. 표지는 일본 미술가 무라카미 다카시가 그렸다. 50센트와의 같은 날 발매 대결에서 그가 크게 이기면서, 힙합의 중심이 거친 갱스터 이미지에서 더 개인적인 이야기로 옮겨 간다는 이야기가 나왔다.",
+    "음반은 그래미 최우수 랩 앨범상을 받았다. 이후 2008년 무렵 힙합과 팝에서는 신시사이저와 일렉트로닉 소리가 크게 늘었다. 2005년 《Late Registration》과 이어 들으면 현악단의 힙합이 신시사이저의 힙합으로 바뀐 것이 들리고, 2001년 다프트 펑크의 《Discovery》와 이어 들으면 〈Stronger〉가 빌린 원곡을 들을 수 있다."
+   ]
+  },
+  {
+   "id": "oracular",
+   "heading": "록 스타 놀이",
+   "paras": [
+    "〈Time to Pretend〉는 장난감 같은 신시사이저 선율이 행진하듯 울리고, 앤드루 밴위가든이 록 스타가 되어 마약과 모델에 둘러싸여 살다 젊어서 죽겠다는 꿈을 비꼬듯 노래한다. 〈Electric Feel〉은 가성으로 부르는 끈적한 펑크이고, 〈Kids〉는 한 번 들으면 잊기 어려운 신시사이저 선율이 처음부터 끝까지 반복된다. 음반 후반부는 더 느리고 몽롱한 사이키델릭 록으로 흘러간다.",
+    "MGMT는 미국 웨슬리언 대학교에서 만난 앤드루 밴위가든과 벤 골드와서의 듀오다. 〈Kids〉와 〈Time to Pretend〉의 초기 형태는 대학 시절 장난삼아 만든 곡이었다. 음반은 플레이밍 립스의 《The Soft Bulletin》을 만든 데이브 프리드먼이 제작했고, 그 덕에 두꺼운 드럼과 몽롱한 공간감이 더해졌다. 디지털 판은 2007년 10월에, CD는 2008년 1월에 나왔다.",
+    "세 곡의 신시사이저 선율은 대학 파티와 광고, 영화에 끝없이 쓰이며 2000년대 후반 인디 팝의 상징이 됐고, 듀오는 그래미 신인상 후보에 올랐다. 이후 '인디 일렉트로 팝'이라 불린 흐름이 이 음반을 따라 커졌다. 1999년 플레이밍 립스의 《The Soft Bulletin》과 이어 들으면 같은 프로듀서가 만든 몽롱한 공간이 들린다."
+   ]
+  },
+  {
+   "id": "in-rainbows",
+   "heading": "값은 당신이 정하세요",
+   "paras": [
+    "〈15 Step〉은 한 마디에 다섯 박이 들어가는 5박자의 전자 드럼과 손뼉으로 시작하고, 곧 기타가 따뜻하게 들어온다. 〈Weird Fishes/Arpeggi〉는 기타 세 대가 분산화음(Arpeggio)으로 엇갈리며 바닷속으로 가라앉는 듯한 느낌을 만들고, 〈Nude〉는 현악과 톰 요크의 가성이 천천히 떠다닌다. 〈Reckoner〉는 탬버린과 가성, 현악이 겹치는 아름다운 곡이고, 마지막 〈Videotape〉은 피아노 화음 위로 엇박의 드럼이 조용히 흔들린다.",
+    "라디오헤드는 2003년 《Hail to the Thief》를 끝으로 EMI와의 계약을 마쳤다. 그들은 새 음반을 2007년 10월 10일 자신들의 웹사이트에서 다운로드로 팔며, 값은 0원부터 듣는 사람이 정하게 했다. 발매 열흘 전에야 이 사실을 알렸다. 〈Nude〉처럼 1990년대 후반부터 공연에서 연주해 온 곡도 마침내 녹음됐다. 프로듀서는 오랜 동료 나이절 고드리치였고, CD와 LP는 연말에 따로 나왔다.",
+    "이 방식은 음반 산업 전체에 큰 논쟁을 일으켰고, 이후 여러 음악가가 음반사를 거치지 않고 직접 발매하는 방식을 시험했다. 실물 음반은 영국과 미국에서 1위에 올랐고 그래미를 받았다. 1997년 《OK Computer》와 2000년 《Kid A》를 이어 들으면 차갑던 밴드가 어떻게 따뜻해졌는지 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Graduation (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Graduation_(album)"
+  },
+  {
+   "title": "Oracular Spectacular · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Oracular_Spectacular"
+  },
+  {
+   "title": "In Rainbows · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/In_Rainbows"
+  },
+  {
+   "title": "Curtis (50 Cent album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Curtis_(50_Cent_album)"
+  }
+ ],
+ "edges": [
+  {
+   "from": "late-registration",
+   "to": "graduation",
+   "type": "document",
+   "label": "《Late Registration》 다음 카니예 웨스트의 세 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/Graduation_(album)"
+  },
+  {
+   "from": "discovery",
+   "to": "graduation",
+   "type": "document",
+   "label": "〈Stronger〉가 〈Harder, Better, Faster, Stronger〉를 샘플로 사용",
+   "source": "https://en.wikipedia.org/wiki/Stronger_(Kanye_West_song)"
+  },
+  {
+   "from": "soft-bulletin",
+   "to": "oracular",
+   "type": "document",
+   "label": "《The Soft Bulletin》의 프로듀서 데이브 프리드먼이 제작",
+   "source": "https://en.wikipedia.org/wiki/Oracular_Spectacular"
+  },
+  {
+   "from": "ok-computer",
+   "to": "in-rainbows",
+   "type": "document",
+   "label": "《OK Computer》 시절부터 연주해 온 〈Nude〉가 실린 라디오헤드의 일곱 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/In_Rainbows"
+  },
+  {
+   "from": "kid-a",
+   "to": "in-rainbows",
+   "type": "listen",
+   "label": "차갑던 전자음이 따뜻한 밴드 소리로 돌아오는 길"
+  }
+ ]
+}

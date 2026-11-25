@@ -1,0 +1,144 @@
+{
+ "date": "2027-02-24",
+ "part": "2007-P2",
+ "year": 2007,
+ "partNo": 2,
+ "partTotal": 3,
+ "total": "약 133분",
+ "title": "파리의 십자가, 위스콘신의 겨울, 세계를 떠도는 비트",
+ "intro": "2007년 여름 미국에서 비우량 주택담보대출(서브프라임)의 부실이 드러나기 시작했고, 이 위기는 이듬해 세계 금융위기로 번졌다. 음악계에서는 음반사의 홍보보다 음악 블로그와 마이스페이스가 신인을 먼저 알아보는 일이 흔해졌다. 오늘의 세 음반은 6월부터 8월 사이에 나왔다. 파리의 두 청년은 찌그러질 만큼 압축한 전자음으로 클럽을 흔들었고, 위스콘신의 한 남자는 겨울 오두막에서 홀로 녹음한 노래를 몇백 장 찍어 냈으며, 런던의 난민 출신 음악가는 미국 비자를 받지 못하자 인도와 트리니다드, 호주를 떠돌며 음반을 만들었다. 오늘은 세 장으로 약 133분이다.",
+ "albums": [
+  {
+   "id": "cross-justice",
+   "artist": "Justice",
+   "title": "Cross",
+   "short": "†",
+   "released": "2007년 6월",
+   "genre": "프렌치 하우스 · 일렉트로",
+   "blurb": "록 기타처럼 찌그러뜨린 신시사이저로 2000년대 후반 클럽을 흔든 파리 듀오 저스티스의 데뷔작.",
+   "length": "12곡 · 48분",
+   "spotify": "https://open.spotify.com/album/177kWWNUxsW0MT8ZbCi4vt",
+   "apple": "https://music.apple.com/kr/album/259751732",
+   "top": "Electronic",
+   "sub": "French House · Electro"
+  },
+  {
+   "id": "for-emma",
+   "artist": "Bon Iver",
+   "title": "For Emma, Forever Ago",
+   "short": "For Emma, Forever Ago",
+   "released": "2007년 7월",
+   "genre": "인디 포크",
+   "blurb": "저스틴 버넌이 위스콘신 숲속 오두막에서 겨울을 나며 혼자 녹음한 노래들.",
+   "length": "9곡 · 37분",
+   "spotify": "https://open.spotify.com/album/7EJ0OT5ZqybXxcYRa6mccM",
+   "apple": "https://music.apple.com/kr/album/947059824",
+   "top": "Folk / Singer-Songwriter",
+   "sub": "Indie Folk"
+  },
+  {
+   "id": "kala",
+   "artist": "M.I.A.",
+   "title": "Kala",
+   "short": "Kala",
+   "released": "2007년 8월",
+   "genre": "일렉트로 · 힙합 · 글로벌 베이스",
+   "blurb": "인도, 트리니다드, 라이베리아, 호주를 떠돌며 녹음해 〈Paper Planes〉를 낳은 M.I.A.의 두 번째 음반.",
+   "length": "1–12곡 · 48분",
+   "spotify": "https://open.spotify.com/album/1Lymt1abGCr3J06bbnmWca",
+   "apple": "https://music.apple.com/kr/album/296393419",
+   "top": "Electronic",
+   "sub": "Global Bass · Hip-Hop"
+  }
+ ],
+ "essays": [
+  {
+   "id": "cross-justice",
+   "heading": "찌그러진 디스코",
+   "paras": [
+    "첫 곡 〈Genesis〉는 오케스트라 금관 같은 신시사이저가 영화 예고편처럼 울리고, 무겁게 찌그러진 베이스가 들어온다. 저스티스의 소리는 일부러 음량을 한계까지 압축해 스피커가 찢어질 듯 들리게 만든다. 〈D.A.N.C.E.〉는 어린이 합창단 같은 목소리가 마이클 잭슨의 노래 제목들을 줄줄이 부르는 밝은 디스코이고, 〈Phantom〉과 〈Stress〉는 공포 영화 음악처럼 불안한 현악 샘플과 거친 신시사이저가 부딪힌다. 〈Waters of Nazareth〉는 금속을 긁는 듯한 소리로 춤추게 만든다.",
+    "저스티스는 그래픽 디자이너 출신 가스파르 오제와 그자비에 드 로즈네의 듀오다. 그들은 다프트 펑크의 매니저였던 페드로 윈터가 세운 파리의 음반사 에드 뱅어와 계약했다. 다프트 펑크가 1990년대 말 프랑스 하우스를 세계에 알렸다면, 저스티스는 그 뒤를 이어 하우스에 헤비메탈과 록의 거친 질감을 섞었다. 음반 제목은 앨범 표지와 무대에 놓인 큰 십자가 모양에서 왔다.",
+    "〈D.A.N.C.E.〉는 그래미 후보에 올랐고, 음반은 2000년대 후반 '블로그 하우스'라 불린 거친 일렉트로 유행의 중심이 됐다. 이 소리는 이후 미국의 일렉트로닉 댄스 음악(EDM) 열풍에도 영향을 줬다. 1997년 다프트 펑크의 《Homework》와 2001년 《Discovery》를 이어 들으면 같은 파리의 클럽 음악이 몇 년 사이 어떻게 거칠어졌는지 들린다."
+   ]
+  },
+  {
+   "id": "for-emma",
+   "heading": "오두막의 가성",
+   "paras": [
+    "〈Flume〉은 어쿠스틱 기타 한 대와 겹겹이 쌓은 가성(Falsetto)으로 시작한다. 저스틴 버넌은 자기 목소리를 여러 번 녹음해 포개서 혼자 부르는데도 작은 합창단처럼 들린다. 〈Skinny Love〉는 기타 줄을 세게 내리치며 거칠게 부르는 이 음반의 가장 유명한 노래이고, 〈The Wolves (Act I and II)〉는 같은 구절을 반복하며 점점 커진다. 마지막 〈Re: Stacks〉는 조용한 기타 위에서 혼잣말처럼 끝난다. 녹음은 거칠고 공간의 울림이 그대로 담겨 있다.",
+    "버넌은 위스콘신 출신으로, 2006년 함께하던 밴드가 해체되고 연인과도 헤어진 데다 병까지 앓았다. 그는 그해 겨울 위스콘신 북서부 숲속에 있는 아버지의 사냥 오두막으로 들어가 석 달 가까이 지내며 이 노래들을 녹음했다. 밴드 이름 본 이베어는 프랑스어 '좋은 겨울(bon hiver)'을 일부러 틀리게 쓴 것이다. 그는 2007년 이 음반을 직접 소량 찍어 팔았고, 블로그에서 입소문이 나면서 이듬해 2월 인디 음반사 재그재과이어에서 정식으로 다시 나왔다.",
+    "음반은 2000년대 후반 인디 포크 유행을 이끌었고, 혼자 오두막에서 만든 음반이라는 이야기는 하나의 전설이 됐다. 버넌은 이후 카니예 웨스트의 음반에 참여하며 힙합과 인디 음악을 잇는 인물이 됐다. 1972년 닉 드레이크의 《Pink Moon》과 이어 들으면 기타 한 대와 목소리만으로 만든 고독한 음반의 계보가 들린다."
+   ]
+  },
+  {
+   "id": "kala",
+   "heading": "어머니의 이름으로 떠난 여행",
+   "paras": [
+    "〈Bird Flu〉는 남인도 타밀 지방의 전통 북 소리가 쿵쿵 울리고 아이들의 외침이 섞인다. 〈Jimmy〉는 1982년 인도 영화 〈디스코 댄서〉의 노래를 다시 불렀고, 〈Paper Planes〉는 클래시의 〈Straight to Hell〉 기타를 샘플로 쓰며 후렴마다 총소리와 계산기 소리가 터진다. 이민자를 위험한 사람처럼 보는 시선을 비꼬는 노래다. 〈Mango Pickle Down River〉에는 호주 원주민 아이들로 이뤄진 랩 그룹이 참여했다. 곡마다 리듬과 언어가 다르다.",
+    "M.I.A.(본명 마야 아룰프라가삼)는 스리랑카 타밀계 가정에서 태어나 내전을 피해 런던으로 온 난민 출신이다. 데뷔작 《Arular》가 아버지의 이름이었다면, 두 번째 음반 《Kala》는 어머니의 이름이다. 그는 처음에 미국에서 팀벌랜드와 작업하려 했지만 비자 문제로 미국에 오래 머물 수 없었고, 대신 인도 첸나이와 트리니다드, 라이베리아, 호주 등을 돌며 녹음했다. 프로듀서 스위치와 디플로가 함께했다.",
+    "〈Paper Planes〉는 2008년 영화 예고편과 〈슬럼독 밀리어네어〉에 쓰이며 크게 알려졌고, 미국 싱글 차트 4위까지 올라 그래미 올해의 레코드 후보가 됐다. 세계 여러 지역의 리듬을 섞는 '글로벌 베이스' 흐름이 이 음반과 함께 커졌다. 2005년 《Arular》와 이어 들으면 같은 음악가의 세계가 얼마나 넓어졌는지 들리고, 1979년 클래시의 《London Calling》과 이어 들으면 그가 빌린 런던 펑크의 정치성이 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Cross (Justice album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cross_(Justice_album)"
+  },
+  {
+   "title": "For Emma, Forever Ago · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/For_Emma,_Forever_Ago"
+  },
+  {
+   "title": "Kala (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kala_(album)"
+  },
+  {
+   "title": "Paper Planes (song) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Paper_Planes_(song)"
+  },
+  {
+   "title": "Subprime mortgage crisis · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Subprime_mortgage_crisis"
+  }
+ ],
+ "edges": [
+  {
+   "from": "homework",
+   "to": "cross-justice",
+   "type": "listen",
+   "label": "파리 클럽 음악의 앞 세대, 에드 뱅어를 세운 다프트 펑크의 매니저"
+  },
+  {
+   "from": "discovery",
+   "to": "cross-justice",
+   "type": "listen",
+   "label": "디스코를 잘라 붙이는 프랑스 하우스가 더 거칠어지다"
+  },
+  {
+   "from": "pink-moon",
+   "to": "for-emma",
+   "type": "listen",
+   "label": "기타 한 대와 목소리로 만든 고독한 음반"
+  },
+  {
+   "from": "illinois",
+   "to": "for-emma",
+   "type": "listen",
+   "label": "2000년대 중반 미국 인디 포크의 두 갈래"
+  },
+  {
+   "from": "arular",
+   "to": "kala",
+   "type": "document",
+   "label": "《Arular》 다음 M.I.A.의 두 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/Kala_(album)"
+  },
+  {
+   "from": "london-calling",
+   "to": "kala",
+   "type": "listen",
+   "label": "〈Paper Planes〉가 빌린 클래시의 런던 펑크"
+  }
+ ]
+}
