@@ -1,0 +1,111 @@
+{
+ "date": "2027-02-09",
+ "part": "2002-P2",
+ "year": 2002,
+ "partNo": 2,
+ "partTotal": 3,
+ "total": "약 127분",
+ "title": "가장 많이 팔린 래퍼, 뉴욕의 검은 정장",
+ "intro": "2002년 미국은 9·11 이후 전쟁의 시대로 들어서고 있었다. 1월 조지 W. 부시 대통령은 이라크, 이란, 북한을 악의 축이라 불렀고, 그해 내내 이라크 공격 논의가 이어졌다. 음악 시장에서는 음반 판매가 줄기 시작했지만 에미넘은 예외였다. 그는 그해 미국에서 가장 많이 팔린 음반을 냈고, 자전적 영화 〈8마일〉의 주연까지 맡았다. 한편 뉴욕에서는 스트록스에 이어 어둡고 정돈된 기타 밴드가 데뷔했다. 오늘은 에미넘의 음반이 77분이나 돼서 두 장으로 약 127분이다.",
+ "albums": [
+  {
+   "id": "eminem-show",
+   "artist": "Eminem",
+   "title": "The Eminem Show",
+   "short": "The Eminem Show",
+   "released": "2002년 5월",
+   "genre": "힙합 · 랩 록",
+   "blurb": "스스로 대부분의 비트를 만들고 록 기타를 끌어들여 자신의 명성과 가족, 미국 사회를 정면으로 다룬 에미넘의 네 번째 음반.",
+   "length": "20곡 · 78분",
+   "spotify": "https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo",
+   "apple": "https://music.apple.com/kr/album/1440903530",
+   "top": "Hip-Hop",
+   "sub": "Midwest Hip-Hop · Rap Rock"
+  },
+  {
+   "id": "bright-lights",
+   "artist": "Interpol",
+   "title": "Turn On the Bright Lights",
+   "short": "Turn On the Bright Lights",
+   "released": "2002년 8월",
+   "genre": "포스트펑크 리바이벌",
+   "blurb": "낮은 목소리와 서늘한 기타로 1980년대 포스트펑크를 뉴욕의 밤에 옮긴 인터폴의 데뷔작.",
+   "length": "11곡 · 49분",
+   "spotify": "https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG",
+   "apple": "https://music.apple.com/kr/album/1589272584",
+   "top": "New Wave / Post-Punk",
+   "sub": "Post-Punk Revival"
+  }
+ ],
+ "essays": [
+  {
+   "id": "eminem-show",
+   "heading": "무대 위의 자기 자신",
+   "paras": [
+    "〈White America〉는 묵직한 록 드럼과 기타 리프 위로 에미넘이 미국의 백인 십 대가 왜 자신에게 열광하는지, 그래서 부모와 정치인들이 왜 자신을 두려워하는지 쏘아붙인다. 〈Without Me〉는 통통 튀는 신시사이저 베이스와 만화 같은 효과음으로 장난을 치고, 〈Cleanin' Out My Closet〉은 어두운 기타 선율 위로 어머니와의 상처를 숨김없이 털어놓는다. 〈Sing for the Moment〉는 에어로스미스의 〈Dream On〉을 통째로 샘플로 쓰고, 마지막에는 그 기타리스트 조 페리의 독주가 나온다.",
+    "에미넘은 디트로이트 근교의 가난한 동네에서 자랐고, 닥터 드레를 만나 1999년 《The Slim Shady LP》로 데뷔했다. 이 음반에서는 처음으로 자신이 대부분의 곡을 직접 제작했다. 앞선 두 음반이 슬림 셰이디라는 폭력적인 분신을 내세웠다면, 여기서는 그 가면을 조금 벗고 명성, 이혼, 딸 헤일리, 언론과 정치권의 비난을 직접 다룬다. 발매는 불법 유출 때문에 예정보다 앞당겨졌고, 몇 주 만에 미국에서만 백만 장을 넘긴 것으로 알려져 있다.",
+    "음반은 그해 미국에서 가장 많이 팔렸고 그래미 최우수 랩 앨범상을 받았다. 같은 해 가을 개봉한 영화 〈8마일〉의 주제곡 〈Lose Yourself〉는 힙합 곡으로는 처음으로 아카데미 주제가상을 받았다. 1999년의 《The Slim Shady LP》와 이어 들으면 같은 래퍼가 3년 사이에 만화 같은 악당에서 자기 삶의 해설자로 바뀐 것이 들린다."
+   ]
+  },
+  {
+   "id": "bright-lights",
+   "heading": "도시의 밤과 낮은 목소리",
+   "paras": [
+    "〈Untitled〉는 메아리가 길게 남는 기타가 천천히 같은 음을 짚고, 폴 뱅크스의 낮은 목소리가 멀리서 들려온다. 〈Obstacle 1〉과 〈PDA〉에서는 카를로스 덴글러의 베이스가 선율을 이끌고, 두 대의 기타는 날카롭게 짧은 음을 끊어 치며, 드럼은 빠르고 단단하다. 노래는 감정을 터뜨리지 않고 차갑게 누른다. 〈NYC〉는 지하철과 밤거리의 쓸쓸함을 느린 템포로 그린다. 검은 정장 차림의 네 사람처럼 소리 전체가 정돈되어 있다.",
+    "인터폴은 1990년대 말 뉴욕대 학생들이 중심이 되어 만든 밴드다. 많은 평론가가 1980년대 맨체스터의 조이 디비전을 떠올렸는데, 낮은 목소리, 선율을 맡는 베이스, 서늘한 기타가 그대로 겹쳤기 때문이다. 밴드는 그 비교를 늘 부담스러워했다. 음반은 뉴욕의 인디 레이블 마타도어에서 나왔고, 코네티컷의 작은 스튜디오에서 피터 케이티스와 함께 녹음했다. 스트록스와 예예예스, 티비 온 더 레디오가 함께 활동하던 뉴욕 클럽 무대의 한복판에서 나온 음반이다.",
+    "판매는 천천히 늘었지만, 이 음반은 2000년대 포스트펑크 리바이벌(Post-Punk Revival)의 대표작이 됐다. 2004년의 프란츠 퍼디낸드, 2005년 이후의 블록 파티 같은 밴드가 같은 흐름에서 나왔다. 1979년 조이 디비전의 《Unknown Pleasures》와 1980년 《Closer》와 이어 들으면 23년을 건너 이어진 차갑고 낮은 기타 록의 계보가 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "The Eminem Show · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Eminem_Show"
+  },
+  {
+   "title": "Turn On the Bright Lights · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Turn_On_the_Bright_Lights"
+  },
+  {
+   "title": "8 Mile (film) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/8_Mile_(film)"
+  },
+  {
+   "title": "Post-punk revival · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Post-punk_revival"
+  }
+ ],
+ "edges": [
+  {
+   "from": "slim-shady",
+   "to": "eminem-show",
+   "type": "document",
+   "label": "《The Slim Shady LP》 다음 에미넘이 직접 제작을 맡은 음반",
+   "source": "https://en.wikipedia.org/wiki/The_Eminem_Show"
+  },
+  {
+   "from": "dre-2001",
+   "to": "eminem-show",
+   "type": "listen",
+   "label": "닥터 드레의 애프터매스 사단이 만든 무거운 비트"
+  },
+  {
+   "from": "unknown-pleasures",
+   "to": "bright-lights",
+   "type": "listen",
+   "label": "낮은 목소리와 선율을 맡는 베이스의 계보"
+  },
+  {
+   "from": "closer",
+   "to": "bright-lights",
+   "type": "listen",
+   "label": "서늘한 기타와 절제된 감정의 포스트펑크"
+  },
+  {
+   "from": "is-this-it",
+   "to": "bright-lights",
+   "type": "listen",
+   "label": "같은 시기 뉴욕 클럽 무대의 다른 얼굴"
+  }
+ ]
+}

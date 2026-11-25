@@ -1,0 +1,104 @@
+{
+ "date": "2027-02-08",
+ "part": "2002-P1",
+ "year": 2002,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 97분",
+ "title": "조용한 재즈 목소리, 버려졌다 살아난 음반",
+ "intro": "2002년 6월 한국과 일본이 함께 연 월드컵에서 한국 대표팀은 4강에 올랐고, 서울 시청 앞 광장은 붉은 옷을 입은 사람들로 가득 찼다. 유럽에서는 1월부터 유로 지폐와 동전이 쓰이기 시작했다. 대중음악에서는 9·11 이후의 불안과 피로 속에서 조용하고 따뜻한 소리가 뜻밖의 큰 성공을 거뒀다. 오늘의 두 음반은 둘 다 음반 산업의 예상을 뒤집었다. 재즈 레이블의 신인은 큰 홍보 없이 입소문만으로 수천만 장을 팔았고, 시카고 밴드는 음반사에게 거절당한 음반을 인터넷에 먼저 공개했다가 더 큰 성공을 거뒀다. 오늘은 두 장으로 약 97분이다. 두 음반 모두 차분하게 처음부터 끝까지 들어야 하는 음반이라 세 번째 음반을 붙이지 않았다.",
+ "albums": [
+  {
+   "id": "come-away-with-me",
+   "artist": "Norah Jones",
+   "title": "Come Away with Me",
+   "short": "Come Away with Me",
+   "released": "2002년 2월",
+   "genre": "보컬 재즈 · 팝 · 컨트리",
+   "blurb": "재즈 레이블 블루 노트에서 나온 조용한 피아노와 목소리로 전 세계에서 수천만 장이 팔린 노라 존스의 데뷔작.",
+   "length": "14곡 · 45분",
+   "spotify": "https://open.spotify.com/album/3ul9GmXlTkmRMh3OciXxFR",
+   "apple": "https://music.apple.com/kr/album/1624173298",
+   "top": "Jazz",
+   "sub": "Vocal Jazz · Adult Contemporary"
+  },
+  {
+   "id": "yankee-hotel",
+   "artist": "Wilco",
+   "title": "Yankee Hotel Foxtrot",
+   "short": "Yankee Hotel Foxtrot",
+   "released": "2002년 4월",
+   "genre": "얼터너티브 컨트리 · 아트 록",
+   "blurb": "음반사에서 거절당한 뒤 인터넷으로 먼저 공개된, 컨트리 록 밴드 윌코의 실험적인 네 번째 음반.",
+   "length": "11곡 · 52분",
+   "spotify": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv",
+   "apple": "https://music.apple.com/kr/album/300981120",
+   "top": "Rock",
+   "sub": "Alt-Country · Art Rock"
+  }
+ ],
+ "essays": [
+  {
+   "id": "come-away-with-me",
+   "heading": "속삭이듯 부르는 노래",
+   "paras": [
+    "〈Don't Know Why〉는 피아노가 부드러운 화음을 천천히 짚고, 노라 존스는 숨소리가 섞인 낮은 목소리로 거의 속삭이듯 노래한다. 드럼은 브러시로 살짝 쓸기만 하고, 기타는 컨트리처럼 맑게 울린다. 재즈 레이블의 음반이지만 즉흥 독주는 거의 없고, 노래와 분위기가 중심이다. 행크 윌리엄스의 컨트리 곡 〈Cold Cold Heart〉를 재즈 피아노로 바꿔 부르고, 〈Come Away with Me〉와 〈Seven Years〉는 포크 노래처럼 단순하다. 음반 전체가 크게 소리를 높이는 순간 없이 흐른다.",
+    "존스는 인도 시타르 연주자 라비 샹카르의 딸로, 텍사스에서 자라 대학에서 재즈 피아노를 배운 뒤 뉴욕 클럽에서 노래했다. 1939년부터 이어 온 재즈 레이블 블루 노트가 그녀와 계약했다. 처음 녹음한 곡들 상당수를 다시 녹음했고, 애레사 프랭클린과 비지스의 음반을 만들었던 노장 제작자 아리프 마딘이 다시 맡아 소리를 단순하게 정리했다. 〈Don't Know Why〉는 그녀의 밴드 동료 제시 해리스가 쓴 곡이다. 처음에는 재즈 음반의 평범한 판매량을 예상했지만, 입소문을 타고 꾸준히 팔리며 차트를 거슬러 올라갔다.",
+    "2003년 그래미 시상식에서 이 음반과 관련 곡들은 올해의 앨범과 올해의 레코드를 포함해 여덟 개 부문을 휩쓸었다. 전 세계 판매량은 2천만 장을 훌쩍 넘는 것으로 알려져 있다. 랩과 록이 점점 시끄러워지던 시기에 어른들을 위한 조용한 음반의 시장이 여전히 크다는 것을 보여 준 셈이다. 1971년 조니 미첼의 《Blue》와 이어 들으면 피아노 앞에서 조용히 부르는 여성 싱어송라이터의 계보가 들린다."
+   ]
+  },
+  {
+   "id": "yankee-hotel",
+   "heading": "잡음 속에서 들리는 노래",
+   "paras": [
+    "첫 곡 〈I Am Trying to Break Your Heart〉는 어긋난 드럼과 종소리, 잡음 같은 전자음 속에서 제프 트위디가 부드러운 포크 선율을 부른다. 노래는 단순한데 그 둘레를 감싼 소리는 계속 흔들리고 깨진다. 〈Jesus, Etc.〉는 바이올린과 부드러운 리듬으로 흐르는 아름다운 노래이고, 〈Heavy Metal Drummer〉는 밝은 팝이다. 〈Poor Places〉의 마지막에는 단파 라디오에서 잡은 듯한 여성의 목소리가 〈양키, 호텔, 폭스트롯〉이라고 반복하며 소음 속으로 사라진다.",
+    "윌코는 1990년대 컨트리와 록을 섞은 얼터너티브 컨트리(Alt-Country)의 대표 밴드였다. 이 음반에서 그들은 실험 음악가 짐 오루크에게 믹스를 맡겨 노래를 낯선 소리로 감쌌다. 2001년 소속 음반사 리프라이즈는 상업성이 없다며 발매를 거부했고, 밴드는 음반을 사들여 9월 자신들의 웹사이트에서 무료로 들을 수 있게 했다. 반응이 좋자 같은 워너 그룹의 다른 레이블 논서치가 다시 사서 2002년 4월 발매했다. 녹음 과정에서 핵심 멤버 제이 베넷이 밴드를 떠났고, 이 모든 과정은 다큐멘터리 영화 〈I Am Trying to Break Your Heart〉에 담겼다.",
+    "〈Jesus, Etc.〉에는 높은 건물이 흔들린다는 가사가 있다. 9·11 전에 쓴 곡이지만 많은 사람들이 그 사건을 떠올리며 들었다. 이 음반은 인터넷 공개가 오히려 판매를 늘릴 수 있다는 초기 사례가 됐고, 2000년대 최고의 음반 목록에 꾸준히 오른다. 2000년 라디오헤드의 《Kid A》와 이어 들으면 기타 밴드가 노래를 전자음과 소음으로 감싸는 두 가지 방식이 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Come Away with Me · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Come_Away_with_Me"
+  },
+  {
+   "title": "Yankee Hotel Foxtrot · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yankee_Hotel_Foxtrot"
+  },
+  {
+   "title": "I Am Trying to Break Your Heart: A Film About Wilco · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/I_Am_Trying_to_Break_Your_Heart:_A_Film_About_Wilco"
+  },
+  {
+   "title": "2002 FIFA World Cup · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2002_FIFA_World_Cup"
+  }
+ ],
+ "edges": [
+  {
+   "from": "blue",
+   "to": "come-away-with-me",
+   "type": "listen",
+   "label": "피아노 앞에서 조용히 부르는 여성 싱어송라이터의 계보"
+  },
+  {
+   "from": "tapestry",
+   "to": "come-away-with-me",
+   "type": "listen",
+   "label": "어른들을 위한 조용한 음반이 수천만 장 팔리는 경로"
+  },
+  {
+   "from": "kid-a",
+   "to": "yankee-hotel",
+   "type": "listen",
+   "label": "기타 밴드가 노래를 전자음과 소음으로 감싸는 방식"
+  },
+  {
+   "from": "big-pink",
+   "to": "yankee-hotel",
+   "type": "listen",
+   "label": "미국 컨트리와 포크 록의 뿌리"
+  }
+ ]
+}

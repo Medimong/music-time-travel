@@ -1,0 +1,134 @@
+{
+ "date": "2027-02-07",
+ "part": "2001-P3",
+ "year": 2001,
+ "partNo": 3,
+ "partTotal": 3,
+ "total": "약 135분",
+ "title": "뉴욕의 가죽 재킷, 아르메니아의 분노, 소울을 빌린 청사진",
+ "intro": "2001년 9월 11일 납치된 여객기들이 뉴욕 세계무역센터와 워싱턴의 국방부 건물에 충돌했다. 3천 명 가까운 사람이 목숨을 잃었고, 미국은 곧 아프가니스탄 전쟁에 들어갔다. 음악 산업도 즉각 반응했다. 미국의 대형 라디오 회사는 방송을 자제할 노래 목록을 돌렸고, 발매를 앞둔 음반들은 표지와 곡을 바꿨다. 오늘의 세 음반은 바로 그 몇 주 사이에 나왔다. 뉴욕의 젊은 밴드는 미국판에서 한 곡을 뺐고, 아르메니아계 메탈 밴드는 테러 일주일 전에 나와 미국 1위로 데뷔했으며, 브루클린 출신 래퍼는 바로 그날 새 음반을 냈다. 오늘은 세 장으로 약 135분이다.",
+ "albums": [
+  {
+   "id": "is-this-it",
+   "artist": "The Strokes",
+   "title": "Is This It",
+   "short": "Is This It",
+   "released": "2001년 7월",
+   "genre": "거라지 록 · 인디 록",
+   "blurb": "뉴욕 밴드가 1970년대 맨해튼 록의 건조한 소리로 기타 록의 유행을 다시 돌려놓은 데뷔작.",
+   "length": "11곡 · 36분",
+   "spotify": "https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5",
+   "apple": "https://music.apple.com/kr/album/269080434",
+   "top": "Rock",
+   "sub": "Garage Rock Revival · Indie Rock"
+  },
+  {
+   "id": "toxicity",
+   "artist": "System of a Down",
+   "title": "Toxicity",
+   "short": "Toxicity",
+   "released": "2001년 9월",
+   "genre": "얼터너티브 메탈",
+   "blurb": "아르메니아계 미국인 네 명이 빠른 메탈과 동유럽 선율, 정치적 분노를 엮은 두 번째 음반.",
+   "length": "15곡 · 44분",
+   "spotify": "https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh",
+   "apple": "https://music.apple.com/kr/album/273714443",
+   "top": "Hard Rock / Metal",
+   "sub": "Alternative Metal"
+  },
+  {
+   "id": "blueprint",
+   "artist": "Jay-Z",
+   "title": "The Blueprint",
+   "short": "The Blueprint",
+   "released": "2001년 9월",
+   "genre": "이스트 코스트 힙합 · 소울 샘플",
+   "blurb": "카니예 웨스트와 저스트 블레이즈가 옛 소울 음반을 빠르게 돌려 만든 소리로 힙합의 방향을 바꾼 제이지의 여섯 번째 음반.",
+   "length": "1–13곡 · 55분",
+   "spotify": "https://open.spotify.com/album/54I5tDCMjnNVWSENHg8EDH",
+   "apple": "https://music.apple.com/kr/album/1440757381",
+   "top": "Hip-Hop",
+   "sub": "East Coast Hip-Hop"
+  }
+ ],
+ "essays": [
+  {
+   "id": "is-this-it",
+   "heading": "싸구려 앰프로 부른 노래",
+   "paras": [
+    "〈Last Nite〉는 두 대의 기타가 서로 다른 짧은 리프를 맞물려 치고, 드럼은 기계처럼 정확하게 같은 박자를 반복한다. 줄리언 카사블랑카스의 목소리는 작은 앰프에 통과시킨 듯 먹먹하고 멀다. 일부러 녹음을 건조하게 만들어, 방 안에서 바로 연주하는 소리처럼 들리게 했다. 〈Someday〉와 〈Hard to Explain〉도 3분 안팎에서 끝나고, 기타 독주는 짧은 선율 몇 마디뿐이다. 음반 전체가 36분이다.",
+    "스트록스는 뉴욕 맨해튼의 사립학교 출신 친구들로 꾸려졌고, 제작자 고든 래피얼과 함께 작은 지하 스튜디오에서 이 음반을 만들었다. 1970년대 CBGB의 텔레비전과 벨벳 언더그라운드를 떠올리게 하는 소리였다. 영국 음악 잡지들이 먼저 열광했고, 음반은 7월 호주를 시작으로 8월 영국, 10월 미국에 나왔다. 미국판은 9·11 이후 경찰을 비꼬는 〈New York City Cops〉를 빼고 다른 곡으로 바꿨으며, 엉덩이에 장갑 낀 손을 얹은 표지도 다른 그림으로 교체됐다.",
+    "뉴 메탈과 팝 펑크가 지배하던 때 스트록스는 좁은 바지와 가죽 재킷, 건조한 기타 소리로 유행을 되돌렸다. 뒤이어 영국의 리버틴스와 악틱 몽키스 같은 밴드가 이 흐름을 이었다. 1977년 텔레비전의 《Marquee Moon》과 이어 들으면 두 대의 기타가 맞물리는 뉴욕 록의 전통이 24년 뒤에 어떻게 돌아왔는지 들린다."
+   ]
+  },
+  {
+   "id": "toxicity",
+   "heading": "갑자기 바뀌는 속도",
+   "paras": [
+    "〈Chop Suey!〉는 어쿠스틱 기타의 빠른 연주로 시작해, 몇 초 만에 굉음의 메탈로 터진다. 서지 탱키언은 빠른 말처럼 쏟아내다가 갑자기 오페라 같은 선율로 넘어가고, 곡은 속삭임과 비명 사이를 오간다. 〈Toxicity〉는 동유럽 민속 음악처럼 들리는 기타 선율이 반복되고, 〈Aerials〉는 느리고 몽환적인 리프로 끝난다. 마지막 곡은 아르메니아 성가 선율을 바탕으로 한다. 정치적 분노와 장난스러운 엉뚱함이 한 곡 안에 함께 있다.",
+    "시스템 오브 어 다운의 네 멤버는 모두 아르메니아계 미국인이다. 그들은 1915년 오스만 제국의 아르메니아인 대학살을 국제 사회가 인정해야 한다고 꾸준히 목소리를 냈다. 첫 곡 〈Prison Song〉은 미국의 마약 정책과 늘어나는 수감자 수를 비판한다. 제작은 비스티 보이스와 슬레이어, 조니 캐시를 맡았던 릭 루빈이 했다. 음반은 9월 4일 나와 빌보드 1위로 데뷔했고, 바로 다음 주에 9·11 테러가 일어났다. 같은 시기 〈Chop Suey!〉는 일부 라디오에서 방송이 자제되기도 했다.",
+    "뉴 메탈이 분노를 개인의 감정으로 풀었다면, 이 음반은 같은 무게의 소리를 정치와 역사로 돌렸다. 동유럽과 중동의 선율, 갑작스러운 속도 변화는 이후 메탈 밴드들에게 큰 영향을 줬다. 1992년 레이지 어게인스트 더 머신의 데뷔작과 이어 들으면 미국 헤비 록이 정치를 다루는 두 가지 방식이 들린다."
+   ]
+  },
+  {
+   "id": "blueprint",
+   "heading": "빠르게 돌린 옛 소울",
+   "paras": [
+    "〈Heart of the City (Ain't No Love)〉는 1970년대 소울 가수 보비 블랜드의 노래를 빠르게 돌려 목소리를 높고 날카롭게 만든 샘플 위로 제이지가 여유롭게 랩을 한다. 〈Izzo (H.O.V.A.)〉는 잭슨 파이브의 〈I Want You Back〉을 잘라 썼고, 〈Takeover〉는 도어스의 〈Five to One〉 기타 리프를 묵직하게 깔았다. 두 젊은 프로듀서 카니예 웨스트와 저스트 블레이즈가 많은 곡을 만들었다. 소울 음반을 빠르게 돌려 다람쥐 목소리처럼 만든 이 방식은 뒤에 치프멍크 소울(Chipmunk Soul)이라는 이름을 얻었다.",
+    "제이지는 브루클린의 마시 공공주택 단지에서 자랐고, 1996년 《Reasonable Doubt》로 데뷔한 뒤 직접 세운 로커펠라 레코드로 가장 많이 팔리는 래퍼가 됐다. 이 음반은 불법 유출을 막기 위해 발매일을 앞당겨 9월 11일에 나왔다. 테러 당일이었는데도 첫 주에 40만 장 넘게 팔려 1위에 올랐다. 〈Takeover〉에서 나스와 몹 딥을 공격한 것은 힙합 역사에서 가장 유명한 신경전으로 이어져, 나스는 그해 말 〈Ether〉로 맞받았다. 손님은 〈Renegade〉의 에미넘 한 명뿐이다.",
+    "이 음반은 2000년대 힙합 프로덕션의 방향을 바꿨고, 카니예 웨스트가 프로듀서에서 래퍼로 나서는 출발점이 됐다. 2004년에 그의 데뷔 음반을 듣게 된다. 1996년의 《Reasonable Doubt》와 이어 들으면 같은 래퍼가 5년 사이에 거친 마피아 이야기에서 여유로운 왕의 목소리로 바뀐 것이 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Is This It · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Is_This_It"
+  },
+  {
+   "title": "Toxicity (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Toxicity_(album)"
+  },
+  {
+   "title": "The Blueprint · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Blueprint"
+  },
+  {
+   "title": "2001 Clear Channel memorandum · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2001_Clear_Channel_memorandum"
+  }
+ ],
+ "edges": [
+  {
+   "from": "marquee-moon",
+   "to": "is-this-it",
+   "type": "listen",
+   "label": "두 대의 기타가 맞물리는 뉴욕 록의 전통"
+  },
+  {
+   "from": "velvet-nico",
+   "to": "is-this-it",
+   "type": "listen",
+   "label": "건조하고 차가운 맨해튼 록의 원형"
+  },
+  {
+   "from": "ratm",
+   "to": "toxicity",
+   "type": "listen",
+   "label": "헤비 록으로 정치를 말하는 두 가지 방식"
+  },
+  {
+   "from": "reasonable-doubt",
+   "to": "blueprint",
+   "type": "document",
+   "label": "제이지의 데뷔작에서 여섯 번째 음반까지",
+   "source": "https://en.wikipedia.org/wiki/The_Blueprint"
+  },
+  {
+   "from": "curtis",
+   "to": "blueprint",
+   "type": "listen",
+   "label": "1970년대 소울 음반이 힙합 샘플의 재료가 되는 경로"
+  }
+ ]
+}

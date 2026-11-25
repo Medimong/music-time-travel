@@ -1,0 +1,104 @@
+{
+ "date": "2027-02-06",
+ "part": "2001-P2",
+ "year": 2001,
+ "partNo": 2,
+ "partTotal": 3,
+ "total": "약 104분",
+ "title": "피아노 앞의 스무 살, 기타와 드럼 둘뿐인 밴드",
+ "intro": "2001년 여름 미국 대중음악의 중심은 여전히 힙합과 R&B, 그리고 틴 팝이었다. 브리트니 스피어스와 엔싱크가 차트를 지배했고, 록은 린킨 파크 같은 뉴 메탈이 대세였다. 그런 가운데 정반대 방향에서 두 신인이 등장했다. 뉴욕의 스무 살 가수는 클래식 피아노와 1970년대 소울을 앞세웠고, 디트로이트의 두 사람은 기타와 드럼만으로 블루스와 거라지 록을 짧고 거칠게 쳤다. 둘 다 최신 기술보다 오래된 악기와 손의 감각을 믿었다. 오늘은 앨리샤 키스의 음반이 한 시간이 넘어서 두 장으로 약 104분이다.",
+ "albums": [
+  {
+   "id": "songs-a-minor",
+   "artist": "Alicia Keys",
+   "title": "Songs in A Minor",
+   "short": "Songs in A Minor",
+   "released": "2001년 6월",
+   "genre": "네오 소울 · R&B",
+   "blurb": "클래식 피아노 교육과 뉴욕 할렘의 소울을 합쳐 데뷔 첫해 그래미 다섯 개를 받은 앨리샤 키스의 데뷔작.",
+   "length": "16곡 · 63분",
+   "spotify": "https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ",
+   "apple": "https://music.apple.com/kr/album/256936779",
+   "top": "Soul / R&B",
+   "sub": "Neo Soul · Contemporary R&B"
+  },
+  {
+   "id": "white-blood-cells",
+   "artist": "The White Stripes",
+   "title": "White Blood Cells",
+   "short": "White Blood Cells",
+   "released": "2001년 7월",
+   "genre": "거라지 록 · 블루스 록",
+   "blurb": "기타 하나와 드럼 하나로 거라지 록을 다시 불러낸 디트로이트 2인조의 세 번째 음반.",
+   "length": "16곡 · 40분",
+   "spotify": "https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0",
+   "apple": "https://music.apple.com/kr/album/1533513361",
+   "top": "Rock",
+   "sub": "Garage Rock Revival · Blues Rock"
+  }
+ ],
+ "essays": [
+  {
+   "id": "songs-a-minor",
+   "heading": "피아노 위의 소울",
+   "paras": [
+    "첫 곡 〈Piano & I〉는 베토벤의 〈월광 소나타〉 첫머리를 피아노로 치다가 그대로 힙합 박자로 넘어간다. 이 짧은 도입이 음반 전체를 설명한다. 〈Fallin'〉은 단조의 피아노 화음 두세 개가 계속 돌고, 앨리샤 키스는 거칠게 긁는 목소리로 사랑에 빠졌다가 다시 떨어지는 감정을 반복한다. 가스펠처럼 합창이 겹치는 후반부에서는 소리를 아끼지 않는다. 〈A Woman's Worth〉와 〈Butterflyz〉에서는 피아노가 반주가 아니라 곡의 중심이고, 드럼 머신은 그 뒤에서 조용히 박자만 받친다.",
+    "뉴욕 맨해튼에서 자란 키스는 어릴 때부터 클래식 피아노를 배웠고, 십 대에 이미 음반사와 계약했지만 원하는 음악을 만들지 못한 채 시간을 보냈다. 그녀를 데려간 것은 휘트니 휴스턴을 키운 음반 제작자 클라이브 데이비스였고, 그가 새로 세운 J 레코드의 첫 대형 신인이 됐다. 1990년대 후반 디안젤로와 에리카 바두가 연 네오 소울(Neo Soul), 곧 1970년대 소울의 연주와 힙합 박자를 섞는 흐름이 있었고, 키스는 여기에 직접 피아노를 치며 곡을 쓰는 싱어송라이터의 모습을 더했다. 발매 직후 오프라 윈프리 쇼 출연도 판매에 큰 힘이 됐다.",
+    "〈Fallin'〉은 미국 1위에 올랐고, 키스는 이듬해 그래미 시상식에서 신인상과 올해의 노래상을 포함해 다섯 개의 상을 받았다. 2022년에는 미국 의회도서관 국가 녹음 등록부에도 올랐다. 1998년 로린 힐의 《The Miseducation of Lauryn Hill》과 이어 들으면 힙합 세대의 여성 가수가 직접 곡을 쓰고 연주하는 길이 어떻게 넓어졌는지 들린다."
+   ]
+  },
+  {
+   "id": "white-blood-cells",
+   "heading": "빨강, 하양, 검정 세 가지 색",
+   "paras": [
+    "〈Dead Leaves and the Dirty Ground〉는 잭 화이트의 기타가 찢어지듯 터지고, 멕 화이트의 드럼이 단순하게 쿵쿵 따라온다. 베이스가 없다. 잭은 기타 소리를 낮고 굵게 만들어 빈자리를 메우고, 멕은 일부러 화려한 기교 없이 아이처럼 똑바로 친다. 〈Fell in Love with a Girl〉은 2분도 안 되는 시간 안에 펑크처럼 달려 나가고, 〈We're Going to Be Friends〉는 어쿠스틱 기타 하나로 부르는 동요 같은 노래다. 시끄러운 곡과 조용한 곡이 번갈아 나오며 열여섯 곡이 40분 안에 끝난다.",
+    "화이트 스트라이프스는 디트로이트에서 잭과 멕 두 사람으로 시작했다. 둘은 남매라고 소개했지만, 실제로는 이혼한 부부였다는 사실이 뒤에 밝혀졌다. 옷과 무대, 음반 표지를 모두 빨강, 하양, 검정으로만 꾸몄고, 이 단순함이 곧 밴드의 원칙이었다. 이 음반은 멤피스의 스튜디오에서 나흘도 안 되는 짧은 시간에 녹음한 것으로 알려져 있으며, 앞선 두 음반과 달리 블루스 커버와 슬라이드 기타를 일부러 뺐다고 한다. 레고 블록으로 만든 미셸 공드리 감독의 〈Fell in Love with a Girl〉 뮤직비디오가 MTV에서 큰 화제가 되면서 작은 인디 음반이 더 큰 음반사에서 다시 발매됐다.",
+    "같은 해 뉴욕의 스트록스, 이듬해의 여러 밴드와 함께 화이트 스트라이프스는 거라지 록 부활(Garage Rock Revival)이라 불린 흐름의 앞에 섰다. 기타 록이 다시 단순하고 짧아질 수 있다는 것을 보여 준 셈이다. 1960년대의 거라지 밴드 소닉스와 1969년 스투지스의 데뷔작을 먼저 듣고 오면 이 2인조가 무엇을 되살렸는지 분명하게 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Songs in A Minor · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Songs_in_A_Minor"
+  },
+  {
+   "title": "White Blood Cells · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/White_Blood_Cells"
+  },
+  {
+   "title": "Neo soul · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Neo_soul"
+  },
+  {
+   "title": "Garage rock revival · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Garage_rock_revival"
+  }
+ ],
+ "edges": [
+  {
+   "from": "miseducation",
+   "to": "songs-a-minor",
+   "type": "listen",
+   "label": "힙합 세대 여성 가수가 직접 곡을 쓰고 연주하는 길"
+  },
+  {
+   "from": "baduizm",
+   "to": "songs-a-minor",
+   "type": "listen",
+   "label": "1970년대 소울과 힙합 박자를 섞는 네오 소울의 흐름"
+  },
+  {
+   "from": "sonics",
+   "to": "white-blood-cells",
+   "type": "listen",
+   "label": "1960년대 거라지 록의 거친 소리를 21세기에 되살린 경로"
+  },
+  {
+   "from": "stooges",
+   "to": "white-blood-cells",
+   "type": "listen",
+   "label": "디트로이트 록의 단순하고 거친 에너지"
+  }
+ ]
+}

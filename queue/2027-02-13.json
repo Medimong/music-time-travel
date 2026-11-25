@@ -1,0 +1,112 @@
+{
+ "date": "2027-02-13",
+ "part": "2003-P3",
+ "year": 2003,
+ "partNo": 3,
+ "partTotal": 3,
+ "total": "약 134분",
+ "title": "폴라로이드처럼 흔들어, 은퇴를 선언한 래퍼",
+ "intro": "2003년 하반기 힙합은 대중음악의 중심이었다. 빌보드 싱글 차트 10위 안이 모두 흑인 음악가의 곡으로 채워진 주도 있었다. 오늘은 어제에 이어 아웃캐스트 묶음의 두 번째 디스크, 안드레 3000의 《The Love Below》를 듣는다. 거의 랩을 하지 않고 노래하고 연주하는, 힙합 그룹의 음반이라고 믿기 어려운 디스크다. 이어 그해 11월 은퇴를 선언하며 낸 제이지의 음반을 듣는다. 이 음반은 이듬해 한 디제이가 비틀스의 화이트 앨범과 섞어 만든 불법 음반으로 다시 한 번 유명해졌다. 오늘은 두 장으로 약 134분이다. 첫 디스크가 79분으로 길어 두 장만 묶었다.",
+ "albums": [
+  {
+   "id": "love-below",
+   "artist": "OutKast",
+   "title": "The Love Below",
+   "short": "The Love Below",
+   "released": "2003년 9월",
+   "genre": "펑크 · 팝 · 재즈",
+   "blurb": "아웃캐스트의 두 장짜리 음반 가운데 안드레 3000이 노래하고 연주한 두 번째 디스크.",
+   "length": "디스크 2 · 21곡 · 79분",
+   "spotify": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r",
+   "apple": "https://music.apple.com/kr/album/1774796485",
+   "top": "Funk",
+   "sub": "Psychedelic Funk · Neo Soul"
+  },
+  {
+   "id": "black-album-jayz",
+   "artist": "Jay-Z",
+   "title": "The Black Album",
+   "short": "The Black Album",
+   "released": "2003년 11월",
+   "genre": "이스트 코스트 힙합",
+   "blurb": "은퇴 선언과 함께 곡마다 다른 프로듀서를 불러 만든 제이지의 여덟 번째 음반.",
+   "length": "14곡 · 56분",
+   "spotify": "https://open.spotify.com/album/4FWvo9oS4gRgHtAwDwUjiO",
+   "apple": "https://music.apple.com/kr/album/1440785433",
+   "top": "Hip-Hop",
+   "sub": "East Coast Hip-Hop"
+  }
+ ],
+ "essays": [
+  {
+   "id": "love-below",
+   "heading": "노래하는 래퍼",
+   "paras": [
+    "〈Hey Ya!〉는 어쿠스틱 기타의 빠른 스트로크와 손뼉 소리 위로 안드레 3000이 1960년대 비틀스나 프린스처럼 노래한다. 박자를 세어 보면 마디 길이가 고르지 않아 독특하게 걸린다. 경쾌한 소리와 달리 가사는 사랑이 오래가지 않는다는 쓸쓸한 이야기다. 〈Roses〉는 피아노와 합창이 어우러진 장난스러운 소울이고, 〈Prototype〉은 느리고 몽롱한 사랑 노래다. 존 콜트레인으로 유명한 〈My Favorite Things〉를 빠른 드럼 앤 베이스(Drum and Bass)로 바꾼 곡도 있다. 랩은 거의 없다.",
+    "안드레 3000은 《Stankonia》 이후 랩보다 노래와 기타, 재즈에 더 끌렸다. 이 디스크에서 그는 직접 노래하고 많은 악기를 연주하며 프린스와 지미 헨드릭스, 조지 클린턴의 영향을 숨기지 않는다. 원래 영화처럼 구상했던 사랑 이야기라고 알려져 있으며, 후반부에는 노라 존스와 함께 부르는 짧은 곡도 있다. 같은 묶음의 빅 보이 디스크와 정반대 방향을 보는데도, 두 디스크를 함께 낸 것이 오히려 아웃캐스트를 더 크게 만들었다.",
+    "〈Hey Ya!〉는 미국 1위에 올랐고, 두 장짜리 묶음은 2004년 그래미 올해의 앨범상을 받았다. 힙합 음반으로는 로린 힐 이후 두 번째였다. 묶음은 미국에서 천만 장 단위 판매를 뜻하는 다이아몬드 인증을 받았다. 1987년 프린스의 《Sign o' the Times》와 이어 들으면 혼자서 노래하고 연주하는 흑인 음악가의 계보가 들린다."
+   ]
+  },
+  {
+   "id": "black-album-jayz",
+   "heading": "곡마다 다른 프로듀서",
+   "paras": [
+    "〈99 Problems〉는 릭 루빈이 만든 곡으로, 1980년대 초 록 드럼 샘플과 날카로운 기타 리프 위로 제이지가 경찰의 불심 검문 장면을 연극처럼 들려준다. 〈Encore〉는 카니예 웨스트가 만든 곡으로, 금관과 합창이 승리의 행진처럼 울린다. 〈December 4th〉는 저스트 블레이즈가 만들었고, 제이지의 어머니가 아들의 어린 시절을 이야기하는 목소리가 랩 사이에 끼어든다. 〈Dirt off Your Shoulder〉는 팀벌랜드의 마른 신시사이저로 만든 곡이다. 프로듀서가 곡마다 달라도 음반은 하나의 고별 무대처럼 들린다.",
+    "제이지는 이 음반을 마지막 음반이라고 발표했다. 음반사 경영에 집중하겠다는 뜻이었고, 실제로 2004년 말 데프 잼 레코드의 사장이 됐다. 11월 뉴욕 매디슨 스퀘어 가든에서 연 은퇴 공연은 영화 〈Fade to Black〉으로 남았다. 은퇴는 3년 만에 끝났지만, 이 음반은 그의 경력을 정리하는 자서전처럼 받아들여졌다. 음반사는 랩만 녹음한 아카펠라판도 함께 냈는데, 이것이 다른 음악가들이 자유롭게 섞어 쓸 수 있는 재료가 됐다.",
+    "2004년 초 디제이 데인저 마우스는 이 아카펠라를 비틀스의 화이트 앨범과 섞어 《The Grey Album》을 만들어 인터넷에 퍼뜨렸다. 비틀스 음반의 저작권사가 배포 중단을 요구했고, 이에 항의하는 온라인 배포 운동이 벌어지면서 데인저 마우스는 유명해졌다. 그는 2005년 고릴라즈의 두 번째 음반을 제작한다. 1968년 비틀스의 화이트 앨범과 이어 들으면 그 섞어 쓰기의 재료를 양쪽에서 모두 들을 수 있다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Speakerboxxx/The Love Below · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Speakerboxxx/The_Love_Below"
+  },
+  {
+   "title": "Hey Ya! · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hey_Ya!"
+  },
+  {
+   "title": "The Black Album (Jay-Z album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Black_Album_(Jay-Z_album)"
+  },
+  {
+   "title": "The Grey Album · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Grey_Album"
+  }
+ ],
+ "edges": [
+  {
+   "from": "speakerboxxx",
+   "to": "love-below",
+   "type": "document",
+   "label": "같은 두 장짜리 음반의 안드레 3000 디스크",
+   "source": "https://en.wikipedia.org/wiki/Speakerboxxx/The_Love_Below"
+  },
+  {
+   "from": "sign-times",
+   "to": "love-below",
+   "type": "listen",
+   "label": "혼자 노래하고 연주하는 흑인 음악가의 계보"
+  },
+  {
+   "from": "electric-ladyland",
+   "to": "love-below",
+   "type": "listen",
+   "label": "기타와 사이키델릭 소울의 뿌리"
+  },
+  {
+   "from": "blueprint",
+   "to": "black-album-jayz",
+   "type": "document",
+   "label": "《The Blueprint》에 이어 카니예 웨스트, 저스트 블레이즈와 다시 만든 제이지의 음반",
+   "source": "https://en.wikipedia.org/wiki/The_Black_Album_(Jay-Z_album)"
+  },
+  {
+   "from": "white-album",
+   "to": "black-album-jayz",
+   "type": "listen",
+   "label": "데인저 마우스가 두 음반을 섞은 《The Grey Album》"
+  }
+ ]
+}

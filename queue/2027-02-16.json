@@ -1,0 +1,105 @@
+{
+ "date": "2027-02-16",
+ "part": "2004-P3",
+ "year": 2004,
+ "partNo": 3,
+ "partTotal": 3,
+ "total": "약 105분",
+ "title": "장례식의 합창, 미국 바보의 록 오페라",
+ "intro": "2004년 11월 조지 W. 부시는 이라크 전쟁에 대한 논쟁 속에서 재선에 성공했다. 아부 그라이브 수용소의 포로 학대 사진이 공개됐고, 젊은 세대의 분노와 피로가 커졌다. 그해 가을 일주일 간격으로 나온 두 음반은 그 분위기를 서로 다른 방식으로 담았다. 캐나다 몬트리올의 밴드는 녹음 중에 가족을 잃은 슬픔을 큰 합창으로 바꿨고, 캘리포니아의 펑크 밴드는 부시 시대의 미국을 정면으로 비판하는 록 오페라를 냈다. 오늘은 두 장으로 약 105분이다. 두 음반 모두 순서대로 이어지는 이야기 같은 구성이어서 두 장으로 묶었다.",
+ "albums": [
+  {
+   "id": "funeral",
+   "artist": "Arcade Fire",
+   "title": "Funeral",
+   "short": "Funeral",
+   "released": "2004년 9월",
+   "genre": "인디 록 · 바로크 팝",
+   "blurb": "녹음 기간 멤버들의 가족이 잇따라 세상을 떠난 뒤 슬픔을 큰 합창으로 바꾼 아케이드 파이어의 데뷔작.",
+   "length": "10곡 · 48분",
+   "spotify": "https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH",
+   "apple": "https://music.apple.com/kr/album/1249417623",
+   "top": "Rock",
+   "sub": "Indie Rock · Baroque Pop"
+  },
+  {
+   "id": "american-idiot",
+   "artist": "Green Day",
+   "title": "American Idiot",
+   "short": "American Idiot",
+   "released": "2004년 9월",
+   "genre": "펑크 록 · 록 오페라",
+   "blurb": "9분짜리 조곡 두 개를 품고 부시 시대의 미국을 그린 그린 데이의 펑크 록 오페라.",
+   "length": "13곡 · 57분",
+   "spotify": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke",
+   "apple": "https://music.apple.com/kr/album/1161539183",
+   "top": "Punk & Proto-Punk",
+   "sub": "Pop Punk · Rock Opera"
+  }
+ ],
+ "essays": [
+  {
+   "id": "funeral",
+   "heading": "모두가 소리치는 후렴",
+   "paras": [
+    "〈Wake Up〉은 기타와 드럼이 천천히 쌓이다가, 밴드 전원이 가사 없는 큰 합창으로 함께 외친다. 그 합창은 축구장 응원처럼 단순하고 크다. 〈Neighborhood #1 (Tunnels)〉는 피아노와 바이올린이 흐르는 위로 윈 버틀러가 떨리는 목소리로 눈에 갇힌 마을의 아이들을 노래한다. 〈Rebellion (Lies)〉는 같은 음을 계속 두드리는 베이스와 드럼이 끝까지 밀고 간다. 바이올린, 첼로, 아코디언, 실로폰 같은 악기가 록 밴드 안에 들어와 소리를 두텁게 만든다. 이런 편곡을 바로크 팝(Baroque Pop)이라 부른다.",
+    "아케이드 파이어는 미국 텍사스 출신 윈 버틀러와 아이티계 캐나다인 레진 샤사뉴 부부를 중심으로 몬트리올에서 만들어졌다. 녹음을 하는 동안 여러 멤버의 할머니, 할아버지, 고모가 잇따라 세상을 떠났고, 음반 제목은 그래서 붙었다. 그러나 음악은 무겁게 가라앉기보다 슬픔을 함께 소리쳐 털어 내는 쪽이다. 노스캐롤라이나의 작은 인디 레이블 머지에서 나왔고, 인터넷 음악 잡지 피치포크의 극찬이 입소문을 타면서 판매가 빠르게 늘었다.",
+    "데이비드 보위와 데이비드 번이 무대에 함께 올랐고, U2는 투어 공연 시작 음악으로 〈Wake Up〉을 틀었다. 이 음반은 인터넷 평론이 인디 밴드를 단숨에 키울 수 있다는 것을 보여 준 대표적인 사례가 됐다. 1987년 U2의 《The Joshua Tree》와 이어 들으면 큰 합창으로 감정을 터뜨리는 록의 계보가 들린다."
+   ]
+  },
+  {
+   "id": "american-idiot",
+   "heading": "9분짜리 펑크",
+   "paras": [
+    "첫 곡 〈American Idiot〉은 날카로운 기타 리프와 빠른 드럼으로 텔레비전과 정치를 조롱한다. 바로 이어지는 〈Jesus of Suburbia〉는 다섯 부분으로 이어지는 9분짜리 조곡으로, 교외의 지루한 십 대가 집을 떠나는 이야기다. 펑크 밴드가 짧은 노래 대신 조곡을 부른다는 것이 이 음반의 새로움이다. 〈Boulevard of Broken Dreams〉는 느린 박자 위로 쓸쓸한 기타가 흐르고, 〈Wake Me Up When September Ends〉는 빌리 조 암스트롱이 어린 시절 세상을 떠난 아버지를 그리는 어쿠스틱 발라드다.",
+    "그린 데이는 1994년 《Dookie》로 펑크를 다시 대중음악의 한가운데로 데려왔지만, 이후 판매가 줄면서 위기에 빠졌다. 이 음반 이전에 녹음하던 곡들의 원본 테이프가 도난당하자, 그들은 처음부터 다시 시작해 하나의 이야기로 이어지는 록 오페라를 만들었다고 알려져 있다. 1969년 더 후의 《Tommy》가 그 모델이었다. 주인공 지저스 오브 서버비아와 그의 다른 자아 세인트 지미가 등장하며, 이라크 전쟁과 부시 시대에 대한 분노가 바탕에 깔려 있다.",
+    "음반은 미국과 영국에서 1위에 올랐고, 그래미 최우수 록 앨범상을 받았다. 〈Boulevard of Broken Dreams〉는 이듬해 올해의 레코드상을 받았다. 2010년에는 이 음반을 바탕으로 한 뮤지컬이 브로드웨이에서 공연됐다. 1994년의 《Dookie》와 1969년의 《Tommy》를 차례로 이어 들으면 같은 밴드가 무엇을 버리고 무엇을 빌려 왔는지 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Funeral (Arcade Fire album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Funeral_(Arcade_Fire_album)"
+  },
+  {
+   "title": "American Idiot · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/American_Idiot"
+  },
+  {
+   "title": "Baroque pop · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Baroque_pop"
+  },
+  {
+   "title": "2004 United States presidential election · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/2004_United_States_presidential_election"
+  }
+ ],
+ "edges": [
+  {
+   "from": "joshua-tree",
+   "to": "funeral",
+   "type": "listen",
+   "label": "큰 합창으로 감정을 터뜨리는 록의 계보"
+  },
+  {
+   "from": "soft-bulletin",
+   "to": "funeral",
+   "type": "listen",
+   "label": "현악과 관현악 편곡이 인디 록 안으로 들어온 길"
+  },
+  {
+   "from": "dookie",
+   "to": "american-idiot",
+   "type": "document",
+   "label": "《Dookie》 이후 그린 데이가 만든 록 오페라",
+   "source": "https://en.wikipedia.org/wiki/American_Idiot"
+  },
+  {
+   "from": "tommy",
+   "to": "american-idiot",
+   "type": "listen",
+   "label": "이야기로 이어지는 록 오페라의 원형"
+  }
+ ]
+}

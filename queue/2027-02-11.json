@@ -1,0 +1,105 @@
+{
+ "date": "2027-02-11",
+ "part": "2003-P1",
+ "year": 2003,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 109분",
+ "title": "아홉 발의 총알, 1963년 이전의 장비",
+ "intro": "2003년 3월 미국과 영국은 이라크를 침공했다. 세계 곳곳에서 대규모 반전 시위가 열렸고, 한국에서도 파병을 둘러싼 논쟁이 이어졌다. 2월 대구 지하철 화재로 190명이 넘는 사람이 목숨을 잃었다. 4월에는 애플이 곡당 99센트에 음악을 파는 아이튠즈 뮤직 스토어를 열었다. 불법 다운로드에 맞서 합법적인 디지털 판매가 처음 자리를 잡은 순간이다. 오늘의 두 음반은 정반대의 방식으로 그해를 열었다. 뉴욕 퀸스의 래퍼는 거리의 전설을 무기로 가장 많이 팔린 음반을 냈고, 디트로이트의 2인조는 런던의 낡은 스튜디오에서 옛날 장비로만 녹음했다. 두 장으로 약 109분이다. 둘 다 50분이 넘는 음반이라 세 번째 음반을 붙이지 않았다.",
+ "albums": [
+  {
+   "id": "get-rich",
+   "artist": "50 Cent",
+   "title": "Get Rich or Die Tryin'",
+   "short": "Get Rich or Die Tryin'",
+   "released": "2003년 2월",
+   "genre": "갱스터 랩 · 이스트 코스트 힙합",
+   "blurb": "총격에서 살아남은 퀸스의 래퍼가 닥터 드레와 에미넘의 손을 잡고 낸, 그해 미국에서 가장 많이 팔린 데뷔작.",
+   "length": "1–16곡 · 58분",
+   "spotify": "https://open.spotify.com/album/5G5rgQHzdQnw32SI0WjIo5",
+   "apple": "https://music.apple.com/kr/album/1440841450",
+   "top": "Hip-Hop",
+   "sub": "Gangsta Rap"
+  },
+  {
+   "id": "elephant",
+   "artist": "The White Stripes",
+   "title": "Elephant",
+   "short": "Elephant",
+   "released": "2003년 4월",
+   "genre": "거라지 록 · 블루스 록",
+   "blurb": "런던의 낡은 8트랙 스튜디오에서 녹음한, 〈Seven Nation Army〉로 시작하는 화이트 스트라이프스의 네 번째 음반.",
+   "length": "14곡 · 51분",
+   "spotify": "https://open.spotify.com/album/0VXcqDD3sHdOIGtO6oYv3d",
+   "apple": "https://music.apple.com/kr/album/1533513536",
+   "top": "Rock",
+   "sub": "Garage Rock · Blues Rock"
+  }
+ ],
+ "essays": [
+  {
+   "id": "get-rich",
+   "heading": "느릿한 목소리의 위협",
+   "paras": [
+    "〈In da Club〉은 닥터 드레가 만든 통통 튀는 신시사이저와 손뼉 소리, 묵직한 베이스로 시작하고, 피프티 센트는 서두르지 않고 웅얼거리듯 느긋하게 랩을 한다. 위협적인 가사를 노래하듯 부드러운 멜로디로 감싸는 것이 그의 방식이다. 〈21 Questions〉는 네이트 독과 함께 부르는 달콤한 사랑 노래이고, 〈Many Men (Wish Death)〉는 자신을 죽이려 했던 사람들에 대한 무거운 노래다. 후렴은 대부분 직접 노래하듯 불러서 라디오에서 쉽게 귀에 붙었다.",
+    "피프티 센트는 뉴욕 퀸스에서 자랐고, 2000년 집 앞에서 아홉 발의 총을 맞고 살아남았다. 그 직후 컬럼비아 레코드는 그와의 계약을 끊었다. 그는 길거리 믹스테이프로 이름을 쌓았고, 그 테이프를 들은 에미넘과 닥터 드레가 그를 영입했다. 음반은 불법 유출 때문에 발매일을 앞당겼고, 첫 주에만 80만 장 넘게 팔린 것으로 알려져 있다. 〈In da Club〉은 미국 싱글 차트에서 9주 동안 1위를 지켰다.",
+    "음반은 그해 미국에서 가장 많이 팔린 음반이 됐고, 피프티 센트와 그의 동료들은 2000년대 중반 갱스터 랩의 상업적 정점을 이끌었다. 총상의 상처와 화려한 성공 이야기는 그의 이미지의 일부가 됐다. 2002년의 《The Eminem Show》와 이어 들으면 같은 애프터매스 사단이 같은 해에 두 가지 다른 목소리를 키워 낸 것이 들린다."
+   ]
+  },
+  {
+   "id": "elephant",
+   "heading": "기타가 내는 베이스 소리",
+   "paras": [
+    "〈Seven Nation Army〉는 낮게 울리는 일곱 음의 리프로 시작한다. 베이스처럼 들리지만 사실은 잭 화이트의 기타를 한 옥타브 낮추는 효과 장치에 통과시킨 소리다. 멕 화이트의 드럼은 쿵쿵거리는 단순한 박자로 점점 커지고, 후렴에서 기타가 원래 음으로 터져 나온다. 〈Ball and Biscuit〉은 7분이 넘는 블루스로, 잭의 기타 독주가 거칠게 길게 이어진다. 〈I Just Don't Know What to Do with Myself〉는 버트 배커랙의 곡을 시끄러운 록으로 바꿨고, 마지막 곡에서는 영국 가수 홀리 골라이틀리가 함께 부른다.",
+    "《White Blood Cells》로 갑자기 유명해진 두 사람은 런던 동부의 작은 스튜디오 토 래그에서 2주가량 이 음반을 녹음했다. 그들은 1963년 이후에 만든 장비는 쓰지 않았다고 밝혔고, 컴퓨터 대신 8트랙 테이프 녹음기를 썼다. 대형 음반사와 계약한 뒤에도 작고 낡은 방식을 지킨 것이다. 표지의 코끼리처럼 밴드의 소리는 무겁고 단순하다.",
+    "음반은 영국 1위에 올랐고, 그래미 최우수 얼터너티브 음반상을 받았다. 〈Seven Nation Army〉의 리프는 이후 유럽 축구 경기장에서 응원가로 불리기 시작해, 2006년 월드컵에서 이탈리아 응원단의 노래가 되며 세계적으로 퍼졌다. 2001년의 《White Blood Cells》와 이어 들으면 같은 2인조가 2년 사이에 얼마나 무거워졌는지 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Get Rich or Die Tryin' · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Get_Rich_or_Die_Tryin%27"
+  },
+  {
+   "title": "Elephant (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Elephant_(album)"
+  },
+  {
+   "title": "Seven Nation Army · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Seven_Nation_Army"
+  },
+  {
+   "title": "iTunes Store · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/ITunes_Store"
+  }
+ ],
+ "edges": [
+  {
+   "from": "eminem-show",
+   "to": "get-rich",
+   "type": "listen",
+   "label": "에미넘과 닥터 드레가 키운 애프터매스 사단의 다음 목소리"
+  },
+  {
+   "from": "ready-to-die",
+   "to": "get-rich",
+   "type": "listen",
+   "label": "뉴욕 거리의 위협과 라디오 후렴을 함께 쥔 갱스터 랩"
+  },
+  {
+   "from": "white-blood-cells",
+   "to": "elephant",
+   "type": "document",
+   "label": "《White Blood Cells》 다음 화이트 스트라이프스의 네 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/Elephant_(album)"
+  },
+  {
+   "from": "led-zep2",
+   "to": "elephant",
+   "type": "listen",
+   "label": "블루스를 무겁고 단순한 록 리프로 바꾸는 전통"
+  }
+ ]
+}

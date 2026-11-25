@@ -1,0 +1,105 @@
+{
+ "date": "2027-02-05",
+ "part": "2001-P1",
+ "year": 2001,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 119분",
+ "title": "로봇이 추억한 디스코, 만화 캐릭터가 만든 밴드",
+ "intro": "2001년은 새 천년의 첫해였고, 음악을 듣는 방식이 눈에 띄게 바뀐 해였다. 7월 법원 명령으로 파일 공유 서비스 냅스터가 문을 닫았지만, 사람들은 이미 다른 공유 프로그램으로 옮겨 가고 있었다. 10월에는 애플이 첫 아이팟을 내놓았다. 음반 한 장을 통째로 사던 시대에서 곡 단위로 내려받고 섞어 듣는 시대로 넘어가는 문턱이었다. 9월 11일 뉴욕과 워싱턴을 겨냥한 테러는 그해 하반기의 공기를 완전히 바꿔 놓았다. 오늘은 그 전, 봄에 나온 두 음반이다. 프랑스의 두 프로듀서는 어린 시절 들은 디스코와 소프트 록을 로봇의 목소리로 되살렸고, 영국의 록 스타는 만화가와 함께 실체 없는 가상 밴드를 만들었다. 두 장 모두 한 시간 가까이 되는 음반이라 오늘은 두 장으로 약 119분이다.",
+ "albums": [
+  {
+   "id": "discovery",
+   "artist": "Daft Punk",
+   "title": "Discovery",
+   "short": "Discovery",
+   "released": "2001년 3월",
+   "genre": "프렌치 하우스 · 신스팝",
+   "blurb": "디스코와 소프트 록, 1980년대 신시사이저를 잘게 잘라 붙여 어린 시절의 기억처럼 만든 다프트 펑크의 두 번째 음반.",
+   "length": "14곡 · 61분",
+   "spotify": "https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc",
+   "apple": "https://music.apple.com/kr/album/697194953",
+   "top": "Electronic",
+   "sub": "French House · Synth-Pop"
+  },
+  {
+   "id": "gorillaz",
+   "artist": "Gorillaz",
+   "title": "Gorillaz",
+   "short": "Gorillaz",
+   "released": "2001년 3월",
+   "genre": "얼터너티브 힙합 · 트립합 · 덥",
+   "blurb": "블러의 데이먼 알반과 만화가 제이미 휴렛이 만든 네 명의 만화 캐릭터 밴드의 데뷔작.",
+   "length": "1–15곡 · 57분",
+   "spotify": "https://open.spotify.com/album/0YvYmLBFFwYxgI4U9KKgUm",
+   "apple": "https://music.apple.com/kr/album/850576570",
+   "top": "Pop / Art Pop",
+   "sub": "Alternative Hip-Hop · Trip-Hop"
+  }
+ ],
+ "essays": [
+  {
+   "id": "discovery",
+   "heading": "로봇이 부르는 어린 시절",
+   "paras": [
+    "첫 곡 〈One More Time〉은 금관 악기 샘플이 짧게 반복되는 위로, 기계로 음정을 보정해 일부러 로봇처럼 꺾이게 만든 목소리가 노래한다. 목소리의 주인은 미국 하우스 가수 로맨손이다. 곡 중간에는 비트가 사라지고 필터로 깎인 소리만 길게 이어지다가, 다시 쿵쿵거리는 박자가 돌아온다. 하우스(House) 음악에서 춤추는 사람들을 기다리게 했다가 한꺼번에 풀어 주는 방식이다. 〈Digital Love〉에서는 1980년대 소프트 록처럼 부드러운 화음 위로 전자 기타 같은 신시사이저 독주가 길게 흐르고, 〈Harder, Better, Faster, Stronger〉는 네 단어짜리 짧은 구절을 기계처럼 조합하며 쌓아 올린다.",
+    "토마 방갈테르와 기마누엘 드 오망크리스토는 1997년 《Homework》에서 시카고 하우스를 파리식으로 거칠게 다시 만들었다. 두 번째 음반에서는 방향을 바꿔, 어린 시절 라디오와 텔레비전에서 들었던 디스코, 소프트 록, 만화 주제가의 감정을 되살리려 했다고 밝혔다. 옛 음반에서 짧은 구간을 따와 잘게 자르고 다시 이어 붙이는 샘플링(Sampling)이 핵심이고, 그 위에 직접 연주한 신시사이저와 기타를 겹쳤다. 두 사람은 이 무렵부터 로봇 헬멧을 쓰고 얼굴을 드러내지 않았으며, 음반 전체는 일본 만화가 마쓰모토 레이지와 함께 만든 애니메이션 영화 〈인터스텔라 5555〉로도 이어졌다.",
+    "당시 일부 평론가는 1980년대 감성을 너무 노골적으로 끌어왔다며 고개를 저었지만, 시간이 지나며 21세기 전자음악과 팝에 가장 큰 영향을 준 음반 가운데 하나로 평가가 바뀌었다. 2007년 카니예 웨스트의 〈Stronger〉가 〈Harder, Better, Faster, Stronger〉를 샘플로 써서 미국 1위에 올랐다. 1997년의 《Homework》와 이어 들으면 같은 두 사람이 4년 사이에 차가운 클럽에서 따뜻한 추억 쪽으로 얼마나 멀리 걸어왔는지 들린다."
+   ]
+  },
+  {
+   "id": "gorillaz",
+   "heading": "아무도 실제로 없는 밴드",
+   "paras": [
+    "〈Clint Eastwood〉는 축축한 덥(Dub) 베이스와 느린 힙합 박자 위로 멜로디언(건반 하모니카)의 쓸쓸한 선율이 흐르고, 데이먼 알반이 힘을 뺀 목소리로 후렴을 부른다. 절은 미국 래퍼 델 더 펑키 호모사피엔이 맡는다. 〈19-2000〉에서는 일본 밴드 시보 마토의 하토리 미호가 장난스러운 합창을 넣고, 〈Tomorrow Comes Today〉는 낡은 테이프처럼 먹먹한 피아노와 드럼 머신으로 만든 우울한 노래다. 록 밴드의 음반인데 기타보다 베이스와 박자, 샘플이 앞에 나온다.",
+    "1990년대 브릿팝을 이끈 블러의 알반과 만화 〈탱크 걸〉의 작가 제이미 휴렛은 런던의 한 아파트에 함께 살며 텔레비전 음악 채널을 보다가, 얼굴만 바뀌는 팝 스타 산업을 비꼬는 가상 밴드를 구상했다고 알려져 있다. 그래서 무대 위의 멤버는 2D, 머독, 누들, 러셀이라는 네 명의 만화 캐릭터이고, 실제 연주자와 손님들은 뒤에 숨는다. 제작은 미국 힙합 프로듀서 댄 디 오토메이터가 맡았고, 쿠바 가수 이브라힘 페레르도 한 곡에 목소리를 보탰다. 블러에서 벗어나 힙합, 덥, 라틴 음악을 마음껏 섞을 수 있는 가면이었다.",
+    "음반은 영국과 미국에서 모두 크게 팔렸고, 고릴라즈는 가장 성공한 가상 밴드로 기네스 기록에 올랐다. 캐릭터를 내세운 밴드라는 발상은 뒷날 가상 아이돌과 아바타 공연으로 이어졌다. 고릴라즈의 두 번째 음반은 2005년에 다시 만난다. 1996년 벡의 《Odelay》와 이어 들으면 장르를 잘라 붙이는 감각이 록에서 어디까지 왔는지 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Discovery (Daft Punk album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Discovery_(Daft_Punk_album)"
+  },
+  {
+   "title": "Gorillaz (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Gorillaz_(album)"
+  },
+  {
+   "title": "Interstella 5555 · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Interstella_5555:_The_5tory_of_the_5ecret_5tar_5ystem"
+  },
+  {
+   "title": "iPod · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/IPod"
+  }
+ ],
+ "edges": [
+  {
+   "from": "homework",
+   "to": "discovery",
+   "type": "document",
+   "label": "《Homework》 다음 다프트 펑크의 두 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/Discovery_(Daft_Punk_album)"
+  },
+  {
+   "from": "cest-chic",
+   "to": "discovery",
+   "type": "listen",
+   "label": "디스코의 반복 리프를 샘플로 다시 짜 맞춘 21세기 하우스"
+  },
+  {
+   "from": "odelay",
+   "to": "gorillaz",
+   "type": "listen",
+   "label": "장르를 잘라 붙이는 감각이 록 밴드 안으로 들어온 경로"
+  },
+  {
+   "from": "super-ape",
+   "to": "gorillaz",
+   "type": "listen",
+   "label": "덥 베이스와 메아리가 영국 팝으로 건너온 길"
+  }
+ ]
+}

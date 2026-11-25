@@ -1,0 +1,127 @@
+{
+ "date": "2027-02-17",
+ "part": "2005-P1",
+ "year": 2005,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 127분",
+ "title": "새가 되고 싶은 목소리, 난민의 딸, 돌아온 디바",
+ "intro": "2005년 2월 동영상 공유 사이트 유튜브가 만들어졌다. 음악을 알리는 방식이 또 한 번 바뀌기 시작했다. 블로그와 마이스페이스 같은 사이트에서는 무명 음악가가 음반사 없이도 이름을 알릴 수 있게 됐다. 오늘의 세 음반은 그해 봄 두 달 사이에 나왔지만 서로 완전히 다른 곳에서 왔다. 뉴욕의 한 가수는 영국 출신의 트랜스젠더 음악가로서 몸과 정체성에 대한 노래를 피아노와 현악으로 불렀고, 스리랑카 내전을 피해 런던으로 온 난민의 딸은 세계 곳곳의 댄스 음악을 섞었으며, 몇 년 전 크게 실패했던 디바는 화려하게 돌아왔다. 오늘은 세 장으로 약 127분이다.",
+ "albums": [
+  {
+   "id": "bird-now",
+   "artist": "Antony and the Johnsons",
+   "title": "I Am a Bird Now",
+   "short": "I Am a Bird Now",
+   "released": "2005년 2월",
+   "genre": "체임버 팝 · 아트 팝",
+   "blurb": "떨리는 목소리와 피아노, 현악으로 몸과 정체성의 변화를 노래해 머큐리상을 받은 음반.",
+   "length": "10곡 · 35분",
+   "spotify": "https://open.spotify.com/album/24Xm5zS2KvwojChzxLGdn9",
+   "apple": "https://music.apple.com/kr/album/260750982",
+   "top": "Pop / Art Pop",
+   "sub": "Chamber Pop"
+  },
+  {
+   "id": "arular",
+   "artist": "M.I.A.",
+   "title": "Arular",
+   "short": "Arular",
+   "released": "2005년 3월",
+   "genre": "일렉트로 · 힙합 · 댄스홀",
+   "blurb": "스리랑카 타밀계 난민 출신 M.I.A.가 값싼 리듬 머신으로 세계 곳곳의 댄스 음악을 섞은 데뷔작.",
+   "length": "14곡 · 42분",
+   "spotify": "https://open.spotify.com/album/0vb1ht1Af4e7V9gwqCFQ9X",
+   "apple": "https://music.apple.com/kr/album/1450124269",
+   "top": "Electronic",
+   "sub": "Electro · Global Bass"
+  },
+  {
+   "id": "mimi",
+   "artist": "Mariah Carey",
+   "title": "The Emancipation of Mimi",
+   "short": "The Emancipation of Mimi",
+   "released": "2005년 4월",
+   "genre": "R&B · 힙합 소울",
+   "blurb": "실패 뒤 다시 정상에 오른 머라이어 캐리의 음반으로, 〈We Belong Together〉가 실렸다.",
+   "length": "14곡 · 50분",
+   "spotify": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo",
+   "apple": "https://music.apple.com/kr/album/1476731879",
+   "top": "Soul / R&B",
+   "sub": "Contemporary R&B"
+  }
+ ],
+ "essays": [
+  {
+   "id": "bird-now",
+   "heading": "떨리는 목소리",
+   "paras": [
+    "〈Hope There's Someone〉은 피아노가 느리게 화음을 짚고, 앤터니 헤거티는 떨림이 큰 비브라토(Vibrato), 곧 음을 물결처럼 흔드는 높은 목소리로 죽음 앞의 두려움을 노래한다. 곡 후반에 피아노가 갑자기 빠르고 거칠게 쏟아지며 감정이 터진다. 〈For Today I Am a Boy〉는 언젠가 아름다운 여자가 될 것이라는 바람을 담은 노래이고, 〈You Are My Sister〉에서는 1980년대 영국 팝 스타 보이 조지가 함께 부른다. 〈Fistful of Love〉는 루 리드의 낭독으로 시작해 금관이 울리는 소울로 바뀐다.",
+    "앤터니는 영국에서 태어나 미국에서 자랐고, 1990년대 뉴욕의 드래그 공연과 실험 연극 무대에서 노래를 시작했다. 지금은 아노니(ANOHNI)라는 이름으로 활동한다. 음반 표지는 1970년대 앤디 워홀의 영화에 출연했던 트랜스젠더 배우 캔디 달링이 병상에 누운 사진으로, 사진가 피터 허자가 찍었다. 음반에는 루 리드, 보이 조지, 루퍼스 웨인라이트, 데번드라 반하트 같은 손님이 함께했다. 그녀의 목소리는 니나 시몬과 1960년대 소울 가수들의 영향을 받았다고 알려져 있다.",
+    "음반은 그해 머큐리상을 받았다. 트랜스젠더 음악가의 정체성을 정면으로 다룬 음반이 영국의 가장 권위 있는 음반상을 받은 것은 큰 주목을 받았다. 1967년 벨벳 언더그라운드의 첫 음반과 이어 들으면 뉴욕 언더그라운드의 다른 몸과 목소리들이 어떻게 이어지는지 들린다."
+   ]
+  },
+  {
+   "id": "arular",
+   "heading": "값싼 기계로 만든 세계 지도",
+   "paras": [
+    "〈Galang〉은 단순한 전자 드럼과 날카로운 신시사이저 위로 M.I.A.가 반쯤 노래하고 반쯤 랩을 하며, 런던 거리의 말투와 자메이카 댄스홀의 억양을 섞는다. 〈Bucky Done Gun〉은 브라질 리우데자네이루 빈민가의 댄스 음악 바일리 펑크(Baile Funk)의 빠른 박자와 영화 〈록키〉의 금관 소리를 빌려 온다. 〈Sunshowers〉는 밝은 디스코 리듬 위에 총과 전쟁 이야기를 섞는다. 소리는 거칠고 값싸게 들리는데, 그것이 오히려 길거리 파티의 에너지를 만든다.",
+    "M.I.A.의 본명은 마탕기 아룰프라가삼이다. 그녀는 런던에서 태어나 스리랑카에서 어린 시절을 보냈고, 내전을 피해 가족과 함께 영국으로 돌아와 런던 공공주택 단지에서 자랐다. 음반 제목 아룰라는 타밀 무장 운동에 관여했던 아버지의 별명이다. 그녀는 원래 미술과 영상을 공부했고, 친구에게 빌린 소형 리듬 머신으로 곡을 만들기 시작했다고 알려져 있다. 미국 프로듀서 디플로와 함께 만든 믹스테이프가 인터넷 블로그에서 퍼지면서 음반이 나오기 전부터 유명해졌다.",
+    "음반은 머큐리상 후보에 올랐고, 2008년 영화 〈슬럼독 밀리어네어〉에 실린 〈Paper Planes〉로 더 큰 성공을 거두게 된다. 브라질, 자메이카, 런던, 남아시아의 댄스 음악을 한 음반에서 섞는 방식은 이후 글로벌 베이스(Global Bass)라 불린 흐름의 출발점이 됐다. 1984년 런 디엠시의 첫 음반과 이어 들으면 단순한 리듬 머신과 목소리만으로 만드는 힙합의 원형이 들린다."
+   ]
+  },
+  {
+   "id": "mimi",
+   "heading": "힘을 아낀 고음",
+   "paras": [
+    "〈We Belong Together〉는 단순한 피아노 화음과 손가락 튕기는 소리, 느린 드럼만으로 시작한다. 머라이어 캐리는 대부분 낮고 부드럽게 노래하다가, 마지막 후렴에 가서야 높은 음으로 올라간다. 1990년대의 엄청난 고음 대신 힘을 아낀 노래다. 〈It's Like That〉과 〈Shake It Off〉는 힙합 박자 위로 가볍게 흔드는 R&B 곡이고, 〈Fly Like a Bird〉는 가스펠 합창으로 끝난다. 프로듀서 저메인 듀프리가 음반의 중심을 잡았다.",
+    "캐리는 1990년대 가장 많이 팔린 여성 가수였지만, 2001년 영화와 음반 〈Glitter〉가 크게 실패하고 신경쇠약으로 입원하는 등 어려운 시기를 보냈다. 음반사와의 계약도 해지됐다. 이 음반의 제목은 가까운 사람들이 부르던 별명 미미에서 왔고, 자신을 해방시킨다는 뜻을 담았다. 실제로 음반은 그녀의 재기를 알리는 음반이 됐다.",
+    "〈We Belong Together〉는 미국에서 14주 동안 1위를 지켰고, 빌보드는 뒤에 이 곡을 2000년대를 대표하는 노래로 꼽았다. 음반은 그해 미국에서 가장 많이 팔렸고, 그래미 세 개 부문을 받았다. 1985년 휘트니 휴스턴의 데뷔작과 이어 들으면 디바의 목소리가 20년 사이에 힙합 박자 위에서 얼마나 달라졌는지 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "I Am a Bird Now · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/I_Am_a_Bird_Now"
+  },
+  {
+   "title": "Arular · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Arular"
+  },
+  {
+   "title": "The Emancipation of Mimi · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Emancipation_of_Mimi"
+  },
+  {
+   "title": "YouTube · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/YouTube"
+  }
+ ],
+ "edges": [
+  {
+   "from": "velvet-nico",
+   "to": "bird-now",
+   "type": "listen",
+   "label": "뉴욕 언더그라운드의 다른 몸과 목소리"
+  },
+  {
+   "from": "run-dmc",
+   "to": "arular",
+   "type": "listen",
+   "label": "단순한 리듬 머신과 목소리로 만드는 힙합의 원형"
+  },
+  {
+   "from": "lovers-rock",
+   "to": "arular",
+   "type": "listen",
+   "label": "댄스홀과 여러 대륙의 리듬이 섞이는 런던"
+  },
+  {
+   "from": "whitney-1985",
+   "to": "mimi",
+   "type": "listen",
+   "label": "디바의 목소리가 힙합 박자 위에서 달라진 20년"
+  }
+ ]
+}
