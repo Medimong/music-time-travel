@@ -1,0 +1,153 @@
+{
+ "date": "2027-04-20",
+ "part": "2026-P1",
+ "year": 2026,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 116분",
+ "title": "낭만주의자, 가끔은 디스코, 아리랑",
+ "intro": "2026년 2월 1일 그래미 시상식에서 배드 버니의 스페인어 음반이 올해의 음반상을 받았고, 일주일 뒤 그는 슈퍼볼 하프타임 무대에 섰다. 영어가 아닌 노래가 미국 대중음악의 한가운데를 차지한 겨울이었다. 그 겨울 끝자락부터 오래 자리를 비웠던 세 이름이 잇달아 돌아왔다. 오늘은 2월과 3월에 나온 세 장, 약 116분이다. 9년 만의 솔로 음반으로 1970년대 소울을 되살린 브루노 마스, 베를린에서 신시사이저와 댄스 음악에 빠져든 해리 스타일스, 병역을 마치고 거의 6년 만에 정규 음반을 낸 BTS다. 세 음반은 차례로 빌보드 200 1위에 올랐다. 공백을 지나 다시 돌아온 사람이 무엇을 들고 오는지 비교해 들어 보자.",
+ "albums": [
+  {
+   "id": "the-romantic",
+   "artist": "Bruno Mars",
+   "title": "The Romantic",
+   "short": "The Romantic",
+   "released": "2026년 2월",
+   "genre": "소울 · 필라델피아 소울 · 라틴 팝",
+   "blurb": "래리 골드의 현악과 금관 위에서 1970년대 소울과 라틴 리듬으로 사랑 노래 아홉 곡을 부른 브루노 마스의 9년 만의 솔로 음반.",
+   "length": "9곡 · 32분",
+   "spotify": "https://open.spotify.com/album/7vI4iTxDmgEN63liQHPEX1",
+   "apple": "https://music.apple.com/kr/album/1866732792",
+   "top": "Soul / R&B",
+   "sub": "Retro Soul · Philly Soul"
+  },
+  {
+   "id": "kiss-all-the-time",
+   "artist": "Harry Styles",
+   "title": "Kiss All the Time. Disco, Occasionally.",
+   "short": "Kiss All the Time",
+   "released": "2026년 3월",
+   "genre": "신스팝 · 댄스 팝",
+   "blurb": "베를린 한자 스튜디오와 런던에서 녹음해 신시사이저 반복과 가스펠 합창, 댄스 리듬으로 방향을 튼 해리 스타일스의 네 번째 음반.",
+   "length": "12곡 · 43분",
+   "spotify": "https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR",
+   "apple": "https://music.apple.com/kr/album/1870984032",
+   "top": "Pop / Art Pop",
+   "sub": "Synth-Pop · Dance-Pop"
+  },
+  {
+   "id": "arirang-bts",
+   "artist": "BTS",
+   "title": "ARIRANG",
+   "short": "ARIRANG",
+   "released": "2026년 3월",
+   "genre": "케이팝 · 힙합 · 팝",
+   "blurb": "민요 아리랑과 성덕대왕신종의 울림을 트랩과 하우스, 사이키델릭 록 사이에 놓고 한국에서 시작한 그룹의 정체성을 되물은 BTS의 귀환작.",
+   "length": "14곡 · 41분",
+   "spotify": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h",
+   "apple": "https://music.apple.com/kr/album/1885720384",
+   "top": "Pop / Art Pop",
+   "sub": "K-Pop · Hip-Hop"
+  }
+ ],
+ "essays": [
+  {
+   "id": "the-romantic",
+   "heading": "아홉 곡짜리 사랑 고백",
+   "paras": [
+    "첫 곡 〈Risk It All〉이 시작되면 현악이 넓게 펼쳐지고 금관이 그 위에 짧게 끼어든다. 현악 편곡과 지휘는 필라델피아의 베테랑 래리 골드가 맡았다. 필라델피아 소울(Philly soul)은 1970년대 필라델피아의 스튜디오에서 다듬은 소울로, 매끈한 현악과 금관, 가볍게 뛰는 드럼 위에 달콤한 노래를 얹는 방식이다. 〈Cha Cha Cha〉는 오제이스의 〈Back Stabbers〉에서 리듬과 후렴 직전의 멈춤을 빌려 와 라틴 타악과 섞는다. 콩가와 트럼펫이 곳곳에서 들리고, 브루노 마스의 거칠고 높은 목소리가 늘 맨 앞에 선다.",
+    "음반은 아홉 곡, 31분 남짓으로 그의 음반 가운데 가장 짧다. 전곡을 마스와 실크 소닉 시절의 동료 디마일(D'Mile)이 함께 만들었고, 객원 가수는 한 명도 없다. 《24K Magic》(2016) 이후 9년 만의 솔로 음반이다. 그는 2023년부터 작업 중이라고 알려졌지만 발표를 미뤘고, 2026년 1월에야 음반이 완성됐다고 밝혔다. 먼저 나온 〈I Just Might〉는 빌보드 핫 100 1위로 데뷔했고, 음반은 첫 주 18만 6천 단위로 빌보드 200 1위에 올라 그의 첫 1위 데뷔가 됐다.",
+    "평가는 갈렸다. 목소리와 연주는 모두가 칭찬했지만, 사랑의 상투어를 되풀이하고 옛 명곡을 흉내 낸다는 비판도 컸다. 혁신가가 아니라 재능 있는 보존가라는 평이 대표적이다. 그런데도 음반은 2027년 그래미 올해의 음반 후보에 올랐고, 71회짜리 스타디움 투어와 일본 6개 돔 공연으로 이어졌다. 새로움보다 완성된 옛 소리를 고른 선택이 대중에게 얼마나 강하게 통하는지 보여 준 음반이다."
+   ]
+  },
+  {
+   "id": "kiss-all-the-time",
+   "heading": "베를린에서 찾은 춤",
+   "paras": [
+    "첫 곡 〈Aperture〉는 5분 넘게 신시사이저 반복이 겹겹이 쌓이며 천천히 달아오른다. 노래가 앞으로 튀어나오기보다 소리의 일부처럼 섞이고, 뒤에서는 런던의 하우스 가스펠 콰이어가 합창을 보탠다. 울프 앨리스의 엘리 로웰도 몇 곡에서 뒷소리를 맡았다. 신스팝(synth-pop)과 댄스 팝을 바탕으로 포스트펑크의 차가운 기타와 펑크(funk)의 베이스가 끼어든다. 후반의 〈Coming Up Roses〉에서는 줄스 버클리의 오케스트라 편곡이 갑자기 화면을 넓힌다.",
+    "해리 스타일스는 2023년 7월 22개월짜리 투어를 마친 뒤 거의 모습을 감췄다. 2025년에는 베를린에 살며 새 음반을 만든다는 소식이 돌았고, 녹음은 런던의 RAK, 애비 로드와 베를린의 한자(Hansa) 스튜디오에서 이뤄졌다. 데이비드 보위가 1970년대 베를린에서 음반을 만든 일과 자주 비교된 까닭이다. 스타일스는 LCD 사운드시스템의 음악과 공연에서 큰 영향을 받았다고 밝혔다. 오랜 동료 키드 하푼이 전곡을 제작했다.",
+    "음반은 미국에서 첫 주 43만 단위로 빌보드 200 1위에 올라 브루노 마스를 끌어내렸고, 〈Aperture〉는 그의 세 번째 핫 100 1위가 됐다. 평단은 대체로 호의적이었지만, 그의 목소리가 소리 뒤로 너무 물러났다는 지적도 있었다. 아이돌 출신 팝스타가 차트 정상에서 굳이 덜 친숙한 소리를 골랐다는 점이 이 음반의 의미다."
+   ]
+  },
+  {
+   "id": "arirang-bts",
+   "heading": "종소리에서 시작한 귀환",
+   "paras": [
+    "첫 곡 〈Body to Body〉는 민요 아리랑을 샘플링하고, 디플로가 그 위에 거친 힙합 비트와 전통 타악을 깐다. 음반 전반부는 트랩(trap, 낮게 울리는 808 베이스와 잘게 쪼갠 하이햇을 쓰는 남부 힙합)과 힙합이 이끌고, 여섯 번째 트랙 〈No. 29〉에서 소리가 멈춘다. 국보 29호 성덕대왕신종을 녹음한 1분 38초로, RM에 따르면 종이 울리는 시간에 길이를 맞췄다. 그 뒤로는 테임 임팔라의 케빈 파커가 함께한 사이키델릭 록 〈Merry Go Round〉, 1990년대 하우스 〈One More Night〉처럼 한결 부드러운 곡이 이어진다.",
+    "BTS는 2022년 6월 단체 활동을 멈췄고, 멤버들은 2022년 12월부터 2025년 6월까지 차례로 병역을 마쳤다. 그사이 일곱 명 모두 솔로 작품을 냈다. 《ARIRANG》은 《BE》(2020) 이후 거의 6년 만의 정규 음반이고, 소속사는 제목이 한국에서 시작한 그룹의 정체성을 담는다고 밝혔다. 〈Aliens〉에서는 문화의 힘을 말한 독립운동가 김구를 부르며 한국 문화의 세계적 확산을 돌아본다. 사랑과 이별, 그리움을 노래한 민요가 오랜 헤어짐 뒤의 재회를 다룬 음반의 이름이 됐다.",
+    "발매 다음 날 광화문 광장 공연은 넷플릭스로 생중계돼 1,840만 명이 봤다. 음반은 미국 첫 주 64만 1천 단위로 빌보드 200 1위에 올랐고, 10월에는 스포티파이 50억 회를 넘겨 2026년 발매 음반 가운데 가장 많이 들린 음반이 됐다. 평단도 병역 공백 뒤의 성장과 실험을 높이 샀다. 2018년 《LOVE YOURSELF 轉 'Tear'》로 케이팝 최초의 빌보드 200 1위에 올랐던 그룹이, 이제 민요와 종소리를 앞세워도 세계가 듣는다는 것을 보여 준 음반이다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "The Romantic (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Romantic_(album)"
+  },
+  {
+   "title": "Kiss All the Time. Disco, Occasionally · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kiss_All_the_Time._Disco,_Occasionally"
+  },
+  {
+   "title": "Arirang (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Arirang_(album)"
+  },
+  {
+   "title": "Bell of King Seongdeok · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bell_of_King_Seongdeok"
+  },
+  {
+   "title": "Philadelphia soul · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Philadelphia_soul"
+  }
+ ],
+ "edges": [
+  {
+   "from": "silk-sonic",
+   "to": "the-romantic",
+   "type": "document",
+   "label": "실크 소닉의 제작자 디마일과 다시 만든 브루노 마스의 솔로 음반",
+   "source": "https://en.wikipedia.org/wiki/The_Romantic_(album)"
+  },
+  {
+   "from": "way-of-world",
+   "to": "the-romantic",
+   "type": "listen",
+   "label": "현악과 금관이 감싸는 1970년대 소울의 사랑 노래"
+  },
+  {
+   "from": "harry-styles",
+   "to": "kiss-all-the-time",
+   "type": "document",
+   "label": "해리 스타일스의 네 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/Kiss_All_the_Time._Disco,_Occasionally"
+  },
+  {
+   "from": "low",
+   "to": "kiss-all-the-time",
+   "type": "listen",
+   "label": "베를린 한자 스튜디오에서 신시사이저로 방향을 튼 음반"
+  },
+  {
+   "from": "sound-of-silver",
+   "to": "kiss-all-the-time",
+   "type": "listen",
+   "label": "반복으로 천천히 달아오르는 댄스 록"
+  },
+  {
+   "from": "bts-tear",
+   "to": "arirang-bts",
+   "type": "document",
+   "label": "병역 공백 뒤 BTS의 정규 음반",
+   "source": "https://en.wikipedia.org/wiki/Arirang_(album)"
+  },
+  {
+   "from": "currents",
+   "to": "arirang-bts",
+   "type": "document",
+   "label": "케빈 파커가 〈Merry Go Round〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/Arirang_(album)"
+  }
+ ]
+}

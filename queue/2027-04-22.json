@@ -1,0 +1,120 @@
+{
+ "date": "2027-04-22",
+ "part": "2026-P3",
+ "year": 2026,
+ "partNo": 3,
+ "partTotal": 3,
+ "total": "약 104분",
+ "title": "사랑에 빠졌는데 슬퍼 보이네, 잃어버린 주말",
+ "intro": "2026년 여름, 미국과 캐나다, 멕시코가 함께 연 월드컵으로 북미 대륙이 들썩였다. 모든 장면을 휴대전화로 찍어 나누는 시대였지만, 그해 여름에는 입구에서 휴대전화를 봉인하고 들어가는 공연이 화제가 되기도 했다. 오늘은 6월과 8월에 나온 두 장, 약 104분이다. 여행의 마지막 날이라 그해 가장 많이 들린 음반 가운데 하나와 평단이 가장 높이 평가한 음반, 두 장만 골랐다. 사랑의 시작과 끝을 1980년대 뉴웨이브 소리로 그린 올리비아 로드리고, 아버지의 죽음과 명성의 피로를 앰비언트와 포크로 감싼 피비 브리저스다. 둘 다 스스로 노래를 쓰고 부르는 젊은 여성이고, 둘 다 자기 이야기를 끝까지 파고든다. 1965년에서 출발해 해마다 한 걸음씩 걸어온 우리의 시간여행은 여기, 2026년의 두 노래꾼에게서 끝난다.",
+ "albums": [
+  {
+   "id": "ysps-rodrigo",
+   "artist": "Olivia Rodrigo",
+   "title": "you seem pretty sad for a girl so in love",
+   "short": "you seem pretty sad",
+   "released": "2026년 6월",
+   "genre": "팝 록 · 뉴웨이브 · 인디 팝",
+   "blurb": "한 연애의 시작과 끝을 두 부분으로 나눠 신스팝과 쟁글 팝, 포스트펑크로 그리고 더 큐어의 로버트 스미스를 불러들인 올리비아 로드리고의 세 번째 음반.",
+   "length": "13곡 · 51분",
+   "spotify": "https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl",
+   "apple": "https://music.apple.com/kr/album/6779097512",
+   "top": "Pop / Art Pop",
+   "sub": "Pop Rock · New Wave"
+  },
+  {
+   "id": "lost-weekend",
+   "artist": "Phoebe Bridgers",
+   "title": "Lost Weekend",
+   "short": "Lost Weekend",
+   "released": "2026년 8월",
+   "genre": "인디 포크 · 앰비언트",
+   "blurb": "아버지의 죽음과 끝난 약혼, 명성의 피로를 보코더와 앰비언트, 밴조와 왈츠로 감싼 피비 브리저스의 6년 만의 솔로 음반.",
+   "length": "17곡 · 53분",
+   "spotify": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c",
+   "apple": "https://music.apple.com/kr/album/6781051268",
+   "top": "Folk / Singer-Songwriter",
+   "sub": "Indie Folk · Ambient"
+  }
+ ],
+ "essays": [
+  {
+   "id": "ysps-rodrigo",
+   "heading": "행복한데 슬픈 사랑 노래",
+   "paras": [
+    "첫 곡 〈drop dead〉에서는 파닥이는 신시사이저와 바이올린, 비올라가 함께 달리고, 다리 부분에서 갑자기 록 기타가 터진다. 〈maggots for brains〉는 쟁글 팝(jangle pop, 맑게 찰랑이는 기타 아르페지오가 이끄는 1980년대 기타 팝)과 포스트펑크의 차가운 신시사이저가 섞여 뉴 오더와 더 큐어를 떠올리게 한다. 〈honeybee〉는 피아노 발라드로 시작해 합창으로 끝난다. 음반은 앞의 일곱 곡 '사랑에 빠진 여자'와 뒤의 여섯 곡 '슬퍼 보이네'로 나뉘고, 뒤로 갈수록 소리가 느려지고 어두워진다.",
+    "로드리고는 처음으로 어른의 연애를 하며 사랑이 무엇인지 실시간으로 배운 기록이라고 설명했다. 행복을 지루하지 않게 쓰고 싶었다고도 했다. 〈stupid song〉은 아니 에르노의 소설 『단순한 열정』을 읽고 썼다. 2025년 글래스톤베리에서 로버트 스미스와 더 큐어의 노래를 함께 불렀던 인연은 〈what's wrong with me〉의 협업으로 이어졌다. 그녀가 자작곡에 다른 가수를 들인 첫 경우다. 제작은 데뷔부터 함께한 댄 니그로가 맡았다.",
+    "음반은 미국 첫 주 48만 5천 단위로 빌보드 200 1위에 올라 첫 세 음반과 첫 세 리드 싱글을 모두 1위로 데뷔시킨 첫 가수가 됐다. 영국에서는 〈drop dead〉가 싱글 차트 1위, 〈the cure〉와 〈stupid song〉이 2위까지 올랐고, 10월까지 스포티파이에서 30억 회 넘게 들려 그해 두 번째로 많이 들린 음반이 됐다. 평단은 10대의 분노에서 어른의 사랑으로 넘어간 성숙을 높이 샀고, 그래미 올해의 음반 후보에 올랐다."
+   ]
+  },
+  {
+   "id": "lost-weekend",
+   "heading": "아버지를 보내는 주말",
+   "paras": [
+    "첫 곡 〈The Outside〉에서 피비 브리저스는 보코더로 목소리를 기계처럼 일그러뜨린다. 아버지의 장례식에서 양복을 입고 우는 장면이다. 〈The Governor's Waltz〉는 제목대로 4분의 3박자 왈츠이고, 〈Never Going Back!〉에서는 밴조 위로 아버지가 남긴 음성 메시지가 흐른다. 그는 작업 중 앰비언트(ambient, 박자와 가사보다 공간과 울림으로 감정을 전하는 음악)에 빠졌고, 그 영향으로 노래 사이사이가 흐릿한 소리 풍경으로 이어진다. 앨릭스 지, 잭 안토노프, 보이지니어스의 루시 데이커스와 줄리언 베이커가 함께했다.",
+    "《Punisher》(2020) 이후 6년 만의 솔로 음반이다. 브리저스는 2022년 12월 아버지를 잃었고, 같은 해 약혼을 깼다. 보이지니어스 활동을 마친 2024년부터 거의 모습을 드러내지 않았다. 〈Still Standing〉은 어머니를 향한 아버지의 폭력을 그리고, 마지막 곡 〈Lost Weekend (Reprise)〉에서는 자신이 생각보다 아버지를 닮았다고 털어놓는다. 음반은 아버지에게 바쳐졌다. 홍보도 남달랐다. 인터뷰 대신 휴대전화를 맡기고 들어가는 깜짝 공연으로 새 노래를 들려줬고, 발매 직전에는 세계 34곳의 천체투영관에서 음반을 틀었다.",
+    "평단은 만장일치로 환호했다. 메타크리틱 평균 91점을 받았고, 그해 가장 높게 평가된 음반 가운데 하나로 꼽혔으며, 그래미 일곱 개 부문 후보에 올라 올해의 음반 후보가 됐다. 슬픔을 숨기지 않고 오래 들여다본 기록이 2026년이라는 시끄러운 해의 맨 끝에 놓인 셈이다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "You Seem Pretty Sad for a Girl So in Love · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/You_Seem_Pretty_Sad_for_a_Girl_So_in_Love"
+  },
+  {
+   "title": "Lost Weekend (Phoebe Bridgers album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lost_Weekend_(Phoebe_Bridgers_album)"
+  },
+  {
+   "title": "Ambient music · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ambient_music"
+  },
+  {
+   "title": "69th Annual Grammy Awards · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/69th_Annual_Grammy_Awards"
+  }
+ ],
+ "edges": [
+  {
+   "from": "guts",
+   "to": "ysps-rodrigo",
+   "type": "document",
+   "label": "《GUTS》 다음 올리비아 로드리고의 세 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/You_Seem_Pretty_Sad_for_a_Girl_So_in_Love"
+  },
+  {
+   "from": "disintegration",
+   "to": "ysps-rodrigo",
+   "type": "document",
+   "label": "더 큐어의 로버트 스미스가 〈what's wrong with me〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/You_Seem_Pretty_Sad_for_a_Girl_So_in_Love"
+  },
+  {
+   "from": "pcl",
+   "to": "ysps-rodrigo",
+   "type": "listen",
+   "label": "차가운 신시사이저와 찰랑이는 기타의 1980년대 뉴웨이브"
+  },
+  {
+   "from": "punisher",
+   "to": "lost-weekend",
+   "type": "document",
+   "label": "《Punisher》 다음 피비 브리저스의 세 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/Lost_Weekend_(Phoebe_Bridgers_album)"
+  },
+  {
+   "from": "the-record",
+   "to": "lost-weekend",
+   "type": "document",
+   "label": "보이지니어스의 루시 데이커스와 줄리언 베이커가 참여",
+   "source": "https://en.wikipedia.org/wiki/Lost_Weekend_(Phoebe_Bridgers_album)"
+  },
+  {
+   "from": "carrie-lowell",
+   "to": "lost-weekend",
+   "type": "listen",
+   "label": "부모의 죽음을 낮고 조용한 포크로 들여다보는 음반"
+  }
+ ]
+}
