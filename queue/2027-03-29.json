@@ -1,0 +1,122 @@
+{
+ "date": "2027-03-29",
+ "part": "2018-P3",
+ "year": 2018,
+ "partNo": 3,
+ "partTotal": 3,
+ "total": "약 122분",
+ "title": "카우보이가 된 외톨이, 플라멩코의 소설, 인터넷 시대의 연애",
+ "intro": "2018년 가을, 음악가들은 장르보다 이야기를 앞세워 음반을 짰다. 짧은 곡들로 외로운 한 여성의 초상을 그린 미츠키, 13세기 소설에서 줄거리를 빌려 와 플라멩코와 트랩을 엮은 로살리아, 인터넷과 중독, 정치를 한 장에 담은 더 1975가 그랬다. 스트리밍은 곡 단위로 음악을 쪼갰지만, 이 음반들은 처음부터 끝까지 이어 듣게 만드는 힘으로 평가받았다. 오늘은 8월부터 11월까지 나온 세 장, 약 122분이다. 셋 모두 한 사람의 내면이나 한 편의 이야기를 끝까지 따라가는 음반이라, 곡을 건너뛰지 말고 처음부터 순서대로 듣기를 권한다.",
+ "albums": [
+  {
+   "id": "be-the-cowboy",
+   "artist": "Mitski",
+   "title": "Be the Cowboy",
+   "short": "Be the Cowboy",
+   "released": "2018년 8월",
+   "genre": "인디 록 · 아트 팝",
+   "blurb": "대부분 3분이 안 되는 짧은 곡으로 외로운 여성의 갈망과 체면을 그린 미츠키의 다섯 번째 음반.",
+   "length": "14곡 · 33분",
+   "spotify": "https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq",
+   "apple": "https://music.apple.com/kr/album/1373892692",
+   "top": "Rock",
+   "sub": "Indie Rock · Art Pop"
+  },
+  {
+   "id": "el-mal-querer",
+   "artist": "ROSALÍA",
+   "title": "EL MAL QUERER",
+   "short": "El Mal Querer",
+   "released": "2018년 11월",
+   "genre": "플라멩코 · 팝",
+   "blurb": "13세기 소설을 바탕으로 집착하는 사랑의 열한 장을 플라멩코 손뼉과 트랩 비트로 엮은 로살리아의 두 번째 음반.",
+   "length": "11곡 · 30분",
+   "spotify": "https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq",
+   "apple": "https://music.apple.com/kr/album/1436309944",
+   "top": "Latin / Caribbean",
+   "sub": "Flamenco Pop · Nuevo Flamenco"
+  },
+  {
+   "id": "brief-inquiry",
+   "artist": "The 1975",
+   "title": "A Brief Inquiry Into Online Relationships",
+   "short": "A Brief Inquiry",
+   "released": "2018년 11월",
+   "genre": "팝 록 · 신스팝",
+   "blurb": "중독에서 돌아온 매티 힐리가 인터넷 시대의 연애와 불안을 신스팝부터 재즈 발라드까지 담은 더 1975의 세 번째 음반.",
+   "length": "15곡 · 59분",
+   "spotify": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY",
+   "apple": "https://music.apple.com/kr/album/1435546528",
+   "top": "Rock",
+   "sub": "Pop Rock · Synth-Pop"
+  }
+ ],
+ "essays": [
+  {
+   "id": "be-the-cowboy",
+   "heading": "카우보이처럼 굴고 싶은 사람",
+   "paras": [
+    "첫 곡 〈Geyser〉는 오르간 같은 낮은 소리 위에서 미츠키가 조용히 노래하다가, 갑자기 일그러진 기타와 드럼이 솟구친다. 〈Nobody〉는 디스코처럼 경쾌한 리듬과 피아노 위에서 아무도 없다는 말을 수없이 되풀이하는 노래로, 그의 가장 유명한 곡이 됐다. 〈Washing Machine Heart〉는 둔탁하게 돌아가는 드럼으로 세탁기처럼 덜컹이는 마음을 그리고, 마지막 〈Two Slow Dancers〉는 피아노와 신시사이저 위에서 나이 든 두 사람이 체육관에서 춤추는 장면으로 끝난다. 곡 대부분은 3분이 안 되고, 후렴을 반복하지 않은 채 갑자기 끝나기도 한다.",
+    "미츠키 미야와키는 일본인 어머니와 미국인 아버지 사이에서 태어나 여러 나라를 옮겨 다니며 자랐다. 앞선 음반들에서는 날 것 그대로의 기타 록으로 자신의 감정을 털어놓았지만, 이 음반에서는 감정을 통제하려 애쓰는 외로운 여성이라는 인물을 만들어 그의 목소리로 노래했다. 그는 제목을 자신감 넘치는 카우보이처럼 굴어 보자는 다짐이라고 설명했다. 오랜 동료 패트릭 하이랜드가 프로듀서를 맡았다.",
+    "피치포크는 이 음반을 2018년 최고의 음반으로 꼽았다. 〈Nobody〉는 몇 해 뒤 틱톡에서 다시 크게 퍼졌고, 미츠키는 Z세대가 가장 사랑하는 인디 음악가 가운데 하나가 됐다. 짧은 곡마다 다른 인물을 연기하는 방식은 1985년 케이트 부시의 《Hounds of Love》를 떠올리게 한다."
+   ]
+  },
+  {
+   "id": "el-mal-querer",
+   "heading": "플라멩코로 쓴 열한 장의 소설",
+   "paras": [
+    "〈MALAMENTE〉는 플라멩코의 손뼉 박자(팔마스)와 낮게 쿵 하고 울리는 808 드럼으로 시작하고, 로살리아는 플라멩코 특유의 꺾이는 창법으로 나쁜 징조를 노래한다. 〈PIENSO EN TU MIRÁ〉는 느린 트랩 박자와 손뼉 위에서 연인의 질투를 그리고, 〈DE AQUÍ NO SALES〉에서는 엔진 소리가 박자 노릇을 한다. 〈BAGDAD〉는 저스틴 팀버레이크의 〈Cry Me a River〉 선율을 빌려 와 교회 합창처럼 부풀리고, 〈DI MI NOMBRE〉는 기타와 손뼉만으로 사랑에 빠진 순간을 노래한다.",
+    "로살리아는 바르셀로나 근교에서 자라 카탈루냐 음악원에서 플라멩코를 공부했다. 이 음반은 졸업 작품으로 시작했고, 13세기 오크어로 쓰인 작자 미상의 소설 《플라멩카》에서 집착하는 남편과 갇힌 아내의 이야기를 빌려 왔다. 곡마다 징조, 결혼, 질투, 해방 같은 장 제목이 붙어 있다. 스페인 프로듀서 엘 긴초와 함께 전통 플라멩코와 R&B, 트랩의 소리를 엮었다.",
+    "〈MALAMENTE〉는 2018년 라틴 그래미에서 두 개 부문을 받았고, 음반은 2019년 라틴 그래미 올해의 앨범을 받았다. 이 음반으로 로살리아는 스페인을 넘어 세계적인 스타가 됐고, 전통 음악을 현대 팝으로 다시 짜는 방식은 많은 음악가에게 영향을 줬다."
+   ]
+  },
+  {
+   "id": "brief-inquiry",
+   "heading": "인터넷 시대의 연애에 관한 짧은 조사",
+   "paras": [
+    "〈Give Yourself a Try〉는 날카롭게 반복되는 기타 한 줄과 빠른 드럼으로 시작해, 매티 힐리가 스물아홉 살이 된 자신을 돌아본다. 〈TOOTIMETOOTIMETOOTIME〉은 댄스홀 리듬과 변조한 목소리의 가벼운 팝이고, 〈Love It If We Made It〉은 쿵쿵대는 드럼 위로 그 해의 뉴스 제목과 소셜미디어의 말들을 몰아치듯 늘어놓는다. 〈The Man Who Married a Robot / Love Theme〉에서는 아이폰의 음성 비서 시리의 목소리가 인터넷과 사랑에 빠진 외로운 남자의 이야기를 들려준다. 〈Sincerity Is Scary〉는 재즈풍 브라스와 합창이 따뜻하게 흐른다.",
+    "힐리는 2017년 말 헤로인 중독을 치료하기 위해 카리브해의 재활 시설에 들어갔고, 돌아와 이 음반을 마무리했다. 〈It's Not Living (If It's Not with You)〉는 밝은 1980년대 기타 팝의 소리로 중독에 관해 노래하는 곡이다. 드러머 조지 대니얼이 공동 프로듀서로 음반의 전자음과 편곡을 이끌었다.",
+    "음반은 영국 차트 1위에 올랐고, 2019년 브릿 어워드에서 올해의 영국 음반상을 받았다. 1997년 《OK Computer》의 기계 목소리 〈Fitter Happier〉와 이어 들으면, 20년 뒤의 밴드가 기술 시대의 외로움을 어떻게 다시 노래했는지 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Be the Cowboy · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Be_the_Cowboy"
+  },
+  {
+   "title": "El mal querer · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/El_mal_querer"
+  },
+  {
+   "title": "Flamenca · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Flamenca"
+  },
+  {
+   "title": "A Brief Inquiry into Online Relationships · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/A_Brief_Inquiry_into_Online_Relationships"
+  }
+ ],
+ "edges": [
+  {
+   "from": "hounds-of-love",
+   "to": "be-the-cowboy",
+   "type": "listen",
+   "label": "짧은 곡마다 다른 인물을 연기하는 아트 팝"
+  },
+  {
+   "from": "justified",
+   "to": "el-mal-querer",
+   "type": "document",
+   "label": "〈BAGDAD〉가 〈Cry Me a River〉의 선율을 빌려 옴",
+   "source": "https://en.wikipedia.org/wiki/El_mal_querer"
+  },
+  {
+   "from": "ok-computer",
+   "to": "brief-inquiry",
+   "type": "listen",
+   "label": "〈Fitter Happier〉의 기계 목소리와 시리가 들려주는 이야기"
+  }
+ ]
+}

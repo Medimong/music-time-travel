@@ -1,0 +1,147 @@
+{
+ "date": "2027-03-28",
+ "part": "2018-P2",
+ "year": 2018,
+ "partNo": 2,
+ "partTotal": 3,
+ "total": "약 130분",
+ "title": "와이오밍의 유령, 사라진 놀이공원, 슬픔 다음의 달콤함",
+ "intro": "2018년 여름, 카니예 웨스트는 와이오밍의 산속에서 자신과 동료들의 짧은 음반 다섯 장을 매주 하나씩 풀었다. 힙합은 이제 미국 대중음악의 중심이었고, 한 곡 안에서 비트가 몇 번씩 바뀌는 트래비스 스콧의 음반이 그 해 여름을 차지했다. 1년 전 맨체스터 공연장 테러를 겪은 아리아나 그란데는 슬픔을 지나 밝은 팝으로 돌아왔다. 오늘은 6월부터 8월까지 나온 세 장, 약 130분이다. 키드 커디와 카니예의 《KIDS SEE GHOSTS》, 트래비스 스콧의 《ASTROWORLD》, 아리아나 그란데의 《Sweetener》다. 세 음반 모두 상처를 안고도 앞으로 나아가려는 마음을 품고 있다.",
+ "albums": [
+  {
+   "id": "kids-see-ghosts",
+   "artist": "KIDS SEE GHOSTS",
+   "title": "KIDS SEE GHOSTS",
+   "short": "KIDS SEE GHOSTS",
+   "released": "2018년 6월",
+   "genre": "힙합 · 사이키델릭",
+   "blurb": "카니예 웨스트와 키드 커디가 와이오밍에서 만든 일곱 곡짜리 짧은 음반으로, 정신의 고통과 회복을 노래한다.",
+   "length": "7곡 · 24분",
+   "spotify": "https://open.spotify.com/album/1oK1GzEMNDjCt7EYYpomwc",
+   "apple": "https://music.apple.com/kr/album/1396710872",
+   "top": "Hip-Hop",
+   "sub": "Psychedelic Hip-Hop · Experimental Hip-Hop"
+  },
+  {
+   "id": "astroworld",
+   "artist": "Travis Scott",
+   "title": "ASTROWORLD",
+   "short": "ASTROWORLD",
+   "released": "2018년 8월",
+   "genre": "힙합 · 트랩",
+   "blurb": "어린 시절 휴스턴의 사라진 놀이공원을 이름으로 삼아 비트가 쉼 없이 바뀌는 사이키델릭 트랩을 펼친 트래비스 스콧의 세 번째 음반.",
+   "length": "17곡 · 59분",
+   "spotify": "https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I",
+   "apple": "https://music.apple.com/kr/album/1421241217",
+   "top": "Hip-Hop",
+   "sub": "Psychedelic Trap"
+  },
+  {
+   "id": "sweetener",
+   "artist": "Ariana Grande",
+   "title": "Sweetener",
+   "short": "Sweetener",
+   "released": "2018년 8월",
+   "genre": "팝 · R&B",
+   "blurb": "맨체스터 공연장 테러를 겪은 뒤 퍼렐 윌리엄스의 낯선 비트와 함께 밝은 쪽으로 걸어 나온 아리아나 그란데의 네 번째 음반.",
+   "length": "15곡 · 48분",
+   "spotify": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe",
+   "apple": "https://music.apple.com/kr/album/1399202539",
+   "top": "Pop / Art Pop",
+   "sub": "Pop · Contemporary R&B"
+  }
+ ],
+ "essays": [
+  {
+   "id": "kids-see-ghosts",
+   "heading": "산속에서 쓴 회복의 일기",
+   "paras": [
+    "첫 곡 〈Feel the Love〉에서 키드 커디가 낮게 같은 구절을 되풀이하는 동안, 카니예 웨스트는 가사 대신 총소리를 흉내 내는 소리를 입으로 쏟아 낸다. 〈Freeee (Ghost Town, Pt. 2)〉는 묵직한 기타와 드럼 위로 마커스 가비의 연설을 빌려 와 자유를 외치고, 〈Reborn〉은 느린 피아노 위에서 커디가 계속 앞으로 나아가겠다고 부드럽게 흥얼거린다. 〈4th Dimension〉은 1930년대 루이 프리마의 크리스마스 노래를 잘라 넣어 기묘하게 흔들리고, 마지막 〈Cudi Montage〉는 커트 코베인의 기타 연주를 빌려 온다.",
+    "카니예와 커디는 2008년 《808s & Heartbreak》를 함께 만들었던 사이다. 2016년 카니예는 투어를 갑자기 취소한 뒤 입원했고, 커디도 같은 해 우울증과 자살 충동으로 치료를 받았다고 공개했다. 2018년 카니예는 와이오밍에서 자신의 《ye》를 포함한 짧은 음반 다섯 장을 매주 하나씩 프로듀스해 냈고, 이 음반이 그 가운데 세 번째였다. 표지는 일본 화가 무라카미 다카시가 그렸다.",
+    "음반은 빌보드 200 2위에 올랐다. 7곡 24분의 짧은 음반이지만, 정신 건강을 숨기지 않고 말하는 힙합의 흐름 속에서 자주 언급된다. 2010년 《My Beautiful Dark Twisted Fantasy》와 이어 들으면 두 사람의 목소리가 10년 사이 어떻게 지쳤다가 다시 일어서는지 들린다."
+   ]
+  },
+  {
+   "id": "astroworld",
+   "heading": "사라진 놀이공원의 롤러코스터",
+   "paras": [
+    "〈STARGAZING〉은 몽롱한 기타와 자동 음정 보정(Auto-Tune)으로 흐려진 목소리로 시작하다가, 곡 중간에 비트가 바뀌어 무거운 트랩으로 돌변한다. 드레이크가 함께한 〈SICKO MODE〉는 5분 남짓한 시간에 비트가 세 번 넘게 바뀌어, 한 곡 안에서 여러 곡을 이어 붙인 듯 들린다. 〈CAROUSEL〉에는 프랭크 오션이, 〈SKELETONS〉에는 테임 임팔라의 케빈 파커와 위켄드가 참여했다. 〈STOP TRYING TO BE GOD〉에서는 스티비 원더가 하모니카를 불고, 〈R.I.P. SCREW〉는 휴스턴 DJ 스크루의 느리게 늘인 소리에 바치는 곡이다.",
+    "제목은 트래비스 스콧이 어린 시절 다녔던 휴스턴의 놀이공원 식스 플래그스 아스트로월드에서 왔다. 이 공원은 2005년 문을 닫고 철거됐다. 그는 음반을 다시 문을 연 놀이공원처럼 꾸몄고, 휴스턴 힙합의 느린 소리와 사이키델릭 록, 트랩을 한데 섞었다.",
+    "음반은 빌보드 200 1위로 데뷔했고, 〈SICKO MODE〉는 빌보드 핫 100 1위에 올랐다. 2021년 그가 연 아스트로월드 페스티벌에서는 관객이 몰려 열 명이 숨지는 참사가 일어났다. 2015년 《Currents》와 2016년 《Blonde》를 함께 들으면 이 음반이 어떤 목소리들을 불러 모았는지 들린다."
+   ]
+  },
+  {
+   "id": "sweetener",
+   "heading": "슬픔 다음에 오는 달콤함",
+   "paras": [
+    "〈raindrops (an angel cried)〉는 반주 없이 아리아나 그란데의 목소리 여러 겹만으로 시작한다. 퍼렐 윌리엄스가 만든 〈the light is coming〉과 〈sweetener〉는 박자가 어긋나는 듯한 드럼과 짧은 음성 샘플로 낯설게 튀고, 〈God is a woman〉은 느리게 꿈틀대는 베이스와 합창으로 커진다. 맥스 마틴과 일리야가 만든 〈no tears left to cry〉는 느린 현악 도입부 뒤 경쾌한 댄스 리듬으로 바뀌며 더는 울지 않겠다고 노래한다. 〈breathin〉은 불안 발작을 겪는 순간을 노래한 신스팝이다.",
+    "2017년 5월 22일 영국 맨체스터 아레나의 그란데 공연이 끝난 직후 자살 폭탄 테러가 일어나 스물두 명이 숨졌다. 그는 2주 뒤 같은 도시에서 자선 공연을 열었다. 마지막 곡 〈get well soon〉은 끝에 40초의 침묵을 붙여 길이를 5분 22초로 맞췄고, 그날을 기억하기 위한 것이라고 알려져 있다.",
+    "음반은 빌보드 200 1위로 데뷔했고, 2019년 그래미에서 그의 첫 그래미인 최우수 팝 보컬 음반상을 받았다. 퍼렐이 2002년 《Justified》에서 보여 준 성긴 비트와 견주어 들으면, 같은 프로듀서가 16년 뒤 팝을 얼마나 낯설게 비틀었는지 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Kids See Ghosts (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kids_See_Ghosts_(album)"
+  },
+  {
+   "title": "Astroworld (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Astroworld_(album)"
+  },
+  {
+   "title": "Sicko Mode · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sicko_Mode"
+  },
+  {
+   "title": "Sweetener (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sweetener_(album)"
+  },
+  {
+   "title": "Manchester Arena bombing · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Manchester_Arena_bombing"
+  }
+ ],
+ "edges": [
+  {
+   "from": "808s",
+   "to": "kids-see-ghosts",
+   "type": "document",
+   "label": "키드 커디가 작곡에 참여한 《808s & Heartbreak》 이후 두 사람의 공동 음반",
+   "source": "https://en.wikipedia.org/wiki/808s_%26_Heartbreak"
+  },
+  {
+   "from": "mbdtf",
+   "to": "kids-see-ghosts",
+   "type": "listen",
+   "label": "두 사람의 목소리가 10년 사이 지쳤다가 다시 일어서는 과정"
+  },
+  {
+   "from": "blonde-ocean",
+   "to": "astroworld",
+   "type": "document",
+   "label": "프랭크 오션이 〈CAROUSEL〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/Astroworld_(album)"
+  },
+  {
+   "from": "currents",
+   "to": "astroworld",
+   "type": "document",
+   "label": "케빈 파커가 〈SKELETONS〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/Astroworld_(album)"
+  },
+  {
+   "from": "bbtm",
+   "to": "astroworld",
+   "type": "document",
+   "label": "위켄드가 〈SKELETONS〉와 〈WAKE UP〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/Astroworld_(album)"
+  },
+  {
+   "from": "justified",
+   "to": "sweetener",
+   "type": "listen",
+   "label": "퍼렐 윌리엄스의 성긴 비트가 16년 뒤 더 낯설게 비튼 팝"
+  }
+ ]
+}

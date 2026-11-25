@@ -1,0 +1,154 @@
+{
+ "date": "2027-03-24",
+ "part": "2017-P1",
+ "year": 2017,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 135분",
+ "title": "문을 연 밴드, 퓰리처를 받은 래퍼, 홀로 선 아이돌",
+ "intro": "2017년 미국에서 힙합과 R&B는 처음으로 록을 제치고 가장 많이 듣는 장르가 됐다. 닐슨의 연말 집계에 따르면 그 해 미국 음악 소비의 중심은 이미 스트리밍이었고, 스트리밍에서 가장 강한 장르가 힙합이었다. 동시에 팝은 아이돌 그룹 출신 가수가 1970년대 록을 꺼내 오는 식으로 과거를 다시 뒤졌다. 오늘은 1월부터 5월까지 나온 세 장, 약 135분이다. 내성적인 소리로 유명했던 디 엑스엑스가 처음으로 밝게 문을 연 음반, 클래식 바깥의 음반으로는 처음 퓰리처상을 받은 켄드릭 라마의 《DAMN.》, 원 디렉션을 떠난 해리 스타일스의 첫 솔로 음반이다. 세 사람 모두 앞선 자기 모습에서 한 발 물러섰다.",
+ "albums": [
+  {
+   "id": "i-see-you",
+   "artist": "The xx",
+   "title": "I See You",
+   "short": "I See You",
+   "released": "2017년 1월",
+   "genre": "인디 팝 · 일렉트로닉",
+   "blurb": "속삭이던 밴드가 제이미 xx의 샘플과 브라스로 처음 밝게 문을 연 디 엑스엑스의 세 번째 음반.",
+   "length": "10곡 · 39분",
+   "spotify": "https://open.spotify.com/album/6Zw6NKh3oIUhDRMOyBmsUU",
+   "apple": "https://music.apple.com/kr/album/1170763548",
+   "top": "Electronic",
+   "sub": "Indie Pop · Electronic Pop"
+  },
+  {
+   "id": "damn",
+   "artist": "Kendrick Lamar",
+   "title": "DAMN.",
+   "short": "DAMN.",
+   "released": "2017년 4월",
+   "genre": "힙합",
+   "blurb": "재즈의 넓은 화폭을 접고 짧고 단단한 비트로 죄와 운명을 물어 퓰리처상을 받은 켄드릭 라마의 네 번째 음반.",
+   "length": "14곡 · 55분",
+   "spotify": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY",
+   "apple": "https://music.apple.com/kr/album/1440881047",
+   "top": "Hip-Hop",
+   "sub": "Conscious Hip-Hop · Trap"
+  },
+  {
+   "id": "harry-styles",
+   "artist": "Harry Styles",
+   "title": "Harry Styles",
+   "short": "Harry Styles",
+   "released": "2017년 5월",
+   "genre": "팝 록 · 소프트 록",
+   "blurb": "원 디렉션을 떠나 1970년대 소프트 록과 글램의 기억을 꺼낸 해리 스타일스의 첫 솔로 음반.",
+   "length": "10곡 · 40분",
+   "spotify": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV",
+   "apple": "https://music.apple.com/kr/album/1226034336",
+   "top": "Rock",
+   "sub": "Soft Rock · Pop Rock"
+  }
+ ],
+ "essays": [
+  {
+   "id": "i-see-you",
+   "heading": "속삭이던 밴드가 문을 열 때",
+   "paras": [
+    "첫 곡 〈Dangerous〉는 팡파르 같은 브라스 샘플과 단단한 하우스 드럼으로 시작한다. 첫 음반에서 텅 빈 방처럼 느리게 울리던 기타와 베이스, 로미 매드리 크로프트와 올리버 심의 속삭이는 듀엣은 그대로지만, 그 둘레를 제이미 xx의 샘플과 비트가 훨씬 넓게 채운다. 〈On Hold〉는 홀 앤 오츠의 〈I Can't Go for That (No Can Do)〉 한 구절을 잘게 잘라 후렴에 얹었고, 〈Say Something Loving〉은 1970년대 소프트 록 곡을 빌려 온 따뜻한 화음 위에서 두 사람이 서로에게 사랑의 말을 청한다. 〈Performance〉는 현악과 크로프트의 목소리만으로 무대 위의 외로움을 노래한다.",
+    "세 사람은 런던 남서부의 같은 학교 출신으로, 2009년 첫 음반 《xx》의 미니멀한 소리로 큰 영향을 남겼다. 그 뒤 제이미 xx는 2015년 솔로 음반 《In Colour》로 댄스 음악 쪽에서 자기 이름을 굳혔고, 밴드는 그 경험을 다시 끌어들였다. 음반은 미국 텍사스의 마파, 아이슬란드 레이캬비크, 로스앤젤레스, 런던 등을 오가며 녹음됐다.",
+    "음반은 영국 차트 1위, 미국 빌보드 200 2위에 올랐다. 비평가들은 이 음반이 앞선 두 장보다 훨씬 덜 내성적이라고 평했다. 2009년 《xx》, 2015년 《In Colour》와 차례로 들으면 침실의 소리가 클럽의 빛을 만나 어떻게 바뀌었는지 들린다."
+   ]
+  },
+  {
+   "id": "damn",
+   "heading": "짧고 단단하게, 운명을 묻다",
+   "paras": [
+    "〈BLOOD.〉에서 켄드릭은 길에서 눈먼 여자를 도우려다 총에 맞는 이야기를 들려주고, 총성과 함께 곧장 〈DNA.〉의 거친 비트로 넘어간다. 마이크 윌 메이드잇이 만든 〈HUMBLE.〉은 몇 음만 되풀이하는 단순한 피아노 리프와 묵직한 베이스로 귀에 박힌다. 〈LOYALTY.〉에서는 리아나와 목소리를 나누고, 〈XXX.〉에서는 사이렌 같은 소리 뒤로 U2가 등장한다. 〈FEAR.〉는 느린 소울 샘플 위에서 일곱 살, 열일곱 살, 스물일곱 살의 두려움을 차례로 돌아보고, 마지막 〈DUCKWORTH.〉는 레이블 사장과 아버지가 오래전 패스트푸드점에서 엇갈린 실화를 들려준다.",
+    "2015년 《To Pimp a Butterfly》는 재즈와 펑크를 엮은 긴 연작이었다. 《DAMN.》은 그보다 짧고 직접적인 트랩과 붐뱁 비트로, 신앙과 죄, 자부심과 겸손 사이에서 흔들리는 한 사람의 마음을 따라간다. 곡 순서를 거꾸로 들어도 이야기가 이어지도록 짰다는 해석이 퍼졌고, 같은 해 12월에는 곡 순서를 뒤집은 판이 나왔다.",
+    "〈HUMBLE.〉은 그가 주인공으로 부른 곡 가운데 처음으로 빌보드 핫 100 1위에 올랐다. 2018년 《DAMN.》은 클래식이나 재즈가 아닌 음반으로는 처음 퓰리처상 음악 부문을 받았다. 2012년 《good kid, m.A.A.d city》부터 세 장을 이어 들으면 콤프턴의 소년이 어떻게 시대의 목소리가 됐는지 들린다."
+   ]
+  },
+  {
+   "id": "harry-styles",
+   "heading": "아이돌이 꺼낸 1970년대",
+   "paras": [
+    "〈Sign of the Times〉는 느린 피아노 화음으로 시작해 5분 40초 동안 천천히 부풀어 오르고, 해리 스타일스는 후반부에서 가성으로 높이 올라간다. 많은 평자가 데이비드 보위나 1970년대 영국 록 발라드를 떠올렸다. 〈Carolina〉와 〈Kiwi〉에서는 거친 기타와 드럼이 롤링 스톤스풍으로 흔들리고, 〈Two Ghosts〉와 〈Sweet Creature〉는 어쿠스틱 기타와 포근한 화음으로 된 소프트 록이다. 〈From the Dining Table〉은 기타 하나와 목소리로 조용히 끝난다.",
+    "스타일스는 2010년 영국 오디션 프로그램에서 만들어진 보이 그룹 원 디렉션의 멤버였다. 2016년 그룹이 활동을 멈춘 뒤, 그는 프로듀서 제프 바스커와 함께 자메이카 포트안토니오 등에서 음반을 녹음했다. 평자들은 이 음반에서 핑크 플로이드와 롤링 스톤스, 1970년대 싱어송라이터의 그림자를 찾아냈다. 신시사이저 팝이 차트를 채우던 때에, 아이돌 출신 가수가 기타 밴드의 소리를 골랐다.",
+    "음반은 영국과 미국에서 모두 1위로 데뷔했다. 그는 이후 성별의 경계를 넘나드는 옷차림과 무대로 새로운 팝스타의 모습을 보여 줬고, 2022년 음반 《Harry's House》로 그래미 올해의 앨범을 받았다. 1972년 《Ziggy Stardust》와 1975년 《Wish You Were Here》를 함께 들으면 그가 어떤 음반들을 뒤졌는지 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "I See You (The xx album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/I_See_You_(The_xx_album)"
+  },
+  {
+   "title": "Damn (Kendrick Lamar album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Damn_(Kendrick_Lamar_album)"
+  },
+  {
+   "title": "Pulitzer Prize for Music · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Pulitzer_Prize_for_Music"
+  },
+  {
+   "title": "Harry Styles (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Harry_Styles_(album)"
+  },
+  {
+   "title": "Sign of the Times (Harry Styles song) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sign_of_the_Times_(Harry_Styles_song)"
+  }
+ ],
+ "edges": [
+  {
+   "from": "xx",
+   "to": "i-see-you",
+   "type": "document",
+   "label": "《xx》 이후 디 엑스엑스의 세 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/I_See_You_(The_xx_album)"
+  },
+  {
+   "from": "in-colour",
+   "to": "i-see-you",
+   "type": "document",
+   "label": "제이미 xx가 솔로 음반의 샘플 방식을 밴드로 가져옴",
+   "source": "https://en.wikipedia.org/wiki/I_See_You_(The_xx_album)"
+  },
+  {
+   "from": "tpab",
+   "to": "damn",
+   "type": "document",
+   "label": "《To Pimp a Butterfly》 다음 켄드릭 라마의 네 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/Damn_(Kendrick_Lamar_album)"
+  },
+  {
+   "from": "anti-rihanna",
+   "to": "damn",
+   "type": "document",
+   "label": "리아나가 〈LOYALTY.〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/Damn_(Kendrick_Lamar_album)"
+  },
+  {
+   "from": "joshua-tree",
+   "to": "damn",
+   "type": "document",
+   "label": "U2가 〈XXX.〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/Damn_(Kendrick_Lamar_album)"
+  },
+  {
+   "from": "ziggy",
+   "to": "harry-styles",
+   "type": "listen",
+   "label": "〈Sign of the Times〉의 보위풍 록 발라드"
+  },
+  {
+   "from": "wish-you-were-here",
+   "to": "harry-styles",
+   "type": "listen",
+   "label": "부드러운 기타와 긴 호흡으로 이어지는 1970년대 영국 록의 질감"
+  }
+ ]
+}

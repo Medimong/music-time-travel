@@ -1,0 +1,127 @@
+{
+ "date": "2027-04-03",
+ "part": "2020-P2",
+ "year": 2020,
+ "partNo": 2,
+ "partTotal": 3,
+ "total": "약 130분",
+ "title": "닫힌 클럽의 디스코, 잠긴 집의 볼트 커터, 세상의 끝",
+ "intro": "2020년 봄과 초여름, 세계 곳곳에서 사람들이 집 안에 갇혔다. 클럽은 문을 닫았지만 춤추고 싶은 마음은 남았고, 집은 피난처이자 감옥이 됐다. 5월 미국 미니애폴리스에서 조지 플로이드가 경찰에게 목을 눌려 숨지자 거리 시위가 전 세계로 번졌다. 오늘은 3월부터 6월까지 나온 세 장, 약 130분이다. 문 닫은 클럽을 위한 듀아 리파의 디스코 음반, 집에서 냄비와 의자를 두드리며 녹음한 피오나 애플의 음반, 세상의 끝을 조용히 상상한 피비 브리저스의 음반이다. 세 음반 모두 갇힌 시간을 견디는 서로 다른 방법을 들려준다. 춤추거나, 두드리거나, 소리 지르는 방법이다.",
+ "albums": [
+  {
+   "id": "future-nostalgia",
+   "artist": "Dua Lipa",
+   "title": "Future Nostalgia",
+   "short": "Future Nostalgia",
+   "released": "2020년 3월",
+   "genre": "디스코 · 댄스 팝",
+   "blurb": "1970년대 디스코와 1980년대 신스팝을 반짝이는 댄스 팝으로 되살려 봉쇄된 세계의 춤판이 된 듀아 리파의 두 번째 음반.",
+   "length": "1–11곡 · 37분",
+   "spotify": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI",
+   "apple": "https://music.apple.com/kr/album/1538003494",
+   "top": "Disco",
+   "sub": "Nu-Disco · Dance-Pop"
+  },
+  {
+   "id": "fetch-bolt-cutters",
+   "artist": "Fiona Apple",
+   "title": "Fetch The Bolt Cutters",
+   "short": "Fetch The Bolt Cutters",
+   "released": "2020년 4월",
+   "genre": "아트 팝 · 싱어송라이터",
+   "blurb": "집 안의 물건을 두드려 만든 타악기와 거친 목소리로 갇힌 삶에서 벗어나자고 외친 피오나 애플의 8년 만의 음반.",
+   "length": "13곡 · 52분",
+   "spotify": "https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj",
+   "apple": "https://music.apple.com/kr/album/1507811635",
+   "top": "Folk / Singer-Songwriter",
+   "sub": "Art Pop · Experimental Pop"
+  },
+  {
+   "id": "punisher",
+   "artist": "Phoebe Bridgers",
+   "title": "Punisher",
+   "short": "Punisher",
+   "released": "2020년 6월",
+   "genre": "인디 포크 · 인디 록",
+   "blurb": "속삭이는 목소리와 기타로 우울과 상실을 노래하다 마지막에 세상의 끝을 외친 피비 브리저스의 두 번째 음반.",
+   "length": "11곡 · 41분",
+   "spotify": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH",
+   "apple": "https://music.apple.com/kr/album/1504699857",
+   "top": "Folk / Singer-Songwriter",
+   "sub": "Indie Folk · Indie Rock"
+  }
+ ],
+ "essays": [
+  {
+   "id": "future-nostalgia",
+   "heading": "문 닫은 클럽을 위한 디스코",
+   "paras": [
+    "제목곡 〈Future Nostalgia〉는 통통 튀는 신시사이저 베이스와 손뼉으로 시작해, 듀아 리파가 낮고 굵은 목소리로 자신만만하게 노래한다. 〈Don't Start Now〉는 디스코의 쉼 없는 베이스 라인과 현악, 하우스 음악의 피아노로 이별 뒤에 다시 춤추는 노래이고, 〈Physical〉은 1981년 올리비아 뉴턴존의 같은 제목 노래를 떠올리게 하는 1980년대 에어로빅 팝이다. 〈Levitating〉은 반짝이는 신시사이저와 디스코 기타로 하늘을 나는 사랑을 그리고, 〈Break My Heart〉는 인엑시스의 〈Need You Tonight〉 기타 리프를 빌려 온다.",
+    "리파는 코소보 알바니아계 부모 사이에서 런던에서 태어났다. 2017년 첫 음반의 〈New Rules〉로 스타가 됐고, 두 번째 음반에서는 처음부터 디스코와 1980년대 팝을 오늘의 소리로 다시 만드는 콘셉트를 세웠다. 음반은 원래 4월에 나올 예정이었지만, 음원이 유출되자 봉쇄가 시작된 3월 말로 앞당겨졌다.",
+    "음반은 영국 차트 1위에 올랐고, 2021년 그래미에서 최우수 팝 보컬 음반상을 받았다. 〈Levitating〉은 2021년 빌보드 연말 핫 100 1위 곡이 됐다. 1978년 시크의 《C'est Chic》와 2005년 마돈나의 《Confessions on a Dance Floor》 사이에 놓고 들으면, 디스코가 40년 동안 어떻게 되살아나 왔는지 들린다."
+   ]
+  },
+  {
+   "id": "fetch-bolt-cutters",
+   "heading": "집 안을 두드려 만든 탈출",
+   "paras": [
+    "〈I Want You to Love Me〉는 피아노와 낮은 노래로 시작해 끝에서 피오나 애플의 목소리가 돌고래 소리처럼 높이 비명을 지른다. 〈Shameika〉는 쿵쾅대는 피아노와 드럼으로, 중학교 시절 너에게는 가능성이 있다고 말해 준 친구를 떠올린다. 〈Fetch the Bolt Cutters〉에서는 집 안의 물건을 두드리는 소리와 박수, 목소리가 박자를 이루고, 곡 끝에는 개 짖는 소리가 남아 있다. 〈Under the Table〉은 점잖은 저녁 모임에서 입 다물지 않겠다고 노래하고, 〈For Her〉는 여러 목소리의 구호처럼 성폭력 피해자의 이야기를 외친다.",
+    "애플은 1996년 열여덟 살에 데뷔했고, 2012년 이후 8년 동안 새 음반을 내지 않았다. 그는 이 음반의 대부분을 로스앤젤레스 베니스 비치의 집에서 녹음했다. 드러머 에이미 에일린 우드 등 밴드와 함께 의자, 냄비, 벽 같은 집 안의 물건을 타악기로 썼다. 제목은 영국 드라마 〈더 폴〉에서 질리언 앤더슨이 연기한 형사가 갇힌 여성을 구하러 들어가며 하는 말에서 따 왔다.",
+    "음반은 봉쇄가 한창이던 4월 17일에 나왔다. 피치포크는 새 음반으로는 2010년 《My Beautiful Dark Twisted Fantasy》 이후 처음으로 만점을 줬다. 2021년 그래미에서 최우수 얼터너티브 음반상과, 〈Shameika〉로 최우수 록 퍼포먼스상을 받았다. 1983년 톰 웨이츠의 《Swordfishtrombones》와 이어 들으면, 손에 잡히는 물건을 악기로 삼는 방식의 계보가 들린다."
+   ]
+  },
+  {
+   "id": "punisher",
+   "heading": "세상의 끝을 상상하는 법",
+   "paras": [
+    "〈Garden Song〉은 흐리게 울리는 기타와 속삭이는 목소리로 어린 시절의 꿈과 악몽을 함께 노래한다. 〈Kyoto〉는 밝은 브라스와 빠른 드럼으로 일본 투어 중 아버지에게 걸려 온 전화를 떠올리는 곡이고, 〈Punisher〉는 피아노와 느린 기타 위에서 엘리엇 스미스의 옛집 근처를 서성이는 팬의 마음을 그린다. 펀셔는 대화를 놓아주지 않는 지루한 팬을 뜻하는 말이다. 마지막 〈I Know the End〉는 조용한 기타로 시작해 브라스와 드럼이 점점 커지고, 끝에서 브리저스와 친구들이 목이 터지도록 소리 지르며 끝난다.",
+    "브리저스는 로스앤젤레스 패서디나에서 자랐고, 2017년 첫 음반 《Stranger in the Alps》로 이름을 알렸다. 그 뒤 줄리언 베이커, 루시 데이커스와 함께 보이지니어스를, 코너 오버스트와 함께 베터 오블리비언 커뮤니티 센터를 결성했다. 이 음반은 토니 버그, 이선 그루스카와 함께 만들었다. 우울과 상실을 담담하게 말하는 가사, 해골 무늬 잠옷 같은 무대 의상이 젊은 청중의 마음을 붙잡았다.",
+    "음반은 봉쇄가 이어지던 6월에 나왔고, 2021년 그래미에서 최우수 신인상을 포함한 네 개 부문 후보에 올랐다. 2015년 수프얀 스티븐스의 《Carrie & Lowell》과 이어 들으면 속삭이는 목소리로 슬픔을 다루는 인디 포크의 계보가 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Future Nostalgia · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Future_Nostalgia"
+  },
+  {
+   "title": "Fetch the Bolt Cutters · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fetch_the_Bolt_Cutters"
+  },
+  {
+   "title": "Punisher (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Punisher_(album)"
+  },
+  {
+   "title": "Impact of the COVID-19 pandemic on the music industry · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Impact_of_the_COVID-19_pandemic_on_the_music_industry"
+  }
+ ],
+ "edges": [
+  {
+   "from": "cest-chic",
+   "to": "future-nostalgia",
+   "type": "listen",
+   "label": "쉼 없이 걷는 디스코 베이스 라인과 현악"
+  },
+  {
+   "from": "confessions-dance",
+   "to": "future-nostalgia",
+   "type": "listen",
+   "label": "디스코를 오늘의 댄스 팝으로 되살린 계보"
+  },
+  {
+   "from": "swordfishtrombones",
+   "to": "fetch-bolt-cutters",
+   "type": "listen",
+   "label": "손에 잡히는 물건을 타악기로 삼는 녹음"
+  },
+  {
+   "from": "carrie-lowell",
+   "to": "punisher",
+   "type": "listen",
+   "label": "속삭이는 목소리로 슬픔을 다루는 인디 포크"
+  }
+ ]
+}

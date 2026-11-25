@@ -1,0 +1,122 @@
+{
+ "date": "2027-03-30",
+ "part": "2019-P1",
+ "year": 2019,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 127분",
+ "title": "고맙다는 작별, 침실의 속삭임, 물에 잠긴 방",
+ "intro": "2019년의 팝은 침실과 휴대전화에서 만들어졌다. 그 해 봄 릴 나스 엑스의 〈Old Town Road〉는 짧은 영상 앱 틱톡에서 먼저 퍼진 뒤 빌보드 핫 100에서 19주 동안 1위를 지켜 기록을 새로 썼다. 비싼 스튜디오보다 집에서 녹음한 소리가, 다듬은 고백보다 날것의 속마음이 더 멀리 갔다. 오늘은 2월부터 4월까지 나온 세 장, 약 127분이다. 슬픔 속에서 몇 주 만에 만든 아리아나 그란데의 《thank u, next》, 오빠의 침실에서 녹음한 빌리 아일리시의 데뷔 음반, 1970년대 소프트 록의 화음으로 기후 위기 시대의 불안을 노래한 와이스 블러드의 《Titanic Rising》이다.",
+ "albums": [
+  {
+   "id": "thank-u-next",
+   "artist": "Ariana Grande",
+   "title": "thank u, next",
+   "short": "thank u, next",
+   "released": "2019년 2월",
+   "genre": "팝 · R&B",
+   "blurb": "이별과 옛 연인의 죽음을 겪은 뒤 친구들과 몇 주 만에 만들어 작별에 고맙다고 말한 아리아나 그란데의 다섯 번째 음반.",
+   "length": "12곡 · 41분",
+   "spotify": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw",
+   "apple": "https://music.apple.com/kr/album/1450330588",
+   "top": "Pop / Art Pop",
+   "sub": "Pop · Trap-Pop"
+  },
+  {
+   "id": "wwafawdwg",
+   "artist": "Billie Eilish",
+   "title": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+   "short": "When We All Fall Asleep",
+   "released": "2019년 3월",
+   "genre": "일렉트로팝 · 얼터너티브",
+   "blurb": "열일곱 살 빌리 아일리시가 오빠 피니어스의 침실에서 속삭임과 깊은 저음으로 녹음해 그래미 주요 네 부문을 휩쓴 데뷔 음반.",
+   "length": "14곡 · 43분",
+   "spotify": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh",
+   "apple": "https://music.apple.com/kr/album/1450695723",
+   "top": "Pop / Art Pop",
+   "sub": "Electropop · Bedroom Pop"
+  },
+  {
+   "id": "titanic-rising",
+   "artist": "Weyes Blood",
+   "title": "Titanic Rising",
+   "short": "Titanic Rising",
+   "released": "2019년 4월",
+   "genre": "바로크 팝 · 소프트 록",
+   "blurb": "1970년대 소프트 록의 현악과 화음으로 기후 위기와 외로움의 시대를 노래한 와이스 블러드의 네 번째 음반.",
+   "length": "10곡 · 43분",
+   "spotify": "https://open.spotify.com/album/53VKICyqCf91sVkTdFrzKX",
+   "apple": "https://music.apple.com/kr/album/1450550344",
+   "top": "Folk / Singer-Songwriter",
+   "sub": "Baroque Pop · Soft Rock"
+  }
+ ],
+ "essays": [
+  {
+   "id": "thank-u-next",
+   "heading": "고맙다는 말로 하는 작별",
+   "paras": [
+    "〈imagine〉은 느린 트랩 비트와 부드러운 화음 위에서 아리아나 그란데가 휘파람 같은 최고음까지 올라가며 시작한다. 〈7 rings〉는 뮤지컬 〈사운드 오브 뮤직〉의 〈My Favorite Things〉 선율을 빌려 와, 친구들과 다이아몬드 반지를 사러 간 날의 이야기를 랩에 가까운 말투로 노래한다. 〈ghostin〉은 목소리 여러 겹과 신시사이저만으로 된 조용한 곡으로, 지금의 연인 곁에서 죽은 옛 연인을 그리워하는 마음을 담았다. 제목곡 〈thank u, next〉는 옛 연인들의 이름을 하나씩 불러 고맙다고 말하며 다음으로 넘어간다.",
+    "2018년 9월 옛 연인이자 래퍼인 맥 밀러가 약물 과다 복용으로 세상을 떠났고, 10월에는 코미디언 피트 데이비슨과의 약혼이 깨졌다. 그란데는 《Sweetener》를 낸 지 반년도 안 돼 친구인 작곡가들과 모여 몇 주 만에 이 음반을 만들었다. 프로듀서는 맥스 마틴, 일리야, 토미 브라운 등이다.",
+    "〈thank u, next〉와 〈7 rings〉는 각각 빌보드 핫 100 1위에 올랐고, 음반 발매 직후 그란데는 핫 100 1위부터 3위까지를 혼자 차지했다. 1964년 비틀스 이후 처음 있는 일이었다. 반년 전 《Sweetener》와 이어 들으면, 같은 사람이 슬픔을 지나 홀가분해지기까지의 시간이 들린다."
+   ]
+  },
+  {
+   "id": "wwafawdwg",
+   "heading": "침실에서 시작된 악몽",
+   "paras": [
+    "〈!!!!!!!〉은 치아 교정기를 빼며 웃는 짧은 소리로 시작하고, 곧바로 〈bad guy〉의 손가락 튕기는 소리와 꿈틀대는 저음 신시사이저가 들어온다. 빌리 아일리시는 거의 속삭이듯 노래하고, 곡 끝에서는 비트가 갑자기 느리고 무겁게 바뀐다. 〈xanny〉는 재즈 발라드 같은 화음 위로 일그러진 저음이 끼어들며 약물에 취한 친구들을 지켜보는 마음을 그린다. 〈bury a friend〉는 치과 드릴 소리와 속삭임으로 침대 밑 괴물의 시점을 노래하고, 〈when the party's over〉는 피아노와 겹겹이 쌓은 목소리만으로 조용히 무너진다.",
+    "아일리시는 로스앤젤레스의 집에서 홈스쿨링을 받으며 자랐고, 열세 살 때 오빠 피니어스 오코넬과 만든 〈Ocean Eyes〉를 사운드클라우드에 올려 이름을 알렸다. 이 음반은 두 사람이 집 안의 작은 침실에서 녹음했다. 공포 영화와 악몽의 이미지, 우울과 불안에 관한 솔직한 가사가 또래 청소년들의 마음을 움직였다.",
+    "음반은 빌보드 200 1위로 데뷔했고, 〈bad guy〉는 〈Old Town Road〉의 19주 1위 행진을 끝내고 정상에 올랐다. 2020년 그래미에서 아일리시는 올해의 앨범, 레코드, 노래, 신인상 네 부문을 모두 받았다. 1981년 크리스토퍼 크로스 이후 처음이었고, 열여덟 살로 올해의 앨범을 받은 가장 어린 가수였다. 2013년 로드의 《Pure Heroine》과 이어 들으면 10대가 직접 만든 팝의 계보가 들린다."
+   ]
+  },
+  {
+   "id": "titanic-rising",
+   "heading": "가라앉는 세계의 소프트 록",
+   "paras": [
+    "〈A Lot's Gonna Change〉는 느린 피아노와 현악 위로 나탈리 메링이 깊고 맑은 목소리로 많은 것이 바뀔 거라고 노래하며 시작한다. 그의 목소리는 카펜터스의 캐런 카펜터에 자주 비교된다. 〈Andromeda〉는 흔들리는 스틸 기타와 느린 드럼으로 사랑을 찾기 어려운 마음을 그리고, 〈Everyday〉는 1970년대 캘리포니아 팝처럼 밝은 피아노와 합창으로 달린다. 〈Movies〉는 신시사이저 아르페지오가 천천히 차오르다 현악이 크게 펼쳐지는 곡으로, 영화 속 인생을 동경하는 마음을 노래한다.",
+    "메링은 캘리포니아에서 태어나 펜실베이니아에서 자랐고, 젊은 시절에는 실험적인 노이즈 음악을 했다. 이 음반에서 그는 1970년대 소프트 록과 바로크 팝의 화려한 편곡을 빌려 와, 기후 변화와 기술 시대의 외로움을 노래했다. 표지는 물에 잠긴 침실에서 메링이 떠다니는 장면을 실제 수조에서 찍은 사진이다. 프로듀서 조너선 라도가 함께했고, 서브 팝에서 나왔다.",
+    "비평가들은 이 음반을 2019년 최고의 음반 가운데 하나로 꼽았다. 거창한 현악과 차분한 목소리로 종말의 기분을 노래하는 방식은, 몇 달 뒤 나온 라나 델 레이의 《Norman Fucking Rockwell!》과 나란히 거론됐다. 1971년 캐럴 킹의 《Tapestry》와 이어 들으면, 같은 피아노 화음이 48년 뒤 어떤 불안을 담게 됐는지 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Thank U, Next (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Thank_U,_Next_(album)"
+  },
+  {
+   "title": "When We All Fall Asleep, Where Do We Go? · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/When_We_All_Fall_Asleep,_Where_Do_We_Go%3F"
+  },
+  {
+   "title": "Old Town Road · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Old_Town_Road"
+  },
+  {
+   "title": "Titanic Rising · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Titanic_Rising"
+  }
+ ],
+ "edges": [
+  {
+   "from": "sweetener",
+   "to": "thank-u-next",
+   "type": "document",
+   "label": "《Sweetener》 반년 뒤 나온 아리아나 그란데의 다섯 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/Thank_U,_Next_(album)"
+  },
+  {
+   "from": "pure-heroine",
+   "to": "wwafawdwg",
+   "type": "listen",
+   "label": "10대가 직접 만든 미니멀한 팝의 계보"
+  },
+  {
+   "from": "tapestry",
+   "to": "titanic-rising",
+   "type": "listen",
+   "label": "1970년대 피아노 싱어송라이터의 화음"
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "date": "2027-03-31",
+ "part": "2019-P2",
+ "year": 2019,
+ "partNo": 2,
+ "partTotal": 3,
+ "total": "약 135분",
+ "title": "플루트를 든 자기애, 금발 가발의 사랑, 내 것이 된 연인",
+ "intro": "2019년 봄과 여름, 세 음악가는 사랑을 전혀 다른 방식으로 노래했다. 스스로를 사랑하라고 외친 리조, 사랑에 빠졌다 버림받은 인물을 연기한 타일러 더 크리에이터, 처음으로 자기 음원을 소유하게 된 레이블에서 사랑 노래를 가득 채운 테일러 스위프트다. 그해 여름 테일러가 예전 음반사와 벌인 원본 녹음 소유권 다툼은 음악가의 권리에 관한 큰 논쟁이 됐다. 오늘은 4월부터 8월까지 나온 세 장, 약 135분이다. 리조의 《Cuz I Love You》, 타일러의 《IGOR》, 테일러 스위프트의 《Lover》다. 셋 모두 사랑 노래지만 그 사랑이 향하는 곳은 전혀 다르다.",
+ "albums": [
+  {
+   "id": "cuz-i-love-you",
+   "artist": "Lizzo",
+   "title": "Cuz I Love You",
+   "short": "Cuz I Love You",
+   "released": "2019년 4월",
+   "genre": "팝 · 소울 · 펑크",
+   "blurb": "클래식 플루트 연주자 출신 리조가 가스펠 같은 목청과 펑크 리듬으로 자기 몸과 자신을 사랑하자고 외친 메이저 데뷔 음반.",
+   "length": "11곡 · 33분",
+   "spotify": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL",
+   "apple": "https://music.apple.com/kr/album/1452318774",
+   "top": "Soul / R&B",
+   "sub": "Pop Soul · Funk-Pop"
+  },
+  {
+   "id": "igor",
+   "artist": "Tyler, The Creator",
+   "title": "IGOR",
+   "short": "IGOR",
+   "released": "2019년 5월",
+   "genre": "네오 소울 · 힙합",
+   "blurb": "금발 가발을 쓴 인물 이고르로 사랑의 시작과 끝을 노래해 랩보다 노래가 많은데도 그래미 최우수 랩 음반상을 받은 음반.",
+   "length": "12곡 · 40분",
+   "spotify": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE",
+   "apple": "https://music.apple.com/kr/album/1463409338",
+   "top": "Hip-Hop",
+   "sub": "Neo Soul · Alternative Hip-Hop"
+  },
+  {
+   "id": "lover",
+   "artist": "Taylor Swift",
+   "title": "Lover",
+   "short": "Lover",
+   "released": "2019년 8월",
+   "genre": "팝 · 신스팝",
+   "blurb": "원본 녹음을 처음으로 직접 소유하게 된 음반사에서 낸, 밝고 다정한 사랑 노래 열여덟 곡의 테일러 스위프트 일곱 번째 음반.",
+   "length": "18곡 · 62분",
+   "spotify": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq",
+   "apple": "https://music.apple.com/kr/album/1468058165",
+   "top": "Pop / Art Pop",
+   "sub": "Synth-Pop · Pop"
+  }
+ ],
+ "essays": [
+  {
+   "id": "cuz-i-love-you",
+   "heading": "플루트를 든 자기애",
+   "paras": [
+    "첫 곡 〈Cuz I Love You〉는 웅장한 브라스와 현악 위로 리조가 가스펠 가수처럼 목청껏 소리 지르며 시작한다. 〈Juice〉는 1980년대 펑크와 디스코를 떠올리게 하는 통통 튀는 베이스와 신시사이저 위에서 자기 매력을 뽐내는 노래이고, 〈Tempo〉에서는 미시 엘리엇과 함께 큰 몸으로 천천히 춤추는 즐거움을 노래한다. 〈Jerome〉은 1960년대 소울 발라드처럼 느리게 흐르며 철없는 연인에게 작별을 고한다. 리조는 노래와 랩을 오가고, 몇몇 곡에서는 직접 플루트를 분다.",
+    "멀리사 제퍼슨은 디트로이트에서 태어나 휴스턴에서 자랐고, 대학에서 클래식 플루트를 공부했다. 이후 미니애폴리스의 인디 음악계에서 활동했고, 프린스의 음반에 참여하기도 했다. 2017년에 낸 〈Truth Hurts〉는 처음에는 크게 주목받지 못했지만, 2019년 넷플릭스 영화 〈섬원 그레이트〉에 쓰이고 틱톡에서 퍼지며 뒤늦게 빌보드 핫 100 1위에 올랐다. 이 곡은 디럭스판에 실렸다.",
+    "2020년 그래미에서 음반은 최우수 어반 컨템퍼러리 음반상을 받았고, 리조는 그 해 가장 많은 후보에 오른 음악가였다. 큰 몸과 자기 사랑을 당당하게 드러내는 그의 모습은 그 자체로 상징이 됐다. 1997년 《Supa Dupa Fly》의 미시 엘리엇과 이어 들으면, 한 세대 차이의 두 여성이 함께 만든 자신감이 들린다."
+   ]
+  },
+  {
+   "id": "igor",
+   "heading": "금발 가발을 쓴 사랑의 연대기",
+   "paras": [
+    "〈IGOR'S THEME〉는 낮게 일그러진 신시사이저와 드럼으로 문을 열고, 〈EARFQUAKE〉는 따뜻한 건반 화음 위로 타일러가 가늘게 변조한 목소리로 떠나지 말라고 노래하다 플레이보이 카티의 랩이 끼어든다. 〈I THINK〉는 빠른 펑크 리듬으로 사랑에 빠진 순간의 들뜬 기분을 그리고, 〈NEW MAGIC WAND〉는 터질 듯 일그러진 신시사이저로 질투와 집착을 소리친다. 〈GONE, GONE / THANK YOU〉에서는 이별을 받아들이며 고맙다고 말하고, 마지막 〈ARE WE STILL FRIENDS?〉는 친구로 남을 수 있느냐고 묻는다.",
+    "타일러는 음반 전체를 직접 작곡하고 편곡하고 프로듀스했다. 그는 금발 단발 가발과 파스텔 정장을 입은 인물 이고르를 내세워, 다른 사람에게 마음이 남은 남자를 사랑하다 떠나보내는 이야기를 들려준다. 그는 〈EARFQUAKE〉를 원래 저스틴 비버나 리아나를 위해 썼다고 밝혔다. 랩은 줄고 노래와 신시사이저 화음이 앞에 섰다.",
+    "음반은 타일러의 첫 빌보드 200 1위가 됐고, 2020년 그래미에서 최우수 랩 음반상을 받았다. 그는 수상 소감에서 흑인 음악가의 장르를 넘는 음악이 랩이나 어반으로 분류되는 현실을 비판했다. 2017년 《Flower Boy》와 이어 들으면, 외로움을 털어놓던 소년이 사랑의 처음과 끝을 한 편의 이야기로 짜게 된 과정이 들린다."
+   ]
+  },
+  {
+   "id": "lover",
+   "heading": "내 것이 된 노래들",
+   "paras": [
+    "〈I Forgot That You Existed〉는 손가락 튕기는 소리와 피아노로 가볍게 옛 다툼을 털어 버리며 시작한다. 〈Cruel Summer〉는 일그러진 신시사이저와 쿵쿵대는 드럼 위로 여름의 비밀 연애를 숨 가쁘게 노래하고, 브리지에서 목소리가 고함처럼 터진다. 제목곡 〈Lover〉는 느리게 흔들리는 기타와 드럼으로 된 결혼식 왈츠 같은 노래이고, 〈The Archer〉는 낮게 맥박치는 신시사이저 위에서 자기 불안을 고백한다. 〈Soon You'll Get Better〉는 딕시 칙스의 밴조와 화음 위로 암 투병 중인 어머니에게 건네는 노래다.",
+    "테일러는 데뷔 때부터 함께한 빅 머신 레코드와의 계약을 끝내고 유니버설 산하 리퍼블릭 레코드로 옮겨, 처음으로 원본 녹음을 직접 소유하게 됐다. 2019년 6월 빅 머신이 매니저 스쿠터 브라운의 회사에 팔리면서 그의 앞선 여섯 장의 원본도 함께 넘어가자, 테일러는 공개적으로 반발했다. 이 다툼은 2021년부터 앞선 음반들을 새로 녹음해 다시 내는 계획으로 이어졌다.",
+    "음반은 빌보드 200 1위로 데뷔했다. 〈Cruel Summer〉는 발매 당시 싱글로 밀리지 못했지만, 2023년 투어를 계기로 다시 떠올라 빌보드 핫 100 1위에 올랐다. 2017년 《reputation》의 어두운 갑옷을 벗고, 《1989》의 밝은 색깔로 돌아간 음반으로 들으면 좋다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Cuz I Love You · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cuz_I_Love_You"
+  },
+  {
+   "title": "Truth Hurts (Lizzo song) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Truth_Hurts_(Lizzo_song)"
+  },
+  {
+   "title": "Igor (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Igor_(album)"
+  },
+  {
+   "title": "Lover (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lover_(album)"
+  },
+  {
+   "title": "Taylor Swift masters dispute · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Taylor_Swift_masters_dispute"
+  }
+ ],
+ "edges": [
+  {
+   "from": "supa-dupa-fly",
+   "to": "cuz-i-love-you",
+   "type": "document",
+   "label": "미시 엘리엇이 〈Tempo〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/Cuz_I_Love_You"
+  },
+  {
+   "from": "flower-boy",
+   "to": "igor",
+   "type": "document",
+   "label": "《Flower Boy》 다음 타일러 더 크리에이터의 다섯 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/Igor_(album)"
+  },
+  {
+   "from": "reputation",
+   "to": "lover",
+   "type": "document",
+   "label": "《reputation》 다음 테일러 스위프트의 일곱 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/Lover_(album)"
+  },
+  {
+   "from": "ts-1989",
+   "to": "lover",
+   "type": "listen",
+   "label": "어두운 갑옷을 벗고 돌아간 밝은 신스팝"
+  }
+ ]
+}

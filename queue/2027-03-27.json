@@ -1,0 +1,126 @@
+{
+ "date": "2027-03-27",
+ "part": "2018-P1",
+ "year": 2018,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 138분",
+ "title": "황금빛 컨트리, 브롱크스의 여왕, 서울에서 온 일곱 명",
+ "intro": "2018년 봄, 미국 차트 꼭대기에는 이전에 상상하기 어려웠던 이름들이 올랐다. 내슈빌의 이단아는 디스코와 보코더로 컨트리를 넓혔고, 스트리퍼 출신 리얼리티 스타는 랩 음반으로 그래미를 받았으며, 서울의 아이돌 그룹은 영어가 아닌 노래로 빌보드 200 1위에 올랐다. 스트리밍과 유튜브, 팬들의 소셜미디어 조직력이 라디오와 음반사의 문지기 역할을 빠르게 대신하던 때였다. 오늘은 3월부터 5월까지 나온 세 장, 약 138분이다. 케이시 머스그레이브스의 《Golden Hour》, 카디 비의 《Invasion of Privacy》, 방탄소년단의 《LOVE YOURSELF 轉 'Tear'》다.",
+ "albums": [
+  {
+   "id": "golden-hour",
+   "artist": "Kacey Musgraves",
+   "title": "Golden Hour",
+   "short": "Golden Hour",
+   "released": "2018년 3월",
+   "genre": "컨트리 팝",
+   "blurb": "사랑에 빠진 시간을 디스코와 보코더, 소프트 록으로 물들여 그래미 올해의 앨범을 받은 케이시 머스그레이브스의 네 번째 음반.",
+   "length": "13곡 · 46분",
+   "spotify": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c",
+   "apple": "https://music.apple.com/kr/album/1440918116",
+   "top": "Folk / Singer-Songwriter",
+   "sub": "Country Pop · Cosmic Country"
+  },
+  {
+   "id": "invasion",
+   "artist": "Cardi B",
+   "title": "Invasion of Privacy",
+   "short": "Invasion of Privacy",
+   "released": "2018년 4월",
+   "genre": "힙합",
+   "blurb": "〈Bodak Yellow〉와 〈I Like It〉으로 차트를 휩쓸고 여성 솔로 래퍼로는 처음 그래미 최우수 랩 음반상을 받은 카디 비의 데뷔 음반.",
+   "length": "13곡 · 48분",
+   "spotify": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML",
+   "apple": "https://music.apple.com/kr/album/1368156323",
+   "top": "Hip-Hop",
+   "sub": "Trap · Latin Trap"
+  },
+  {
+   "id": "bts-tear",
+   "artist": "BTS",
+   "title": "LOVE YOURSELF 轉 'Tear'",
+   "short": "Tear",
+   "released": "2018년 5월",
+   "genre": "K팝 · 힙합",
+   "blurb": "이별의 슬픔을 이모 힙합과 트랩으로 그려 한국 가수로는 처음 빌보드 200 1위에 오른 방탄소년단의 세 번째 정규 음반.",
+   "length": "11곡 · 44분",
+   "spotify": "https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O",
+   "apple": "https://music.apple.com/kr/album/1598660934",
+   "top": "Pop / Art Pop",
+   "sub": "K-Pop · Emo Rap"
+  }
+ ],
+ "essays": [
+  {
+   "id": "golden-hour",
+   "heading": "사랑에 빠진 내슈빌",
+   "paras": [
+    "〈Slow Burn〉은 손가락으로 튕기는 어쿠스틱 기타와 멀리서 울리는 스틸 기타로 천천히 문을 연다. 〈Butterflies〉와 〈Golden Hour〉에서는 컨트리의 기타 위로 1970년대 소프트 록 같은 부드러운 건반과 화음이 겹친다. 〈Oh, What a World〉는 보코더(Vocoder, 목소리를 신시사이저로 변조하는 장치)로 바꾼 목소리가 밴조와 함께 흐르고, 〈High Horse〉는 아예 디스코 리듬과 현악으로 달린다. 마지막 〈Rainbow〉는 피아노 하나로 조용히 위로를 건넨다.",
+    "머스그레이브스는 텍사스 작은 마을 출신으로, 2013년 데뷔 음반에서 동성애와 마리화나를 거리낌 없이 노래해 보수적인 컨트리 라디오와 부딪혔다. 이 음반은 남편 러스턴 켈리를 만나 사랑에 빠진 시기에 썼고, 프로듀서 대니얼 태시언, 이언 피처크와 함께 만들었다. 그는 몇몇 곡을 환각제를 경험한 날 썼다고 직접 밝혔다. 컨트리 라디오에서는 크게 틀어 주지 않았지만, 팝과 인디 청중이 이 음반을 먼저 받아들였다.",
+    "2019년 그래미에서 음반은 올해의 앨범과 최우수 컨트리 음반을 포함해 네 개 부문을 받았다. 1977년 《Rumours》의 부드러운 화음과 이어 들으면, 컨트리의 소리가 어떻게 캘리포니아 소프트 록과 디스코 쪽으로 넓어졌는지 들린다."
+   ]
+  },
+  {
+   "id": "invasion",
+   "heading": "브롱크스에서 차트 꼭대기로",
+   "paras": [
+    "〈Get Up 10〉은 웅장한 피아노와 현악 위로 카디 비가 쉬지 않고 랩을 쏟으며 자기 인생을 요약한다. 〈Bodak Yellow〉는 낮게 깔린 베이스와 단순한 신시사이저 위로 브롱크스 억양을 살린 거친 랩이 귀에 박히는 곡이다. 〈I Like It〉은 1967년 피트 로드리게스의 부갈루 곡 〈I Like It Like That〉을 빌려 와 배드 버니, 제이 발빈과 함께 스페인어와 영어를 섞는다. 〈Be Careful〉에서는 로린 힐의 〈Ex-Factor〉를 빌려 와 노래하듯 연인에게 경고하고, 〈Bartier Cardi〉는 21 새비지와 함께한 트랩 곡이다.",
+    "카디 비(벨칼리스 알만사르)는 뉴욕 브롱크스에서 도미니카계 아버지와 트리니다드계 어머니 사이에서 자랐다. 스트리퍼로 일하던 시절 인스타그램 영상으로 이름을 알렸고, 리얼리티 쇼 〈러브 앤 힙합: 뉴욕〉에 출연했다. 2017년 〈Bodak Yellow〉가 빌보드 핫 100 1위에 오르며, 1998년 로린 힐 이후 처음으로 여성 래퍼가 혼자 부른 곡으로 정상에 올랐다.",
+    "음반은 빌보드 200 1위로 데뷔했고, 〈I Like It〉도 1위에 올랐다. 2019년 그래미에서 카디 비는 여성 솔로 래퍼로는 처음 최우수 랩 음반상을 받았다. 1998년 《The Miseducation of Lauryn Hill》과 이어 들으면, 20년 사이 여성 래퍼의 목소리가 얼마나 다르게 크게 울리는지 들린다."
+   ]
+  },
+  {
+   "id": "bts-tear",
+   "heading": "서울에서 빌보드 200 꼭대기로",
+   "paras": [
+    "첫 곡 〈Singularity〉는 뷔가 혼자 부르는 느린 네오 소울로, 낮고 부드러운 목소리 위에 기타와 베이스가 조용히 깔린다. 타이틀곡 〈FAKE LOVE〉는 무겁게 울리는 기타와 트랩 드럼 위로 사랑을 위해 가짜 자신을 만들었다는 고백을 일곱 명이 번갈아 부르는 이모 힙합이다. 〈Airplane pt.2〉는 라틴 팝풍의 리듬으로 비행기 위의 삶을 노래하고, 〈Anpanman〉은 경쾌한 브라스와 함께 영웅이 되고 싶은 마음을 그린다. 〈The Truth Untold〉는 스티브 아오키와 함께 만든 피아노 발라드다.",
+    "방탄소년단은 2013년 빅히트 엔터테인먼트에서 데뷔했다. 대형 기획사 출신이 아닌 이들은 멤버들이 직접 가사를 쓰고, 유튜브와 트위터로 일상을 꾸준히 보여 주며 아미라 불리는 세계적인 팬덤을 키웠다. 《Tear》는 2017년 《Her》로 시작한 러브 유어셀프 연작의 두 번째 장으로, 사랑의 설렘 다음에 오는 이별의 슬픔을 다룬다. 방시혁이 총괄 프로듀서를 맡았다.",
+    "음반은 2018년 5월 빌보드 200 1위로 데뷔해, 한국 가수 최초이자 영어가 아닌 노래가 대부분인 음반으로는 12년 만의 1위가 됐다. 〈FAKE LOVE〉는 그들의 첫 빌보드 핫 100 10위권 곡이 됐고, 음반 디자인은 그래미 후보에 올랐다. 1992년 서태지와 아이들의 첫 음반과 이어 들으면, 한국의 아이돌 그룹이 랩을 받아들여 세계로 나가기까지의 26년이 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Golden Hour (Kacey Musgraves album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Golden_Hour_(Kacey_Musgraves_album)"
+  },
+  {
+   "title": "Invasion of Privacy (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Invasion_of_Privacy_(album)"
+  },
+  {
+   "title": "Bodak Yellow · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bodak_Yellow"
+  },
+  {
+   "title": "Love Yourself: Tear · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Love_Yourself:_Tear"
+  },
+  {
+   "title": "Fake Love (song) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fake_Love_(BTS_song)"
+  }
+ ],
+ "edges": [
+  {
+   "from": "rumours",
+   "to": "golden-hour",
+   "type": "listen",
+   "label": "컨트리 기타 위에 겹친 캘리포니아 소프트 록의 화음"
+  },
+  {
+   "from": "miseducation",
+   "to": "invasion",
+   "type": "document",
+   "label": "〈Be Careful〉이 로린 힐의 〈Ex-Factor〉를 빌려 옴",
+   "source": "https://en.wikipedia.org/wiki/Invasion_of_Privacy_(album)"
+  },
+  {
+   "from": "seotaiji1",
+   "to": "bts-tear",
+   "type": "listen",
+   "label": "한국 아이돌 그룹이 랩을 받아들인 출발점과 26년 뒤"
+  }
+ ]
+}

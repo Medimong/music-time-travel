@@ -1,0 +1,113 @@
+{
+ "date": "2027-03-22",
+ "part": "2016-P2",
+ "year": 2016,
+ "partNo": 2,
+ "partTotal": 3,
+ "total": "약 112분",
+ "title": "드럼을 지운 고백, 식탁에 앉은 자매",
+ "intro": "2016년 여름 미국에서는 경찰 총격으로 흑인 남성이 숨지는 사건이 잇따랐고, 블랙 라이브스 매터 운동은 거리와 소셜미디어에서 더 커졌다. 같은 해 여름과 가을, 두 R&B 음악가가 몇 해 동안 붙잡고 있던 음반을 마침내 내놓았다. 4년 동안 소식이 없던 프랭크 오션은 메이저 음반사와의 계약을 정리하자마자 자기 레이블로 음반을 풀었고, 비욘세의 동생 솔란지는 흑인 여성의 피로와 자존을 조용한 목소리로 노래했다. 오늘은 8월과 9월에 나온 두 장, 약 112분이다. 두 음반 모두 한 시간 가까이 이어지는 하나의 흐름이라 두 장만 묶었다.",
+ "albums": [
+  {
+   "id": "blonde-ocean",
+   "artist": "Frank Ocean",
+   "title": "Blonde",
+   "short": "Blonde",
+   "released": "2016년 8월",
+   "genre": "얼터너티브 R&B",
+   "blurb": "드럼을 거의 지운 기타와 오르간, 변조한 목소리로 기억과 사랑을 더듬은 프랭크 오션의 두 번째 정규 음반.",
+   "length": "17곡 · 60분",
+   "spotify": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf",
+   "apple": "https://music.apple.com/kr/album/1146195596",
+   "top": "Soul / R&B",
+   "sub": "Alternative R&B · Art Pop"
+  },
+  {
+   "id": "seat-table",
+   "artist": "Solange",
+   "title": "A Seat at the Table",
+   "short": "A Seat at the Table",
+   "released": "2016년 9월",
+   "genre": "R&B · 소울",
+   "blurb": "부모와 마스터 P의 목소리를 막간에 넣어 흑인 여성의 피로와 자존을 부드럽게 노래한 솔란지의 세 번째 음반.",
+   "length": "21곡 · 52분",
+   "spotify": "https://open.spotify.com/album/3Yko2SxDk4hc6fncIBQlcM",
+   "apple": "https://music.apple.com/kr/album/1159507212",
+   "top": "Soul / R&B",
+   "sub": "Neo Soul · Alternative R&B"
+  }
+ ],
+ "essays": [
+  {
+   "id": "blonde-ocean",
+   "heading": "박자 없이 떠다니는 기억",
+   "paras": [
+    "첫 곡 〈Nikes〉에서 프랭크 오션의 목소리는 다람쥐처럼 높게 변조돼 흘러나오다 곡 후반에야 본래 목소리로 돌아온다. 음반 대부분에는 드럼이 거의 없다. 〈Ivy〉는 흐릿하게 울리는 일렉트릭 기타 하나로 첫사랑을 떠올리고, 〈Solo〉는 교회 오르간 화음 위에서 혼자인 상태를 노래한다. 〈Pink + White〉는 퍼렐 윌리엄스가 만든 부드러운 현악과 피아노 곡으로 비욘세가 배경 화음을 넣었다. 〈Nights〉는 음반의 정확히 한가운데에서 비트가 바뀌어 낮의 곡이 밤의 곡으로 넘어가고, 〈White Ferrari〉는 비틀스의 〈Here, There and Everywhere〉 한 구절을 빌려 조용히 멀어진다.",
+    "오션은 2012년 《channel ORANGE》 직전, 첫사랑이 남자였다고 밝히는 글을 올려 주목받았다. 그 뒤 4년 동안 새 음반은 거듭 미뤄졌다. 2016년 8월 19일 그는 데프 잼과의 계약을 마무리하는 영상 음반 《Endless》를 내놓았고, 바로 다음 날 자신의 레이블에서 《Blonde》를 독립 발매했다. 음반은 처음 애플 뮤직에서만 스트리밍됐고, 같은 주말 팝업 매장에서 잡지 《Boys Don't Cry》와 함께 실물판이 배포됐다. 표지에는 blond라고 적혀 있다.",
+    "음반은 빌보드 200 1위로 데뷔했고, 그래미에 출품하지 않았는데도 2010년대 최고의 음반 목록 맨 위권에 자주 오른다. 안드레 3000은 〈Solo (Reprise)〉에서 빠른 랩 한 절을 남겼다. 비트를 줄이고 목소리와 공간만 남기는 방식은 이후 침실에서 녹음한 R&B와 팝에 큰 흔적을 남겼다."
+   ]
+  },
+  {
+   "id": "seat-table",
+   "heading": "화내지 않고 말하는 법",
+   "paras": [
+    "〈Cranes in the Sky〉는 부드럽게 굴러가는 베이스와 현악 위로 솔란지가 높고 가는 목소리로 슬픔을 떨쳐 내려 했던 방법들을 하나씩 늘어놓는다. 〈Don't Touch My Hair〉는 삼파와 함께 부른 곡으로, 브라스와 박수가 천천히 쌓이며 머리카락을 함부로 만지지 말라는 말을 존엄의 문제로 바꾼다. 〈Mad〉에서는 릴 웨인이 등장해 화낼 이유가 있다는 말을 주고받고, 〈F.U.B.U.〉는 흑인 공동체를 위한 노래라고 분명히 밝힌다. 곡과 곡 사이에는 아버지 매슈 놀스, 어머니 티나 놀스, 뉴올리언스의 래퍼이자 사업가 마스터 P가 들려주는 짧은 이야기가 끼어 있다.",
+    "솔란지는 언니 비욘세의 그늘에서 10대 때부터 노래했지만, 이 음반으로 처음 자기 이름을 크게 남겼다. 그는 루이지애나 뉴아이비리아에서 곡을 다듬었고, 라파엘 사딕이 공동 프로듀서로 참여했다. 1970년대 소울의 따뜻한 악기 소리를 쓰되, 박자는 느리고 공간은 넓다. 경찰 폭력과 인종차별이 뉴스를 채우던 해에, 이 음반은 분노를 크게 외치지 않고 피로와 회복을 차분하게 말했다.",
+    "음반은 솔란지의 첫 빌보드 200 1위가 됐고, 〈Cranes in the Sky〉는 2017년 그래미 최우수 R&B 퍼포먼스상을 받았다. 같은 해 언니의 《Lemonade》와 이어 들으면, 한 집안의 두 자매가 같은 주제를 정반대의 온도로 다뤘다는 것이 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Blonde (Frank Ocean album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Blonde_(Frank_Ocean_album)"
+  },
+  {
+   "title": "Endless (Frank Ocean album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Endless_(Frank_Ocean_album)"
+  },
+  {
+   "title": "A Seat at the Table · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/A_Seat_at_the_Table"
+  },
+  {
+   "title": "Cranes in the Sky · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cranes_in_the_Sky"
+  }
+ ],
+ "edges": [
+  {
+   "from": "channel-orange",
+   "to": "blonde-ocean",
+   "type": "document",
+   "label": "《channel ORANGE》 다음 프랭크 오션의 두 번째 정규 음반",
+   "source": "https://en.wikipedia.org/wiki/Blonde_(Frank_Ocean_album)"
+  },
+  {
+   "from": "love-below",
+   "to": "blonde-ocean",
+   "type": "document",
+   "label": "안드레 3000이 〈Solo (Reprise)〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/Blonde_(Frank_Ocean_album)"
+  },
+  {
+   "from": "lemonade",
+   "to": "blonde-ocean",
+   "type": "document",
+   "label": "비욘세가 〈Pink + White〉의 배경 화음에 참여",
+   "source": "https://en.wikipedia.org/wiki/Blonde_(Frank_Ocean_album)"
+  },
+  {
+   "from": "lemonade",
+   "to": "seat-table",
+   "type": "listen",
+   "label": "같은 해 놀스 자매가 서로 다른 온도로 다룬 흑인 여성의 이야기"
+  },
+  {
+   "from": "voodoo",
+   "to": "seat-table",
+   "type": "listen",
+   "label": "1970년대 소울의 질감을 느린 박자로 되살린 네오 소울"
+  }
+ ]
+}

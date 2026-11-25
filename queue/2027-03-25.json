@@ -1,0 +1,143 @@
+{
+ "date": "2027-03-25",
+ "part": "2017-P2",
+ "year": 2017,
+ "partNo": 2,
+ "partTotal": 3,
+ "total": "약 137분",
+ "title": "스물몇 살의 불안, 파티가 끝난 밤, 꽃을 든 소년",
+ "intro": "2017년 여름, 서로 다른 세 젊은 음악가가 자기 마음속을 이전보다 훨씬 솔직하게 드러낸 음반을 내놓았다. 스트리밍과 소셜미디어 시대의 청중은 매끈한 스타보다 흔들리고 머뭇거리는 목소리에 더 오래 귀를 기울였다. 오늘은 6월과 7월에 나온 세 장, 약 137분이다. 데뷔 음반이 몇 해 동안 미뤄졌던 SZA의 《Ctrl》, 열여섯 살에 세계적인 스타가 된 로드가 첫 이별 뒤에 쓴 《Melodrama》, 공격적인 랩으로 이름을 날린 타일러 더 크리에이터가 처음으로 다정한 화음을 꺼낸 《Flower Boy》다. 셋 모두 스무 살 안팎의 불안과 외로움을 숨기지 않는다.",
+ "albums": [
+  {
+   "id": "ctrl",
+   "artist": "SZA",
+   "title": "Ctrl",
+   "short": "Ctrl",
+   "released": "2017년 6월",
+   "genre": "R&B · 네오 소울",
+   "blurb": "질투와 자기 의심, 스무 살 무렵의 불안을 일기처럼 털어놓아 R&B의 목소리를 바꾼 SZA의 첫 정규 음반.",
+   "length": "14곡 · 49분",
+   "spotify": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh",
+   "apple": "https://music.apple.com/kr/album/1239976329",
+   "top": "Soul / R&B",
+   "sub": "Alternative R&B · Neo Soul"
+  },
+  {
+   "id": "melodrama",
+   "artist": "Lorde",
+   "title": "Melodrama",
+   "short": "Melodrama",
+   "released": "2017년 6월",
+   "genre": "아트 팝 · 일렉트로팝",
+   "blurb": "첫 이별 뒤 한밤의 파티를 따라가며 피아노와 신시사이저로 감정의 끝까지 간 로드의 두 번째 음반.",
+   "length": "11곡 · 41분",
+   "spotify": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF",
+   "apple": "https://music.apple.com/kr/album/1429662346",
+   "top": "Pop / Art Pop",
+   "sub": "Art Pop · Electropop"
+  },
+  {
+   "id": "flower-boy",
+   "artist": "Tyler, The Creator",
+   "title": "Flower Boy",
+   "short": "Flower Boy",
+   "released": "2017년 7월",
+   "genre": "힙합 · 네오 소울",
+   "blurb": "거친 도발을 내려놓고 재즈 화음과 현악으로 외로움과 정체성을 털어놓은 타일러 더 크리에이터의 네 번째 음반.",
+   "length": "14곡 · 47분",
+   "spotify": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o",
+   "apple": "https://music.apple.com/kr/album/1254572564",
+   "top": "Hip-Hop",
+   "sub": "Alternative Hip-Hop · Neo Soul"
+  }
+ ],
+ "essays": [
+  {
+   "id": "ctrl",
+   "heading": "통제할 수 없는 것들의 목록",
+   "paras": [
+    "〈Supermodel〉은 성긴 기타 하나와 드럼 몇 개 위로 SZA가 헤어진 연인에게 복수하듯 털어놓는 노래로 문을 연다. 〈Love Galore〉는 트래비스 스콧과 함께한 느린 트랩 곡이고, 〈Drew Barrymore〉는 흐린 기타와 둥근 베이스 위에서 자기가 충분하지 않다는 불안을 노래한다. 〈The Weekend〉는 주말에만 만나는 연인을 다른 여자와 나눠 갖는 이야기로, 공간이 넓은 소울 화음이 받친다. 곡 사이사이 어머니와 할머니가 통제에 관해 말하는 목소리가 들리고, 마지막 〈20 Something〉은 어쿠스틱 기타 하나로 스무 살 무렵의 막막함을 노래한다.",
+    "솔라나 로우는 켄드릭 라마가 속한 레이블 톱 독에 2013년 합류했지만, 데뷔 음반은 몇 해 동안 미뤄졌고 그는 레이블과의 갈등으로 음악을 그만두겠다고 말하기도 했다. 2016년 리아나의 《ANTI》 첫 곡에 참여하며 이름이 알려졌고, 《Ctrl》에서는 매끈한 가창 대신 말하듯 흔들리는 목소리와 솔직한 가사를 앞세웠다. 켄드릭 라마는 〈Doves in the Wind〉에 참여했다.",
+    "음반은 빌보드 200 3위에 올랐고, 시간이 지나며 여러 차례 플래티넘 인증을 받았다. SZA는 2018년 그래미 최우수 신인상 후보에 올랐다. 이 음반의 고백하는 말투는 이후 여성 R&B 가수들의 표준처럼 퍼졌고, 그는 2022년 《SOS》로 더 큰 성공을 거뒀다."
+   ]
+  },
+  {
+   "id": "melodrama",
+   "heading": "파티가 끝나고 혼자 남은 밤",
+   "paras": [
+    "〈Green Light〉는 쿵쿵 내려치는 피아노 화음으로 시작해 후렴에서 하우스 음악처럼 터지고, 로드는 헤어진 연인을 놓아줄 신호를 기다린다. 〈Sober〉는 브라스와 손뼉, 낮게 깔린 신시사이저로 파티의 들뜬 기분을 그리고, 〈Liability〉는 피아노 하나로 자기가 남들에게 짐이 된다는 생각을 털어놓는다. 〈Supercut〉은 지난 연애의 장면을 영화 편집본처럼 빠르게 돌려 보는 신스팝이고, 〈Writer in the Dark〉에서는 목소리가 가늘게 떨리다 크게 갈라진다.",
+    "엘라 옐리치오코너는 열여섯 살에 〈Royals〉로 세계적인 스타가 됐고, 이 음반은 첫 연애가 끝난 뒤에 썼다. 음반은 한 번의 파티가 시작되고 끝나는 밤을 따라가는 구성이다. 공동 프로듀서 잭 안토노프는 테일러 스위프트의 《1989》에도 참여했던 사람으로, 그와의 작업은 이후 2010년대 후반 팝의 소리 하나를 정했다.",
+    "음반은 로드의 첫 빌보드 200 1위가 됐고, 2018년 그래미 올해의 앨범 후보에 올랐다. 많은 비평가가 2017년 최고의 음반으로 꼽았다. 2013년 《Pure Heroine》의 냉정한 10대와 비교하면, 몇 년 사이 그가 얼마나 뜨겁고 흔들리는 목소리를 얻었는지 들린다."
+   ]
+  },
+  {
+   "id": "flower-boy",
+   "heading": "화를 내던 소년이 꽃을 들 때",
+   "paras": [
+    "〈Foreword〉는 나른한 현악과 렉스 오렌지 카운티의 목소리로 시작하고, 〈See You Again〉은 칼리 우치스가 부르는 달콤한 후렴과 부풀어 오르는 신시사이저로 꿈속의 연인을 그린다. 〈Where This Flower Blooms〉와 〈911 / Mr. Lonely〉에서는 프랭크 오션이 목소리를 보탠다. 〈Who Dat Boy〉는 공포 영화 같은 현악과 묵직한 베이스로 예전의 거친 타일러를 잠깐 불러내지만, 〈Boredom〉과 〈Glitter〉는 재즈 화음과 보사노바풍 기타로 따뜻하게 흐른다. 그는 거의 모든 곡을 직접 작곡하고 프로듀스했다.",
+    "타일러는 2010년대 초 로스앤젤레스의 집단 오드 퓨처를 이끌며 충격적인 가사로 이름을 알렸다. 《Flower Boy》에서 그는 외로움과 성장, 그리고 남자에게 끌리는 마음을 암시하는 가사를 처음으로 드러냈고, 이 대목은 많은 매체가 그의 커밍아웃처럼 받아들였다. 오래 동료였던 프랭크 오션이 2012년 쓴 글과 이어지는 장면이기도 했다.",
+    "음반은 빌보드 200 2위에 올랐고 2018년 그래미 최우수 랩 음반 후보에 올랐다. 비평가들은 이 음반을 그의 전환점으로 봤다. 2016년 《Blonde》와 이어 들으면, 같은 무리에서 나온 두 음악가가 어떻게 힙합과 R&B의 경계를 흐렸는지 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Ctrl (SZA album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ctrl_(SZA_album)"
+  },
+  {
+   "title": "Melodrama (Lorde album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Melodrama_(Lorde_album)"
+  },
+  {
+   "title": "Flower Boy · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Flower_Boy"
+  },
+  {
+   "title": "Jack Antonoff · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jack_Antonoff"
+  }
+ ],
+ "edges": [
+  {
+   "from": "anti-rihanna",
+   "to": "ctrl",
+   "type": "document",
+   "label": "SZA가 《ANTI》 첫 곡 〈Consideration〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/Anti_(album)"
+  },
+  {
+   "from": "damn",
+   "to": "ctrl",
+   "type": "document",
+   "label": "같은 레이블의 켄드릭 라마가 〈Doves in the Wind〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/Ctrl_(SZA_album)"
+  },
+  {
+   "from": "pure-heroine",
+   "to": "melodrama",
+   "type": "document",
+   "label": "《Pure Heroine》 다음 로드의 두 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/Melodrama_(Lorde_album)"
+  },
+  {
+   "from": "ts-1989",
+   "to": "melodrama",
+   "type": "listen",
+   "label": "두 음반 모두에 참여한 잭 안토노프의 신스팝"
+  },
+  {
+   "from": "blonde-ocean",
+   "to": "flower-boy",
+   "type": "document",
+   "label": "프랭크 오션이 〈Where This Flower Blooms〉와 〈911 / Mr. Lonely〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/Flower_Boy"
+  },
+  {
+   "from": "channel-orange",
+   "to": "flower-boy",
+   "type": "listen",
+   "label": "오드 퓨처 동료들이 열어 간 고백하는 힙합과 R&B"
+  }
+ ]
+}
