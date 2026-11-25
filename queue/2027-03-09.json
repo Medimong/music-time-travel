@@ -1,0 +1,127 @@
+{
+ "date": "2027-03-09",
+ "part": "2012-P1",
+ "year": 2012,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 135분",
+ "title": "영화 속 여주인공, 방 안의 신시사이저, 앨라배마의 목소리",
+ "intro": "2012년 무렵 새 음악가는 음반사보다 유튜브와 블로그에서 먼저 태어났다. 집에서 노트북으로 만든 노래가 하룻밤 사이에 수백만 번 재생됐고, 그만큼 진짜냐 가짜냐는 논쟁도 뜨거웠다. 오늘의 세 음반은 1월부터 4월 사이에 나왔다. 뉴욕의 한 가수는 직접 편집한 뮤직비디오로 유명해진 뒤 옛 할리우드 영화 같은 현악과 힙합 비트로 데뷔 음반을 만들었고, 몬트리올의 젊은 음악가는 아파트에서 무료 녹음 프로그램으로 몽환적인 전자 팝을 만들었다. 앨라배마의 작은 마을에서는 우체국에서 일하던 가수가 옛 소울과 록의 목소리로 나타났다. 오늘은 세 장으로 약 135분이다.",
+ "albums": [
+  {
+   "id": "born-to-die",
+   "artist": "Lana Del Rey",
+   "title": "Born to Die",
+   "short": "Born to Die",
+   "released": "2012년 1월",
+   "genre": "바로크 팝",
+   "blurb": "옛 할리우드 영화 같은 현악과 힙합 비트 위에서 위험한 사랑과 미국의 꿈을 노래한 라나 델 레이의 메이저 데뷔작.",
+   "length": "12곡 · 50분",
+   "spotify": "https://open.spotify.com/album/4X8hAqIWpQyQks2yRhyqs4",
+   "apple": "https://music.apple.com/kr/album/1440809572",
+   "top": "Pop / Art Pop",
+   "sub": "Baroque Pop · Trip Hop"
+  },
+  {
+   "id": "visions-grimes",
+   "artist": "Grimes",
+   "title": "Visions",
+   "short": "Visions",
+   "released": "2012년 2월",
+   "genre": "신스 팝 · 드림 팝",
+   "blurb": "몬트리올의 아파트에서 3주 만에 무료 녹음 프로그램으로 만든 그라임스의 세 번째 음반.",
+   "length": "13곡 · 47분",
+   "spotify": "https://open.spotify.com/album/2jXthXcPiAdhatxYPv4yPk",
+   "apple": "https://music.apple.com/kr/album/501295144",
+   "top": "Electronic",
+   "sub": "Synth-Pop · Dream Pop"
+  },
+  {
+   "id": "boys-girls",
+   "artist": "Alabama Shakes",
+   "title": "Boys & Girls",
+   "short": "Boys & Girls",
+   "released": "2012년 4월",
+   "genre": "블루스 록 · 서던 소울",
+   "blurb": "앨라배마의 작은 마을에서 나와 1960년대 소울과 블루스 록의 목소리를 되살린 앨라배마 셰이크스의 데뷔작.",
+   "length": "12곡 · 39분",
+   "spotify": "https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2",
+   "apple": "https://music.apple.com/kr/album/499856834",
+   "top": "Rock",
+   "sub": "Blues Rock · Southern Soul"
+  }
+ ],
+ "essays": [
+  {
+   "id": "born-to-die",
+   "heading": "슬픈 영화의 주인공",
+   "paras": [
+    "타이틀곡 〈Born to Die〉는 웅장한 현악으로 시작해, 그 아래에 느리고 무거운 힙합 드럼이 깔린다. 라나 델 레이는 낮게 깔리는 목소리로 노래하다가 후렴에서 갑자기 소녀 같은 높은 목소리로 바뀐다. 〈Video Games〉는 하프와 피아노, 현악만으로 연인에게 모든 것을 맞추는 사랑을 1950년대 영화처럼 그린다. 〈National Anthem〉에서는 랩에 가까운 리듬으로 돈과 사랑을 노래하고, 〈Summertime Sadness〉는 여름의 끝에 찾아오는 우울을 짙은 잔향으로 채운다.",
+    "본명이 엘리자베스 그랜트인 그는 뉴욕에서 활동하다 2011년 직접 옛 영상 자료를 이어 붙여 만든 〈Video Games〉 뮤직비디오를 유튜브에 올렸고, 이 영상이 크게 퍼지며 유명해졌다. 갑작스러운 성공과 과거 활동 이력 때문에 언론은 그가 만들어진 이미지라고 공격했고, 2012년 1월 미국 TV 공연은 혹평을 받았다. 노래에는 1950년대와 1960년대 미국의 자동차, 국기, 영화배우 이미지가 가득하다.",
+    "음반은 2012년 세계에서 다섯 번째로 많이 팔린 음반이 됐고, 미국 빌보드 앨범 차트에 10년 넘게 머물렀다. 당시 평단의 반응은 엇갈렸지만, 슬픔과 향수를 영화처럼 연출하는 그의 방식은 이후 여러 세대의 팝 가수에게 큰 영향을 줬다. 1960년대 낸시 시나트라의 노래와 1994년 포티스헤드의 《Dummy》를 이어 들으면 그 뿌리가 들린다."
+   ]
+  },
+  {
+   "id": "visions-grimes",
+   "heading": "방 안에서 만든 꿈",
+   "paras": [
+    "〈Genesis〉는 반짝이는 신시사이저 선율과 가볍게 튀는 드럼 머신 위에서 클레어 부셰의 높은 목소리가 여러 겹으로 메아리친다. 가사는 잘 알아들을 수 없을 만큼 소리 속에 녹아 있다. 〈Oblivion〉은 통통 튀는 베이스와 단순한 박자 위에서 아이 같은 목소리로 불안과 두려움을 노래한다. 〈Be a Body〉와 〈Circumambient〉는 케이팝과 일본 애니메이션 음악, 중세 성가, R&B가 한데 섞인 듯한 소리다. 짧은 연주곡들이 노래 사이를 잇는다.",
+    "그라임스는 캐나다 밴쿠버 출신으로 몬트리올의 맥길 대학을 다니다 음악을 시작했다. 몬트리올 마일엔드 동네에는 낡은 공간에서 직접 공연을 여는 젊은 음악가들의 무리가 있었다. 그는 영국의 인디 레이블 4AD와 계약한 뒤 자신의 아파트에서 애플의 무료 녹음 프로그램 개러지밴드(GarageBand)로 3주 만에 이 음반을 만들었다. 비싼 스튜디오 없이 노트북 하나로 음반을 만들 수 있다는 것을 보여 준 셈이다.",
+    "음반은 캐나다의 주노상을 받았고 폴라리스 음악상 후보에 올랐다. 〈Oblivion〉은 피치포크가 2010년대 두 번째로 좋은 노래로 꼽을 만큼 오래 사랑받았다. 혼자 침실에서 만든 팝, 장르를 가리지 않는 인터넷 세대의 귀를 대표하는 음반이다. 2007년 M.I.A.의 《Kala》와 2009년 메리웨더 포스트 파빌리온의 몽롱한 소리와 이어 들어 보면 좋다."
+   ]
+  },
+  {
+   "id": "boys-girls",
+   "heading": "우체부의 목소리",
+   "paras": [
+    "〈Hold On〉은 느긋한 기타 리프와 드럼으로 시작하고, 브리트니 하워드는 처음에는 잔잔하게, 후렴에서는 갈라질 듯 거칠게 소리친다. 그 목소리에는 1960년대 남부 소울 가수와 재니스 조플린이 함께 들린다. 〈I Found You〉는 옛 R&B 발라드처럼 흔들리고, 〈You Ain't Alone〉은 느린 블루스 위에서 목소리가 한껏 치솟는다. 〈Heartbreaker〉와 〈Be Mine〉에서는 기타와 오르간이 1960년대 앨라배마 머슬숄스 스튜디오의 소리를 떠올리게 한다.",
+    "밴드는 앨라배마주 애선스의 고등학교 친구들이 시작했다. 하워드는 밴드 활동 전 우체국에서 우편물을 나르는 일을 했다. 2011년 인터넷에 올린 노래가 음악 블로그에서 화제가 되면서 인디 음반사 ATO와 계약했다. 전자 음악과 힙합이 차트를 채우던 때, 옛날 방식으로 함께 연주하고 녹음한 이들의 소리는 오히려 새롭게 들렸다.",
+    "음반은 미국 빌보드 앨범 차트 6위, 영국 3위에 올랐고 밴드는 그래미 신인상 후보가 됐다. 2015년 두 번째 음반으로는 그래미 여러 부문을 받았다. 1965년 오티스 레딩의 《Otis Blue》와 1967년 아레사 프랭클린의 음반을 먼저 들으면 하워드의 목소리가 어디서 왔는지 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Born to Die (Lana Del Rey album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Born_to_Die_(Lana_Del_Rey_album)"
+  },
+  {
+   "title": "Visions (Grimes album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Visions_(Grimes_album)"
+  },
+  {
+   "title": "Boys & Girls (Alabama Shakes album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Boys_%26_Girls_(Alabama_Shakes_album)"
+  },
+  {
+   "title": "Video Games (song) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Video_Games_(song)"
+  }
+ ],
+ "edges": [
+  {
+   "from": "dummy",
+   "to": "born-to-die",
+   "type": "listen",
+   "label": "영화 같은 현악과 느린 힙합 비트의 트립 합"
+  },
+  {
+   "from": "kala",
+   "to": "visions-grimes",
+   "type": "listen",
+   "label": "장르를 가리지 않고 노트북으로 섞는 인터넷 세대의 팝"
+  },
+  {
+   "from": "merriweather",
+   "to": "visions-grimes",
+   "type": "listen",
+   "label": "메아리치는 목소리와 몽롱한 전자음"
+  },
+  {
+   "from": "otis-blue",
+   "to": "boys-girls",
+   "type": "listen",
+   "label": "남부 소울의 거칠게 터지는 목소리"
+  }
+ ]
+}

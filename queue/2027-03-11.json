@@ -1,0 +1,110 @@
+{
+ "date": "2027-03-11",
+ "part": "2012-P3",
+ "year": 2012,
+ "partNo": 3,
+ "partTotal": 3,
+ "total": "약 134분",
+ "title": "같은 날 나온 두 성장담",
+ "intro": "2012년 11월 버락 오바마가 재선에 성공했다. 음악 산업에서는 스트리밍과 유튜브가 라디오와 음반 가게를 대신하기 시작했지만, 미국에서 가장 많이 팔리는 음반은 여전히 큰 스타의 CD였다. 오늘의 두 음반은 2012년 10월 22일 같은 날 나왔다. 컨트리 가수로 출발한 스물두 살의 테일러 스위프트는 이별 이야기를 록과 스웨덴식 팝으로 넓혔고, 캘리포니아 컴튼의 켄드릭 라마는 갱과 마약에 둘러싸였던 십 대의 하루를 한 편의 영화처럼 엮었다. 두 사람 모두 자기 이야기를 솔직하게 쓰는 작가였다. 오늘은 두 장으로 약 134분이다. 두 음반 모두 65분이 넘어 두 장만 묶었다.",
+ "albums": [
+  {
+   "id": "red-taylor",
+   "artist": "Taylor Swift",
+   "title": "Red",
+   "short": "Red",
+   "released": "2012년 10월",
+   "genre": "컨트리 팝 · 팝 록",
+   "blurb": "한 번의 이별을 컨트리와 록, 스웨덴식 팝으로 기록하며 팝 가수로 넘어간 테일러 스위프트의 네 번째 음반.",
+   "length": "16곡 · 65분",
+   "spotify": "https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5",
+   "apple": "https://music.apple.com/kr/album/1440935340",
+   "top": "Pop / Art Pop",
+   "sub": "Country Pop · Pop Rock"
+  },
+  {
+   "id": "gkmc",
+   "artist": "Kendrick Lamar",
+   "title": "good kid, m.A.A.d city",
+   "short": "good kid, m.A.A.d city",
+   "released": "2012년 10월",
+   "genre": "웨스트 코스트 힙합",
+   "blurb": "컴튼에서 보낸 십 대의 하루를 '단편 영화'처럼 엮은 켄드릭 라마의 메이저 데뷔작.",
+   "length": "1–12곡 · 68분",
+   "spotify": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1",
+   "apple": "https://music.apple.com/kr/album/1440860389",
+   "top": "Hip-Hop",
+   "sub": "Conscious Hip-Hop · West Coast Hip-Hop"
+  }
+ ],
+ "essays": [
+  {
+   "id": "red-taylor",
+   "heading": "이별의 모든 색",
+   "paras": [
+    "〈State of Grace〉는 메아리치는 기타와 쉴 새 없이 구르는 드럼으로 U2 같은 넓은 록의 소리를 낸다. 〈All Too Well〉은 어쿠스틱 기타로 시작해 점점 커지는 발라드로, 옛 연인의 집에 두고 온 목도리 같은 작은 물건으로 관계의 기억을 되살린다. 〈I Knew You Were Trouble〉은 후렴에서 덥스텝처럼 일그러진 베이스가 떨어지고, 〈We Are Never Ever Getting Back Together〉는 손뼉과 반복되는 후렴, 중간의 말하듯 하는 대사로 귀에 딱 붙는 팝송이다. 〈Begin Again〉은 다시 컨트리의 부드러운 기타로 돌아온다.",
+    "스위프트는 열여섯 살에 컨트리 가수로 데뷔했고 직접 곡을 쓰는 것으로 유명했다. 이번 음반에서는 컨트리 프로듀서 네이선 채프먼 외에도 스웨덴의 팝 작곡가 맥스 마틴과 셸백, 아델과 일한 댄 윌슨, U2와 일한 재크나이프 리 등 새로운 사람들과 일했다. 음반사는 이 음반을 컨트리로 홍보했지만, 평단은 이것이 컨트리냐 팝이냐를 두고 논쟁했다.",
+    "음반은 첫 주 미국에서 120만 장 넘게 팔렸고 빌보드 앨범 차트 1위를 7주 동안 지켰다. 맥스 마틴과의 작업은 2014년의 완전한 팝 음반으로 이어졌다. 2021년 다시 녹음한 판에서는 〈All Too Well〉의 10분짜리 판이 공개돼 큰 화제가 됐다. 2006년 그의 데뷔작과 이어 들으면 6년 사이의 변화가 뚜렷하다."
+   ]
+  },
+  {
+   "id": "gkmc",
+   "heading": "착한 아이, 미친 도시",
+   "paras": [
+    "음반은 기도하는 소년들의 목소리로 시작하고, 곡 사이마다 친구들의 차 안 대화와 어머니의 음성 메시지가 끼어든다. 〈Backseat Freestyle〉에서 켄드릭 라마는 허세 가득한 열여섯 살의 목소리로 랩을 하고, 〈The Art of Peer Pressure〉에서는 친구들과 어울리다 범죄에 휘말리는 순간을 이야기한다. 〈Money Trees〉는 몽롱한 샘플 위에서 가난과 욕망을 노래하고, 〈m.A.A.d city〉는 중간에 비트가 바뀌며 1990년대 서부 힙합 래퍼 MC 에이트가 등장한다. 12분이 넘는 〈Sing About Me, I'm Dying of Thirst〉는 죽은 친구의 형과 한 여성의 목소리로 그의 노래를 되묻는다.",
+    "라마는 캘리포니아 컴튼에서 자랐다. 1988년 N.W.A가 갱스터 랩으로 세상에 알린 그 도시다. 2011년 독립 음반 《Section.80》로 주목받은 뒤 닥터 드레의 애프터매스와 계약했다. 음반 표지에는 '켄드릭 라마의 단편 영화'라고 적혀 있고, 실제로 열일곱 살 어느 하루의 사건을 순서대로 따라간다. 화려한 갱스터 이야기 대신, 그 속에서 살아남으려는 착한 아이의 시선이다.",
+    "음반은 첫 주 24만 장 넘게 팔리며 빌보드 2위로 데뷔했고 그래미 올해의 앨범 후보에 올랐다. 한 사람의 성장담을 영화처럼 짜는 이 방식은 2010년대 힙합 음반의 기준이 됐다. 1988년 N.W.A의 《Straight Outta Compton》과 1992년 닥터 드레의 《The Chronic》을 먼저 들으면 같은 도시의 다른 이야기가 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Red (Taylor Swift album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Red_(Taylor_Swift_album)"
+  },
+  {
+   "title": "Good Kid, M.A.A.D City · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Good_Kid,_M.A.A.D_City"
+  },
+  {
+   "title": "Kendrick Lamar · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kendrick_Lamar"
+  }
+ ],
+ "edges": [
+  {
+   "from": "taylor-swift-2006",
+   "to": "red-taylor",
+   "type": "document",
+   "label": "데뷔작에서 이어진 테일러 스위프트의 네 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/Red_(Taylor_Swift_album)"
+  },
+  {
+   "from": "adele-21",
+   "to": "red-taylor",
+   "type": "document",
+   "label": "《21》의 작곡가 댄 윌슨이 참여",
+   "source": "https://en.wikipedia.org/wiki/Red_(Taylor_Swift_album)"
+  },
+  {
+   "from": "compton",
+   "to": "gkmc",
+   "type": "listen",
+   "label": "같은 도시 컴튼의 다른 세대가 하는 이야기"
+  },
+  {
+   "from": "chronic",
+   "to": "gkmc",
+   "type": "document",
+   "label": "닥터 드레가 제작과 〈Compton〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/Good_Kid,_M.A.A.D_City"
+  },
+  {
+   "from": "take-care",
+   "to": "gkmc",
+   "type": "document",
+   "label": "드레이크가 〈Poetic Justice〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/Good_Kid,_M.A.A.D_City"
+  }
+ ]
+}

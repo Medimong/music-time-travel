@@ -1,0 +1,147 @@
+{
+ "date": "2027-03-19",
+ "part": "2015-P2",
+ "year": 2015,
+ "partNo": 2,
+ "partTotal": 3,
+ "total": "약 129분",
+ "title": "레이브의 기억, 1960년대의 목소리, 혼자 만든 춤",
+ "intro": "2015년 6월 미국 연방대법원은 모든 주에서 동성 결혼을 허용하는 판결을 내렸다. 같은 달 말 애플이 스트리밍 서비스 애플 뮤직을 시작했고, 음악을 듣는 주된 방식은 빠르게 스트리밍으로 옮겨 갔다. 오늘의 세 음반은 5월 말부터 7월 사이에 나왔다. 더 엑스엑스의 프로듀서 제이미 엑스엑스는 영국 레이브와 해적 라디오의 기억을 따뜻한 춤 음악으로 만들었고, 텍사스의 접시닦이 출신 가수는 1960년대 소울을 옛 장비 그대로 되살렸다. 호주의 케빈 파커는 기타를 내려놓고 혼자 신시사이저와 베이스로 춤추는 음반을 만들었다. 오늘은 세 장으로 약 129분이다.",
+ "albums": [
+  {
+   "id": "in-colour",
+   "artist": "Jamie xx",
+   "title": "In Colour",
+   "short": "In Colour",
+   "released": "2015년 5월",
+   "genre": "UK 베이스 · 하우스",
+   "blurb": "영국 레이브와 해적 라디오의 기억을 따뜻하고 쓸쓸한 춤 음악으로 만든 제이미 엑스엑스의 첫 솔로 음반.",
+   "length": "11곡 · 43분",
+   "spotify": "https://open.spotify.com/album/0AVPusXNzK1jWwefBiPJ5I",
+   "apple": "https://music.apple.com/kr/album/1525506447",
+   "top": "Electronic",
+   "sub": "UK Bass · House"
+  },
+  {
+   "id": "coming-home",
+   "artist": "Leon Bridges",
+   "title": "Coming Home",
+   "short": "Coming Home",
+   "released": "2015년 6월",
+   "genre": "레트로 소울",
+   "blurb": "텍사스 포트워스의 접시닦이 출신 가수가 1960년대 소울을 옛 장비로 되살린 리언 브리지스의 데뷔작.",
+   "length": "1–10곡 · 35분",
+   "spotify": "https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg",
+   "apple": "https://music.apple.com/kr/album/1079234232",
+   "top": "Soul / R&B",
+   "sub": "Retro Soul · Southern Soul"
+  },
+  {
+   "id": "currents",
+   "artist": "Tame Impala",
+   "title": "Currents",
+   "short": "Currents",
+   "released": "2015년 7월",
+   "genre": "사이키델릭 팝 · 신스 팝",
+   "blurb": "기타 대신 신시사이저와 베이스로 변화와 이별을 노래하며 춤추는 음악으로 옮겨 간 테임 임팔라의 세 번째 음반.",
+   "length": "13곡 · 51분",
+   "spotify": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv",
+   "apple": "https://music.apple.com/kr/album/1440838039",
+   "top": "Psychedelic / Prog",
+   "sub": "Psychedelic Pop · Synth-Pop"
+  }
+ ],
+ "essays": [
+  {
+   "id": "in-colour",
+   "heading": "사라진 레이브의 색",
+   "paras": [
+    "〈Gosh〉는 해적 라디오 진행자의 목소리와 빠르게 구르는 브레이크비트, 낮게 울리는 베이스로 시작하고, 끝으로 갈수록 반짝이는 신시사이저 선율이 하늘을 덮듯 퍼진다. 〈Loud Places〉에서는 더 엑스엑스의 동료 로미가 클럽에서 혼자 남겨진 쓸쓸함을 노래하고, 뒤에서 1970년대 소울 합창 샘플이 크게 솟아오른다. 〈I Know There's Gonna Be (Good Times)〉는 래퍼 영 서그와 자메이카 가수 팝칸이 옛 아카펠라 소울 그룹의 샘플 위에서 들뜬 목소리를 주고받는다. 스틸 드럼 소리가 곳곳에서 따뜻한 빛을 더한다.",
+    "제이미 엑스엑스(본명 제이미 스미스)는 런던의 밴드 더 엑스엑스에서 비트와 프로듀싱을 맡았다. 2011년 길 스콧헤론의 음반을 리믹스한 《We're New Here》로 솔로 활동을 시작했고, 그 가운데 한 곡은 드레이크의 〈Take Care〉의 바탕이 됐다. 이 음반은 5년에 걸쳐 만들었다. 그가 직접 겪지 못한 1990년대 영국 레이브와 정글, 해적 라디오 녹음을 인터넷으로 찾아 들으며 느낀 그리움이 출발점이었다고 알려져 있다.",
+    "음반은 영국 차트 3위에 올랐고 머큐리상과 그래미 후보에 올랐다. 클럽의 열기 대신 혼자 이어폰으로 듣는 춤 음악의 쓸쓸함을 담아, 2010년대 영국 전자 음악의 중요한 음반이 됐다. 2009년 더 엑스엑스의 《xx》와 1997년 다프트 펑크의 《Homework》를 이어 들어 보면 좋다."
+   ]
+  },
+  {
+   "id": "coming-home",
+   "heading": "옛 방식 그대로",
+   "paras": [
+    "타이틀곡 〈Coming Home〉은 부드러운 기타와 여성 코러스, 살짝 흔들리는 리듬으로 시작하고, 리언 브리지스는 1960년대 초 샘 쿡처럼 맑고 둥근 목소리로 노래한다. 〈Better Man〉과 〈Smooth Sailin'〉에서는 짧게 끊어 치는 금관과 색소폰이 춤추듯 흔들린다. 〈Lisa Sawyer〉는 뉴올리언스에서 태어난 어머니의 삶을 느린 재즈풍 반주로 그리고, 마지막 〈River〉는 어쿠스틱 기타 한 대와 낮은 합창만으로 가스펠처럼 부른다.",
+    "브리지스는 텍사스 포트워스에서 자랐고, 식당에서 접시를 닦으며 밤에는 작은 술집에서 노래했다. 그를 본 인디 록 밴드 화이트 데님의 멤버들이 옛날 장비로 가득한 자신들의 스튜디오로 불렀고, 아날로그 테이프로 1960년대식 소리를 그대로 녹음했다. 2014년 인터넷에 올린 노래 두 곡이 화제가 되면서 컬럼비아와 계약했다. 아날로그 녹음은 옛 소리를 흉내 내는 놀이가 아니라, 그가 존경하던 가수들처럼 노래하는 방법이었다.",
+    "음반은 미국 빌보드 앨범 차트 6위에 올랐고 2016년 그래미 최우수 R&B 음반 후보가 됐다. 디지털 시대에 옛 소울을 그대로 되살린 음반으로, 2000년대 에이미 와인하우스 이후의 레트로 소울 흐름을 이었다. 1965년 오티스 레딩의 《Otis Blue》와 2006년 《Back to Black》을 이어 들으면 좋다."
+   ]
+  },
+  {
+   "id": "currents",
+   "heading": "같은 사람, 새로운 사람",
+   "paras": [
+    "8분 가까운 〈Let It Happen〉은 빠르게 반복되는 신시사이저와 춤추는 베이스로 시작하고, 중간에 마치 레코드판이 튀는 것처럼 같은 소리가 걸려 반복되다가 현악 같은 신시사이저로 넘어간다. 〈The Less I Know the Better〉는 통통 튀는 디스코풍 베이스 라인 위에서 짝사랑의 질투를 노래한다. 〈Eventually〉는 무겁게 내리찍는 드럼과 신시사이저로 이별을 받아들이고, 마지막 〈New Person, Same Old Mistakes〉는 느리고 끈적한 R&B 박자로 변한 자신을 돌아본다.",
+    "케빈 파커는 호주 프리맨틀의 집 스튜디오에서 이번에도 모든 곡을 쓰고 연주하고 녹음했다. 처음으로 믹싱까지 혼자 했다. 그는 테임 임팔라의 음악이 클럽에서 사람들과 함께 춤추는 음악이 되기를 바랐고, 그래서 기타 대신 신시사이저와 베이스, 디스코와 R&B의 리듬을 앞세웠다. 세부를 다듬느라 발매가 두 달 늦어졌다. 평론가들은 변화와 자기 변신이라는 주제를 이별의 이야기로 읽었다.",
+    "음반은 호주 차트 1위에 올랐고 그래미 후보가 됐다. 리애나는 이듬해 음반에서 〈New Person, Same Old Mistakes〉를 다시 불렀고, 이후 파커는 팝과 힙합 음악가들의 프로듀서로도 활동했다. 2012년 《Lonerism》과 이어 들으면 기타 밴드가 춤추는 음악으로 옮겨 간 것이 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "In Colour (Jamie xx album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/In_Colour_(Jamie_xx_album)"
+  },
+  {
+   "title": "Coming Home (Leon Bridges album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Coming_Home_(Leon_Bridges_album)"
+  },
+  {
+   "title": "Currents (Tame Impala album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Currents_(Tame_Impala_album)"
+  },
+  {
+   "title": "Apple Music · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Apple_Music"
+  }
+ ],
+ "edges": [
+  {
+   "from": "xx",
+   "to": "in-colour",
+   "type": "document",
+   "label": "더 엑스엑스의 제이미 엑스엑스 첫 솔로 음반, 로미와 올리버 심이 참여",
+   "source": "https://en.wikipedia.org/wiki/In_Colour_(Jamie_xx_album)"
+  },
+  {
+   "from": "take-care",
+   "to": "in-colour",
+   "type": "listen",
+   "label": "제이미 엑스엑스가 바탕을 만든 쓸쓸한 비트"
+  },
+  {
+   "from": "homework",
+   "to": "in-colour",
+   "type": "listen",
+   "label": "레이브와 하우스의 기억을 다시 만든 춤 음악"
+  },
+  {
+   "from": "otis-blue",
+   "to": "coming-home",
+   "type": "listen",
+   "label": "1960년대 남부 소울의 금관과 목소리"
+  },
+  {
+   "from": "back-to-black",
+   "to": "coming-home",
+   "type": "listen",
+   "label": "옛 방식으로 녹음해 되살린 레트로 소울"
+  },
+  {
+   "from": "lonerism",
+   "to": "currents",
+   "type": "document",
+   "label": "《Lonerism》 다음 테임 임팔라의 세 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/Currents_(Tame_Impala_album)"
+  },
+  {
+   "from": "cest-chic",
+   "to": "currents",
+   "type": "listen",
+   "label": "통통 튀는 디스코 베이스 라인"
+  }
+ ]
+}

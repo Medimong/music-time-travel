@@ -1,0 +1,133 @@
+{
+ "date": "2027-03-15",
+ "part": "2014-P1",
+ "year": 2014,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 134분",
+ "title": "기타 든 성자, 끝없는 고속도로, 외로운 시간",
+ "intro": "2014년 무렵 사람들은 점점 음반보다 노래 한 곡, 다운로드보다 스트리밍으로 음악을 들었다. 그해 7월부터 영국 공식 싱글 차트는 스트리밍 재생 수를 판매량에 더해 순위를 매기기 시작했다. 오늘의 세 음반은 2월부터 5월 사이에 나왔다. 텍사스 출신의 기타리스트 세인트 빈센트는 날카롭게 일그러진 기타와 금관으로 디지털 시대의 사람을 노래했고, 필라델피아의 밴드는 우울과 고독을 1980년대 미국 록의 끝없는 도로 같은 소리로 풀었다. 영국의 젊은 가수는 이루어지지 않은 사랑을 가스펠의 목소리로 불렀다. 오늘은 세 장으로 약 134분이다.",
+ "albums": [
+  {
+   "id": "st-vincent-2014",
+   "artist": "St. Vincent",
+   "title": "St. Vincent",
+   "short": "St. Vincent",
+   "released": "2014년 2월",
+   "genre": "아트 록 · 아트 팝",
+   "blurb": "일그러진 기타와 금관, 기계적인 리듬으로 디지털 시대의 사람을 그려 그래미를 받은 세인트 빈센트의 네 번째 음반.",
+   "length": "11곡 · 40분",
+   "spotify": "https://open.spotify.com/album/2PbvQ5ALJj6uXgz5X3ghro",
+   "apple": "https://music.apple.com/kr/album/1445873566",
+   "top": "Pop / Art Pop",
+   "sub": "Art Rock · Art Pop"
+  },
+  {
+   "id": "lost-in-the-dream",
+   "artist": "The War on Drugs",
+   "title": "Lost in the Dream",
+   "short": "Lost in the Dream",
+   "released": "2014년 3월",
+   "genre": "하트랜드 록 · 인디 록",
+   "blurb": "우울과 고독을 1980년대 미국 록의 넓고 몽롱한 소리로 풀어낸 더 워 온 드럭스의 세 번째 음반.",
+   "length": "10곡 · 61분",
+   "spotify": "https://open.spotify.com/album/6nD9jfVVX0OadsHJqmjObO",
+   "apple": "https://music.apple.com/kr/album/765568650",
+   "top": "Rock",
+   "sub": "Heartland Rock · Indie Rock"
+  },
+  {
+   "id": "lonely-hour",
+   "artist": "Sam Smith",
+   "title": "In the Lonely Hour",
+   "short": "In the Lonely Hour",
+   "released": "2014년 5월",
+   "genre": "소울 팝",
+   "blurb": "이루어지지 않은 사랑을 가스펠의 목소리로 불러 세계적인 히트를 거둔 샘 스미스의 데뷔작.",
+   "length": "10곡 · 33분",
+   "spotify": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov",
+   "apple": "https://music.apple.com/kr/album/1440814069",
+   "top": "Soul / R&B",
+   "sub": "Soul Pop · Pop Gospel"
+  }
+ ],
+ "essays": [
+  {
+   "id": "st-vincent-2014",
+   "heading": "디지털 시대의 성자",
+   "paras": [
+    "〈Rattlesnake〉는 삑삑대는 신시사이저와 기계적인 드럼으로 시작하고, 후반부에 애니 클라크의 기타가 찢어질 듯 비명을 지른다. 〈Digital Witness〉는 금관이 짧게 끊어 치는 펑크 리듬 위에서 모든 것을 사진으로 찍어 올려야 존재하는 듯한 세상을 비꼰다. 〈Birth in Reverse〉는 빠르고 날카로운 기타 리프로 달리고, 〈Prince Johnny〉와 〈I Prefer Your Love〉는 느리고 차분한 발라드다. 그의 기타는 흔한 록 기타와 달리 퍼즈(fuzz)와 신시사이저 같은 효과로 일그러져 마치 다른 악기처럼 들린다.",
+    "세인트 빈센트(본명 애니 클라크)는 텍사스 댈러스에서 자랐고 버클리 음대를 다녔다. 2012년 토킹 헤즈의 데이비드 번과 함께 음반을 내고 투어하면서 금관과 춤추는 무대를 익혔다. 이번 음반은 텍사스 오스틴에서 곡을 만들고 댈러스의 스튜디오에서 프로듀서 존 콩글턴과 녹음했다. 〈Rattlesnake〉는 텍사스 사막을 혼자 걷다 방울뱀을 만난 경험에서 나왔다고 그는 말했다.",
+    "음반은 2015년 그래미 최우수 얼터너티브 음반상을 받았다. 여성 솔로 음악가로는 1991년 시네이드 오코너 이후 두 번째였다. 1980년 토킹 헤즈의 《Remain in Light》와 1967년 지미 헨드릭스의 음반을 이어 들으면 기타를 새로운 소리로 바꾸려는 시도의 계보가 들린다."
+   ]
+  },
+  {
+   "id": "lost-in-the-dream",
+   "heading": "우울을 지나는 긴 도로",
+   "paras": [
+    "〈Under the Pressure〉는 9분 가까이 이어진다. 쉼 없이 구르는 드럼과 낮게 울리는 베이스, 겹겹이 쌓인 기타와 신시사이저가 안개처럼 퍼지고, 애덤 그랜듀시엘의 목소리는 그 속에서 밥 딜런처럼 웅얼거린다. 〈Red Eyes〉는 빠른 박자로 달리다 중간에 짧은 외침으로 터진다. 〈An Ocean in Between the Waves〉에서는 긴 기타 솔로가 끝없이 뻗어 가고, 〈Eyes to the Wind〉는 피아노가 이끄는 느긋한 노래다. 마치 밤에 차를 몰고 고속도로를 달리는 느낌이 든다.",
+    "더 워 온 드럭스는 필라델피아에서 그랜듀시엘과 커트 바일이 시작한 밴드다. 그랜듀시엘은 앞선 음반 투어를 마친 뒤 심한 불안과 우울, 외로움을 겪었고, 2년 가까이 곡을 고치고 또 고치며 이 음반을 만들었다. 그는 브루스 스프링스틴과 닐 영, 영국의 사이키델릭 밴드 스페이스멘 3 등에게서 영향을 받았다. 1980년대 라디오 록의 소리를 일부러 끌어왔지만, 그것을 흐릿하고 몽롱하게 바꿨다.",
+    "음반은 여러 매체에서 그해 최고의 음반으로 꼽혔다. 밴드는 이후 2017년 음반으로 그래미 최우수 록 음반상을 받았다. 1975년 브루스 스프링스틴의 《Born to Run》과 1974년 닐 영의 《On the Beach》를 이어 들어 보면 좋다."
+   ]
+  },
+  {
+   "id": "lonely-hour",
+   "heading": "외로운 시간의 가스펠",
+   "paras": [
+    "〈Money on My Mind〉는 빠르게 튀는 피아노와 박자 위에서 샘 스미스가 높은 가성(falsetto)을 쉽게 넘나든다. 〈Stay with Me〉는 단순한 피아노 화음과 손뼉, 가스펠 합창으로 하룻밤 상대에게 떠나지 말라고 부탁한다. 〈I'm Not the Only One〉은 1960년대 소울풍의 느린 발라드이고, 〈Lay Me Down〉은 피아노와 현악 위에서 목소리가 가장 높이 치솟는다.",
+    "스미스는 잉글랜드 케임브리지셔에서 자랐다. 2012년 영국 전자 음악 듀오 디스클로저의 〈Latch〉에 목소리를 빌려주며 이름을 알렸고, 이어 너티 보이의 〈La La La〉로 영국 1위에 올랐다. 데뷔작은 이루어지지 않은 한 사람을 향한 사랑을 노래한 음반이다. 〈Stay with Me〉는 톰 페티의 〈I Won't Back Down〉과 선율이 닮았다는 지적을 받아, 이후 페티와 제프 린이 작곡자로 함께 이름을 올렸다.",
+    "음반은 영국 1위에 올랐고 2014년 영국에서 두 번째, 미국에서 세 번째로 많이 팔린 음반이 됐다. 2015년 그래미에서 신인상, 올해의 레코드, 올해의 노래, 최우수 팝 보컬 음반 등 네 개 부문을 받았다. 2011년 아델의 《21》과 이어 들으면 2010년대 영국 소울 팝의 흐름이 보인다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "St. Vincent (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/St._Vincent_(album)"
+  },
+  {
+   "title": "Lost in the Dream · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lost_in_the_Dream"
+  },
+  {
+   "title": "In the Lonely Hour · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/In_the_Lonely_Hour"
+  },
+  {
+   "title": "UK Singles Chart · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/UK_Singles_Chart"
+  }
+ ],
+ "edges": [
+  {
+   "from": "remain-in-light",
+   "to": "st-vincent-2014",
+   "type": "listen",
+   "label": "데이비드 번과 함께 일한 기타리스트의 날카로운 펑크와 금관"
+  },
+  {
+   "from": "experienced",
+   "to": "st-vincent-2014",
+   "type": "listen",
+   "label": "기타를 일그러뜨려 새로운 소리로 바꾸다"
+  },
+  {
+   "from": "born-to-run",
+   "to": "lost-in-the-dream",
+   "type": "listen",
+   "label": "고속도로를 달리는 듯한 미국 록의 넓은 소리"
+  },
+  {
+   "from": "on-the-beach",
+   "to": "lost-in-the-dream",
+   "type": "listen",
+   "label": "우울과 고독을 노래하는 길고 느슨한 기타"
+  },
+  {
+   "from": "adele-21",
+   "to": "lonely-hour",
+   "type": "listen",
+   "label": "이별을 노래하는 영국 소울 팝의 큰 목소리"
+  }
+ ]
+}

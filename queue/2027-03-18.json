@@ -1,0 +1,118 @@
+{
+ "date": "2027-03-18",
+ "part": "2015-P1",
+ "year": 2015,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 123분",
+ "title": "나비가 된 래퍼, 어머니에게 보내는 노래",
+ "intro": "2015년 미국에서는 경찰의 총격으로 숨진 흑인들의 이름이 계속 늘었고, 4월 볼티모어에서는 경찰에 체포된 뒤 숨진 청년의 죽음으로 거센 시위가 일어났다. 거리의 시위대는 한 래퍼의 노래 후렴을 함께 외쳤다. 오늘의 두 음반은 3월 보름 간격으로 나왔다. 켄드릭 라마는 재즈와 펑크, 소울의 역사를 한 음반에 담아 성공한 흑인 래퍼의 죄책감과 공동체의 고통을 노래했고, 수피얀 스티븐스는 어린 자신을 떠났던 어머니의 죽음 뒤에 기타와 속삭임만으로 된 가장 조용한 음반을 만들었다. 오늘은 두 장으로 약 123분이다. 《To Pimp a Butterfly》가 79분에 이르러 두 장만 묶었다.",
+ "albums": [
+  {
+   "id": "tpab",
+   "artist": "Kendrick Lamar",
+   "title": "To Pimp a Butterfly",
+   "short": "To Pimp a Butterfly",
+   "released": "2015년 3월",
+   "genre": "재즈 랩 · 펑크",
+   "blurb": "재즈와 펑크, 소울의 역사를 엮어 흑인 공동체의 고통과 자신의 죄책감을 노래한 켄드릭 라마의 세 번째 음반.",
+   "length": "16곡 · 79분",
+   "spotify": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP",
+   "apple": "https://music.apple.com/kr/album/1440871877",
+   "top": "Hip-Hop",
+   "sub": "Jazz Rap · Conscious Hip-Hop"
+  },
+  {
+   "id": "carrie-lowell",
+   "artist": "Sufjan Stevens",
+   "title": "Carrie & Lowell",
+   "short": "Carrie & Lowell",
+   "released": "2015년 3월",
+   "genre": "인디 포크",
+   "blurb": "어머니의 죽음 뒤 기타와 속삭임만으로 어린 시절과 상실을 노래한 수피얀 스티븐스의 일곱 번째 음반.",
+   "length": "11곡 · 44분",
+   "spotify": "https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS",
+   "apple": "https://music.apple.com/kr/album/955572616",
+   "top": "Folk / Singer-Songwriter",
+   "sub": "Indie Folk · Chamber Folk"
+  }
+ ],
+ "essays": [
+  {
+   "id": "tpab",
+   "heading": "애벌레에서 나비로",
+   "paras": [
+    "〈Wesley's Theory〉는 옛 레코드의 지직거리는 소리와 함께 시작해, 팔러먼트의 조지 클린턴과 베이시스트 선더캣이 끈적한 펑크를 만든다. 〈King Kunta〉는 굵은 베이스 라인이 끌고 가는 서부 펑크이고, 〈u〉는 흐트러진 색소폰과 울먹이는 목소리로 자기혐오를 쏟아 내는 곡이다. 〈Alright〉은 퍼렐 윌리엄스가 만든 경쾌한 박자 위에서 '우린 괜찮을 거야'라고 반복한다. 곡 사이마다 라마는 한 편의 시를 한 줄씩 늘려 가며 읽고, 마지막 12분짜리 〈Mortal Man〉에서 그 시를 끝까지 읽은 뒤 세상을 떠난 투팍의 옛 인터뷰 목소리와 대화를 나눈다.",
+    "《good kid, m.A.A.d city》로 큰 성공을 거둔 라마는 2014년 남아프리카공화국을 여행하며 넬슨 만델라가 갇혀 있던 로벤섬의 감옥 등을 둘러봤고, 이 경험이 음반의 방향에 영향을 줬다. 그는 로스앤젤레스의 재즈 연주자들, 선더캣, 테라스 마틴, 색소폰 연주자 카마시 워싱턴, 피아니스트 로버트 글래스퍼 등과 함께 재즈와 펑크, 소울, 스포큰 워드를 한데 엮었다. 성공한 뒤 고향을 떠난 자신의 죄책감, 우울, 흑인 사회의 구조적 차별이 주제다.",
+    "음반은 첫 주 32만 장 넘게 팔리며 미국과 영국에서 1위에 올랐고, 2016년 그래미에서 최우수 랩 음반상을 받았다. 〈Alright〉의 후렴은 미국 곳곳의 경찰 폭력 반대 시위에서 구호처럼 불렸다. 1975년 팔러먼트의 《Mothership Connection》과 1973년 허비 행콕의 《Head Hunters》, 1971년 마빈 게이의 《What's Going On》을 이어 들으면 그가 무엇을 이어받았는지 들린다."
+   ]
+  },
+  {
+   "id": "carrie-lowell",
+   "heading": "오리건의 여름",
+   "paras": [
+    "〈Death with Dignity〉는 손가락으로 뜯는 어쿠스틱 기타와 피아노, 숨결 같은 목소리로 시작한다. 드럼은 거의 없고, 수피얀 스티븐스는 귀에 대고 속삭이듯 노래한다. 〈Should Have Known Better〉는 서너 살 무렵 비디오 가게에 자신을 두고 떠난 어머니의 기억으로 시작해, 후반부에 조카의 웃음에서 희망을 찾으며 전자 건반이 밝게 들어온다. 〈Fourth of July〉는 병상의 어머니와 나누는 대화를 피아노 몇 음으로 그리고, 마지막에 우리 모두 언젠가 죽는다는 짧은 문장을 조용히 반복한다.",
+    "스티븐스의 어머니 캐리는 정신 질환과 약물 문제를 겪었고, 그가 한 살 무렵 가족을 떠났다. 그는 어린 시절 몇 번의 여름을 오리건주 유진에서 어머니와 당시 새아버지 로웰과 함께 보냈다. 로웰 브럼스는 이후 스티븐스와 함께 음반사 애즈매틱 키티를 세웠다. 2012년 어머니가 세상을 떠난 뒤 그는 그 상실을 이 음반에 담았다. 전자음 가득했던 2010년 음반과 달리, 2000년대 초 그의 포크 음반들처럼 간소한 악기로 돌아갔다.",
+    "음반은 많은 평론가에게 그의 최고작으로 꼽혔고 2015년 여러 매체의 연말 목록 꼭대기에 올랐다. 2005년 그의 《Illinois》와 이어 들으면 같은 목소리가 화려한 관현악에서 기타 한 대로 줄어든 것이 들리고, 1972년 닉 드레이크의 《Pink Moon》과 함께 들어도 좋다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "To Pimp a Butterfly · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/To_Pimp_a_Butterfly"
+  },
+  {
+   "title": "Alright (Kendrick Lamar song) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Alright_(Kendrick_Lamar_song)"
+  },
+  {
+   "title": "Carrie & Lowell · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Carrie_%26_Lowell"
+  },
+  {
+   "title": "Sufjan Stevens · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sufjan_Stevens"
+  }
+ ],
+ "edges": [
+  {
+   "from": "gkmc",
+   "to": "tpab",
+   "type": "document",
+   "label": "《good kid, m.A.A.d city》 다음 켄드릭 라마의 세 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/To_Pimp_a_Butterfly"
+  },
+  {
+   "from": "mothership",
+   "to": "tpab",
+   "type": "document",
+   "label": "팔러먼트의 조지 클린턴이 〈Wesley's Theory〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/To_Pimp_a_Butterfly"
+  },
+  {
+   "from": "head-hunters",
+   "to": "tpab",
+   "type": "listen",
+   "label": "재즈와 펑크가 만나는 끈적한 베이스와 건반"
+  },
+  {
+   "from": "whats-going-on",
+   "to": "tpab",
+   "type": "listen",
+   "label": "흑인 공동체의 고통을 노래한 콘셉트 음반의 계보"
+  },
+  {
+   "from": "illinois",
+   "to": "carrie-lowell",
+   "type": "listen",
+   "label": "같은 음악가가 관현악을 덜어 내고 기타 한 대로"
+  },
+  {
+   "from": "pink-moon",
+   "to": "carrie-lowell",
+   "type": "listen",
+   "label": "속삭이는 목소리와 기타만으로 된 상실의 노래"
+  }
+ ]
+}

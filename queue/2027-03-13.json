@@ -1,0 +1,148 @@
+{
+ "date": "2027-03-13",
+ "part": "2013-P2",
+ "year": 2013,
+ "partNo": 2,
+ "partTotal": 3,
+ "total": "약 130분",
+ "title": "음악에 대한 항의, 사막의 록, 글래스고의 신시사이저",
+ "intro": "2013년 6월 미국 정보기관의 전 계약직원 에드워드 스노든이 정부의 대규모 감청을 폭로했다. 7월에는 비무장 흑인 소년을 쏜 자경단원이 무죄를 받자 '흑인의 생명도 소중하다(Black Lives Matter)'라는 구호가 인터넷에서 시작됐다. 오늘의 세 음반은 6월부터 9월 사이에 나왔다. 카니예 웨스트는 화려함을 버리고 거칠게 찢어지는 전자음으로 인종과 권력을 고발했고, 영국 셰필드의 록 밴드는 캘리포니아 사막에서 힙합의 느린 박자를 록에 들였다. 스코틀랜드 글래스고의 세 사람은 1980년대 신스 팝을 반짝이는 현재의 소리로 다시 만들었다. 오늘은 세 장으로 약 130분이다.",
+ "albums": [
+  {
+   "id": "yeezus",
+   "artist": "Kanye West",
+   "title": "Yeezus",
+   "short": "Yeezus",
+   "released": "2013년 6월",
+   "genre": "인더스트리얼 힙합",
+   "blurb": "거칠게 일그러진 전자음과 비명, 침묵으로 인종과 권력, 욕망을 고발한 카니예 웨스트의 가장 실험적인 음반.",
+   "length": "10곡 · 40분",
+   "spotify": "https://open.spotify.com/album/7D2NdGvBHIavgLhmcwhluK",
+   "apple": "https://music.apple.com/kr/album/1440873068",
+   "top": "Hip-Hop",
+   "sub": "Industrial Hip-Hop · Experimental Hip-Hop"
+  },
+  {
+   "id": "am-arctic",
+   "artist": "Arctic Monkeys",
+   "title": "AM",
+   "short": "AM",
+   "released": "2013년 9월",
+   "genre": "하드 록 · 사이키델릭 록",
+   "blurb": "캘리포니아 사막에서 힙합의 느린 박자와 무거운 리프를 섞은 악틱 몽키스의 다섯 번째 음반.",
+   "length": "12곡 · 42분",
+   "spotify": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu",
+   "apple": "https://music.apple.com/kr/album/663097964",
+   "top": "Rock",
+   "sub": "Hard Rock · Desert Rock"
+  },
+  {
+   "id": "bones-chvrches",
+   "artist": "CHVRCHES",
+   "title": "The Bones of What You Believe",
+   "short": "The Bones of What You Believe",
+   "released": "2013년 9월",
+   "genre": "신스 팝",
+   "blurb": "1980년대 신스 팝을 반짝이고 단단한 현재의 소리로 되살린 글래스고 3인조 처치스의 데뷔작.",
+   "length": "12곡 · 48분",
+   "spotify": "https://open.spotify.com/album/3c1JDmgLbqVAiOcbMxqddk",
+   "apple": "https://music.apple.com/kr/album/1445697191",
+   "top": "Electronic",
+   "sub": "Synth-Pop · Electropop"
+  }
+ ],
+ "essays": [
+  {
+   "id": "yeezus",
+   "heading": "음악에 대한 항의",
+   "paras": [
+    "〈On Sight〉는 다프트 펑크가 만든 찢어질 듯한 신시사이저 굉음으로 시작해, 갑자기 옛 가스펠 합창이 끼어들었다가 사라진다. 〈Black Skinhead〉는 쿵쿵 밟는 글램 록 드럼과 거친 숨소리, 비명으로 몰아친다. 〈Blood on the Leaves〉는 니나 시몬이 부른 〈Strange Fruit〉를 샘플로 써 흑인 린치의 노래와 현대의 이별 이야기를 겹치고, 그 뒤로 거대한 금관 같은 신시사이저가 내리찍는다. 마지막 〈Bound 2〉에서만 따뜻한 1970년대 소울 샘플이 돌아온다.",
+    "웨스트는 2012년부터 파리 등지에서 녹음했고, 다프트 펑크, 베네수엘라 출신 전자 음악가 아르카, 허드슨 모호크, 젊은 트래비스 스콧 등을 불렀다. 발매 15일 전에는 릭 루빈을 불러 곡을 덜어 내고 뼈대만 남겼다. 그는 이 음반을 '음악에 대한 항의'라고 불렀다. 싱글도 표지 그림도 없이, 투명한 CD 케이스에 빨간 테이프 한 줄만 붙여 냈고, 세계 여러 도시의 건물 벽에 〈New Slaves〉 영상을 쏘아 홍보했다.",
+    "음반은 미국 빌보드 1위로 데뷔했고 여러 매체가 그해 최고의 음반으로 꼽았다. 거친 전자음과 인더스트리얼 소리를 힙합에 들인 방식은 이후 젊은 래퍼와 프로듀서들에게 이어졌다. 니나 시몬의 노래와 2010년 《My Beautiful Dark Twisted Fantasy》를 앞뒤로 들으면 그 거리가 실감 난다."
+   ]
+  },
+  {
+   "id": "am-arctic",
+   "heading": "새벽 세 시의 리프",
+   "paras": [
+    "〈Do I Wanna Know?〉는 발을 구르는 듯한 느린 북과 손뼉, 묵직하게 끌리는 기타 리프로 시작한다. 알렉스 터너는 낮게 속삭이고, 높은 가성의 코러스가 뒤에서 대답한다. 〈R U Mine?〉은 빠르고 날카로운 리프로 달리고, 〈Why'd You Only Call Me When You're High?〉는 힙합처럼 느리고 끈적한 박자 위에서 새벽에 걸려 오는 전화를 노래한다. 마지막 〈I Wanna Be Yours〉는 영국 펑크 시인 존 쿠퍼 클라크의 시에 곡을 붙였다.",
+    "밴드는 잉글랜드 셰필드에서 결성돼 2006년 데뷔작으로 영국에서 가장 빨리 팔린 데뷔 음반 기록을 세웠다. 이후 미국으로 건너간 그들은 오랜 프로듀서 제임스 포드와 함께 로스앤젤레스와 캘리포니아 조슈아트리 사막의 스튜디오에서 이 음반을 녹음했다. 퀸스 오브 더 스톤 에이지의 조시 옴이 참여했다. 터너는 닥터 드레와 아웃캐스트 같은 힙합의 리듬과 1970년대 블랙 사바스의 리프를 함께 섞고 싶었다고 알려져 있다.",
+    "음반은 영국 앨범 차트 1위에 올랐고 브릿 어워드 올해의 영국 앨범상을 받았다. 〈Do I Wanna Know?〉는 이후 스트리밍 시대에 가장 많이 재생된 록 노래 가운데 하나가 됐다. 2006년 데뷔작과 이어 들으면 셰필드의 빠른 십 대가 사막의 느린 어른으로 바뀐 것이 들린다."
+   ]
+  },
+  {
+   "id": "bones-chvrches",
+   "heading": "차가운 신시사이저, 뜨거운 목소리",
+   "paras": [
+    "〈The Mother We Share〉는 잘게 쪼갠 목소리 샘플과 반짝이는 신시사이저 선율로 시작하고, 로런 메이베리의 맑고 높은 목소리가 그 위를 날아간다. 〈Recover〉와 〈Gun〉은 묵직한 전자 드럼과 굵은 신시사이저 베이스로 달리며, 후렴마다 크게 터진다. 소리는 1980년대 신스 팝의 악기를 닮았지만 훨씬 단단하고 깨끗하게 다듬어져 있다. 〈Under the Tide〉에서는 멤버 마틴 도허티가 노래를 맡는다.",
+    "처치스는 스코틀랜드 글래스고의 세 사람, 메이베리와 이언 쿡, 도허티로 2011년에 결성됐다. 세 사람은 글래스고의 작은 지하 스튜디오에서 직접 곡을 쓰고 제작했다. 2012년 인터넷에 올린 〈Lies〉와 〈The Mother We Share〉가 음악 블로그에서 화제가 되면서 이름을 알렸다. 메이베리는 2013년 영국 신문에 온라인에서 쏟아지는 여성 음악가 혐오를 고발하는 글을 써 큰 반향을 일으켰다.",
+    "음반은 영국 차트 9위에 올랐고, 2010년대 초 신스 팝이 인디 음악의 중심으로 돌아오는 흐름을 이끈 음반 가운데 하나가 됐다. 1981년 휴먼 리그의 《Dare》와 1983년 유리스믹스의 《Sweet Dreams》를 먼저 들으면 그들이 어디서 출발했는지 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Yeezus · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Yeezus"
+  },
+  {
+   "title": "AM (Arctic Monkeys album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/AM_(Arctic_Monkeys_album)"
+  },
+  {
+   "title": "The Bones of What You Believe · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Bones_of_What_You_Believe"
+  },
+  {
+   "title": "Black Lives Matter · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Black_Lives_Matter"
+  }
+ ],
+ "edges": [
+  {
+   "from": "mbdtf",
+   "to": "yeezus",
+   "type": "document",
+   "label": "《My Beautiful Dark Twisted Fantasy》 다음 카니예 웨스트의 여섯 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/Yeezus"
+  },
+  {
+   "from": "ram",
+   "to": "yeezus",
+   "type": "document",
+   "label": "다프트 펑크가 〈On Sight〉 등 제작에 참여",
+   "source": "https://en.wikipedia.org/wiki/Yeezus"
+  },
+  {
+   "from": "wild-wind",
+   "to": "yeezus",
+   "type": "listen",
+   "label": "〈Blood on the Leaves〉가 샘플로 쓴 니나 시몬의 목소리"
+  },
+  {
+   "from": "whatever-people",
+   "to": "am-arctic",
+   "type": "document",
+   "label": "데뷔작에서 이어진 악틱 몽키스의 다섯 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/AM_(Arctic_Monkeys_album)"
+  },
+  {
+   "from": "paranoid",
+   "to": "am-arctic",
+   "type": "listen",
+   "label": "느리고 묵직하게 끌리는 기타 리프"
+  },
+  {
+   "from": "dare",
+   "to": "bones-chvrches",
+   "type": "listen",
+   "label": "1980년대 신스 팝을 현재의 소리로"
+  },
+  {
+   "from": "sweet-dreams",
+   "to": "bones-chvrches",
+   "type": "listen",
+   "label": "차가운 신시사이저와 뜨거운 여성 목소리"
+  }
+ ]
+}

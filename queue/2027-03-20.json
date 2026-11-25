@@ -1,0 +1,114 @@
+{
+ "date": "2027-03-20",
+ "part": "2015-P3",
+ "year": 2015,
+ "partNo": 3,
+ "partTotal": 3,
+ "total": "약 114분",
+ "title": "어둠에서 나온 팝스타, 안녕이라는 인사",
+ "intro": "2015년 말 스트리밍은 이미 음악 산업의 중심이 됐지만, 가장 큰 스타들은 여전히 그 방식을 의심했다. 그해 11월 아델은 새 음반을 스트리밍에 올리지 않았는데도 미국에서 첫 주에만 300만 장 넘게 팔았다. 오늘의 두 음반은 8월과 11월에 나왔다. 4년 전 얼굴 없이 어두운 믹스테이프를 풀었던 위켄드는 마이클 잭슨을 닮은 목소리로 차트 꼭대기의 팝스타가 됐고, 아델은 엄마가 된 뒤 지나간 시간과 옛 자신에게 안부를 묻는 음반으로 돌아왔다. 오늘은 두 장으로 약 114분이다. 두 음반 모두 그해 가을 가장 큰 팝 음반이었고 《Beauty Behind the Madness》가 65분에 이르러 두 장만 묶었다.",
+ "albums": [
+  {
+   "id": "bbtm",
+   "artist": "The Weeknd",
+   "title": "Beauty Behind the Madness",
+   "short": "Beauty Behind the Madness",
+   "released": "2015년 8월",
+   "genre": "R&B · 팝",
+   "blurb": "어두운 R&B에서 출발해 〈Can't Feel My Face〉로 차트 꼭대기의 팝스타가 된 위켄드의 두 번째 정규 음반.",
+   "length": "14곡 · 65분",
+   "spotify": "https://open.spotify.com/album/28ZKQMoNBB0etKXZ97G2SN",
+   "apple": "https://music.apple.com/kr/album/1440826239",
+   "top": "Soul / R&B",
+   "sub": "Alternative R&B · Pop"
+  },
+  {
+   "id": "adele-25",
+   "artist": "Adele",
+   "title": "25",
+   "short": "25",
+   "released": "2015년 11월",
+   "genre": "소울 팝",
+   "blurb": "엄마가 된 뒤 지나간 시간과 옛 자신에게 안부를 물어 첫 주 미국 판매 기록을 세운 아델의 세 번째 음반.",
+   "length": "11곡 · 48분",
+   "spotify": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi",
+   "apple": "https://music.apple.com/kr/album/1051331933",
+   "top": "Soul / R&B",
+   "sub": "Soul Pop · Pop Ballad"
+  }
+ ],
+ "essays": [
+  {
+   "id": "bbtm",
+   "heading": "어둠 속에서 나온 팝",
+   "paras": [
+    "〈Real Life〉는 무거운 현악과 북으로 시작하고, 〈The Hills〉는 공포 영화처럼 깔리는 낮은 굉음과 찢어지는 소리 위에서 아벨 테스파예가 비밀스러운 밤의 관계를 노래한다. 〈Can't Feel My Face〉는 스웨덴 작곡가 맥스 마틴과 만든 곡으로, 통통 튀는 베이스와 손뼉, 마이클 잭슨을 닮은 높은 목소리로 된 밝은 팝이다. 〈Earned It〉은 왈츠처럼 흔들리는 현악 위의 느린 노래이고, 〈Prisoner〉에서는 라나 델 레이와 함께 낮고 몽롱하게 부른다. 마지막 〈Angel〉은 합창과 함께 크게 부풀어 오른다.",
+    "테스파예는 2011년 무료 믹스테이프 세 장으로 이름을 알렸고, 2013년 첫 정규 음반은 기대만큼의 반응을 얻지 못했다. 그는 2015년 초 영화 〈그레이의 50가지 그림자〉에 실린 〈Earned It〉으로 처음 큰 히트를 거뒀다. 이번 음반에서는 오랜 동료 일랑겔로와 함께 맥스 마틴, 카니예 웨스트 등이 참여했고, 어두운 가사는 그대로 두되 소리는 훨씬 밝고 큰 팝으로 바꿨다.",
+    "〈Can't Feel My Face〉와 〈The Hills〉가 연달아 미국 싱글 차트 1위에 올랐고, 음반은 그의 첫 빌보드 1위 음반이 됐다. 2016년 그래미에서 최우수 어반 컨템퍼러리 음반상을 받았다. 2011년 《House of Balloons》와 1982년 《Thriller》를 앞뒤로 들으면 그가 어디서 출발해 어디를 향했는지 들린다."
+   ]
+  },
+  {
+   "id": "adele-25",
+   "heading": "과거의 나에게 거는 전화",
+   "paras": [
+    "〈Hello〉는 느린 피아노 화음과 낮게 깔린 목소리로 시작해, 후렴에서 드럼과 합창이 들어오며 아델의 목소리가 크게 터진다. 옛 연인에게, 그리고 예전의 자신에게 거는 전화 같은 노래다. 〈Send My Love (To Your New Lover)〉는 맥스 마틴과 만든 곡으로, 손가락으로 튕기는 기타와 경쾌한 박자가 이끈다. 〈When We Were Young〉은 1970년대 소울 발라드처럼 천천히 차오르고, 〈River Lea〉는 오르간과 가스펠 합창으로 런던 동네의 강을 노래한다. 〈All I Ask〉는 피아노 하나로 마지막 밤을 노래한다.",
+    "아델은 2012년 아들을 낳은 뒤 한동안 활동을 쉬었다. 제목은 이번에도 만들 때의 나이에서 땄고, 그는 이 음반을 이별의 음반이 아니라 화해의 음반이라고 불렀다. 그렉 커스틴, 데인저 마우스, 맥스 마틴, 토바이어스 제소 주니어 등이 함께했고, 전자음과 1980년대 R&B, 오르간을 조금씩 들였다. 그는 이 음반을 처음에 스트리밍 서비스에 올리지 않았다.",
+    "음반은 미국에서 첫 주에만 338만 장이 팔려 판매 집계 이래 최고 기록을 세웠고 32개국에서 1위로 데뷔했다. 〈Hello〉는 미국에서 일주일 만에 디지털 판매 100만 건을 넘긴 첫 노래가 됐다. 2017년 그래미에서 올해의 앨범을 포함한 다섯 개 부문을 받았다. 2011년 《21》과 이어 들으면 스물한 살의 분노가 스물다섯 살의 그리움으로 바뀐 것이 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Beauty Behind the Madness · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Beauty_Behind_the_Madness"
+  },
+  {
+   "title": "Can't Feel My Face · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Can%27t_Feel_My_Face"
+  },
+  {
+   "title": "25 (Adele album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/25_(Adele_album)"
+  },
+  {
+   "title": "Hello (Adele song) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Hello_(Adele_song)"
+  }
+ ],
+ "edges": [
+  {
+   "from": "house-of-balloons",
+   "to": "bbtm",
+   "type": "document",
+   "label": "얼굴 없는 믹스테이프에서 출발한 위켄드의 두 번째 정규 음반",
+   "source": "https://en.wikipedia.org/wiki/Beauty_Behind_the_Madness"
+  },
+  {
+   "from": "thriller",
+   "to": "bbtm",
+   "type": "listen",
+   "label": "〈Can't Feel My Face〉의 마이클 잭슨풍 팝"
+  },
+  {
+   "from": "born-to-die",
+   "to": "bbtm",
+   "type": "document",
+   "label": "라나 델 레이가 〈Prisoner〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/Beauty_Behind_the_Madness"
+  },
+  {
+   "from": "x-sheeran",
+   "to": "bbtm",
+   "type": "document",
+   "label": "에드 시런이 〈Dark Times〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/Beauty_Behind_the_Madness"
+  },
+  {
+   "from": "adele-21",
+   "to": "adele-25",
+   "type": "document",
+   "label": "《21》 다음 아델의 세 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/25_(Adele_album)"
+  }
+ ]
+}

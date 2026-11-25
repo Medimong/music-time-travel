@@ -1,0 +1,112 @@
+{
+ "date": "2027-03-17",
+ "part": "2014-P3",
+ "year": 2014,
+ "partNo": 3,
+ "partTotal": 3,
+ "total": "약 105분",
+ "title": "1989년에 다시 태어나다, 14년 만의 메시아",
+ "intro": "2014년 11월 테일러 스위프트는 자신의 모든 음반을 스포티파이에서 내렸다. 공짜로 듣는 스트리밍이 음악가에게 정당한 대가를 주지 않는다는 이유였고, 이 일은 스트리밍 시대의 음악 가치를 두고 큰 논쟁을 일으켰다. 한 달 뒤 미국 빌보드 앨범 차트도 스트리밍 재생 수를 판매량으로 환산해 반영하기 시작했다. 오늘의 두 음반은 10월과 12월에 나왔다. 스위프트는 컨트리를 완전히 떠나 1980년대 신스 팝으로 다시 태어났고, 디안젤로는 퍼거슨과 뉴욕에서 이어지던 시위 속에서 14년 만의 음반을 예정보다 앞당겨 냈다. 오늘은 두 장으로 약 105분이다. 두 음반 모두 깊이 들을 거리가 많아 두 장만 묶었다.",
+ "albums": [
+  {
+   "id": "ts-1989",
+   "artist": "Taylor Swift",
+   "title": "1989",
+   "short": "1989",
+   "released": "2014년 10월",
+   "genre": "신스 팝",
+   "blurb": "컨트리를 떠나 1980년대 신스 팝으로 다시 태어나 그래미 올해의 앨범을 받은 테일러 스위프트의 다섯 번째 음반.",
+   "length": "13곡 · 49분",
+   "spotify": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j",
+   "apple": "https://music.apple.com/kr/album/1445888258",
+   "top": "Pop / Art Pop",
+   "sub": "Synth-Pop · Electropop"
+  },
+  {
+   "id": "black-messiah",
+   "artist": "D'Angelo and The Vanguard",
+   "title": "Black Messiah",
+   "short": "Black Messiah",
+   "released": "2014년 12월",
+   "genre": "네오 소울 · 펑크",
+   "blurb": "14년 만에 돌아와 흐릿하고 끈적한 아날로그 펑크로 시대의 분노와 사랑을 노래한 디안젤로의 세 번째 음반.",
+   "length": "12곡 · 56분",
+   "spotify": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6",
+   "apple": "https://music.apple.com/kr/album/950764300",
+   "top": "Soul / R&B",
+   "sub": "Neo Soul · Psychedelic Funk"
+  }
+ ],
+ "essays": [
+  {
+   "id": "ts-1989",
+   "heading": "태어난 해로 돌아가기",
+   "paras": [
+    "〈Welcome to New York〉은 반짝이는 신시사이저와 전자 드럼으로 시작해, 기타가 거의 들리지 않는다. 〈Blank Space〉는 손가락 튕기는 소리 같은 박자와 비어 있는 공간 위에서, 언론이 만든 '연애 중독자' 이미지를 일부러 과장해 비꼰다. 〈Style〉은 1980년대 신스 팝풍의 기타 리프와 미끄러지는 베이스가 이끌고, 〈Out of the Woods〉는 같은 질문을 반복하는 후렴 위로 북과 합창이 거대하게 쌓인다. 〈Shake It Off〉는 금관과 손뼉으로 된 경쾌한 팝이다.",
+    "제목은 스위프트가 태어난 해에서 땄다. 그는 1980년대 말의 팝 음악에서 영감을 받아, 처음부터 끝까지 팝 음반을 만들겠다고 밝혔다. 2012년 《Red》에서 함께한 스웨덴 작곡가 맥스 마틴과 셸백이 중심이 됐고, 잭 앤터노프가 새로 함께했다. 어쿠스틱 기타 대신 신시사이저와 드럼 머신, 전자적으로 다듬은 코러스가 소리를 채운다. 가사는 여전히 자신의 연애와 이별, 그리고 뉴욕에서의 새 출발 이야기다.",
+    "음반은 첫 주에 미국에서 128만 장 넘게 팔렸고 빌보드 앨범 차트 1위를 11주 동안 지켰다. 2016년 그래미에서 올해의 앨범상을 받아, 그는 이 상을 두 번 받은 첫 여성 솔로 가수가 됐다. 1983년 마돈나의 데뷔작과 1981년 휴먼 리그의 《Dare》를 이어 들으면 그가 돌아간 시대의 소리가 들린다."
+   ]
+  },
+  {
+   "id": "black-messiah",
+   "heading": "14년 만의 메시아",
+   "paras": [
+    "〈Ain't That Easy〉는 늘어지게 뒤로 끌리는 드럼과 흐릿한 기타, 겹겹이 쌓인 디안젤로의 목소리로 시작한다. 모든 소리가 낡은 테이프에 녹음한 것처럼 탁하고 끈적하다. 〈1000 Deaths〉는 연설 샘플과 찌그러진 베이스, 거칠게 울리는 드럼으로 전쟁터 같은 소리를 만든다. 〈Really Love〉는 스페인풍 기타와 현악, 속삭이는 목소리로 된 부드러운 사랑 노래이고, 〈Sugah Daddy〉는 피아노와 손뼉이 튀는 장난스러운 펑크다. 〈The Charade〉는 사회의 위선과 차별을 노래한다.",
+    "디안젤로는 2000년 《Voodoo》로 큰 성공을 거둔 뒤, 성적 대상으로만 소비되는 유명세와 개인적 문제 때문에 오랫동안 사라졌다. 그는 드러머 퀘스트러브, 베이시스트 피노 팔라디노, 트럼펫 연주자 로이 하그로브 등과 오랜 시간에 걸쳐 녹음했고, 처음부터 끝까지 아날로그 장비로 탁한 펑크 소리를 고집했다. 퍼거슨과 뉴욕에서 경찰 폭력에 항의하는 시위가 이어지자, 예정보다 앞당겨 2014년 12월 15일 공개한 것으로 알려져 있다.",
+    "음반은 2016년 그래미 최우수 R&B 음반상을 받았고, 〈Really Love〉는 최우수 R&B 노래상을 받았다. 이 음반은 그의 생전 마지막 음반이 됐다. 평론가들은 그 탁한 소리를 1971년 슬라이 앤 더 패밀리 스톤의 《There's a Riot Goin' On》에 견줬다. 2000년 《Voodoo》와 1971년 그 음반을 이어 들으면 좋다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "1989 (Taylor Swift album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/1989_(Taylor_Swift_album)"
+  },
+  {
+   "title": "Black Messiah (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Black_Messiah_(album)"
+  },
+  {
+   "title": "Billboard 200 · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Billboard_200"
+  },
+  {
+   "title": "D'Angelo · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/D%27Angelo"
+  }
+ ],
+ "edges": [
+  {
+   "from": "red-taylor",
+   "to": "ts-1989",
+   "type": "document",
+   "label": "《Red》 다음 테일러 스위프트의 다섯 번째 음반, 맥스 마틴과 다시 작업",
+   "source": "https://en.wikipedia.org/wiki/1989_(Taylor_Swift_album)"
+  },
+  {
+   "from": "madonna-1983",
+   "to": "ts-1989",
+   "type": "listen",
+   "label": "1980년대 신스 팝의 반짝이는 신시사이저"
+  },
+  {
+   "from": "dare",
+   "to": "ts-1989",
+   "type": "listen",
+   "label": "전자 드럼과 신시사이저로 된 팝"
+  },
+  {
+   "from": "voodoo",
+   "to": "black-messiah",
+   "type": "document",
+   "label": "《Voodoo》 이후 14년 만의 디안젤로 음반",
+   "source": "https://en.wikipedia.org/wiki/Black_Messiah_(album)"
+  },
+  {
+   "from": "riot",
+   "to": "black-messiah",
+   "type": "listen",
+   "label": "탁하고 끈적한 아날로그 펑크와 시대의 분노"
+  }
+ ]
+}
