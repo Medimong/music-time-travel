@@ -1,0 +1,136 @@
+{
+ "date": "2027-04-05",
+ "part": "2021-P1",
+ "year": 2021,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 131분",
+ "title": "운전면허, 잃어버린 여권, 여자들의 행성",
+ "intro": "2021년 1월 미국 의사당이 습격당했고, 백신 접종이 시작됐지만 공연장은 여전히 대부분 닫혀 있었다. 사람들은 집 안에서 틱톡과 스트리밍으로 음악을 만났고, 그 길로 가장 먼저 도착한 것은 열일곱 살의 이별 노래였다. 한 곡이 짧은 영상 속에서 수백만 번 반복되면 음반 하나의 운명이 바뀌는 시대가 열렸다. 오늘은 5월과 6월에 나온 세 장, 약 131분이다. 디즈니 배우 출신 올리비아 로드리고의 데뷔 음반, 여권을 들고 세계를 떠도는 타일러, 더 크리에이터의 음반, 스스로 만든 행성의 여왕이 된 도자 캣의 음반이다. 셋 다 집 안에서 만들어졌지만 들어 보면 문밖으로 뛰쳐나가고 싶은 소리다.",
+ "albums": [
+  {
+   "id": "sour",
+   "artist": "Olivia Rodrigo",
+   "title": "SOUR",
+   "short": "SOUR",
+   "released": "2021년 5월",
+   "genre": "팝 · 팝 펑크",
+   "blurb": "피아노 발라드와 팝 펑크를 오가며 열일곱 살의 질투와 분노를 그대로 쏟아 낸 올리비아 로드리고의 데뷔 음반.",
+   "length": "11곡 · 35분",
+   "spotify": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j",
+   "apple": "https://music.apple.com/kr/album/1560735414",
+   "top": "Pop / Art Pop",
+   "sub": "Teen Pop · Pop Punk"
+  },
+  {
+   "id": "cmiygl",
+   "artist": "Tyler, The Creator",
+   "title": "CALL ME IF YOU GET LOST",
+   "short": "CALL ME IF YOU GET LOST",
+   "released": "2021년 6월",
+   "genre": "힙합 · 소울",
+   "blurb": "DJ 드라마의 외침을 길잡이 삼아 믹스테이프 시절의 거친 랩과 소울, 레게를 오가는 타일러, 더 크리에이터의 여행기.",
+   "length": "16곡 · 53분",
+   "spotify": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9",
+   "apple": "https://music.apple.com/kr/album/1573484415",
+   "top": "Hip-Hop",
+   "sub": "Alternative Hip-Hop · Mixtape Rap"
+  },
+  {
+   "id": "planet-her",
+   "artist": "Doja Cat",
+   "title": "Planet Her",
+   "short": "Planet Her",
+   "released": "2021년 6월",
+   "genre": "팝 · 알앤비 · 힙합",
+   "blurb": "디스코 팝, 아프로비츠, 알앤비, 랩을 한 장에 담아 다섯 곡을 모두 핫 100 20위 안에 올린 도자 캣의 행성.",
+   "length": "14곡 · 44분",
+   "spotify": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW",
+   "apple": "https://music.apple.com/kr/album/1571168930",
+   "top": "Soul / R&B",
+   "sub": "Pop-R&B · Pop Rap"
+  }
+ ],
+ "essays": [
+  {
+   "id": "sour",
+   "heading": "열일곱 살의 쓴맛",
+   "paras": [
+    "〈drivers license〉는 낮게 깔린 피아노와 속삭이는 목소리로 시작해, 브리지에서 드럼과 합창 같은 화음이 한꺼번에 터진다. 운전면허를 땄는데 함께 달릴 사람이 없다는 단순한 장면 하나로 곡 전체를 끌고 간다. 반대로 첫 곡 〈brutal〉은 일그러진 기타와 빠른 드럼으로 십 대의 불만을 쏟아 내고, 〈good 4 u〉는 통통 튀는 베이스로 시작해 후렴에서 팝 펑크(Pop Punk)의 질주로 바뀐다. 한 음반 안에서 침대에 누워 우는 노래와 방문을 걷어차는 노래가 번갈아 나온다.",
+    "로드리고는 디즈니 드라마 배우였다. 프로듀서 댄 니그로가 드라마 사운드트랙에서 그의 노래를 듣고 인스타그램으로 연락했고, 둘은 봉쇄 속에서 곡을 만들었다. 2021년 1월 8일 나온 〈drivers license〉가 틱톡과 스트리밍에서 폭발하자, EP로 계획했던 작업은 정규 음반이 됐다. 로드리고는 테일러 스위프트, 앨러니스 모리셋, 노 다웃을 영향으로 꼽았고, 〈1 step forward, 3 steps back〉은 스위프트의 〈New Year's Day〉 피아노 선율을 빌려 왔다.",
+    "음반은 빌보드 200 1위에 올랐고, 데뷔 음반으로는 처음으로 두 곡을 핫 100 1위로 데뷔시켰다. 2022년 그래미에서 최우수 신인상과 최우수 팝 보컬 음반상을 받았다. 1994년 그린 데이의 《Dookie》와 이어 들으면 팝 펑크가 한 세대 뒤에 어떻게 십 대 여성의 목소리로 돌아왔는지 들린다."
+   ]
+  },
+  {
+   "id": "cmiygl",
+   "heading": "여권을 든 타일러",
+   "paras": [
+    "음반은 DJ 드라마의 외침으로 열린다. 2000년대 미국 남부 힙합 믹스테이프 시리즈 갱스타 그릴즈(Gangsta Grillz)를 진행하던 그가, 이번에는 곡 사이사이에 끼어들어 타일러를 소개하고 부추긴다. 〈LUMBERJACK〉은 둔탁한 드럼 위에서 거칠게 랩을 쏟아 내고, 〈WUSYANAME〉은 1990년대 알앤비를 비튼 달콤한 곡이다. 8분이 넘는 〈WILSHIRE〉는 반주를 거의 걷어 내고 친구의 연인을 사랑한 이야기를 길게 털어놓는다. 〈SWEET / I THOUGHT YOU WANTED TO DANCE〉는 소울 발라드로 시작해 후반부에 레게 리듬으로 넘어간다.",
+    "타일러는 2017년 《Flower Boy》와 2019년 《IGOR》에서 노래하는 소울 쪽으로 기울었다가, 이번에는 데뷔 시절의 거친 랩을 다시 꺼냈다. 표지는 타일러 보들레르라는 가상 인물의 신분증이다. 그는 이 이름을 레모니 스니켓의 소설 《위험한 대결》의 보들레르 남매에서 따 왔다고 말했고, 표지 디자인은 1900년대 초 여권과 여행증에서 영감을 받았다. 음반 전체가 고급 호텔과 요트, 유럽 여행 사이에서 사랑을 잃은 한 남자의 일기처럼 흐른다.",
+    "음반은 빌보드 200 1위로 데뷔했고, 2022년 그래미 최우수 랩 음반상을 받았다. 2023년에는 미공개 곡을 더한 판이 나왔다. 2019년 《IGOR》와 이어 들으면 노래하던 타일러가 다시 랩으로 돌아오는 길이 들린다."
+   ]
+  },
+  {
+   "id": "planet-her",
+   "heading": "스스로 만든 행성",
+   "paras": [
+    "첫 곡 〈Woman〉은 아프로비츠(Afrobeats)의 통통 튀는 타악기와 낮은 베이스 위에서 도자 캣이 랩과 노래를 오간다. 〈Kiss Me More〉는 SZA와 함께 부른 곡으로, 1980년대 팝을 떠올리게 하는 디스코 기타와 매끈한 후렴이 귀에 붙는다. 〈Need to Know〉는 몽롱한 신시사이저와 낮은 목소리의 랩이고, 〈You Right〉는 더 위켄드와 함께 부른 느린 알앤비다. 도자 캣은 곡마다 목소리를 바꾼다. 어떤 곡에서는 귀엽게, 어떤 곡에서는 거칠게 랩을 하고, 다른 곡에서는 알앤비 가수처럼 길게 노래한다.",
+    "도자 캣은 2019년 두 번째 음반 《Hot Pink》의 〈Say So〉가 틱톡 춤으로 퍼지며 스타가 됐다. 음반의 절반은 2019년 이별 뒤 하와이에서 쓰였고, 녹음은 대부분 봉쇄 속에 로스앤젤레스의 집 스튜디오와 녹음실에서 이뤄졌다. 엔지니어는 그가 모든 화음과 배경 보컬을 직접 설계했다고 말했다. 제목의 행성은 그가 만든 가상의 세계이고, 음반은 그 행성의 여성성과 연애, 고독을 노래한다.",
+    "다섯 개의 싱글이 모두 핫 100 20위 안에 들었고, 음반은 2021년 세계에서 열 번째로 많이 팔린 음반이 됐다. 〈Kiss Me More〉는 2022년 그래미에서 최우수 팝 듀오/그룹 퍼포먼스상을 받았다. SZA의 2017년 《Ctrl》과 이어 들으면 알앤비와 팝, 랩의 경계가 어떻게 무너졌는지 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Sour (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sour_(album)"
+  },
+  {
+   "title": "Call Me If You Get Lost · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Call_Me_If_You_Get_Lost"
+  },
+  {
+   "title": "Planet Her · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Planet_Her"
+  },
+  {
+   "title": "Drivers License · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Drivers_License"
+  }
+ ],
+ "edges": [
+  {
+   "from": "dookie",
+   "to": "sour",
+   "type": "listen",
+   "label": "통통 튀는 베이스와 질주하는 팝 펑크 후렴"
+  },
+  {
+   "from": "red-taylor",
+   "to": "sour",
+   "type": "listen",
+   "label": "이별의 장면 하나로 곡을 끌고 가는 노랫말"
+  },
+  {
+   "from": "igor",
+   "to": "cmiygl",
+   "type": "document",
+   "label": "《IGOR》 다음 타일러, 더 크리에이터의 음반",
+   "source": "https://en.wikipedia.org/wiki/Call_Me_If_You_Get_Lost"
+  },
+  {
+   "from": "ctrl",
+   "to": "planet-her",
+   "type": "document",
+   "label": "SZA가 〈Kiss Me More〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/Planet_Her"
+  },
+  {
+   "from": "after-hours",
+   "to": "planet-her",
+   "type": "document",
+   "label": "더 위켄드가 〈You Right〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/Planet_Her"
+  }
+ ]
+}

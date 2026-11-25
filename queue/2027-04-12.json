@@ -1,0 +1,127 @@
+{
+ "date": "2027-04-12",
+ "part": "2023-P2",
+ "year": 2023,
+ "partNo": 2,
+ "partTotal": 3,
+ "total": "약 128분",
+ "title": "멕시코의 코리도, 서커스의 유토피아",
+ "intro": "2023년 여름 할리우드의 작가와 배우들이 인공지능과 스트리밍 시대의 대우를 두고 파업에 들어갔다. 그 사이 음악 차트에서는 뜻밖의 소리가 정상 근처까지 올라왔다. 멕시코 시골의 기타와 튜바로 연주하는 이야기 노래가 스트리밍을 타고 미국 젊은이들의 귀에 닿은 것이다. 오늘은 6월과 7월에 나온 두 장, 약 128분이다. 트래비스 스콧의 음반이 74분에 이르러 두 장만 묶었다. 하나는 멕시코 전통 코리도에 트랩의 태도를 더한 페소 플루마의 음반이고, 다른 하나는 수십 명의 협업자와 함께 거대한 소리의 서커스를 펼친 트래비스 스콧의 음반이다. 같은 여름에 나온 지역 음악과 블록버스터다.",
+ "albums": [
+  {
+   "id": "genesis-pluma",
+   "artist": "Peso Pluma",
+   "title": "GÉNESIS",
+   "short": "GÉNESIS",
+   "released": "2023년 6월",
+   "genre": "코리도스 툼바도스 · 멕시코 지역 음악",
+   "blurb": "레킨토 기타와 튜바의 멕시코 코리도에 트랩의 태도와 목소리를 얹어 멕시코 지역 음악을 빌보드 200 3위까지 올린 페소 플루마의 음반.",
+   "length": "17곡 · 54분",
+   "spotify": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH",
+   "apple": "https://music.apple.com/kr/album/1694412585",
+   "top": "Latin / Caribbean",
+   "sub": "Corridos Tumbados · Regional Mexican"
+  },
+  {
+   "id": "utopia",
+   "artist": "Travis Scott",
+   "title": "UTOPIA",
+   "short": "UTOPIA",
+   "released": "2023년 7월",
+   "genre": "힙합 · 트랩 · 사이키델릭 랩",
+   "blurb": "거친 산업적 소음과 사이키델릭한 신시사이저, 수십 명의 협업자를 끌어들여 5년 만에 돌아온 트래비스 스콧의 네 번째 음반.",
+   "length": "19곡 · 74분",
+   "spotify": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ",
+   "apple": "https://music.apple.com/kr/album/1699712635",
+   "top": "Hip-Hop",
+   "sub": "Trap · Psychedelic Rap"
+  }
+ ],
+ "essays": [
+  {
+   "id": "genesis-pluma",
+   "heading": "기타와 튜바로 부르는 새 코리도",
+   "paras": [
+    "〈ROSA PASTEL〉은 레킨토(Requinto)라고 부르는 작고 높은 음의 기타가 빠르게 장식음을 뿌리고, 그 아래에서 튜바가 둥둥 베이스를 맡는다. 그 위에 페소 플루마의 거칠고 코맹맹이 섞인 목소리가 얹힌다. 멕시코 북부의 이야기 노래 코리도(Corrido)의 편성이지만, 가사와 태도는 트랩 래퍼에 가깝다. 이런 음악을 코리도스 툼바도스(Corridos Tumbados)라고 부른다. 〈77〉은 푸에르토리코 래퍼 엘라디오 카리온과 함께하고, 〈TULUM〉은 그루포 프론테라와 함께 춤추기 좋은 쿰비아 쪽으로 기운다. 〈LADY GAGA〉는 느린 기타와 몽롱한 목소리의 곡이다.",
+    "페소 플루마는 멕시코 할리스코주 출신으로, 2020년대 초 나타나엘 카노, 후니오르 H 같은 또래와 함께 이 새로운 코리도를 이끌었다. 원래 코리도는 혁명가와 무법자의 이야기를 전하는 노래였고, 그 전통 때문에 마약 조직을 미화한다는 비판도 함께 받는다. 2023년 봄 에슬라본 아르마도와 함께한 〈Ella Baila Sola〉가 스트리밍에서 폭발하며 그는 단숨에 세계적인 이름이 됐고, 그 여세로 이 음반을 냈다. 그는 이 음반을 멕시코 음악의 모든 것을 담은 음반이라고 소개했다.",
+    "음반은 빌보드 200 3위로 데뷔해, 멕시코 지역 음악 음반으로는 차트 역사상 가장 높은 순위에 올랐다. 2024년 그래미 최우수 무시카 멕시카나 음반상을 받았다. 2022년 배드 버니의 《Un Verano Sin Ti》와 이어 들으면 스페인어 음악이 미국 차트에서 어디까지 넓어졌는지 들린다."
+   ]
+  },
+  {
+   "id": "utopia",
+   "heading": "소음과 서커스의 유토피아",
+   "paras": [
+    "첫 곡 〈HYAENA〉는 펑카델릭의 〈Maggot Brain〉과 프로그레시브 록 밴드 젠틀 자이언트의 곡을 거칠게 잘라 붙인 샘플과 금속성 드럼으로 시작한다. 〈MODERN JAM〉은 칸예 웨스트 〈I Am a God〉의 초기 데모를 빌린 차가운 전자음 위에서 티조 터치다운의 목소리가 튄다. 〈MY EYES〉는 느리고 몽롱한 전반부에서 갑자기 공격적인 랩으로 넘어가고, 〈FE!N〉은 플레이보이 카티와 함께 한 단어를 주문처럼 반복하는 곡으로 공연장에서 가장 크게 터지는 노래가 됐다. 〈DELRESTO (ECHOES)〉에는 비욘세가, 〈K-POP〉에는 배드 버니와 더 위켄드가 참여했다. 소리 하나하나가 크고 거칠며, 곡 안에서도 장면이 자주 바뀐다.",
+    "트래비스 스콧은 2018년 《ASTROWORLD》로 정상에 올랐다. 2021년 11월 그가 주최한 애스트로월드 페스티벌에서 관객이 몰려 열 명이 숨지는 참사가 일어났고, 그 뒤 그의 활동은 한동안 멈췄다. 새 음반은 2020년부터 예고됐고 녹음은 2019년부터 이어졌다. 칸예 웨스트, 메트로 부민, 제임스 블레이크, 다프트 펑크의 기 마뉘엘 드 오맹크리스토 등 수십 명의 프로듀서가 참여했고, 발매 전날에는 영화 〈서커스 막시무스〉가 공개됐다. 일부 평론가는 칸예 웨스트의 2013년 《Yeezus》와 너무 닮았다고 지적했다.",
+    "음반은 첫 주 49만 6천 유닛으로 빌보드 200 1위에 올랐고, 19곡 전부가 핫 100에 진입했다. 평가는 갈렸지만, 〈FE!N〉은 그 뒤 몇 년 동안 공연장과 클럽의 주문 같은 노래가 됐다. 2013년 《Yeezus》와 2018년 《ASTROWORLD》와 이어 들으면 그 거친 소리의 출발점이 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Génesis (Peso Pluma album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/G%C3%A9nesis_(Peso_Pluma_album)"
+  },
+  {
+   "title": "Corridos tumbados · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Corridos_tumbados"
+  },
+  {
+   "title": "Utopia (Travis Scott album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Utopia_(Travis_Scott_album)"
+  },
+  {
+   "title": "Peso Pluma · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Peso_Pluma"
+  }
+ ],
+ "edges": [
+  {
+   "from": "uvst",
+   "to": "genesis-pluma",
+   "type": "listen",
+   "label": "미국 차트 정상권에 오른 스페인어 음반의 흐름"
+  },
+  {
+   "from": "astroworld",
+   "to": "utopia",
+   "type": "document",
+   "label": "《ASTROWORLD》 다음 트래비스 스콧의 네 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/Utopia_(Travis_Scott_album)"
+  },
+  {
+   "from": "yeezus",
+   "to": "utopia",
+   "type": "listen",
+   "label": "금속성 드럼과 거칠게 잘린 산업적 소음"
+  },
+  {
+   "from": "renaissance",
+   "to": "utopia",
+   "type": "document",
+   "label": "비욘세가 〈DELRESTO (ECHOES)〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/Utopia_(Travis_Scott_album)"
+  },
+  {
+   "from": "uvst",
+   "to": "utopia",
+   "type": "document",
+   "label": "배드 버니가 〈K-POP〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/Utopia_(Travis_Scott_album)"
+  },
+  {
+   "from": "maggot",
+   "to": "utopia",
+   "type": "document",
+   "label": "〈HYAENA〉가 〈Maggot Brain〉을 샘플로 사용",
+   "source": "https://en.wikipedia.org/wiki/Utopia_(Travis_Scott_album)"
+  },
+  {
+   "from": "discovery",
+   "to": "utopia",
+   "type": "document",
+   "label": "다프트 펑크의 기 마뉘엘 드 오맹크리스토가 프로듀서로 참여",
+   "source": "https://en.wikipedia.org/wiki/Utopia_(Travis_Scott_album)"
+  }
+ ]
+}

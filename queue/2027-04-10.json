@@ -1,0 +1,113 @@
+{
+ "date": "2027-04-10",
+ "part": "2022-P3",
+ "year": 2022,
+ "partNo": 3,
+ "partTotal": 3,
+ "total": "약 112분",
+ "title": "잠 못 드는 열세 밤, 구조 신호",
+ "intro": "2022년 가을과 겨울, 세계는 물가 상승과 전쟁 소식 속에서 한 해를 마무리했다. 11월 말에는 대화형 인공지능 챗지피티가 공개돼 사람들을 놀라게 했다. 음악 산업에서는 대형 팝스타의 새 음반 하나가 차트 전체를 덮는 일이 다시 벌어졌다. 오늘은 10월과 12월에 나온 두 장, 약 112분이다. SZA의 음반이 68분에 이르러 두 장만 묶었다. 하나는 잠 못 드는 밤의 생각을 신시사이저로 그린 테일러 스위프트의 음반이고, 다른 하나는 알앤비와 팝 펑크, 랩을 오가며 이별과 복수를 노래한 SZA의 음반이다. 둘 다 밤에 혼자 듣는 음반이다.",
+ "albums": [
+  {
+   "id": "midnights",
+   "artist": "Taylor Swift",
+   "title": "Midnights",
+   "short": "Midnights",
+   "released": "2022년 10월",
+   "genre": "신스팝 · 일렉트로팝",
+   "blurb": "아날로그 신시사이저와 단출한 드럼 머신 위에서 잠 못 드는 밤의 후회와 자기비판을 털어놓은 테일러 스위프트의 열 번째 음반.",
+   "length": "13곡 · 44분",
+   "spotify": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3",
+   "apple": "https://music.apple.com/kr/album/1645937456",
+   "top": "Pop / Art Pop",
+   "sub": "Synth-Pop · Electropop"
+  },
+  {
+   "id": "sos-sza",
+   "artist": "SZA",
+   "title": "SOS",
+   "short": "SOS",
+   "released": "2022년 12월",
+   "genre": "알앤비 · 팝",
+   "blurb": "알앤비를 중심으로 팝 펑크, 랩, 어쿠스틱 발라드를 넘나들며 이별과 복수, 자존감을 노래한 SZA의 두 번째 음반.",
+   "length": "23곡 · 68분",
+   "spotify": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG",
+   "apple": "https://music.apple.com/kr/album/1657869377",
+   "top": "Soul / R&B",
+   "sub": "Alternative R&B"
+  }
+ ],
+ "essays": [
+  {
+   "id": "midnights",
+   "heading": "자정의 신시사이저",
+   "paras": [
+    "〈Lavender Haze〉는 낮게 웅웅대는 신시사이저와 느린 드럼 머신 위에서 스위프트가 가성으로 미끄러진다. 〈Anti-Hero〉는 통통 튀는 신시사이저 리듬 위에서 문제는 바로 자기 자신이라고 고백하는 곡으로, 자기비판을 경쾌한 팝으로 만든다. 〈Snow on the Beach〉는 라나 델 레이와 함께 부른 몽롱한 곡이고, 〈Vigilante Shit〉은 드럼 머신과 낮은 베이스만 남긴 차가운 복수극이다. 〈Midnight Rain〉에서는 그의 목소리를 낮게 변조한 소리가 후렴을 연다. 음반 전체가 화려한 장식보다 아날로그 신시사이저의 부드러운 질감과 빈 공간을 택했다.",
+    "스위프트는 2020년 봉쇄 중에 인디 포크 음반 두 장을 냈고, 옛 음반의 녹음 원본을 둘러싼 분쟁 때문에 2021년부터 예전 음반을 다시 녹음하고 있었다. 그 사이에 나온 이 음반은 잠 못 드는 열세 밤의 생각을 모은 콘셉트 음반이다. 그는 자기혐오, 복수의 상상, 그랬을 수도 있었던 일, 사랑에 빠짐과 무너짐을 다섯 가지 주제로 들었다. 대부분의 곡을 잭 안토노프와 함께 만들었다.",
+    "음반은 첫 주에 백만 장 넘게 팔리며 빌보드 200 1위로 데뷔했고, 수록곡이 핫 100의 1위부터 10위까지를 모두 차지한 최초의 사례가 됐다. 2024년 그래미 올해의 음반상을 받아 스위프트는 이 상을 네 번 받은 첫 가수가 됐다. 2014년 《1989》와 2017년 로드의 《Melodrama》와 이어 들으면 안토노프와 함께한 신스팝의 계보가 들린다."
+   ]
+  },
+  {
+   "id": "sos-sza",
+   "heading": "바다 위의 구조 신호",
+   "paras": [
+    "제목곡 〈SOS〉는 오래된 소울 샘플과 거친 랩으로 문을 연다. 〈Kill Bill〉은 느긋한 신시사이저와 부드러운 드럼 위에서 SZA가 달콤한 목소리로 옛 연인을 죽이는 상상을 노래한다. 가사와 목소리의 대비가 곡의 재미다. 〈Snooze〉는 매끈한 기타와 느린 그루브의 알앤비 연가이고, 〈Nobody Gets Me〉는 어쿠스틱 기타 하나의 발라드다. 〈F2F〉는 갑자기 일그러진 기타의 팝 펑크로 바뀌고, 〈Ghost in the Machine〉에서는 피비 브리저스가 함께 노래한다. 〈Forgiveless〉는 올 더티 바스타드의 랩을 샘플로 가져와 음반을 거칠게 닫는다.",
+    "SZA는 2017년 데뷔 음반 《Ctrl》로 알앤비의 새 얼굴이 됐지만, 두 번째 음반까지는 5년이 걸렸다. 그 사이 여러 차례 발매를 예고했다가 미뤘고, 베이비페이스, 제프 배스커, 베니 블랑코 등 여러 프로듀서와 작업했다. 음반 표지는 바다 한가운데 다이빙대에 홀로 앉은 SZA의 사진으로, 고독과 구조 요청이라는 제목과 이어진다. 알앤비를 중심에 두고도 장르를 마음대로 오가는 방식은 이 시기 젊은 가수들의 공통된 태도였다.",
+    "음반은 빌보드 200에서 세 해에 걸쳐 13주 동안 1위를 했고, 〈Kill Bill〉은 SZA의 첫 핫 100 1위 곡이 됐다. 2024년 그래미에서 최우수 프로그레시브 알앤비 음반상을 받았다. 2017년 《Ctrl》과 이어 들으면 같은 목소리가 얼마나 넓은 무대로 나왔는지 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Midnights · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Midnights"
+  },
+  {
+   "title": "SOS (SZA album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/SOS_(SZA_album)"
+  },
+  {
+   "title": "Anti-Hero (song) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Anti-Hero_(song)"
+  },
+  {
+   "title": "Kill Bill (SZA song) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Kill_Bill_(SZA_song)"
+  }
+ ],
+ "edges": [
+  {
+   "from": "folklore",
+   "to": "midnights",
+   "type": "listen",
+   "label": "봉쇄기의 인디 포크 뒤 다시 신시사이저로 돌아온 스위프트"
+  },
+  {
+   "from": "melodrama",
+   "to": "midnights",
+   "type": "listen",
+   "label": "잭 안토노프의 아날로그 신시사이저와 밤의 고백"
+  },
+  {
+   "from": "ctrl",
+   "to": "sos-sza",
+   "type": "document",
+   "label": "《Ctrl》 다음 SZA의 두 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/SOS_(SZA_album)"
+  },
+  {
+   "from": "punisher",
+   "to": "sos-sza",
+   "type": "document",
+   "label": "피비 브리저스가 〈Ghost in the Machine〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/SOS_(SZA_album)"
+  },
+  {
+   "from": "astroworld",
+   "to": "sos-sza",
+   "type": "document",
+   "label": "트래비스 스콧이 〈Open Arms〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/SOS_(SZA_album)"
+  }
+ ]
+}

@@ -1,0 +1,149 @@
+{
+ "date": "2027-04-19",
+ "part": "2025-P3",
+ "year": 2025,
+ "partNo": 3,
+ "partTotal": 3,
+ "total": "약 126분",
+ "title": "사랑의 기술, 쇼걸의 삶, 빛",
+ "intro": "2025년 가을, 인공지능이 만든 노래가 스트리밍 차트에 오르고 가상의 가수가 음반 계약을 맺었다는 뉴스가 나왔다. 사람이 직접 부르고 연주하는 음악이 무엇인지 다시 묻게 된 해였다. 그 질문에 답하듯 그해 가을의 음반들은 사람의 손과 목소리를 앞세웠다. 오늘은 9월, 10월, 11월에 나온 세 장, 약 126분이다. 살아 있는 밴드와 함께 사랑에 대한 생각을 소울로 노래한 올리비아 딘, 투어 도중 스웨덴에서 녹음한 테일러 스위프트, 런던 심포니 오케스트라와 함께 열네 개 언어로 성녀들을 노래한 로살리아의 음반이다. 작은 방의 노래에서 거대한 오케스트라까지, 사랑과 믿음을 다룬다.",
+ "albums": [
+  {
+   "id": "art-of-loving",
+   "artist": "Olivia Dean",
+   "title": "The Art of Loving",
+   "short": "The Art of Loving",
+   "released": "2025년 9월",
+   "genre": "소울 · 팝",
+   "blurb": "살아 있는 밴드의 따뜻한 소울과 팝 위에서 사랑을 배우는 과정을 노래해 브릿 어워드 올해의 음반상을 받은 올리비아 딘의 두 번째 음반.",
+   "length": "12곡 · 34분",
+   "spotify": "https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ",
+   "apple": "https://music.apple.com/kr/album/1817609404",
+   "top": "Soul / R&B",
+   "sub": "Neo-Soul · Pop Soul"
+  },
+  {
+   "id": "showgirl",
+   "artist": "Taylor Swift",
+   "title": "The Life of a Showgirl",
+   "short": "The Life of a Showgirl",
+   "released": "2025년 10월",
+   "genre": "소프트 팝 · 소프트 록",
+   "blurb": "맥스 마틴, 셸백과 다시 만나 피아노와 기타, 현악의 복고풍 팝으로 무대 뒤의 삶과 사랑을 노래한 테일러 스위프트의 열두 번째 음반.",
+   "length": "12곡 · 42분",
+   "spotify": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I",
+   "apple": "https://music.apple.com/kr/album/1838810949",
+   "top": "Pop / Art Pop",
+   "sub": "Soft Pop · Soft Rock"
+  },
+  {
+   "id": "lux-rosalia",
+   "artist": "ROSALÍA",
+   "title": "LUX",
+   "short": "LUX",
+   "released": "2025년 11월",
+   "genre": "아트 팝 · 오케스트라",
+   "blurb": "런던 심포니 오케스트라와 함께 열네 개 언어로 여성 성인들의 삶과 신앙, 사랑을 노래한 로살리아의 네 번째 음반.",
+   "length": "15곡 · 50분",
+   "spotify": "https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY",
+   "apple": "https://music.apple.com/kr/album/1848167516",
+   "top": "Pop / Art Pop",
+   "sub": "Art Pop · Orchestral Pop"
+  }
+ ],
+ "essays": [
+  {
+   "id": "art-of-loving",
+   "heading": "사랑을 배우는 방법",
+   "paras": [
+    "〈Nice to Each Other〉는 부드러운 기타와 느긋한 드럼 위에서 올리비아 딘이 서로에게 친절하자고, 연애를 서두르지 말자고 노래한다. 그의 목소리는 크게 꾸미지 않고 낮고 따뜻하게 흐른다. 〈Man I Need〉는 경쾌한 리듬의 소울 팝으로 원하는 것을 솔직하게 말해 달라고 노래하고, 〈So Easy (To Fall in Love)〉는 사랑에 쉽게 빠지는 마음을 가볍게 털어놓는다. 음반은 전자음보다 실제 연주자들이 한 방에서 연주하는 듯한 따뜻한 질감을 택했다. 1960–70년대 소울과 싱어송라이터 음악의 기억이 곳곳에서 들린다.",
+    "딘은 런던 출신의 싱어송라이터로, 2023년 데뷔 음반 《Messy》로 이름을 알렸다. 제목은 벨 훅스의 책 《올 어바웃 러브》와, 그 책에 응답한 화가 미칼린 토머스의 전시에서 영감을 받았다. 그는 사랑에 대한 자신의 이해와 지난 2년을 돌아보는 음반을 만들고 싶었다고 말했다. 대부분의 곡은 2025년 3월과 4월, 동런던의 큰 집을 작업실로 바꿔 8주 동안 쓰고 녹음했다.",
+    "음반은 영국 차트 1위에 올라, 딘은 2023년 이후 처음으로 음반과 싱글 차트 정상을 동시에 차지한 영국 여성 솔로 가수가 됐다. 브릿 어워드 영국 올해의 음반상을 받았다. 1984년 샤데이의 《Diamond Life》와 1971년 캐럴 킹의 《Tapestry》와 이어 들으면 그의 따뜻한 목소리가 어디서 왔는지 들린다."
+   ]
+  },
+  {
+   "id": "showgirl",
+   "heading": "무대 뒤의 쇼걸",
+   "paras": [
+    "첫 곡 〈The Fate of Ophelia〉는 둥근 베이스와 손뼉, 현악 위에서 셰익스피어 《햄릿》의 비극적인 여인 오필리아를 빌려, 사랑이 자신을 그 운명에서 구했다고 노래한다. 〈Elizabeth Taylor〉는 복고풍 현악으로 할리우드 스타의 삶에 자신을 비추고, 〈Opalite〉는 스윙 리듬이 섞인 밝은 곡이다. 〈Father Figure〉는 조지 마이클의 1987년 같은 제목 노래를 빌려 오고, 〈CANCELLED!〉는 사람들에게 비난받는 친구들과 연대하는 노래다. 마지막 제목곡에는 사브리나 카펜터가 함께했다. 피아노와 기타, 현악, 신시사이저가 1980년대 팝처럼 반짝인다.",
+    "스위프트는 2024년 에라스 투어 유럽 일정 도중 스톡홀름에서 이 음반을 녹음했다. 《1989》와 《reputation》을 함께 만든 맥스 마틴, 셸백과 다시 손잡았다. 투어의 경험과 미식축구 선수 트래비스 켈시와의 연애가 음반의 바탕이 됐고, 그는 이 음반을 활기찬 당시의 마음을 담은 기록이라고 설명했다. 음반은 켈시의 팟캐스트에서 처음 발표됐다.",
+    "음반은 미국에서 첫 주 400만 유닛 넘게 팔려 역사상 가장 빨리 팔린 음반이 됐고, 15주 동안 빌보드 200 1위를 했다. 2025년 세계에서 가장 많이 팔린 음반이었다. 평가는 다시 크게 갈렸다. 2014년 《1989》와 이어 들으면 같은 제작진이 11년 만에 다시 만든 반짝이는 팝이 들린다."
+   ]
+  },
+  {
+   "id": "lux-rosalia",
+   "heading": "열네 개 언어로 부른 빛",
+   "paras": [
+    "〈Berghain〉은 런던 심포니 오케스트라의 날카로운 현악이 몰아치는 가운데, 로살리아가 독일어로 오페라 가수처럼 노래하고 비요크와 이브 튜머가 목소리를 보탠다. 클래식 음악과 클럽의 이름이 한 곡에서 만난다. 〈La Perla〉는 부드러운 현악 위에서 옛 연인을 비꼬는 노래이고, 〈Sauvignon Blanc〉은 한결 조용하게 흐른다. 플라멩코 가수 에스트레야 모렌테, 파두 가수 카르미뉴가 함께한 곡에서는 스페인과 포르투갈의 전통 창법이 오케스트라와 엮인다. 음반은 네 개의 악장으로 나뉜다.",
+    "로살리아는 아이슬란드 지휘자 다니엘 비아르나손이 이끄는 런던 심포니 오케스트라와 이 음반을 녹음했다. 모국어인 카탈루냐어와 스페인어 외에 아랍어, 히브리어, 일본어, 우크라이나어 등 열두 개 언어로 더 노래했고, 곡마다 힐데가르트 폰 빙엔 같은 여성 성인의 삶을 바탕으로 신앙과 사랑, 변신을 다룬다. 2–3년의 작업 기간 중 많은 시간을 여러 언어로 노래하는 법을 배우는 데 썼다. 다프트 펑크의 기 마뉘엘 드 오맹크리스토, 샬럿 갱스부르도 작곡에 참여했다. 디지털판에는 실물 음반의 18곡 중 15곡이 실렸다.",
+    "음반은 메타크리틱에서 2025년 두 번째로 높은 평가를 받았다. 2026년 라틴 그래미에서 로살리아는 세 번째로 올해의 음반상을 받았고, 〈La Perla〉는 올해의 노래상을 받았다. 2022년 《MOTOMAMI》와 1993년 비요크의 《Debut》와 이어 들으면 그가 콜라주에서 오케스트라로 옮겨 간 길이 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "The Art of Loving (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Art_of_Loving_(album)"
+  },
+  {
+   "title": "The Life of a Showgirl · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Life_of_a_Showgirl"
+  },
+  {
+   "title": "Lux (Rosalía album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lux_(Rosal%C3%ADa_album)"
+  },
+  {
+   "title": "All About Love: New Visions · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/All_About_Love:_New_Visions"
+  }
+ ],
+ "edges": [
+  {
+   "from": "diamond-life",
+   "to": "art-of-loving",
+   "type": "listen",
+   "label": "낮고 따뜻하게 흐르는 소울 팝의 목소리"
+  },
+  {
+   "from": "tapestry",
+   "to": "art-of-loving",
+   "type": "listen",
+   "label": "피아노와 밴드로 들려주는 싱어송라이터의 사랑 노래"
+  },
+  {
+   "from": "ttpd",
+   "to": "showgirl",
+   "type": "document",
+   "label": "《THE TORTURED POETS DEPARTMENT》 다음 테일러 스위프트의 열두 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/The_Life_of_a_Showgirl"
+  },
+  {
+   "from": "ts-1989",
+   "to": "showgirl",
+   "type": "listen",
+   "label": "맥스 마틴, 셸백과 다시 만든 반짝이는 팝"
+  },
+  {
+   "from": "short-n-sweet",
+   "to": "showgirl",
+   "type": "document",
+   "label": "사브리나 카펜터가 제목곡에 참여",
+   "source": "https://en.wikipedia.org/wiki/The_Life_of_a_Showgirl"
+  },
+  {
+   "from": "motomami",
+   "to": "lux-rosalia",
+   "type": "document",
+   "label": "《MOTOMAMI》 다음 로살리아의 네 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/Lux_(Rosal%C3%ADa_album)"
+  },
+  {
+   "from": "debut-bjork",
+   "to": "lux-rosalia",
+   "type": "document",
+   "label": "비요크가 〈Berghain〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/Lux_(Rosal%C3%ADa_album)"
+  }
+ ]
+}

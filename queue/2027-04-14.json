@@ -1,0 +1,105 @@
+{
+ "date": "2027-04-14",
+ "part": "2024-P1",
+ "year": 2024,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 115분",
+ "title": "지워지지 않는 햇살, 카우보이 카터",
+ "intro": "2024년은 세계 인구의 절반 가까이가 선거를 치른 해였다. 사람들은 정치만큼이나 정체성을 두고 다퉜고, 음악도 그 질문을 피하지 않았다. 누가 어떤 장르를 부를 자격이 있는지, 사랑이 끝난 뒤 남는 기억은 누구의 것인지 같은 질문이었다. 오늘은 3월에 나온 두 장, 약 115분이다. 비욘세의 음반이 79분에 이르러 두 장만 묶었다. 하나는 이혼 뒤의 마음을 매끈한 팝과 하우스로 정리한 아리아나 그란데의 음반이고, 다른 하나는 컨트리 음악 속에 가려졌던 흑인의 역사를 되찾으려 한 비욘세의 음반이다. 3주 간격으로 나온 두 음반은 기억과 뿌리를 서로 다른 방향에서 다룬다.",
+ "albums": [
+  {
+   "id": "eternal-sunshine",
+   "artist": "Ariana Grande",
+   "title": "eternal sunshine",
+   "short": "eternal sunshine",
+   "released": "2024년 3월",
+   "genre": "팝 · 알앤비 · 하우스",
+   "blurb": "절제된 목소리와 하우스, 알앤비의 부드러운 리듬으로 이혼 뒤의 기억과 새 사랑을 정리한 아리아나 그란데의 일곱 번째 음반.",
+   "length": "13곡 · 36분",
+   "spotify": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK",
+   "apple": "https://music.apple.com/kr/album/1725877944",
+   "top": "Pop / Art Pop",
+   "sub": "Pop · Electropop"
+  },
+  {
+   "id": "cowboy-carter",
+   "artist": "Beyoncé",
+   "title": "COWBOY CARTER",
+   "short": "COWBOY CARTER",
+   "released": "2024년 3월",
+   "genre": "컨트리 · 아메리카나",
+   "blurb": "돌리 파턴, 윌리 넬슨, 린다 마텔을 디제이로 세운 라디오 방송 형식으로 컨트리 속 흑인의 뿌리를 되찾은 비욘세의 여덟 번째 음반.",
+   "length": "27곡 · 79분",
+   "spotify": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ",
+   "apple": "https://music.apple.com/kr/album/1738363766",
+   "top": "Folk / Singer-Songwriter",
+   "sub": "Country · Americana"
+  }
+ ],
+ "essays": [
+  {
+   "id": "eternal-sunshine",
+   "heading": "지우고 싶은 기억, 남기고 싶은 기억",
+   "paras": [
+    "〈bye〉는 반짝이는 현악과 디스코 리듬으로 짐을 싸서 집을 나서는 장면을 그린다. 〈we can't be friends (wait for your love)〉는 낮게 깔린 신시사이저와 일정한 킥 드럼 위에서 그란데가 힘을 뺀 목소리로 노래한다. 그는 고음을 터뜨리는 대신 숨소리 섞인 중음역을 오래 유지한다. 〈yes, and?〉는 1990년대 하우스 리듬으로 남의 시선을 웃어넘기고, 〈the boy is mine〉은 1998년 같은 제목의 알앤비 히트를 떠올리게 하는 곡이다. 마지막 〈ordinary things〉 끝에서는 그의 외할머니가 직접 연애 조언을 들려준다.",
+    "그란데는 영화 〈위키드〉 촬영에 전념하느라 새 음반을 미뤘고, 2023년 배우 파업으로 촬영이 멈춘 사이 녹음실로 돌아갔다. 제목은 기억을 지우는 연인을 다룬 2004년 영화 〈이터널 선샤인〉에서 따 왔다. 음반은 결혼의 끝과 새로운 관계를 둘러싼 혼란을 다루며, 맥스 마틴과 일리야 살만자데 같은 오랜 동료가 함께 만들었다. 그는 이 음반을 연약함과 즐거움을 함께 담은 기록이라고 설명했다.",
+    "음반은 빌보드 200 1위로 데뷔했고, 수록곡 전부가 핫 100에 올랐다. 앞의 두 싱글이 모두 1위로 데뷔하며 그란데는 핫 100 1위 데뷔곡이 가장 많은 여성 가수가 됐다. 2019년 《thank u, next》와 이어 들으면 같은 가수가 이별을 대하는 태도가 얼마나 조용해졌는지 들린다."
+   ]
+  },
+  {
+   "id": "cowboy-carter",
+   "heading": "컨트리의 흑인 뿌리를 되찾다",
+   "paras": [
+    "음반은 가상의 텍사스 라디오 방송처럼 흐른다. 돌리 파턴, 윌리 넬슨, 흑인 컨트리 가수 린다 마텔이 디제이로 등장해 곡을 소개한다. 〈TEXAS HOLD 'EM〉은 밴조와 비올라, 발 구르는 리듬의 컨트리 춤곡이고, 〈BLACKBIIRD〉는 비틀스의 〈Blackbird〉를 네 명의 젊은 흑인 여성 컨트리 가수와 함께 다시 부른다. 〈JOLENE〉은 돌리 파턴의 명곡을 가사부터 새로 써서 애원하는 노래를 경고하는 노래로 바꿨다. 〈YA YA〉는 1960년대 로큰롤과 소울, 비치 보이스의 화음이 뒤섞여 폭주하고, 〈II MOST WANTED〉는 마일리 사이러스와 어쿠스틱 기타로 부르는 듀엣이다.",
+    "비욘세는 텍사스 휴스턴에서 자랐다. 2016년 《Lemonade》의 컨트리 곡 〈Daddy Lessons〉는 그래미 컨트리 부문 심사에서 제외됐고, 그해 컨트리 음악 시상식 무대 뒤에는 불편한 반응이 따랐다. 이 음반은 그 경험에서 출발해, 밴조를 포함한 컨트리의 많은 요소가 흑인 음악에서 나왔다는 사실을 다시 내세운다. 《RENAISSANCE》에 이은 세 장짜리 연작의 두 번째 음반이고, 스티비 원더, 폴 매카트니, 나일 로저스 등이 연주에 참여했다.",
+    "〈TEXAS HOLD 'EM〉은 흑인 여성의 컨트리 곡으로는 처음으로 핫 100과 핫 컨트리 송 차트 1위에 올랐다. 2025년 그래미에서 비욘세는 흑인 여성으로 25년 만에 올해의 음반상을, 흑인 음악가로는 처음으로 최우수 컨트리 음반상을 받았다. 1968년 비틀스의 《The Beatles》와 2016년 《Lemonade》와 이어 들으면 이 음반이 어떤 노래들과 대화하는지 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Eternal Sunshine (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Eternal_Sunshine_(album)"
+  },
+  {
+   "title": "Cowboy Carter · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cowboy_Carter"
+  },
+  {
+   "title": "Linda Martell · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Linda_Martell"
+  },
+  {
+   "title": "Texas Hold 'Em (song) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Texas_Hold_%27Em_(song)"
+  }
+ ],
+ "edges": [
+  {
+   "from": "thank-u-next",
+   "to": "eternal-sunshine",
+   "type": "listen",
+   "label": "이별을 다루는 아리아나 그란데의 달라진 목소리"
+  },
+  {
+   "from": "renaissance",
+   "to": "cowboy-carter",
+   "type": "document",
+   "label": "세 장짜리 연작의 두 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/Cowboy_Carter"
+  },
+  {
+   "from": "lemonade",
+   "to": "cowboy-carter",
+   "type": "listen",
+   "label": "〈Daddy Lessons〉에서 시작된 비욘세의 컨트리"
+  },
+  {
+   "from": "white-album",
+   "to": "cowboy-carter",
+   "type": "listen",
+   "label": "〈Blackbird〉를 다시 부른 〈BLACKBIIRD〉"
+  }
+ ]
+}

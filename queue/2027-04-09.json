@@ -1,0 +1,113 @@
+{
+ "date": "2027-04-09",
+ "part": "2022-P2",
+ "year": 2022,
+ "partNo": 2,
+ "partTotal": 3,
+ "total": "약 135분",
+ "title": "상담실의 래퍼, 클럽의 르네상스",
+ "intro": "2022년 여름 미국 연방대법원은 임신중지권을 보장하던 판결을 뒤집었고, 사회는 다시 깊게 갈라졌다. 한편 다시 문을 연 클럽과 무도회장은 2년 만의 해방감으로 들끓었다. 오늘은 5월과 7월에 나온 두 장, 약 135분이다. 켄드릭 라마의 음반이 73분, 비욘세의 음반이 62분에 이르러 두 장만 묶었다. 하나는 5년 동안 침묵하던 래퍼가 상담을 받으며 자기 상처를 낱낱이 드러낸 음반이고, 다른 하나는 흑인과 퀴어가 만든 클럽 음악의 역사를 한 장의 디제이 믹스로 엮은 음반이다. 안으로 파고드는 음반과 밖으로 춤추러 나가는 음반이 같은 여름에 나왔다.",
+ "albums": [
+  {
+   "id": "mr-morale",
+   "artist": "Kendrick Lamar",
+   "title": "Mr. Morale & The Big Steppers",
+   "short": "Mr. Morale & The Big Steppers",
+   "released": "2022년 5월",
+   "genre": "컨셔스 힙합",
+   "blurb": "상담 과정을 따라가며 어린 시절의 상처, 외도, 명성의 무게를 날것으로 털어놓은 켄드릭 라마의 다섯 번째 음반.",
+   "length": "18곡 · 73분",
+   "spotify": "https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g",
+   "apple": "https://music.apple.com/kr/album/1623854804",
+   "top": "Hip-Hop",
+   "sub": "Conscious Hip-Hop"
+  },
+  {
+   "id": "renaissance",
+   "artist": "Beyoncé",
+   "title": "RENAISSANCE",
+   "short": "RENAISSANCE",
+   "released": "2022년 7월",
+   "genre": "하우스 · 디스코 · 댄스",
+   "blurb": "디스코, 하우스, 볼룸, 바운스를 끊김 없는 디제이 믹스처럼 이어 흑인과 퀴어의 클럽 문화에 바친 비욘세의 일곱 번째 음반.",
+   "length": "16곡 · 62분",
+   "spotify": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb",
+   "apple": "https://music.apple.com/kr/album/1630005298",
+   "top": "Electronic",
+   "sub": "House · Disco"
+  }
+ ],
+ "essays": [
+  {
+   "id": "mr-morale",
+   "heading": "상담실에서 쓴 랩",
+   "paras": [
+    "〈United in Grief〉는 피아노 한 대와 켄드릭 라마의 다급한 랩으로 시작해, 드럼이 들어올 때마다 속도가 바뀐다. 〈N95〉는 둔탁한 베이스 위에서 명품과 마스크로 가린 위선을 벗으라고 몰아붙인다. 〈We Cry Together〉는 배우 테일러 페이지와 연인 역할을 맡아 서로 고함치며 싸우는 장면을 그대로 연기한 곡으로, 듣기 괴로울 만큼 생생하다. 〈Auntie Diaries〉는 트랜스젠더인 삼촌과 사촌을 둔 이야기로, 어릴 적 자신의 편견과 교회의 위선을 함께 돌아본다. 〈Mother I Sober〉는 포티셰드의 베스 기번스가 후렴을 부르는 느린 피아노 곡으로, 대물림된 상처를 고백한다.",
+    "라마는 2017년 《DAMN.》 이후 5년 동안 음반을 내지 않았다. 그 사이 영화 《블랙 팬서》 사운드트랙을 총괄했고, 두 아이의 아버지가 됐고, 창작 회사 피지랭(PGLang)을 세웠다. 그는 2년 가까이 곡을 쓰지 못한 시간을 겪었다고 말했다. 음반은 상담을 받으며 자기 삶을 되짚는 콘셉트로, 영적 작가 에크하르트 톨레의 목소리와 연인 휘트니 알포드의 내레이션이 곳곳에 나온다. 오랜 레이블 탑 독 엔터테인먼트에서 낸 마지막 음반이다.",
+    "음반은 빌보드 200 1위로 데뷔했고, 2023년 그래미 최우수 랩 음반상을 받았다. 1994년 포티셰드의 《Dummy》와 2017년 《DAMN.》을 함께 놓고 들으면, 베스 기번스의 쓸쓸한 목소리가 어떻게 라마의 고백과 만나는지 들린다."
+   ]
+  },
+  {
+   "id": "renaissance",
+   "heading": "클럽을 만든 사람들에게",
+   "paras": [
+    "음반은 끊기지 않는 디제이 믹스처럼 흐른다. 〈CUFF IT〉은 1970년대 디스코의 베이스와 금관으로 밤새 놀자고 노래하고, 〈BREAK MY SOUL〉은 1990년대 하우스(House)의 피아노와 쿵쿵 울리는 킥 드럼 위에서 직장을 그만두고 해방되라고 외친다. 로빈 에스의 하우스 명곡 〈Show Me Love〉를 빌려 왔다. 〈ALIEN SUPERSTAR〉는 라이트 세드 프레드의 〈I'm Too Sexy〉를 비틀고, 〈PURE/HONEY〉는 볼룸(Ballroom) 무대의 외침과 거친 베이스로 퀴어 무도회장의 런웨이를 떠올리게 한다. 마지막 〈SUMMER RENAISSANCE〉는 도나 서머의 〈I Feel Love〉 신시사이저를 그대로 불러낸다.",
+    "비욘세는 봉쇄 기간에 이 음반을 만들며, 오랜 고립 뒤에 사람들이 기쁨과 해방감을 느끼기를 바랐다. 음반은 흑인과 퀴어 공동체에게 피난처였던 클럽 문화와 디스코, 하우스, 펑크를 만든 사람들에게 바치는 헌사다. 그는 동성애자였고 에이즈로 세상을 떠난 삼촌 조니가 자신에게 이런 음악을 처음 알려 줬다고 밝혔다. 이 음반은 세 장짜리 연작의 첫 번째로 기획됐다.",
+    "음반은 빌보드 200 1위로 데뷔해 비욘세의 일곱 번째 연속 1위 데뷔 음반이 됐고, 〈BREAK MY SOUL〉은 핫 100 1위에 올랐다. 2023년 그래미에서 최우수 댄스/일렉트로닉 음반상 등 네 개 상을 받아 비욘세는 그래미를 가장 많이 받은 사람이 됐다. 1977년 도나 서머의 《I Remember Yesterday》와 1997년 다프트 펑크의 《Homework》를 함께 들으면 이 음반의 뿌리가 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Mr. Morale & the Big Steppers · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Mr._Morale_%26_the_Big_Steppers"
+  },
+  {
+   "title": "Renaissance (Beyoncé album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Renaissance_(Beyonc%C3%A9_album)"
+  },
+  {
+   "title": "House music · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/House_music"
+  },
+  {
+   "title": "Ball culture · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Ball_culture"
+  }
+ ],
+ "edges": [
+  {
+   "from": "damn",
+   "to": "mr-morale",
+   "type": "document",
+   "label": "《DAMN.》 다음 켄드릭 라마의 다섯 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/Mr._Morale_%26_the_Big_Steppers"
+  },
+  {
+   "from": "dummy",
+   "to": "mr-morale",
+   "type": "document",
+   "label": "포티셰드의 베스 기번스가 〈Mother I Sober〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/Mr._Morale_%26_the_Big_Steppers"
+  },
+  {
+   "from": "lemonade",
+   "to": "renaissance",
+   "type": "listen",
+   "label": "흑인 여성의 서사를 클럽의 해방으로 넓힌 비욘세의 다음 걸음"
+  },
+  {
+   "from": "remember-yesterday",
+   "to": "renaissance",
+   "type": "document",
+   "label": "〈SUMMER RENAISSANCE〉가 〈I Feel Love〉를 차용",
+   "source": "https://en.wikipedia.org/wiki/Renaissance_(Beyonc%C3%A9_album)"
+  },
+  {
+   "from": "homework",
+   "to": "renaissance",
+   "type": "listen",
+   "label": "쿵쿵 울리는 킥 드럼과 하우스 피아노"
+  }
+ ]
+}

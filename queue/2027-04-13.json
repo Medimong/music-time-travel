@@ -1,0 +1,129 @@
+{
+ "date": "2027-04-13",
+ "part": "2023-P3",
+ "year": 2023,
+ "partNo": 3,
+ "partTotal": 3,
+ "total": "약 113분",
+ "title": "스무 살의 배짱, 미국의 땅, 투창",
+ "intro": "2023년 가을, 테일러 스위프트의 에라스 투어가 공연 영화로까지 만들어지며 대중음악 역사상 가장 큰 투어가 되어 가고 있었다. 10월에는 하마스의 공격과 이스라엘의 가자 공격으로 또 하나의 전쟁이 시작됐다. 오늘은 9월과 10월에 나온 세 장, 약 113분이다. 스무 살이 된 올리비아 로드리고의 두 번째 음반, 컨트리와 오케스트라로 사랑을 노래한 미츠키의 음반, 세상을 떠난 연인에게 바친 수프얀 스티븐스의 음반이다. 셋 다 사랑에 대한 음반이지만, 각각 분노와 체념과 애도라는 아주 다른 얼굴을 하고 있다. 기타를 긁는 소리, 합창, 집에서 혼자 쌓은 화음의 차이에 귀를 기울여 보자.",
+ "albums": [
+  {
+   "id": "guts",
+   "artist": "Olivia Rodrigo",
+   "title": "GUTS",
+   "short": "GUTS",
+   "released": "2023년 9월",
+   "genre": "팝 록 · 팝 펑크",
+   "blurb": "피아노 발라드와 거친 기타 록을 오가며 갑작스러운 명성과 스무 살의 혼란을 재치 있게 노래한 올리비아 로드리고의 두 번째 음반.",
+   "length": "12곡 · 39분",
+   "spotify": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp",
+   "apple": "https://music.apple.com/kr/album/1694386825",
+   "top": "Rock",
+   "sub": "Pop Rock · Pop Punk"
+  },
+  {
+   "id": "land-inhospitable",
+   "artist": "Mitski",
+   "title": "The Land Is Inhospitable and So Are We",
+   "short": "The Land Is Inhospitable and So Are We",
+   "released": "2023년 9월",
+   "genre": "아메리카나 · 오케스트라 팝",
+   "blurb": "페달 스틸과 열일곱 명의 합창, 오케스트라로 사랑과 체념을 노래한 미츠키의 가장 미국적인 음반.",
+   "length": "11곡 · 32분",
+   "spotify": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA",
+   "apple": "https://music.apple.com/kr/album/1697335341",
+   "top": "Folk / Singer-Songwriter",
+   "sub": "Americana · Chamber Pop"
+  },
+  {
+   "id": "javelin",
+   "artist": "Sufjan Stevens",
+   "title": "Javelin",
+   "short": "Javelin",
+   "released": "2023년 10월",
+   "genre": "인디 포크 · 챔버 포크",
+   "blurb": "집에서 혼자 쌓은 어쿠스틱 기타와 친구들의 화음, 터져 나오는 전자음으로 세상을 떠난 연인에게 바친 수프얀 스티븐스의 음반.",
+   "length": "10곡 · 42분",
+   "spotify": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs",
+   "apple": "https://music.apple.com/kr/album/1700723922",
+   "top": "Folk / Singer-Songwriter",
+   "sub": "Indie Folk · Chamber Folk"
+  }
+ ],
+ "essays": [
+  {
+   "id": "guts",
+   "heading": "스무 살의 배짱",
+   "paras": [
+    "첫 곡 〈all-american bitch〉는 어쿠스틱 기타와 상냥한 목소리로 시작해, 후렴에서 일그러진 기타와 비명으로 뒤집힌다. 착한 미국 소녀가 되라는 요구를 정면으로 비꼬는 곡이다. 〈vampire〉는 피아노 발라드로 시작해 점점 빨라지고 드럼이 들어오며 록으로 커진다. 〈bad idea right?〉는 거친 기타와 말하듯 내뱉는 목소리의 개러지 록(Garage Rock)이고, 〈ballad of a homeschooled girl〉은 사교에 서툰 자신을 웃음거리로 만드는 펑크다. 마지막 〈teenage dream〉은 피아노로 조용히 십 대를 떠나보낸다.",
+    "로드리고는 데뷔 음반의 성공 직후 스무 살이 되며 이 음반을 썼다. 갑작스러운 명성, 사람들의 기대, 연애의 실망, 젊은 여성에게 쏟아지는 시선을 다룬다. 데뷔 음반과 마찬가지로 댄 니그로가 프로듀서이자 연주자로 거의 모든 과정을 함께했다. 이번에는 처음부터 더 많은 기타와 드럼을 썼고, 1990년대 얼터너티브 록과 2000년대 팝 펑크가 곳곳에서 들린다.",
+    "음반은 미국과 영국을 포함한 여러 나라에서 1위에 올랐고, 수록곡 12곡이 모두 핫 100 40위 안에 들었다. 〈vampire〉는 여러 나라에서 1위를 했다. 2021년 《SOUR》와 이어 들으면 같은 사람이 2년 만에 얼마나 단단해졌는지 들린다."
+   ]
+  },
+  {
+   "id": "land-inhospitable",
+   "heading": "가장 미국적인 음반",
+   "paras": [
+    "〈Bug Like an Angel〉은 조용한 기타와 노래로 시작하다가, 갑자기 합창이 한 단어를 크게 외치며 끼어든다. 열일곱 명의 합창단이 곳곳에서 이렇게 목소리를 보탠다. 〈Heaven〉은 페달 스틸 기타와 현악이 흐르는 느린 컨트리 왈츠이고, 〈The Deal〉은 조용히 시작했다가 드럼이 무너지듯 터진다. 〈My Love Mine All Mine〉은 2분 남짓한 짧은 곡으로, 느린 피아노와 기타 위에서 자신이 가진 것 중 사랑만은 온전히 내 것이라고 노래한다. 옛 서부 영화 음악 같은 넓고 쓸쓸한 공간감이 음반 전체를 감싼다.",
+    "미츠키는 일본에서 태어나 여러 나라를 옮겨 다니며 자랐고, 2018년 《Be the Cowboy》로 인디 음악계의 대표 얼굴이 됐다. 이 음반은 내슈빌과 로스앤젤레스에서 프로듀서 패트릭 하일랜드와 녹음했고, 드루 에릭슨이 오케스트라를 편곡하고 지휘했다. 미츠키는 이 음반을 자신의 가장 미국적인 음반이라 불렀다. 그는 스파게티 웨스턴 영화 음악, 아서 러셀, 스콧 워커, 카에타누 벨로주 등을 영향으로 들었다.",
+    "〈My Love Mine All Mine〉은 틱톡에서 퍼지며 미츠키의 첫 핫 100 진입곡이 됐고, 영국 싱글 차트 10위 안에 들었다. 평론가들은 꾸밈없는 연주와 날것의 감정을 높이 평가했다. 2018년 《Be the Cowboy》와 이어 들으면 그가 짧은 팝송에서 넓은 미국의 풍경으로 걸어 나가는 길이 들린다."
+   ]
+  },
+  {
+   "id": "javelin",
+   "heading": "잃어버린 사람에게 던진 창",
+   "paras": [
+    "첫 곡 〈Goodbye Evergreen〉은 부드러운 피아노와 속삭이는 목소리로 시작했다가, 중간에 합창과 일그러진 전자음이 폭풍처럼 몰아친 뒤 다시 고요해진다. 〈Will Anybody Ever Love Me?〉는 어쿠스틱 기타와 여러 겹의 여성 화음으로 누가 나를 사랑해 줄지 묻는다. 8분이 넘는 〈Shit Talk〉는 반복되는 기타 아르페지오 위에서 다툼과 화해를 길게 되새기고, 마지막 곡은 닐 영이 1972년 《Harvest》에 실은 〈There's a World〉를 다시 부른 것이다. 단출한 포크와 거대한 합창, 전자음의 폭발이 한 곡 안에서 오간다.",
+    "스티븐스는 이 음반을 대부분 집 스튜디오에서 혼자 만들었고, 친구들이 화음을 보탰다. 더 내셔널의 브라이스 데스너가 기타를 쳤다. 2015년 《Carrie & Lowell》 이후 처음으로 온전히 싱어송라이터로 돌아간 음반이다. 발매일에 그는 이 음반을 그해 4월 세상을 떠난 연인 에번스 리처드슨에게 바친다고 밝혔다. 같은 해 가을 그는 길랭-바레 증후군으로 입원해 다시 걷는 법을 배우고 있다고 알렸다.",
+    "평론가들은 이 음반을 《Carrie & Lowell》과 2010년 《The Age of Adz》의 실을 함께 이어받은 작품으로 평가했다. 2015년 《Carrie & Lowell》과 2005년 《Illinois》와 이어 들으면 그의 속삭임과 거대한 편곡이 어떻게 하나가 되는지 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Guts (Olivia Rodrigo album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Guts_(Olivia_Rodrigo_album)"
+  },
+  {
+   "title": "The Land Is Inhospitable and So Are We · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Land_Is_Inhospitable_and_So_Are_We"
+  },
+  {
+   "title": "Javelin (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Javelin_(album)"
+  },
+  {
+   "title": "My Love Mine All Mine · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/My_Love_Mine_All_Mine"
+  }
+ ],
+ "edges": [
+  {
+   "from": "sour",
+   "to": "guts",
+   "type": "document",
+   "label": "《SOUR》 다음 올리비아 로드리고의 두 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/Guts_(Olivia_Rodrigo_album)"
+  },
+  {
+   "from": "be-the-cowboy",
+   "to": "land-inhospitable",
+   "type": "listen",
+   "label": "짧은 팝송에서 넓은 미국의 풍경으로"
+  },
+  {
+   "from": "carrie-lowell",
+   "to": "javelin",
+   "type": "document",
+   "label": "《Carrie & Lowell》 이후 처음 온전한 싱어송라이터로 돌아간 수프얀 스티븐스",
+   "source": "https://en.wikipedia.org/wiki/Javelin_(album)"
+  },
+  {
+   "from": "illinois",
+   "to": "javelin",
+   "type": "listen",
+   "label": "속삭이는 목소리와 거대한 합창 편곡"
+  }
+ ]
+}

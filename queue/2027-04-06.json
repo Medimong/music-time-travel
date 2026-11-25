@@ -1,0 +1,99 @@
+{
+ "date": "2027-04-06",
+ "part": "2021-P2",
+ "year": 2021,
+ "partNo": 2,
+ "partTotal": 3,
+ "total": "약 122분",
+ "title": "지하실의 고백, 내성적인 사람의 오케스트라",
+ "intro": "2021년 여름, 백신이 퍼지며 몇몇 나라는 조심스럽게 공연장 문을 열었다. 도쿄 올림픽은 1년 늦게 관중 없이 열렸다. 하지만 봉쇄의 시간이 남긴 것은 쉽게 사라지지 않았고, 젊은 음악가들은 그 시간 동안 자기 안을 들여다본 기록을 내놓기 시작했다. 오늘은 7월과 9월에 나온 두 장, 약 122분이다. 리틀 심즈의 음반이 65분에 이르러 두 장만 묶었다. 하나는 로스앤젤레스의 지하실에서 남매 둘이 만든 조용한 음반이고, 다른 하나는 런던의 래퍼가 현악과 합창을 끌어들인 웅장한 음반이다. 둘 다 유명해진다는 것이 한 사람에게 무엇을 하는지 묻는다.",
+ "albums": [
+  {
+   "id": "happier-than-ever",
+   "artist": "Billie Eilish",
+   "title": "Happier Than Ever",
+   "short": "Happier Than Ever",
+   "released": "2021년 7월",
+   "genre": "팝 · 재즈 팝 · 일렉트로팝",
+   "blurb": "속삭이는 재즈풍 발라드로 명성의 그늘을 노래하다 제목곡 끝에서 기타와 함께 폭발하는 빌리 아일리시의 두 번째 음반.",
+   "length": "16곡 · 56분",
+   "spotify": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp",
+   "apple": "https://music.apple.com/kr/album/1564530719",
+   "top": "Pop / Art Pop",
+   "sub": "Electropop · Jazz Pop"
+  },
+  {
+   "id": "introvert-simz",
+   "artist": "Little Simz",
+   "title": "Sometimes I Might Be Introvert",
+   "short": "Sometimes I Might Be Introvert",
+   "released": "2021년 9월",
+   "genre": "영국 힙합 · 소울",
+   "blurb": "현악과 합창, 소울과 아프로비트를 끌어들인 영화 같은 편곡 위에서 자신과 가족을 이야기한 리틀 심즈의 네 번째 음반.",
+   "length": "19곡 · 65분",
+   "spotify": "https://open.spotify.com/album/4nOym5RKE8Opauf3rMxPAW",
+   "apple": "https://music.apple.com/kr/album/1561184260",
+   "top": "Hip-Hop",
+   "sub": "UK Hip-Hop · Conscious Hip-Hop"
+  }
+ ],
+ "essays": [
+  {
+   "id": "happier-than-ever",
+   "heading": "지하실에서 부른 명성의 노래",
+   "paras": [
+    "첫 곡 〈Getting Older〉는 잔잔한 신시사이저 위에서 빌리 아일리시가 거의 말하듯 노래한다. 〈my future〉는 재즈 화성의 전자 피아노로 시작해 중반부터 가볍게 그루브를 탄다. 〈Your Power〉는 어쿠스틱 기타 하나로 힘을 가진 어른이 어린 사람에게 무엇을 하는지 묻는다. 〈Oxytocin〉은 어두운 전자 베이스로 데뷔 음반의 소리를 잠깐 떠올리게 한다. 그리고 제목곡 〈Happier Than Ever〉는 우쿨렐레와 속삭임으로 시작했다가 후반부에 일그러진 기타와 드럼이 터지고, 아일리시가 처음으로 목청껏 소리 지른다.",
+    "오빠 피니어스가 곡을 함께 쓰고 프로듀스했으며 모든 악기를 연주했다. 녹음은 로스앤젤레스에 있는 피니어스 집 지하의 스튜디오에서 이뤄졌다. 2019년 데뷔 음반으로 그래미 주요 네 부문을 휩쓴 아일리시는 열아홉 살에 세계에서 가장 많이 감시받는 사람 중 하나가 됐다. 이 음반은 그 경험을 다룬다. 〈Not My Responsibility〉는 몸매를 두고 쏟아지는 말에 대해 낮은 목소리로 읊조리는 곡이다. 데뷔 음반의 트랩 리듬 대신 느린 템포와 재즈, 보사노바의 화성이 중심이 됐다.",
+    "음반은 미국을 포함한 28개국 차트 1위에 올랐고, 2022년 그래미 올해의 음반 후보에 올랐다. 2019년 《WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?》와 이어 들으면 같은 남매가 같은 방에서 얼마나 다른 소리를 냈는지 들린다."
+   ]
+  },
+  {
+   "id": "introvert-simz",
+   "heading": "내성적인 사람의 오케스트라",
+   "paras": [
+    "첫 곡 〈Introvert〉는 군악대 같은 북소리와 금관, 현악, 합창이 한꺼번에 밀려온다. 그 위에서 리틀 심즈는 빠르고 또렷한 랩으로 세상과 자신 사이의 싸움을 이야기한다. 〈Woman〉은 클리오 솔의 부드러운 목소리와 네오 소울 기타로 세계 곳곳의 흑인 여성에게 바치는 곡이고, 〈I Love You, I Hate You〉는 느린 소울 반주 위에서 곁에 없던 아버지를 향한 복잡한 마음을 털어놓는다. 〈Point and Kill〉은 나이지리아계 가수 오봉자야르와 함께 아프로비트(Afrobeat)의 리듬을 탄다. 곡 사이 막간에는 배우 에마 코린의 내레이션이 이야기를 잇는다.",
+    "리틀 심즈는 나이지리아계 부모를 둔 런던 출신 래퍼다. 제목의 첫 글자를 모으면 SIMBI, 그의 본명 심비아투의 일부가 된다. 그는 사업과 작업에서는 직설적이지만 평소에는 내성적이라 외향적인 모습을 요구하는 업계가 버거웠다고 말했다. 오랜 동료 인플로가 프로듀스했고, 인플로는 정체를 드러내지 않는 그룹 수(SAULT)의 중심인물로 알려져 있고, 그 그룹과 닮은 소울과 현악의 질감이 음반 전체를 감싼다.",
+    "음반은 영국 차트 4위로 그의 최고 기록을 세웠고, 2022년 머큐리상을 받았다. 2015년 켄드릭 라마의 《To Pimp a Butterfly》와 이어 들으면 랩을 오케스트라와 재즈, 소울 위에 올려 한 사람의 서사로 만드는 방식이 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Happier Than Ever · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Happier_Than_Ever"
+  },
+  {
+   "title": "Sometimes I Might Be Introvert · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sometimes_I_Might_Be_Introvert"
+  },
+  {
+   "title": "Little Simz · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Little_Simz"
+  },
+  {
+   "title": "Finneas O'Connell · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Finneas_O%27Connell"
+  }
+ ],
+ "edges": [
+  {
+   "from": "wwafawdwg",
+   "to": "happier-than-ever",
+   "type": "document",
+   "label": "데뷔 음반 다음 빌리 아일리시의 두 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/Happier_Than_Ever"
+  },
+  {
+   "from": "tpab",
+   "to": "introvert-simz",
+   "type": "listen",
+   "label": "오케스트라와 소울 위에 올린 한 사람의 서사"
+  },
+  {
+   "from": "miseducation",
+   "to": "introvert-simz",
+   "type": "listen",
+   "label": "가족과 자아를 다루는 소울과 랩의 결합"
+  }
+ ]
+}

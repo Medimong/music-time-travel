@@ -1,0 +1,107 @@
+{
+ "date": "2027-04-08",
+ "part": "2022-P1",
+ "year": 2022,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 124분",
+ "title": "오토바이를 탄 엄마, 너 없는 여름",
+ "intro": "2022년 2월 러시아가 우크라이나를 침공했고, 세계는 다시 불안 속으로 들어갔다. 그래도 그해 봄과 여름 공연장은 거의 예전처럼 열렸고, 사람들은 2년 동안 참았던 춤을 한꺼번에 추기 시작했다. 스페인어 음악은 이제 미국 차트의 맨 위를 당연하게 차지했다. 오늘은 3월과 5월에 나온 두 장, 약 124분이다. 배드 버니의 음반이 82분에 이르러 두 장만 묶었다. 하나는 플라멩코에서 출발한 스페인 가수가 레게톤과 실험을 뒤섞은 콜라주이고, 다른 하나는 푸에르토리코의 래퍼가 카리브해 전체의 리듬을 모아 만든 여름의 플레이리스트다. 둘을 이어 들으면 라틴 음악이 얼마나 넓어졌는지 들린다.",
+ "albums": [
+  {
+   "id": "motomami",
+   "artist": "ROSALÍA",
+   "title": "MOTOMAMI",
+   "short": "MOTOMAMI",
+   "released": "2022년 3월",
+   "genre": "실험 팝 · 레게톤",
+   "blurb": "레게톤, 바차타, 플라멩코, 전자음을 거칠게 잘라 붙여 명성과 향수병을 노래한 로살리아의 세 번째 음반.",
+   "length": "16곡 · 42분",
+   "spotify": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo",
+   "apple": "https://music.apple.com/kr/album/1607918350",
+   "top": "Latin / Caribbean",
+   "sub": "Experimental Pop · Alternative Reggaeton"
+  },
+  {
+   "id": "uvst",
+   "artist": "Bad Bunny",
+   "title": "Un Verano Sin Ti",
+   "short": "Un Verano Sin Ti",
+   "released": "2022년 5월",
+   "genre": "레게톤 · 카리브 팝",
+   "blurb": "레게톤에 메렝게, 쿰비아, 보사노바, 인디 팝까지 카리브해의 여름을 23곡에 담아 그해 세계에서 가장 많이 들린 배드 버니의 음반.",
+   "length": "23곡 · 82분",
+   "spotify": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5",
+   "apple": "https://music.apple.com/kr/album/1622045624",
+   "top": "Latin / Caribbean",
+   "sub": "Reggaeton · Caribbean Pop"
+  }
+ ],
+ "essays": [
+  {
+   "id": "motomami",
+   "heading": "콜라주로 만든 자화상",
+   "paras": [
+    "〈SAOKO〉는 찢어질 듯한 신시사이저 베이스와 레게톤 리듬으로 시작했다가, 갑자기 재즈 피아노가 끼어들고 다시 소음으로 돌아간다. 이 급격한 전환이 음반 전체의 방식이다. 〈CANDY〉는 느린 레게톤 위에서 흐릿한 목소리가 떠다니고, 〈LA FAMA〉는 더 위켄드가 스페인어로 함께 부른 바차타(Bachata)다. 도미니카공화국의 기타 춤곡을 전자음으로 다시 칠해, 명성을 질투심 많은 연인에 빗댄다. 〈HENTAI〉는 피아노와 속삭이는 노래로 된 발라드이고, 〈BIZCOCHITO〉는 단출한 뎀보(Dembow) 리듬에 장난스러운 랩을 얹는다.",
+    "로살리아는 바르셀로나 근교 출신으로 플라멩코를 공부했고, 2018년 《El Mal Querer》로 세계적인 스타가 됐다. 그 뒤 3년 동안 미국과 여러 도시를 오가며 느낀 명성의 피로, 향수병, 고립을 이 음반에 담았다. 오랜 동료 엘 긴초와 퍼렐 윌리엄스, 노아 골드스타인 등이 프로듀서로 참여했다. 제목은 오토바이(moto)와 엄마(mami)를 합친 말로, 어린 그를 오토바이에 태우고 동네를 누비던 어머니를 기리는 이름이라고 그는 밝혔다. 레게톤의 리듬과 라틴 음악의 전통, 일본 문화, 전위적인 전자음이 한 음반 안에서 콜라주처럼 붙는다.",
+    "음반은 스페인 차트에서 6주 연속 1위를 했고, 메타크리틱에서 2022년 가장 좋은 평을 받은 음반이 됐다. 라틴 그래미 올해의 음반상을 받아 로살리아는 이 상을 두 번 받은 첫 여성이 됐다. 2018년 《El Mal Querer》와 이어 들으면 플라멩코에서 출발한 목소리가 어디까지 갔는지 들린다."
+   ]
+  },
+  {
+   "id": "uvst",
+   "heading": "카리브해 전체의 여름",
+   "paras": [
+    "〈Moscow Mule〉은 느슨한 레게톤 리듬과 부드러운 신시사이저로 해변의 오후를 연다. 〈Me Porto Bonito〉는 촌초 코를레오네와 함께한 레게톤이고, 〈Tití Me Preguntó〉는 빠른 뎀보 리듬으로 시작했다가 중간에 기타가 반짝이는 바차타로 넘어간다. 〈Después de la Playa〉는 금관과 빠른 타악기가 폭발하는 메렝게(Merengue)다. 콜롬비아 밴드 봄바 에스테레오와 함께한 〈Ojitos Lindos〉는 쿰비아(Cumbia)의 느린 걸음을 따르고, 〈El Apagón〉은 푸에르토리코의 정전과 개발 문제를 꼬집으며 섬에 대한 사랑을 외친다. 인디 밴드 더 마리아스, 부스카불라와 함께한 몽롱한 곡도 있다.",
+    "배드 버니는 이 음반을 여름에 해변에서 플레이리스트처럼 틀어 놓는 음반이라고 소개했다. 23곡 동안 레게톤을 중심으로 레게, 봄바, 칼립소, 소카, 메렝게, 바차타 같은 카리브해의 리듬이 차례로 지나간다. 2020년 《El Último Tour Del Mundo》 이후 거의 2년 만의 음반이었고, 오랜 동료 프로듀서 타이니가 함께했다. 그는 같은 해 경기장만 도는 월드 투어를 열어 당시 라틴 음악가 투어 최고 수익을 올렸다.",
+    "음반은 빌보드 200에서 13주 동안 1위를 했고, 스페인어 음반으로는 처음으로 빌보드 연말 차트 1위에 올랐다. 국제음반산업협회(IFPI) 집계로도 2022년 세계에서 가장 많이 소비된 음반이었다. 스페인어 음반으로는 처음으로 그래미 올해의 음반 후보에 올랐다. 2020년 《YHLQMDLG》와 이어 들으면 레게톤이 카리브해 전체로 뻗어 나가는 길이 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Motomami · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Motomami"
+  },
+  {
+   "title": "Un Verano Sin Ti · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Un_Verano_Sin_Ti"
+  },
+  {
+   "title": "Reggaeton · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Reggaeton"
+  },
+  {
+   "title": "Bachata · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bachata"
+  }
+ ],
+ "edges": [
+  {
+   "from": "el-mal-querer",
+   "to": "motomami",
+   "type": "document",
+   "label": "《El Mal Querer》 다음 로살리아의 세 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/Motomami"
+  },
+  {
+   "from": "after-hours",
+   "to": "motomami",
+   "type": "document",
+   "label": "더 위켄드가 〈LA FAMA〉에 참여",
+   "source": "https://en.wikipedia.org/wiki/Motomami"
+  },
+  {
+   "from": "ultimo-tour",
+   "to": "uvst",
+   "type": "document",
+   "label": "《El Último Tour Del Mundo》 다음 배드 버니의 음반",
+   "source": "https://en.wikipedia.org/wiki/Un_Verano_Sin_Ti"
+  },
+  {
+   "from": "yhlqmdlg",
+   "to": "uvst",
+   "type": "listen",
+   "label": "레게톤의 리듬 위에 쌓은 카리브해의 장르들"
+  }
+ ]
+}
