@@ -1,0 +1,101 @@
+{
+ "date": "2026-12-12",
+ "part": "1982-P3",
+ "year": 1982,
+ "partNo": 3,
+ "partTotal": 3,
+ "total": "약 113분",
+ "title": "종말 앞의 파티, 지구에서 가장 많이 팔린 마흔두 분",
+ "intro": "1982년의 마지막 날은 두 장이다. 프린스의 《1999》가 원래 LP 두 장에 나눠 담은 70분이 넘는 음반이어서, 이 한 장만으로도 보통 하루 분량의 절반이 넘기 때문이다. 10월 말과 11월 말, 한 달 간격으로 나온 두 음반은 흑인 음악가가 팝 시장 한가운데로 들어서는 문을 함께 열었다. 1981년 문을 연 MTV는 처음에 백인 록 밴드의 비디오를 주로 틀었는데, 1983년 프린스의 〈1999〉와 〈Little Red Corvette〉, 마이클 잭슨의 〈Billie Jean〉 비디오가 흑인 음악가의 비디오로는 거의 처음으로 자주 방송되기 시작했다. 두 사람은 1958년생 동갑이고, 둘 다 디스코 이후의 춤 음악에 록 기타와 신시사이저를 섞었다. 미니애폴리스의 집 스튜디오에서 거의 혼자 만든 음반과 로스앤젤레스의 큰 스튜디오에서 최고의 연주자들과 만든 음반을 나란히 들어 보자.",
+ "albums": [
+  {
+   "id": "prince-1999",
+   "artist": "Prince",
+   "title": "1999",
+   "short": "1999",
+   "released": "1982년 10월",
+   "genre": "펑크 · 신스 펑크",
+   "blurb": "드럼 머신과 신시사이저로 미니애폴리스 사운드를 완성한, 프린스의 두 장짜리 출세작.",
+   "length": "11곡 · 71분",
+   "spotify": "https://open.spotify.com/album/3U1ht9EdWEI9nMvaqdQI67",
+   "apple": "https://music.apple.com/kr/album/214145240",
+   "top": "Funk",
+   "sub": "Minneapolis Sound"
+  },
+  {
+   "id": "thriller",
+   "artist": "Michael Jackson",
+   "title": "Thriller",
+   "short": "Thriller",
+   "released": "1982년 11월",
+   "genre": "팝 · 포스트 디스코",
+   "blurb": "일곱 곡을 빌보드 톱10에 올리고 역사상 가장 많이 팔린 음반이 된 마이클 잭슨과 퀸시 존스의 두 번째 합작.",
+   "length": "9곡 · 42분",
+   "spotify": "https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ",
+   "apple": "https://music.apple.com/kr/album/269572838",
+   "top": "Pop / Art Pop",
+   "sub": "Pop · Post-Disco"
+  }
+ ],
+ "essays": [
+  {
+   "id": "prince-1999",
+   "heading": "종말 앞의 파티",
+   "paras": [
+    "타이틀곡 〈1999〉는 느려진 목소리의 경고로 시작해, 딱딱하게 끊어 치는 드럼 머신과 짧게 쏘는 신시사이저 화음 위에서 여러 사람이 한 줄씩 돌아가며 노래한다. 리사 콜먼, 질 존스, 데즈 디커슨이 프린스와 번갈아 부른다. 드럼은 대부분 린 LM-1 드럼 머신이다. 실제 드럼 소리를 녹음해 담은 드럼 머신으로, 손으로 치는 듯한 박자감 대신 기계의 단단함이 있다. 브라스 섹션이 할 법한 짧은 리프를 오버하임 신시사이저가 대신 친다. 이런 소리를 미니애폴리스 사운드(Minneapolis sound)라 부른다. 〈Little Red Corvette〉는 드럼 머신과 천천히 차오르는 신시사이저 위에 록 기타의 후렴을 얹었다.",
+    "녹음은 1982년 1월부터 8월까지 미네소타 섀너선의 집 스튜디오와 할리우드의 선셋 사운드에서 했고, 프린스가 악기 대부분을 직접 연주했다. 그의 밴드 더 레볼루션이 처음 함께한 음반이기도 하다. 〈1999〉는 핵무기 확산에 맞선 노래로 평가된다. 곡이 길어지는 것을 마다하지 않아 〈D.M.S.R.〉이나 〈Automatic〉은 8분이 넘게 같은 그루브를 밀고 나가고, 그래서 음반은 70분을 넘었다. 처음 CD로 나왔을 때는 〈D.M.S.R.〉이 빠졌다.",
+    "음반은 빌보드 9위에 올라 프린스의 첫 톱10 음반이 됐고, 〈Little Red Corvette〉는 6위로 그의 첫 톱10 싱글이 됐다. 이 곡은 그의 노래 가운데 처음으로 흑인 음악 차트보다 팝 차트에서 더 좋은 성적을 냈다. 1980년 《Dirty Mind》와 이어 들으면, 지하실의 거친 데모 같은 소리가 2년 만에 얼마나 크고 매끈해졌는지 들린다. 프린스는 1984년 《Purple Rain》으로 정점에 오른다."
+   ]
+  },
+  {
+   "id": "thriller",
+   "heading": "지구에서 가장 많이 팔린 마흔두 분",
+   "paras": [
+    "〈Billie Jean〉은 드럼과 루이스 존슨의 베이스만으로 긴 도입부를 연다. 베이스는 같은 음형을 쉬지 않고 되풀이하고, 잭슨은 딸꾹질 같은 짧은 소리와 숨소리를 리듬의 일부처럼 쓴다. 〈Beat It〉에서는 에디 밴 헤일런이 기타 독주를 치고, 토토의 스티브 루카서가 리듬 기타를 맡았다. 〈Thriller〉는 로드 템퍼턴이 쓴 곡으로, 공포 영화 배우 빈센트 프라이스가 끝 부분의 내레이션을 읽는다. 〈Human Nature〉는 토토의 스티브 포카로가 함께 쓴 부드러운 발라드다. 펑크, 록, 발라드, 디스코가 아홉 곡 안에 고르게 들어 있다.",
+    "녹음은 1982년 4월부터 11월까지 로스앤젤레스 웨스트레이크 스튜디오에서 제작자 퀸시 존스와 했다. 1979년 《Off the Wall》의 성공에 이은 두 번째 합작이었고, 예산은 75만 달러였다. 잭슨은 아홉 곡 가운데 〈Billie Jean〉, 〈Beat It〉, 〈Wanna Be Startin’ Somethin’〉, 폴 매카트니와 부른 〈The Girl Is Mine〉 네 곡을 직접 썼다. 록 기타를 넣은 〈Beat It〉은 록 음악을 듣는 백인 청취자까지 끌어들이려고 만든 곡으로 알려져 있다.",
+    "음반은 빌보드 앨범 차트 1위에 모두 37주 머물렀고, 싱글 일곱 곡이 모두 톱10에 들었다. 1983년 3월 MTV가 〈Billie Jean〉의 비디오를 자주 방송하기 시작했고, 5월 모타운 25주년 방송에서 문워크를 처음 선보이자 판매가 다시 치솟았다. 12월에는 존 랜디스가 감독한 〈Thriller〉 비디오가 나왔다. 이듬해 그래미상 여덟 개를 받았고, 세계적으로 약 7000만 장이 팔려 역사상 가장 많이 팔린 음반으로 꼽힌다. 오늘로 1982년이 끝난다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "1999 (Prince album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/1999_(Prince_album)"
+  },
+  {
+   "title": "Thriller (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Thriller_(album)"
+  },
+  {
+   "title": "Minneapolis sound · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Minneapolis_sound"
+  },
+  {
+   "title": "Billie Jean · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Billie_Jean"
+  }
+ ],
+ "edges": [
+  {
+   "from": "dirty-mind",
+   "to": "prince-1999",
+   "type": "document",
+   "label": "같은 음악가의 앞선 음반, 지하실 데모에서 두 장짜리 출세작으로",
+   "source": "https://en.wikipedia.org/wiki/1999_(Prince_album)"
+  },
+  {
+   "from": "off-the-wall",
+   "to": "thriller",
+   "type": "document",
+   "label": "같은 음악가와 제작자 퀸시 존스의 앞선 합작",
+   "source": "https://en.wikipedia.org/wiki/Thriller_(album)"
+  },
+  {
+   "from": "van-halen",
+   "to": "thriller",
+   "type": "document",
+   "label": "에디 밴 헤일런이 〈Beat It〉의 기타 독주를 연주",
+   "source": "https://en.wikipedia.org/wiki/Thriller_(album)"
+  }
+ ]
+}

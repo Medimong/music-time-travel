@@ -1,0 +1,125 @@
+{
+ "date": "2026-12-20",
+ "part": "1985-P2",
+ "year": 1985,
+ "partNo": 2,
+ "partTotal": 3,
+ "total": "약 136분",
+ "title": "디지털로 녹음한 MTV 풍자, 열 가지 색깔의 팝, 방송 대신 무대에서 부른 행진",
+ "intro": "1985년 7월 13일, 런던 웸블리와 필라델피아에서 아프리카 기근을 돕는 라이브 에이드가 열렸고, 150개 나라에서 약 19억 명이 중계를 본 것으로 추산된다. 웸블리 무대에 선 다이어 스트레이츠는 스팅과 함께 막 히트하던 〈Money for Nothing〉을 불렀다. 이 해에는 콤팩트디스크(CD)가 본격적으로 퍼지기 시작했는데, 다이어 스트레이츠의 음반은 CD로 처음 100만 장을 넘겼다. 영국에서는 어두운 고딕 록의 상징이던 큐어가 밝은 팝으로 방향을 틀었다. 같은 9월 서울에서는 들국화가 첫 음반을 냈다. 방송보다 공연으로 이름을 알린 이 밴드의 음반은 군사 정부 아래 방송 중심이던 한국 대중음악에 다른 길이 있음을 보여 줬다. 세 음반 모두 그 시대의 매체와 기술, 그리고 무대가 어떻게 음악을 바꾸는지를 들려준다.",
+ "albums": [
+  {
+   "id": "brothers-arms",
+   "artist": "Dire Straits",
+   "title": "Brothers In Arms",
+   "short": "Brothers in Arms",
+   "released": "1985년 5월",
+   "genre": "루츠 록 · 팝 록",
+   "blurb": "디지털 녹음과 CD 시대를 연, 다이어 스트레이츠의 다섯 번째 음반.",
+   "length": "9곡 · 55분",
+   "spotify": "https://open.spotify.com/album/15J400U0rEpgE64UQgtvLs",
+   "apple": "https://music.apple.com/kr/album/1565391787",
+   "top": "Rock",
+   "sub": "Roots Rock"
+  },
+  {
+   "id": "head-on-door",
+   "artist": "The Cure",
+   "title": "The Head On the Door",
+   "short": "The Head On the Door",
+   "released": "1985년 8월",
+   "genre": "포스트펑크 · 뉴웨이브 팝",
+   "blurb": "밴드를 다시 꾸린 로버트 스미스가 여러 색깔의 팝으로 채운 큐어의 여섯 번째 음반.",
+   "length": "10곡 · 38분",
+   "spotify": "https://open.spotify.com/album/6HhpmJekzDCRu2K64ZbWqw",
+   "apple": "https://music.apple.com/kr/album/1443833316",
+   "top": "New Wave / Post-Punk",
+   "sub": "Post-Punk · Gothic Rock"
+  },
+  {
+   "id": "deulgukhwa",
+   "artist": "들국화",
+   "title": "들국화 1집",
+   "short": "들국화",
+   "released": "1985년 9월",
+   "genre": "록 · 포크 록",
+   "blurb": "공연으로 이름을 알린 들국화의 첫 음반, 한국 대중음악 100대 명반 1위.",
+   "length": "9곡 · 43분",
+   "spotify": "https://open.spotify.com/album/5rfo4HOW4Pe01ipqjHL19K",
+   "apple": "https://music.apple.com/kr/album/1804595885",
+   "top": "Rock",
+   "sub": "Korean Rock"
+  }
+ ],
+ "essays": [
+  {
+   "id": "brothers-arms",
+   "heading": "MTV를 비꼰 MTV 히트곡",
+   "paras": [
+    "〈Money for Nothing〉은 스팅의 높은 가성 ‘I want my MTV’로 시작한다. 이 선율은 폴리스의 〈Don't Stand So Close to Me〉 절 부분을 빌려 온 것이다. 이어 드럼이 터지고, 마크 노플러가 깁슨 레스폴을 와와 페달(wah-wah pedal, 발로 밟아 소리를 ‘와우’ 하고 여닫는 장치)에 걸어 메마르고 두꺼운 리프를 긁는다. 노플러는 ZZ 톱의 빌리 기번스 소리를 본떴다고 했다. 마지막 곡 〈Brothers in Arms〉는 정반대로 느리고 어둡다. 1982년 포클랜드 전쟁 무렵에 쓴 반전 노래로, 레스폴의 길게 우는 기타 솔로가 곡을 닫는다.",
+    "음반은 1984년 11월부터 이듬해 2월까지 카리브해 몬트세랫섬의 AIR 스튜디오에서 녹음했다. 소니의 24트랙 디지털 녹음기를 쓴 첫 음반들 가운데 하나로, 녹음부터 마스터까지 모두 디지털이었다. LP 한 장에는 다 들어가지 않아 LP판은 몇 곡을 줄여 약 46분으로 냈고, CD와 카세트에는 55분 전곡이 실렸다. 오늘 듣는 판이 그 긴 CD판이다. 노플러는 뉴욕의 가전 매장에서 벽 가득한 TV 속 뮤직비디오를 보며 투덜대던 배달 직원의 말을 듣고 그 자리에서 〈Money for Nothing〉을 썼다고 한다. 정작 이 곡의 컴퓨터 애니메이션 비디오는 MTV에서 쉴 새 없이 나왔다.",
+    "〈Money for Nothing〉은 미국 싱글 차트 1위에 3주 머물렀고, 음반은 영국에서 모두 14주, 미국에서 9주 동안 1위를 했다. CD로 100만 장 넘게 팔린 첫 음반이자 LP보다 CD가 더 많이 팔린 첫 음반으로, 음반 산업이 CD로 넘어가는 문을 열었다. 전 세계 판매는 3000만 장이 넘는다. 1982년 마이클 잭슨의 《Thriller》와 이어 들으면, 뮤직비디오가 음반을 파는 시대를 하나는 올라타고 하나는 비꼬면서도 결국 함께 누렸다는 것이 들린다."
+   ]
+  },
+  {
+   "id": "head-on-door",
+   "heading": "열 가지 색깔의 팝",
+   "paras": [
+    "〈In Between Days〉는 빠르게 긁는 기타와 경쾌한 드럼으로 달려 나가고, 당시 뉴오더와 닮았다는 말을 들었다. 〈Kyoto Song〉에는 동양풍 선율이 감돌고, 〈The Blood〉는 플라멩코 기타처럼 연주한다. 〈Six Different Ways〉의 피아노 선율은 로버트 스미스가 수지 앤드 더 밴시스의 곡에 먼저 썼던 것이고, 〈A Night Like This〉에는 색소폰 솔로가 나온다. 음반 제목은 〈Close to Me〉 후렴의 한 구절이다. 열 곡이 38분 동안 서로 다른 악기와 분위기를 보여 주는데, 모든 곡을 스미스 혼자 썼다.",
+    "큐어는 1982년 《Pornography》로 고딕 록(Gothic Rock)을 대표하는 밴드가 됐다. 스미스는 한동안 수지 앤드 더 밴시스의 기타리스트로 활동했고, 음반사 대표 크리스 패리의 설득으로 스타일을 바꿔 〈The Love Cats〉 같은 가벼운 팝 싱글을 내 처음으로 영국 10위 안에 들었다. 1984년 사이키델릭한 《The Top》 뒤에 베이스의 사이먼 갤럽이 돌아오고 드러머 보리스 윌리엄스와 기타의 포를 톰프슨이 자리를 잡았다. 스미스는 다시 그룹이 됐다고 말했다. 그는 이 음반의 영감으로 밴시스의 《Kaleidoscope》와 휴먼 리그의 《Dare》를 꼽았다.",
+    "음반은 영국 차트 7위로 그때까지 큐어의 가장 큰 성공이었고, 미국에서도 59위에 올랐다. 싱글이 둘 이상 나온 첫 큐어 음반이기도 하다. 《Melody Maker》는 이 음반을 1985년 최고의 음반으로 꼽았고, 피치포크는 훗날 밴드의 가장 집중된 팝 음반이라 평했다. 1981년 휴먼 리그의 《Dare》와 이어 들으면, 전자 팝의 밝은 선율이 고딕 밴드의 손에서 어떻게 쓸쓸한 색을 입는지 들린다."
+   ]
+  },
+  {
+   "id": "deulgukhwa",
+   "heading": "방송 대신 무대에서 부른 행진",
+   "paras": [
+    "첫 곡 〈행진〉은 허성욱의 피아노와 주찬권의 드럼이 힘차게 걸어 나가고, 전인권이 쉰 듯 거칠고 큰 목소리로 외치듯 노래한다. 최성원의 맑고 부드러운 목소리가 그와 짝을 이루어, 한 밴드 안에 전혀 다른 두 목소리가 오간다. 최성원이 쓰고 전인권이 부른 〈그것만이 내 세상〉은 피아노 발라드로 시작해 록으로 커지고, 이병우가 쓴 〈오후만 있던 일요일〉은 조용한 포크에 가깝다. 조덕환의 기타와 〈세계로 가는 기차〉 같은 곡, 이원재의 클라리넷이 음반을 넓힌다. 원래 LP 끝에는 당시 음반에 넣어야 했던 건전가요 〈우리의 소원〉을 반주 없이 화음으로만 불러 실었는데, 오늘 듣는 판에는 빠져 있다.",
+    "들국화는 1983년 10월 전인권, 허성욱, 최성원이 만들었다. 이름은 허성욱이 씹던 껌 이름에서 왔다고 한다. 1980년대 전반 한국 대중음악은 군사 정부 아래에서 텔레비전과 라디오가 무엇을 들려줄지 정했는데, 들국화는 방송이 아니라 수많은 공연으로 젊은 관객을 모았다. 그 힘을 바탕으로 1985년 9월 서라벌레코드에서 첫 음반을 냈고, 정식 멤버가 아니던 드러머 주찬권과 기타의 최구희가 세션으로 함께했다.",
+    "음반은 약 180만 장이 팔린 것으로 추정되며, 언더그라운드라 불리던 공연 중심의 음악가들이 주류로 올라오는 계기가 됐다는 평을 받는다. 밴드는 1986년 2집 《너랑 나랑》을 낸 뒤 1987년 해체를 선언했다. 2007년 《경향신문》과 음악 평론가들이 뽑은 한국 대중음악 100대 명반에서 1위에 올랐다. 1973년 일본 핫피 엔도의 음반과 이어 들으면, 서양 록을 받아들인 아시아의 밴드가 제 나라 말로 자기 노래를 찾아가는 비슷한 길이 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Brothers in Arms (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Brothers_in_Arms_(album)"
+  },
+  {
+   "title": "The Head on the Door · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Head_on_the_Door"
+  },
+  {
+   "title": "행진 (음반) · 위키백과",
+   "url": "https://ko.wikipedia.org/wiki/%ED%96%89%EC%A7%84_(%EC%9D%8C%EB%B0%98)"
+  },
+  {
+   "title": "들국화 (밴드) · 위키백과",
+   "url": "https://ko.wikipedia.org/wiki/%EB%93%A4%EA%B5%AD%ED%99%94_(%EB%B0%B4%EB%93%9C)"
+  },
+  {
+   "title": "Live Aid · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Live_Aid"
+  }
+ ],
+ "edges": [
+  {
+   "from": "thriller",
+   "to": "brothers-arms",
+   "type": "listen",
+   "label": "뮤직비디오가 음반을 파는 시대, 올라타기와 비꼬기"
+  },
+  {
+   "from": "dare",
+   "to": "head-on-door",
+   "type": "listen",
+   "label": "로버트 스미스가 영감으로 꼽은 전자 팝"
+  },
+  {
+   "from": "happy-end",
+   "to": "deulgukhwa",
+   "type": "listen",
+   "label": "아시아의 록 밴드가 제 나라 말로 찾은 노래"
+  }
+ ]
+}
