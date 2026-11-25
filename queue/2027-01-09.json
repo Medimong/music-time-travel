@@ -1,0 +1,121 @@
+{
+ "date": "2027-01-09",
+ "part": "1992-P1",
+ "year": 1992,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 139분",
+ "title": "서울의 신인, 스톡턴의 차고, 용커스의 목소리",
+ "intro": "1992년 봄, 한국 가요계에 낯선 세 청년이 나타났다. 4월 MBC 신인 무대에서 춤과 랩을 섞은 노래를 부른 그들은 심사위원들에게 낮은 점수를 받았다는 일화가 유명하지만, 음반은 그해 가장 많이 팔렸다. 같은 4월 말 미국에서는 흑인 운전자 로드니 킹을 폭행한 경찰관들이 무죄 판결을 받자 로스앤젤레스에서 폭동이 일어났고, 코리아타운의 한인 상점들도 큰 피해를 입었다. 힙합은 이 분노를 기록하는 언어였다. 오늘의 세 음반은 서울의 서태지와 아이들, 캘리포니아 소도시 스톡턴의 페이브먼트, 뉴욕 근교 용커스의 메리 제이 블라이즈다. 합쳐서 약 139분으로 조금 길다.",
+ "albums": [
+  {
+   "id": "seotaiji1",
+   "artist": "서태지와 아이들",
+   "title": "Seotaiji and Boys",
+   "short": "서태지와 아이들 1집",
+   "released": "1992년 3월",
+   "genre": "가요 · 뉴 잭 스윙 · 랩",
+   "blurb": "〈난 알아요〉의 랩과 춤으로 한국 대중음악의 세대교체를 알린 서태지와 아이들의 데뷔작.",
+   "length": "13곡 · 47분",
+   "spotify": "https://open.spotify.com/album/53OG0dLStOizLfNxsD3LPr",
+   "apple": "https://music.apple.com/kr/album/1614224678",
+   "top": "Pop / Art Pop",
+   "sub": "K-Pop · New Jack Swing"
+  },
+  {
+   "id": "slanted",
+   "artist": "Pavement",
+   "title": "Slanted & Enchanted",
+   "short": "Slanted & Enchanted",
+   "released": "1992년 4월",
+   "genre": "인디 록 · 로파이",
+   "blurb": "어긋난 음정과 싸구려 녹음을 무기로 1990년대 미국 인디 록의 태도를 정한 페이브먼트의 데뷔작.",
+   "length": "14곡 · 39분",
+   "spotify": "https://open.spotify.com/album/7o14zVcXSRk7clV6QCEdOD",
+   "apple": "https://music.apple.com/kr/album/1589229771",
+   "top": "Rock",
+   "sub": "Indie Rock · Lo-Fi"
+  },
+  {
+   "id": "whats-411",
+   "artist": "Mary J. Blige",
+   "title": "What's the 411?",
+   "short": "What's the 411?",
+   "released": "1992년 7월",
+   "genre": "힙합 소울 · R&B",
+   "blurb": "힙합 비트 위에서 거리의 말투로 노래해 ‘힙합 소울의 여왕’이 된 메리 제이 블라이즈의 데뷔작.",
+   "length": "12곡 · 53분",
+   "spotify": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2",
+   "apple": "https://music.apple.com/kr/album/1440817005",
+   "top": "Soul / R&B",
+   "sub": "Hip-Hop Soul"
+  }
+ ],
+ "essays": [
+  {
+   "id": "seotaiji1",
+   "heading": "난 알아요, 1992년의 문",
+   "paras": [
+    "〈난 알아요〉는 미국 뉴 잭 스윙(New Jack Swing, 힙합 드럼에 R&B 선율을 얹은 1980년대 말 댄스 음악)의 튀는 박자 위에서 시작한다. 서태지는 절을 랩으로, 후렴을 노래로 부르고, 양현석과 이주노의 춤이 무대를 채웠다. 〈환상 속의 그대〉는 헤비메탈 기타 리프 위에서 랩을 하고, 〈이 밤이 깊어가지만〉은 전통적인 가요 발라드에 가깝다. 한 음반 안에 랩, 댄스, 메탈, 발라드가 함께 있다. 신시사이저와 드럼 머신으로 만든 소리는 지금 들으면 얇지만, 당시 가요의 편곡과는 확연히 달랐다.",
+    "서태지는 1980년대 말 헤비메탈 밴드 시나위에서 베이스를 쳤다. 밴드를 나온 뒤 혼자 컴퓨터와 신시사이저로 곡을 만들며 미국 힙합과 댄스 음악을 공부했고, 춤꾼 양현석, 이주노와 팀을 이뤘다. 1980년대 후반 서울 올림픽과 해외여행 자유화 뒤 외국 문화를 빠르게 받아들이던 10대들이 이 음악에 열광했다. 기성 평론가들은 낯설어했지만, 판매는 그해 최고를 기록한 것으로 알려져 있다.",
+    "이 음반 뒤 한국 가요는 랩과 춤이 결합한 아이돌 그룹 중심으로 재편됐다. 양현석은 훗날 YG엔터테인먼트를 세웠다. 1988년 바비 브라운의 《Don't Be Cruel》과 이어 들으면, 서울의 청년이 미국 뉴 잭 스윙을 어떻게 한국어로 옮겼는지 분명히 들린다."
+   ]
+  },
+  {
+   "id": "slanted",
+   "heading": "어긋난 음정의 태도",
+   "paras": [
+    "〈Summer Babe〉의 기타는 일부러 음정을 맞추지 않은 듯 서로 비껴 나고, 스티븐 맬크머스는 무심하게 웅얼거리다 갑자기 소리를 지른다. 녹음은 거칠고 테이프 잡음이 그대로 남아 있다. 이런 의도적으로 소박한 녹음을 로파이(Lo-Fi, Low Fidelity)라 부른다. 그런데 〈Here〉나 〈Trigger Cut〉처럼 귀에 남는 선율이 곳곳에 숨어 있다. 성의 없어 보이는 태도와 좋은 곡 사이의 거리감이 이 음반의 매력이다.",
+    "페이브먼트는 캘리포니아 중부 소도시 스톡턴에서 맬크머스와 스콧 캔버그가 시작한 밴드다. 녹음은 동네의 괴짜 드러머 게리 영의 집 스튜디오에서 했고, 그는 그대로 밴드의 드러머가 됐다. 정식 발매 전에 카세트 복사본이 평론가와 팬 사이에서 돌았고, 뉴욕의 작은 음반사 마타도르가 1992년 4월 음반을 냈다. 영국 밴드 더 폴의 영향이 짙다는 평을 받았다.",
+    "같은 해 미국 메이저 음반사들이 시애틀 밴드 사냥에 나선 사이, 이 음반은 정반대의 길을 보여 줬다. 큰 음반사와 비싼 스튜디오 없이도 자기만의 소리를 만들 수 있다는 태도는 1990년대 이후 미국 인디 록의 기본값이 됐다. 1988년 소닉 유스의 《Daydream Nation》과 이어 들으면 뉴욕 언더그라운드의 기타 소음이 어떻게 더 느슨해졌는지 들린다."
+   ]
+  },
+  {
+   "id": "whats-411",
+   "heading": "힙합 비트 위의 소울",
+   "paras": [
+    "〈Real Love〉는 오디오 투의 힙합 곡 〈Top Billin'〉에서 가져온 딱딱한 드럼 위에, 메리 제이 블라이즈의 거칠고 힘 있는 노래가 얹힌다. 매끈한 R&B 가수들처럼 다듬지 않고, 뉴욕 공공 주택 단지에서 자란 말투 그대로 노래한다. 〈You Remind Me〉, 〈Love No Limit〉도 같은 방식이다. 루퍼스와 샤카 칸의 1975년 곡 〈Sweet Thing〉을 다시 불렀고, 타이틀곡에는 래퍼 그랜드 푸바가 함께했다.",
+    "블라이즈는 용커스의 공공 주택에서 자랐고, 쇼핑몰 노래방 부스에서 녹음한 테이프가 업타운 레코드에 전해져 계약했다. 업타운의 젊은 직원이던 션 콤스(퍼프 대디)가 총괄 프로듀서를 맡아 힙합 프로듀서들의 비트를 R&B 노래에 붙였다. 옷차림도 운동화와 야구 모자, 커다란 귀고리 그대로였다. 힙합 패션과 태도를 그대로 지닌 여성 가수는 그때까지 드물었다.",
+    "이 결합을 사람들은 힙합 소울(Hip-Hop Soul)이라 불렀고, 블라이즈는 그 여왕이 됐다. 음반은 미국에서 300만 장 넘게 팔린 것으로 알려져 있다. 이후 R&B 가수가 래퍼와 함께 부르고 힙합 비트로 노래하는 일은 표준이 됐다. 콤스는 2년 뒤 자신의 음반사 배드 보이에서 노토리어스 B.I.G.의 데뷔작을 내게 된다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Seo Taiji and Boys · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Seo_Taiji_and_Boys"
+  },
+  {
+   "title": "Slanted and Enchanted · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Slanted_and_Enchanted"
+  },
+  {
+   "title": "What's the 411? · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/What%27s_the_411%3F"
+  },
+  {
+   "title": "Lo-fi music · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Lo-fi_music"
+  }
+ ],
+ "edges": [
+  {
+   "from": "dont-be-cruel",
+   "to": "seotaiji1",
+   "type": "listen",
+   "label": "미국 뉴 잭 스윙이 한국어 랩과 춤으로 옮겨지다"
+  },
+  {
+   "from": "daydream-nation",
+   "to": "slanted",
+   "type": "listen",
+   "label": "뉴욕 언더그라운드의 기타 소음이 느슨한 로파이로"
+  },
+  {
+   "from": "dont-be-cruel",
+   "to": "whats-411",
+   "type": "listen",
+   "label": "뉴 잭 스윙에서 힙합 소울로, R&B가 힙합 비트를 받아들이다"
+  }
+ ]
+}

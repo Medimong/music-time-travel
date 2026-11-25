@@ -1,0 +1,127 @@
+{
+ "date": "2027-01-08",
+ "part": "1991-P3",
+ "year": 1991,
+ "partNo": 3,
+ "partTotal": 3,
+ "total": "약 139분",
+ "title": "1991년 9월 24일, 그리고 기타가 녹아내린 11월",
+ "intro": "1991년 9월 24일 화요일, 미국 음반 가게에는 너바나, 어 트라이브 콜드 퀘스트, 레드 핫 칠리 페퍼스의 새 음반이 같은 날 깔렸다. 그날 나온 음반들은 각자 다른 방식으로 1990년대를 정의하게 된다. 몇 달 뒤 1992년 1월, 너바나의 음반은 마이클 잭슨의 《Dangerous》를 밀어내고 빌보드 앨범 차트 1위에 올랐다. 지역 음반사와 대학 라디오, 클럽에서 자란 ‘얼터너티브’가 주류가 되는 순간이었다. 같은 해 11월 영국에서는 마이 블러디 밸런타인이 2년 넘게 매달린 음반을 내놓았다. 오늘의 세 음반은 합쳐서 약 139분으로 조금 길다. 하나씩 시간을 두고 들어도 좋다.",
+ "albums": [
+  {
+   "id": "nevermind",
+   "artist": "Nirvana",
+   "title": "Nevermind",
+   "short": "Nevermind",
+   "released": "1991년 9월",
+   "genre": "그런지 · 얼터너티브 록",
+   "blurb": "조용한 절과 폭발하는 후렴으로 얼터너티브 록을 차트 1위에 올려놓은 너바나의 두 번째 음반.",
+   "length": "1–12곡 · 43분",
+   "spotify": "https://open.spotify.com/album/7fh6U3pYDTFZBjLaF2tyTp",
+   "apple": "https://music.apple.com/kr/album/1440783617",
+   "top": "Rock",
+   "sub": "Grunge"
+  },
+  {
+   "id": "low-end",
+   "artist": "A Tribe Called Quest",
+   "title": "The Low End Theory",
+   "short": "Low End Theory",
+   "released": "1991년 9월",
+   "genre": "재즈 랩 · 동부 힙합",
+   "blurb": "재즈 베이스와 최소한의 드럼으로 힙합을 비워 낸 어 트라이브 콜드 퀘스트의 두 번째 음반.",
+   "length": "14곡 · 48분",
+   "spotify": "https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a",
+   "apple": "https://music.apple.com/kr/album/278911460",
+   "top": "Hip-Hop",
+   "sub": "Jazz Rap"
+  },
+  {
+   "id": "loveless",
+   "artist": "My Bloody Valentine",
+   "title": "Loveless",
+   "short": "Loveless",
+   "released": "1991년 11월",
+   "genre": "슈게이즈 · 드림 팝",
+   "blurb": "휘어지는 기타 소리를 수십 겹 쌓아 노래를 안개 속에 묻은 마이 블러디 밸런타인의 두 번째 음반.",
+   "length": "11곡 · 49분",
+   "spotify": "https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb",
+   "apple": "https://music.apple.com/kr/album/1556921230",
+   "top": "Rock",
+   "sub": "Shoegaze"
+  }
+ ],
+ "essays": [
+  {
+   "id": "nevermind",
+   "heading": "조용히, 그리고 크게",
+   "paras": [
+    "〈Smells Like Teen Spirit〉은 네 개의 코드로 된 기타 리프 하나가 전부라 해도 될 정도로 단순하다. 절에서는 기타가 거의 빠지고 베이스와 드럼 위에서 커트 코베인이 웅얼거리듯 노래하다가, 후렴에서 모든 악기가 한꺼번에 터진다. 코베인은 훗날 픽시스의 곡을 쓰려다 나온 곡이라고 말했다. 조용한 절과 시끄러운 후렴(Quiet-Loud) 구조는 〈Lithium〉, 〈In Bloom〉에서도 반복된다. 새로 합류한 데이브 그롤의 드럼은 무겁고 정확해서, 지저분한 펑크를 라디오에서 틀 수 있는 소리로 바꿨다.",
+    "녹음은 1991년 5월 로스앤젤레스의 사운드 시티 스튜디오에서 프로듀서 부치 빅과 했다. 믹싱은 메탈 음반을 주로 다루던 앤디 월리스가 맡아 소리를 더 매끄럽게 다듬었는데, 코베인은 나중에 이 매끈함을 부끄러워했다. 밴드가 소닉 유스와 같은 음반사 DGC와 계약했을 때만 해도 회사가 기대한 판매량은 수십만 장 정도였다고 알려져 있다.",
+    "그러나 MTV가 〈Smells Like Teen Spirit〉 뮤직비디오를 거듭 틀면서 음반은 1992년 1월 빌보드 1위에 올랐다. 이후 음반사들은 시애틀과 지역 무대의 밴드를 앞다투어 계약했고, ‘얼터너티브’는 장르 이름이자 마케팅 용어가 됐다. 1989년 픽시스의 《Doolittle》과 이어 들으면 코베인이 무엇을 배워 왔는지 분명히 들린다."
+   ]
+  },
+  {
+   "id": "low-end",
+   "heading": "베이스를 위한 이론",
+   "paras": [
+    "〈Excursions〉는 업라이트 베이스 한 줄로 시작한다. 그 위에 단단한 드럼 루프와 큐팁의 차분한 랩이 얹힐 뿐, 다른 소리는 거의 없다. 음반 제목 그대로 저음(Low End)이 주인공이다. 〈Verses from the Abstract〉에서는 마일스 데이비스 퀸텟 출신 재즈 베이시스트 론 카터가 직접 연주했다. 엔지니어 밥 파워는 오래된 재즈 음반에서 따온 샘플의 잡음을 걸러 내고 킥 드럼과 베이스를 단단하게 다듬었다.",
+    "큐팁과 파이프 독의 대화식 랩도 이 음반에서 완성됐다. 1집에서 비중이 작던 파이프는 〈Buggin' Out〉에서 높고 날랜 목소리로 존재감을 드러냈고, 낮고 느긋한 큐팁과 좋은 짝을 이룬다. 마지막 곡 〈Scenario〉에는 리더스 오브 더 뉴 스쿨이 참여했는데, 여기서 버스타 라임스가 거친 목소리로 크게 주목받았다. 가사는 음반 업계의 계약 관행, 데이트 강간, 흑인 청년의 처지를 차분하게 다룬다.",
+    "같은 날 나온 《Nevermind》가 록의 주류를 바꿨다면, 이 음반은 힙합 프로덕션의 교과서가 됐다. 재즈 샘플과 비워 둔 공간으로 그루브를 만드는 방식은 1990년대 동부 힙합과 이후 네오 소울로 이어졌다. 1989년 데 라 소울의 《3 Feet High and Rising》과 같은 네이티브 텅스 모임에서 나온 형제 같은 음반이다."
+   ]
+  },
+  {
+   "id": "loveless",
+   "heading": "기타가 녹아내리는 소리",
+   "paras": [
+    "〈Only Shallow〉의 첫 소리는 기타라기보다 사이렌이나 고장 난 테이프처럼 들린다. 케빈 실즈는 기타를 치는 동안 트레몰로 암(줄의 음높이를 휘게 하는 막대)을 계속 쥐고 흔들어, 코드 전체가 물결치듯 휘어지게 만들었다. 이를 ‘글라이드 기타’라고 부른다. 그렇게 녹음한 기타를 여러 겹 쌓고, 실즈와 빌린다 부처의 목소리는 그 안에 반쯤 묻었다. 가사를 알아듣기 어렵지만, 선율은 의외로 달콤하다. 마지막 곡 〈Soon〉은 댄스 비트 위에 같은 기타 소리를 얹었다.",
+    "녹음은 1989년부터 2년 넘게 여러 스튜디오를 옮겨 다니며 이어졌다. 엔지니어가 자주 바뀌었고, 실즈가 대부분의 소리를 혼자 만들었다. 제작비가 크게 불어나 음반사 크리에이션이 휘청였다는 이야기가 유명하지만, 실즈는 그 액수가 부풀려졌다고 반박해 왔다. 밴드는 이 음반 뒤 22년 동안 새 정규 음반을 내지 않았다.",
+    "이렇게 고개를 숙이고 발밑의 이펙터만 내려다보며 연주하는 영국 밴드들을 당시 언론은 비꼬아 슈게이즈(Shoegaze)라 불렀다. 발매 당시 판매는 크지 않았지만, 이 음반은 이후 수십 년 동안 기타 소리를 질감으로 다루려는 음악가들의 기준이 됐다. 1985년 지저스 앤 메리 체인의 《Psychocandy》와 이어 들으면 소음 속 팝 선율이라는 같은 생각이 어떻게 깊어졌는지 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Nevermind · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nevermind"
+  },
+  {
+   "title": "The Low End Theory · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Low_End_Theory"
+  },
+  {
+   "title": "Loveless (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Loveless_(album)"
+  },
+  {
+   "title": "Shoegaze · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Shoegaze"
+  }
+ ],
+ "edges": [
+  {
+   "from": "doolittle",
+   "to": "nevermind",
+   "type": "listen",
+   "label": "픽시스의 조용한 절과 시끄러운 후렴이 차트 1위의 공식이 되다"
+  },
+  {
+   "from": "goo",
+   "to": "nevermind",
+   "type": "listen",
+   "label": "소닉 유스가 먼저 간 DGC에서 터진 다음 세대의 소리"
+  },
+  {
+   "from": "three-feet",
+   "to": "low-end",
+   "type": "listen",
+   "label": "네이티브 텅스의 재즈 샘플 감각이 베이스 중심으로 다듬어지다"
+  },
+  {
+   "from": "psychocandy",
+   "to": "loveless",
+   "type": "listen",
+   "label": "소음 속에 묻은 달콤한 팝 선율"
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "date": "2027-01-11",
+ "part": "1992-P3",
+ "year": 1992,
+ "partNo": 3,
+ "partTotal": 3,
+ "total": "약 116분",
+ "title": "기계에 맞선 분노, 로스앤젤레스의 느린 펑크",
+ "intro": "1992년 4월 로스앤젤레스 폭동은 미국 대중음악에 긴 그림자를 남겼다. 폭동 뒤 래퍼들은 경찰 폭력과 인종 차별을 더 직접적으로 말했고, 록 밴드도 정치를 정면으로 노래했다. 그해 말 나온 두 음반은 같은 로스앤젤레스에서 정반대의 방식으로 그 시기를 기록한다. 하나는 랩과 메탈 기타를 합쳐 분노를 외쳤고, 하나는 느리고 여유로운 펑크 리듬 위에서 거리의 삶을 영화처럼 그렸다. 록 쪽에서는 랩 메탈이, 힙합 쪽에서는 서부 해안의 지펑크가 이 두 음반에서 출발한다. 오늘은 두 장이다. 각각 53분과 63분으로 길고, 1990년대 록과 힙합이 어디로 갈지 두 장이 나눠 보여 준다.",
+ "albums": [
+  {
+   "id": "ratm",
+   "artist": "Rage Against the Machine",
+   "title": "Rage Against the Machine",
+   "short": "Rage Against the Machine",
+   "released": "1992년 11월",
+   "genre": "랩 메탈 · 펑크 메탈",
+   "blurb": "랩과 메탈 리프, 신시사이저 없이 기타로 만든 괴상한 소리로 정치적 분노를 쏟아낸 레이지 어게인스트 더 머신의 데뷔작.",
+   "length": "10곡 · 53분",
+   "spotify": "https://open.spotify.com/album/4LaRYkT4oy47wEuQgkLBul",
+   "apple": "https://music.apple.com/kr/album/191450810",
+   "top": "Hard Rock / Metal",
+   "sub": "Rap Metal"
+  },
+  {
+   "id": "chronic",
+   "artist": "Dr. Dre",
+   "title": "The Chronic",
+   "short": "The Chronic",
+   "released": "1992년 12월",
+   "genre": "지펑크 · 서부 힙합",
+   "blurb": "P-펑크를 느리게 되살린 지펑크로 서부 힙합의 소리를 정한 닥터 드레의 첫 솔로 음반.",
+   "length": "16곡 · 63분",
+   "spotify": "https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt",
+   "apple": "https://music.apple.com/kr/album/1668460963",
+   "top": "Hip-Hop",
+   "sub": "G-Funk"
+  }
+ ],
+ "essays": [
+  {
+   "id": "ratm",
+   "heading": "기타로 만든 스크래치",
+   "paras": [
+    "〈Bombtrack〉과 〈Killing in the Name〉은 단순하고 무거운 기타 리프로 시작해, 잭 데 라 로차의 날카로운 랩이 그 위를 내달린다. 톰 모렐로의 기타 솔로는 기타처럼 들리지 않는다. 픽업 전환 스위치를 빠르게 켰다 꺼서 끊기는 소리를 내고, 음높이를 바꾸는 페달로 DJ의 스크래치 같은 소리를 만든다. 음반 속지에는 이 음반에 샘플, 키보드, 신시사이저를 쓰지 않았다는 문장이 적혀 있다. 팀 커머포드의 베이스와 브래드 윌크의 드럼은 펑크(Funk)처럼 튄다.",
+    "밴드는 1991년 로스앤젤레스에서 결성됐다. 데 라 로차는 멕시코계 미국인 화가의 아들이었고, 모렐로는 하버드에서 사회과학을 공부했다. 표지는 1963년 사이공에서 남베트남 정부의 불교 탄압에 항의해 분신한 승려 틱꽝득의 사진이다. 경찰 폭력, 인종 차별, 교육, 제국주의가 가사의 주제다. 발매 몇 달 전 로스앤젤레스 폭동이 있었다.",
+    "랩과 메탈을 섞은 시도는 그 전에도 있었지만, 이 음반만큼 완성된 소리는 없었다. 1990년대 후반 콘, 림프 비즈킷 같은 뉴 메탈 밴드들이 이 소리를 이어받았다. 〈Killing in the Name〉은 2009년 영국에서 오디션 프로그램 우승곡에 맞서는 팬들의 캠페인으로 크리스마스 차트 1위에 올랐다. 퍼블릭 에너미의 《It Takes a Nation of Millions》과 이어 들으면 그 분노가 어디서 왔는지 들린다."
+   ]
+  },
+  {
+   "id": "chronic",
+   "heading": "느리게, 더 느리게",
+   "paras": [
+    "〈Nuthin' but a ‘G’ Thang〉은 느긋한 템포 위에 두꺼운 베이스와 휘파람처럼 높게 우는 신시사이저 선율이 흐른다. 닥터 드레는 1970년대 팔러먼트와 펑커델릭의 펑크(P-Funk)를 샘플로 쓰거나 연주자를 불러 다시 연주하게 했다. 〈Let Me Ride〉는 팔러먼트의 〈Mothership Connection〉 후렴을 가져왔다. 박자는 동부 힙합보다 훨씬 느리고, 소리는 넓고 깨끗하다. 이 소리를 지펑크(G-Funk)라 부른다. 신인 스눕 도기 독의 느릿하고 부드러운 랩이 음반 절반 가까이에 나온다.",
+    "드레는 N.W.A의 프로듀서였다. 계약과 돈 문제로 이지-이의 음반사 러스리스를 떠나, 슈그 나이트와 함께 데스 로 레코드를 세웠다. 〈Fuck wit Dre Day〉는 이지-이를 겨냥한 곡이다. 폭동 이후 로스앤젤레스 거리의 폭력과 파티, 마리화나가 영화처럼 펼쳐진다. 여성 비하와 폭력 묘사는 당시에도 거센 비판을 받았다.",
+    "〈Nuthin' but a ‘G’ Thang〉은 빌보드 싱글 차트 2위에 올랐고, 음반은 미국에서 수백만 장이 팔렸다. 이후 몇 년 동안 미국 힙합 라디오는 지펑크가 지배했다. 드레는 스눕 도그, 투팍, 에미넘, 50센트로 이어지는 프로듀서 경력을 시작했다. N.W.A의 《Straight Outta Compton》과 이어 들으면 같은 사람이 4년 만에 얼마나 다른 소리를 만들었는지 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Rage Against the Machine (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rage_Against_the_Machine_(album)"
+  },
+  {
+   "title": "The Chronic · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Chronic"
+  },
+  {
+   "title": "G-funk · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/G-funk"
+  },
+  {
+   "title": "1992 Los Angeles riots · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/1992_Los_Angeles_riots"
+  }
+ ],
+ "edges": [
+  {
+   "from": "nation-millions",
+   "to": "ratm",
+   "type": "listen",
+   "label": "퍼블릭 에너미의 정치적 랩이 메탈 기타와 만나다"
+  },
+  {
+   "from": "compton",
+   "to": "chronic",
+   "type": "document",
+   "label": "N.W.A의 프로듀서 닥터 드레가 데스 로에서 낸 첫 솔로 음반",
+   "source": "https://en.wikipedia.org/wiki/The_Chronic"
+  },
+  {
+   "from": "mothership",
+   "to": "chronic",
+   "type": "document",
+   "label": "〈Let Me Ride〉가 〈Mothership Connection〉의 후렴을 가져오다",
+   "source": "https://en.wikipedia.org/wiki/The_Chronic"
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "date": "2027-01-12",
+ "part": "1993-P1",
+ "year": 1993,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 105분",
+ "title": "시카고 교외의 대답, 런던 클럽의 아이슬란드 목소리",
+ "intro": "1993년 2월 한국에서는 김영삼 정부가 들어서며 30여 년 만에 군 출신이 아닌 대통령이 취임했고, 미국에서는 클린턴 정부가 출범했다. 대중음악에서는 남성 밴드 중심의 얼터너티브 록 열풍 한가운데서 여성 음악가들이 자기 목소리를 분명히 냈다. 미국 인디 무대에서는 라이엇 걸 운동이 성차별에 맞섰고, 영국에서는 클럽 문화가 록보다 큰 청년 문화가 됐다. 오늘은 두 장이다. 시카고 교외의 리즈 페어가 쓴 56분짜리 데뷔작과, 아이슬란드 출신 비요크가 런던 클럽 음악과 만나 만든 48분짜리 첫 솔로 음반이다. 둘 다 각자의 방식으로 남자들의 세계에 말대꾸한다.",
+ "albums": [
+  {
+   "id": "exile-guyville",
+   "artist": "Liz Phair",
+   "title": "Exile in Guyville",
+   "short": "Exile in Guyville",
+   "released": "1993년 6월",
+   "genre": "인디 록 · 싱어송라이터",
+   "blurb": "롤링 스톤스의 대작에 곡마다 답한다는 발상으로 남성 중심 인디 무대를 정면으로 노래한 리즈 페어의 데뷔작.",
+   "length": "18곡 · 56분",
+   "spotify": "https://open.spotify.com/album/7sCpW2cLGcRk1zf9zi0Yqd",
+   "apple": "https://music.apple.com/kr/album/1589236833",
+   "top": "Rock",
+   "sub": "Indie Rock · Lo-Fi"
+  },
+  {
+   "id": "debut-bjork",
+   "artist": "Björk",
+   "title": "Debut",
+   "short": "Debut",
+   "released": "1993년 7월",
+   "genre": "아트 팝 · 하우스",
+   "blurb": "클럽 비트와 하프, 인도풍 현악을 넘나든 비요크의 첫 국제 솔로 음반.",
+   "length": "11곡 · 48분",
+   "spotify": "https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX",
+   "apple": "https://music.apple.com/kr/album/1726662710",
+   "top": "Pop / Art Pop",
+   "sub": "Art Pop · House"
+  }
+ ],
+ "essays": [
+  {
+   "id": "exile-guyville",
+   "heading": "가이빌에서 보낸 편지",
+   "paras": [
+    "리즈 페어는 낮고 평평한 목소리로, 거의 말하듯 노래한다. 기타는 단순하고 녹음은 소박하다. 〈6'1\"〉처럼 밴드가 힘차게 치고 나가는 곡도 있지만, 대부분은 기타 한 대나 작은 편성으로 목소리와 가사가 앞에 선다. 〈Never Said〉, 〈Divorce Song〉, 〈Stratford-on-Guy〉처럼 귀에 붙는 선율이 많다. 무엇보다 가사가 놀라웠다. 연애와 성, 남자들의 허세를 여성의 시선에서 숨김없이, 때로는 노골적으로 말한다.",
+    "페어는 시카고 북쪽 부촌 위넷카에서 자랐고, 대학을 마친 뒤 ‘걸리 사운드’라는 이름으로 집에서 녹음한 카세트를 돌렸다. 이 테이프가 뉴욕의 마타도르 레코드에 닿았다. 음반 제목은 시카고 밴드 어지 오버킬의 노래에서 따온 ‘가이빌’, 즉 남자들의 동네다. 페어는 이 18곡이 롤링 스톤스의 《Exile on Main St.》에 한 곡씩 대응하는 답장이라고 말했다. 시카고 인디 무대의 남성 음악가들 사이에서 느낀 소외감이 출발점이었다.",
+    "음반은 1993년 《빌리지 보이스》 평론가 투표에서 1위에 올랐다. 큰 히트는 없었지만, 여성 싱어송라이터가 인디 록의 언어로 성과 권력을 솔직하게 말하는 길을 열었다. 롤링 스톤스의 1972년 음반과 이어 들으면, 같은 록의 형식이 성별에 따라 얼마나 다른 이야기를 담을 수 있는지 들린다."
+   ]
+  },
+  {
+   "id": "debut-bjork",
+   "heading": "클럽에 온 아이슬란드",
+   "paras": [
+    "〈Human Behaviour〉는 둔탁한 팀파니 같은 드럼과 단순한 하우스 박자 위에서, 비요크가 아이처럼 높이 올라갔다 낮게 웅얼거리는 목소리로 사람의 행동을 동물의 눈으로 관찰한다. 〈Venus as a Boy〉는 인도 영화 음악을 닮은 현악 편곡이 감싸고, 재즈 스탠더드 〈Like Someone in Love〉는 하프 하나로 반주한다. 〈There's More to Life Than This〉는 런던의 한 클럽 화장실에서 녹음해, 문 밖 파티 소리가 그대로 들린다. 한 음반 안에서 클럽 음악과 재즈, 실내악이 자연스럽게 오간다.",
+    "비요크는 아이슬란드 밴드 슈가큐브스의 보컬로 1980년대 말 영국과 미국에 알려졌다. 밴드가 끝난 뒤 런던으로 옮겨, 소울 투 소울과 브리스틀 와일드 번치 출신 프로듀서 넬리 후퍼와 함께 이 음반을 만들었다. 런던의 하우스 클럽과 레이브 문화가 정점이던 때였다. 미셸 공드리가 만든 〈Human Behaviour〉 뮤직비디오는 동화 같은 영상으로 큰 주목을 받았다.",
+    "음반은 영국에서 크게 성공했고 비요크는 이듬해 브릿 어워드에서 두 개 부문을 받았다. 전자음악을 팝 가수의 실험 도구로 쓰는 방식은 이후 수많은 아트 팝 음악가에게 이어졌다. 매시브 어택의 《Blue Lines》와 이어 들으면 같은 브리스틀 출신 프로듀서들이 클럽 비트를 어떻게 다르게 썼는지 비교할 수 있다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Exile in Guyville · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Exile_in_Guyville"
+  },
+  {
+   "title": "Debut (Björk album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Debut_(Bj%C3%B6rk_album)"
+  },
+  {
+   "title": "Riot grrrl · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Riot_grrrl"
+  }
+ ],
+ "edges": [
+  {
+   "from": "exile",
+   "to": "exile-guyville",
+   "type": "document",
+   "label": "롤링 스톤스의 음반에 한 곡씩 답한다는 리즈 페어의 데뷔작",
+   "source": "https://en.wikipedia.org/wiki/Exile_in_Guyville"
+  },
+  {
+   "from": "blue-lines",
+   "to": "debut-bjork",
+   "type": "listen",
+   "label": "브리스틀 와일드 번치 출신 넬리 후퍼가 가져온 클럽 비트"
+  }
+ ]
+}

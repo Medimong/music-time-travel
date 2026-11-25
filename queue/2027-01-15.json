@@ -1,0 +1,95 @@
+{
+ "date": "2027-01-15",
+ "part": "1994-P1",
+ "year": 1994,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 104분",
+ "title": "동네 펑크의 3분, 살인의 집에서 만든 소음",
+ "intro": "1994년 초, 너바나가 열어 놓은 문으로 더 많은 언더그라운드 음악이 주류로 쏟아져 들어왔다. 음반사들은 다음 너바나를 찾아 지역 무대를 뒤졌고, MTV는 펑크와 인더스트리얼 같은 거친 음악도 하루 종일 틀었다. 4월 커트 코베인이 세상을 떠나며 얼터너티브 록의 한 시대가 상처와 함께 닫혔지만, 그 뒤를 이을 소리들은 이미 나와 있었다. 오늘은 두 장이다. 캘리포니아 동네 클럽에서 자란 펑크 밴드의 38분짜리 메이저 데뷔작과, 한 사람이 스튜디오에 틀어박혀 만든 65분짜리 인더스트리얼 음반이다. 둘 다 그해 미국 10대의 방을 가장 시끄럽게 채운 음반이었다.",
+ "albums": [
+  {
+   "id": "dookie",
+   "artist": "Green Day",
+   "title": "Dookie",
+   "short": "Dookie",
+   "released": "1994년 2월",
+   "genre": "팝 펑크",
+   "blurb": "3분짜리 빠른 펑크 곡에 귀에 붙는 선율을 얹어 펑크를 10대의 주류 음악으로 만든 그린 데이의 메이저 데뷔작.",
+   "length": "15곡 · 38분",
+   "spotify": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6",
+   "apple": "https://music.apple.com/kr/album/1160081985",
+   "top": "Punk & Proto-Punk",
+   "sub": "Pop Punk"
+  },
+  {
+   "id": "downward-spiral",
+   "artist": "Nine Inch Nails",
+   "title": "The Downward Spiral",
+   "short": "The Downward Spiral",
+   "released": "1994년 3월",
+   "genre": "인더스트리얼 록",
+   "blurb": "한 사람의 자기 파괴를 따라가는 콘셉트로 기계 소음과 팝 선율을 묶은 나인 인치 네일스의 두 번째 음반.",
+   "length": "14곡 · 65분",
+   "spotify": "https://open.spotify.com/album/7a7arAXDE0BiaMgHLhdjGF",
+   "apple": "https://music.apple.com/kr/album/1440837096",
+   "top": "New Wave / Post-Punk",
+   "sub": "Industrial Rock"
+  }
+ ],
+ "essays": [
+  {
+   "id": "dookie",
+   "heading": "동네 펑크의 3분",
+   "paras": [
+    "〈Longview〉는 마이크 던트의 통통 튀는 베이스로 시작해 후렴에서 기타가 터진다. 곡은 대부분 3분 안팎이고, 파워 코드(Power Chord, 근음과 5도만 치는 단순한 기타 화음) 몇 개로 빠르게 달린다. 그런데 빌리 조 암스트롱의 선율은 비틀스처럼 귀에 붙는다. 트레 쿨의 드럼은 빠르면서도 장난스럽다. 〈Basket Case〉, 〈When I Come Around〉, 〈Welcome to Paradise〉까지 거의 모든 곡이 싱글이 될 만하다. 프로듀서 롭 카발로는 펑크의 거친 맛은 살리고 소리는 라디오에 맞게 단단하게 정리했다.",
+    "그린 데이는 캘리포니아 버클리의 비영리 펑크 클럽 924 길먼 스트리트에서 자랐다. 작은 음반사 룩아웃!에서 두 장을 낸 뒤 메이저 음반사 리프라이즈와 계약하자, 길먼의 펑크들은 그들을 배신자라 부르며 클럽 출입을 막았다. 가사는 지루함, 무기력, 마리화나, 불안 같은 교외 10대의 일상이다. 〈Basket Case〉는 암스트롱이 실제로 겪던 공황 발작을 다룬다.",
+    "8월 우드스톡 94 무대에서 관객과 진흙탕 싸움을 벌인 공연이 방송되며 인기가 폭발했고, 음반은 미국에서만 1,000만 장 넘게 팔렸다. 이후 오프스프링, 블링크-182 같은 팝 펑크 밴드들이 줄줄이 주류에 올랐다. 1976년 라몬스의 데뷔작과 이어 들으면, 짧고 빠르고 귀에 붙는 펑크의 공식이 18년 만에 어떻게 돌아왔는지 들린다."
+   ]
+  },
+  {
+   "id": "downward-spiral",
+   "heading": "무너지는 사람의 소리",
+   "paras": [
+    "〈Mr. Self Destruct〉는 기계가 부서지는 듯한 소음과 왜곡된 드럼으로 시작해 속삭임과 비명을 오간다. 트렌트 레즈너는 드럼 머신, 샘플러, 신시사이저, 기타를 컴퓨터로 잘게 잘라 붙였고, 소리를 일부러 찢어지게 왜곡했다. 그런데 〈Closer〉는 단단한 댄스 비트 위의 팝송이고, 마지막 곡 〈Hurt〉는 조용한 기타와 떨리는 목소리만으로 끝을 맺는다. 소음과 선율, 기계와 사람의 목소리가 한 음반 안에서 계속 부딪친다.",
+    "음반은 한 남자가 신앙, 사랑, 자기 자신을 하나씩 잃고 무너지는 과정을 따라간다. 레즈너는 1969년 배우 샤론 테이트가 살해된 로스앤젤레스의 집을 빌려 스튜디오로 만들고 녹음했다. 공동 프로듀서는 디페시 모드의 《Violator》를 만든 플러드였다. 레즈너는 데이비드 보위의 《Low》를 중요한 영향으로 꼽았다.",
+    "음반은 빌보드 앨범 차트 2위로 데뷔했고, 인더스트리얼 록(Industrial Rock, 공장 기계 같은 소음과 전자음을 록에 섞은 음악)은 이 음반으로 처음 주류가 됐다. 2002년 조니 캐시가 부른 〈Hurt〉는 원곡을 쓴 레즈너조차 이제 그의 곡이 됐다고 말할 만큼 큰 울림을 남겼다. 디페시 모드의 《Violator》와 이어 들으면 같은 프로듀서가 전자음을 얼마나 다르게 다뤘는지 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Dookie · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dookie"
+  },
+  {
+   "title": "The Downward Spiral · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Downward_Spiral"
+  },
+  {
+   "title": "924 Gilman Street · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/924_Gilman_Street"
+  }
+ ],
+ "edges": [
+  {
+   "from": "ramones",
+   "to": "dookie",
+   "type": "listen",
+   "label": "짧고 빠르고 귀에 붙는 펑크의 공식이 돌아오다"
+  },
+  {
+   "from": "violator",
+   "to": "downward-spiral",
+   "type": "document",
+   "label": "《Violator》를 만든 플러드가 공동 프로듀서로 참여",
+   "source": "https://en.wikipedia.org/wiki/The_Downward_Spiral"
+  },
+  {
+   "from": "low",
+   "to": "downward-spiral",
+   "type": "listen",
+   "label": "레즈너가 꼽은 영향, 보위의 차갑고 어두운 전자음"
+  }
+ ]
+}

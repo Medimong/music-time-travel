@@ -1,0 +1,122 @@
+{
+ "date": "2027-01-06",
+ "part": "1991-P1",
+ "year": 1991,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 129분",
+ "title": "만돌린 한 대, 속삭이는 루이빌의 밤, 브리스틀의 느린 박자",
+ "intro": "1991년은 1월 걸프 전쟁으로 시작해 12월 소련 해체로 끝났다. 한국은 9월 북한과 함께 유엔에 가입했다. 음악 산업에서는 5월부터 빌보드가 매장 계산대의 바코드 판매 기록(닐슨 사운드스캔)으로 앨범 순위를 매기기 시작했다. 그때까지 음반 가게 직원의 보고에 기대던 차트가 실제 판매로 바뀌자, 라디오가 덜 틀어 주던 얼터너티브 록과 힙합, 컨트리가 생각보다 많이 팔린다는 사실이 드러났다. 오늘의 세 음반은 미국 대학 라디오에서 자라 1위까지 오른 밴드, 아무도 모르게 해체한 켄터키의 젊은 밴드, 영국 브리스틀의 사운드 시스템 집단이 만든 것이다. 셋 모두 1990년대가 어떤 소리로 채워질지 미리 보여 준다.",
+ "albums": [
+  {
+   "id": "out-of-time",
+   "artist": "R.E.M.",
+   "title": "Out of Time",
+   "short": "Out of Time",
+   "released": "1991년 3월",
+   "genre": "얼터너티브 록 · 챔버 팝",
+   "blurb": "만돌린 리프의 〈Losing My Religion〉으로 대학 라디오 밴드가 세계 1위에 오른 R.E.M.의 일곱 번째 음반.",
+   "length": "11곡 · 44분",
+   "spotify": "https://open.spotify.com/album/2vPM8y0gBZTnEO48rGnCzs",
+   "apple": "https://music.apple.com/kr/album/1440945025",
+   "top": "Rock",
+   "sub": "Alternative Rock · Chamber Pop"
+  },
+  {
+   "id": "spiderland",
+   "artist": "Slint",
+   "title": "Spiderland",
+   "short": "Spiderland",
+   "released": "1991년 3월",
+   "genre": "포스트 록 · 매스 록",
+   "blurb": "속삭임과 폭발을 오가는 여섯 곡으로, 해체 뒤에야 전설이 된 슬린트의 두 번째 음반.",
+   "length": "1–6곡 · 40분",
+   "spotify": "https://open.spotify.com/album/2NnkLRaeX33d1Mn8ZLgTo8",
+   "apple": "https://music.apple.com/kr/album/1117723921",
+   "top": "Rock",
+   "sub": "Post-Rock · Math Rock"
+  },
+  {
+   "id": "blue-lines",
+   "artist": "Massive Attack",
+   "title": "Blue Lines",
+   "short": "Blue Lines",
+   "released": "1991년 4월",
+   "genre": "트립 합 · 브리스틀 사운드",
+   "blurb": "힙합의 느린 비트와 덥의 베이스, 소울 노래를 한데 섞은 매시브 어택의 데뷔작.",
+   "length": "9곡 · 45분",
+   "spotify": "https://open.spotify.com/album/5mAPk4qeNqVLtNydaWbWlf",
+   "apple": "https://music.apple.com/kr/album/715864097",
+   "top": "Electronic",
+   "sub": "Trip Hop"
+  }
+ ],
+ "essays": [
+  {
+   "id": "out-of-time",
+   "heading": "만돌린으로 연 1990년대",
+   "paras": [
+    "〈Losing My Religion〉을 이끄는 소리는 전기 기타가 아니라 피터 벅이 연습 삼아 배우던 만돌린이다. 그 위로 현악기가 깔리고, 마이클 스타이프는 고백과 후회를 섞어 노래한다. 음반 전체가 그렇다. 〈Radio Song〉에는 래퍼 KRS-원이 나오고, 〈Shiny Happy People〉과 〈Me in Honey〉에서는 B-52's의 케이트 피어슨이 함께 노래한다. 베이시스트 마이크 밀스가 직접 리드 보컬을 맡은 곡도 두 곡이다. 크게 울리는 기타 록 대신 오르간, 현악, 만돌린이 어우러진 실내악풍 편곡(챔버 팝, Chamber Pop)이 중심이다.",
+    "R.E.M.은 1983년 《Murmur》로 미국 대학 라디오의 상징이 된 밴드다. 1988년 메이저 음반사 워너로 옮긴 뒤 낸 이 두 번째 워너 음반에서 그들은 일부러 투어를 하지 않았다. 대신 뮤직비디오와 방송 출연으로 음반을 알렸고, 〈Losing My Religion〉은 미국 싱글 차트 4위에 올라 밴드 최대의 히트곡이 됐다. 음반은 미국과 영국에서 모두 1위에 올랐고 이듬해 그래미 세 개를 받았다.",
+    "작은 음반사와 대학 라디오에서 출발한 밴드도 고집을 지키며 가장 큰 무대에 설 수 있다는 것을 보여 준 셈이다. 몇 달 뒤 너바나가 열어젖힐 얼터너티브 록의 주류 진입은 이 음반이 닦아 놓은 길 위에서 일어났다."
+   ]
+  },
+  {
+   "id": "spiderland",
+   "heading": "조용히 말하고 크게 무너지는 법",
+   "paras": [
+    "첫 곡 〈Breadcrumb Trail〉은 맑게 퉁기는 기타 아르페지오로 시작한다. 브라이언 맥머핸은 노래라기보다 이야기를 읽듯 낮게 말하고, 후렴에 이르면 기타가 갑자기 두꺼운 소음으로 무너진다. 곡마다 박자가 자주 바뀌고, 한 리프를 오래 되풀이하며 긴장을 쌓는다. 마지막 곡 〈Good Morning, Captain〉에서 맥머핸이 끝내 목이 터져라 외치는 순간이 음반의 절정이다. 소리가 비어 있는 시간이 소리만큼 중요하다.",
+    "슬린트는 켄터키주 루이빌의 하드코어 펑크 무대에서 10대 시절부터 함께 연주한 친구들이었다. 1990년 여름 시카고에서 엔지니어 브라이언 폴슨과 녹음했고, 음반이 나오기 전에 밴드는 해체했다. 표지 사진은 친구 윌 올덤이 찍은 것으로, 멤버 넷이 채석장 물속에서 머리만 내놓고 웃고 있다. 발매 당시에는 거의 팔리지 않았고 투어도 없었다.",
+    "그런데 이 음반을 산 사람들이 저마다 밴드를 만들었다. 1990년대 중반 평론가 사이먼 레이놀즈가 쓰기 시작한 포스트 록(Post-Rock)이라는 말은, 록 악기로 노래 형식 대신 질감과 구조를 만드는 음악을 가리켰다. 모과이, 고 스피드 유 블랙 엠퍼러! 같은 밴드가 이 음반을 출발점으로 꼽는다. 1988년 토크 토크의 《Spirit of Eden》과 이어 들으면 조용함을 무기로 삼는 록의 두 갈래가 들린다."
+   ]
+  },
+  {
+   "id": "blue-lines",
+   "heading": "브리스틀의 느린 박자",
+   "paras": [
+    "〈Safe from Harm〉은 재즈 드러머 빌리 코범의 곡에서 가져온 베이스 라인으로 시작해, 셰라 넬슨의 소울 창법과 래퍼 3D의 낮은 랩이 번갈아 나온다. 박자는 힙합보다 느리고, 베이스는 자메이카 덥처럼 깊게 울린다. 〈Unfinished Sympathy〉에서는 실제 현악 오케스트라가 연주하는 선율이 끝없이 되풀이되는 드럼 루프 위를 흐른다. 레게 가수 호러스 앤디는 〈One Love〉 등에서 떨리는 고음으로 노래하고, 훗날 솔로로 나설 트리키도 랩으로 참여했다.",
+    "매시브 어택은 브리스틀의 사운드 시스템(Sound System, 대형 스피커를 끌고 다니며 파티를 여는 DJ 집단) ‘와일드 번치’에서 나왔다. 카리브해 이민자가 많은 이 항구 도시에서는 레게, 펑크, 힙합, 소울 음반이 한 파티에서 함께 틀어졌고, 그 경험이 그대로 음반이 됐다. 1991년 초 걸프 전쟁 중에는 이름이 전쟁을 연상시킨다는 이유로 싱글을 ‘Massive’라는 이름으로 낸 일화도 있다.",
+    "이 소리는 몇 년 뒤 트립 합(Trip Hop)이라 불리게 된다. 정작 멤버들은 그 이름을 좋아하지 않았지만, 같은 도시의 포티스헤드와 트리키가 뒤를 이었고 이 흐름은 1990년대 영국 전자음악의 큰 줄기가 됐다. 리 스크래치 페리의 《Super Ape》와 함께 들으면 덥의 베이스가 어떻게 클럽 음악의 바닥이 됐는지 알 수 있다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Out of Time (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Out_of_Time_(album)"
+  },
+  {
+   "title": "Spiderland · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Spiderland"
+  },
+  {
+   "title": "Blue Lines · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Blue_Lines"
+  },
+  {
+   "title": "Nielsen SoundScan · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nielsen_SoundScan"
+  }
+ ],
+ "edges": [
+  {
+   "from": "murmur",
+   "to": "out-of-time",
+   "type": "document",
+   "label": "대학 라디오의 R.E.M.이 메이저 음반사에서 1위에 오르기까지",
+   "source": "https://en.wikipedia.org/wiki/Out_of_Time_(album)"
+  },
+  {
+   "from": "spirit-eden",
+   "to": "spiderland",
+   "type": "listen",
+   "label": "조용함과 여백으로 쌓는 록, 포스트 록의 두 출발점"
+  },
+  {
+   "from": "super-ape",
+   "to": "blue-lines",
+   "type": "listen",
+   "label": "덥의 깊은 베이스가 브리스틀 클럽 음악의 바닥이 되다"
+  }
+ ]
+}
