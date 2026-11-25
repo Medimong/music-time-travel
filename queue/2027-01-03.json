@@ -1,0 +1,90 @@
+{
+ "date": "2027-01-03",
+ "part": "1990-P1",
+ "year": 1990,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 110분",
+ "title": "성가처럼 부른 신시사이저 블루스, 수천 조각을 겹친 분노",
+ "intro": "1990년 2월 11일 넬슨 만델라가 27년 만에 감옥에서 풀려났고, 10월 3일에는 동서독이 다시 한 나라가 됐다. 냉전이 끝나 가던 이 해, 대중음악에서는 기계가 만든 소리가 가장 큰 무대에 올랐다. 영국의 신스팝 밴드 디페시 모드는 3월 미국 로스앤젤레스의 음반 가게 사인회에 1만 5천 명 넘는 팬을 모았고, 4월 퍼블릭 에너미는 수많은 음반 조각을 겹쳐 만든 음반으로 미국 차트 10위까지 올랐다. 샘플(Sample, 다른 음반의 한 토막을 떼어 와 다시 쓰는 소리)을 쓸 때 저작권 허락을 받는 관행이 아직 자리 잡기 전이었다. 오늘은 두 장이다. 47분과 63분으로 둘 다 길고, 한 장은 신시사이저로, 다른 한 장은 샘플러로 시대의 불안을 노래한다.",
+ "albums": [
+  {
+   "id": "violator",
+   "artist": "Depeche Mode",
+   "title": "Violator",
+   "short": "Violator",
+   "released": "1990년 3월",
+   "genre": "신스팝 · 일렉트로닉 록",
+   "blurb": "기타 리프와 샘플링한 타악기로 신스팝을 경기장 크기로 키운 디페시 모드의 일곱 번째 음반.",
+   "length": "9곡 · 47분",
+   "spotify": "https://open.spotify.com/album/45YmvYK4hB4CgQgTMuNRm8",
+   "apple": "https://music.apple.com/kr/album/665404621",
+   "top": "Electronic",
+   "sub": "Synth-Pop"
+  },
+  {
+   "id": "black-planet",
+   "artist": "Public Enemy",
+   "title": "Fear of a Black Planet",
+   "short": "Fear of a Black Planet",
+   "released": "1990년 4월",
+   "genre": "정치 힙합 · 사운드 콜라주",
+   "blurb": "밤 스쿼드가 수천 장의 음반에서 떼어 온 소리로 인종 문제를 정면으로 다룬 퍼블릭 에너미의 세 번째 음반.",
+   "length": "20곡 · 63분",
+   "spotify": "https://open.spotify.com/album/0aFNb4RDk2hmKKLa0bzXNz",
+   "apple": "https://music.apple.com/kr/album/1440837282",
+   "top": "Hip-Hop",
+   "sub": "Political Hip-Hop"
+  }
+ ],
+ "essays": [
+  {
+   "id": "violator",
+   "heading": "하모니움 발라드가 댄스곡이 되기까지",
+   "paras": [
+    "〈Personal Jesus〉는 마틴 고어가 치는 블루스풍 기타 리프로 시작하고, 그 밑에서 발을 구르는 듯한 묵직한 박자가 울린다. 이 소리는 사람들이 장비 운반용 케이스 위에서 뛰는 소리를 녹음해 만든 것이다. 〈Enjoy the Silence〉는 원래 고어가 하모니움(Harmonium, 발로 바람을 넣는 작은 건반 악기) 반주에 혼자 부르는 느린 발라드였는데, 앨런 와일더와 제작자 플러드가 빠른 댄스곡으로 바꿨다. 음반의 타악기 대부분은 실제로 두드린 소리를 샘플러에 담아 반복 재생한 것으로, 드럼 머신의 차가운 느낌을 덜어 내려는 선택이었다.",
+    "1987년 《Music for the Masses》와 이어진 투어로 밴드는 미국에서 처음 큰 성공을 맛봤다. 다음 음반에서는 일하는 방식부터 바꾸기로 했고, 고어는 일부러 덜 완성된 데모를 가져왔다. U2와 이레이저의 음반을 만든 플러드와 함께 밀라노, 덴마크, 런던을 오가며 녹음했고, 마무리 믹스는 크라프트베르크의 《Electric Café》 작업으로 알려진 프랑수아 케보르키안이 맡았다. 고어는 〈Personal Jesus〉가 프리실라 프레슬리의 회고록 《Elvis and Me》에서 영감을 받았다고 말했다. 발매 전날인 1990년 3월 18일 로스앤젤레스 음반 가게의 사인회에는 1만 5천 명 넘게 몰려 경찰이 출동했다.",
+    "음반은 영국 2위, 미국 7위에 올라 밴드의 첫 미국 10위권 음반이 됐고, 2006년까지 전 세계에서 750만 장 넘게 팔린 것으로 추산된다. 〈Personal Jesus〉는 뒤에 조니 캐시와 마릴린 맨슨이 다시 불렀다. 1987년 《Music for the Masses》와 이어 들으면, 같은 밴드가 차가운 전자음에 기타와 사람의 손맛을 섞어 넣으며 소리가 얼마나 커졌는지 들린다."
+   ]
+  },
+  {
+   "id": "black-planet",
+   "heading": "겹치고 또 겹친 소리의 벽",
+   "paras": [
+    "첫 곡 〈Contract on the World Love Jam〉은 노래가 아니라 콜라주다. 라디오와 인터뷰, 광고에서 떼어 온 목소리가 마흔 개 넘게 엇갈리고, 그 위로 긁는 소리와 짧은 반복이 쌓인다. 제작팀 밤 스쿼드(The Bomb Squad)는 샘플러와 매킨토시 컴퓨터로 루프 위에 루프를 얹은 뒤, 믹스 단계에서 덜어 내는 방식으로 일했다. 그래서 척 디의 낮고 단단한 랩 뒤에는 늘 사이렌 같은 소음과 펑크 기타 조각이 동시에 들끓는다. 플레이버 플레이브가 부르는 〈911 Is a Joke〉는 흑인 동네에 응급 구조가 늦게 오는 현실을 우스꽝스러운 말투로 꼬집는다.",
+    "1989년 5월 멤버 프로페서 그리프가 신문 인터뷰에서 반유대주의 발언을 해 그룹은 큰 비난을 받았고, 척 디는 6월 그를 내보냈다가 뒤에 다시 받아들였다. 〈Welcome to the Terrordome〉은 이 소동 한가운데 선 자신의 처지를 쏟아 낸 곡이다. 음반 전체는 인종 차별이 어떻게 만들어지는지를 다룬 정신과 의사 프랜시스 크레스 웰싱의 이론에서 출발했다. 마지막 곡 〈Fight the Power〉는 스파이크 리가 1989년 영화 〈똑바로 살아라〉를 위해 부탁한 노래로, 아이즐리 브러더스의 같은 제목 곡을 새로 쓴 것이다. 샘플 사용에 일일이 허락을 받는 관행이 굳어지기 전이었기에 이런 밀도가 가능했다.",
+    "음반은 미국 차트 10위까지 올라 그룹의 이전 음반들보다 훨씬 많이 팔렸고, 2004년 미국 의회도서관의 국립 녹음 등록부에 올랐다. 아이스 큐브가 참여한 〈Burn Hollywood Burn〉을 계기로 밤 스쿼드는 그의 첫 솔로 음반까지 만들었다. 1988년 《It Takes a Nation of Millions to Hold Us Back》과 이어 들으면, 같은 방법이 더 두껍고 더 정치적으로 밀어붙여지는 것이 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Violator (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Violator_(album)"
+  },
+  {
+   "title": "Fear of a Black Planet · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fear_of_a_Black_Planet"
+  },
+  {
+   "title": "The Bomb Squad · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Bomb_Squad"
+  }
+ ],
+ "edges": [
+  {
+   "from": "music-masses",
+   "to": "violator",
+   "type": "document",
+   "label": "미국에서 처음 성공한 바로 앞 음반, 다음 음반에서 일하는 방식을 바꿨다",
+   "source": "https://en.wikipedia.org/wiki/Violator_(album)"
+  },
+  {
+   "from": "nation-millions",
+   "to": "black-planet",
+   "type": "document",
+   "label": "밤 스쿼드가 바로 앞 음반의 샘플 겹치기를 더 밀어붙였다",
+   "source": "https://en.wikipedia.org/wiki/Fear_of_a_Black_Planet"
+  }
+ ]
+}

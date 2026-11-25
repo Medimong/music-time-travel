@@ -1,0 +1,88 @@
+{
+ "date": "2026-12-26",
+ "part": "1987-P2",
+ "year": 1987,
+ "partNo": 2,
+ "partTotal": 3,
+ "total": "약 99분",
+ "title": "말을 쪼개 박은 랩, 거리에서 올라온 기타",
+ "intro": "1987년 여름, 2주 간격으로 두 데뷔 음반이 나왔다. 하나는 뉴욕 롱아일랜드 출신 2인조의 힙합 음반이고, 다른 하나는 로스앤젤레스 선셋 스트립 클럽을 떠돌던 다섯 명의 하드 록 음반이다. 1986년 런 디엠시와 에어로스미스의 〈Walk This Way〉가 랩과 록을 한 무대에 세운 뒤, 두 장르는 각자 자기 방식으로 거칠고 진지해지고 있었다. 에릭 B. & 라킴은 랩을 한 음절 한 음절 정밀하게 짜는 기술로 만들었고, 건스 앤 로지스는 화려한 헤어 메탈이 유행하던 거리에서 더 더럽고 위험한 로큰롤을 들고 나왔다. 두 음반 모두 밀도가 높고 50분 안팎으로 길어 오늘은 두 장만 들으며, 한 곡 한 곡의 말과 리프에 귀를 기울인다.",
+ "albums": [
+  {
+   "id": "paid-in-full",
+   "artist": "Eric B. & Rakim",
+   "title": "Paid In Full",
+   "short": "Paid In Full",
+   "released": "1987년 7월",
+   "genre": "힙합",
+   "blurb": "라킴의 촘촘한 내부 운율과 에릭 B의 소울 샘플로 랩의 기준을 바꾼 첫 음반.",
+   "length": "1–10곡 · 45분",
+   "spotify": "https://open.spotify.com/album/5GSidytcItIkYvD0GVQ68m",
+   "apple": "https://music.apple.com/kr/album/1440841577",
+   "top": "Hip-Hop",
+   "sub": "Golden Age Hip-Hop"
+  },
+  {
+   "id": "appetite",
+   "artist": "Guns N' Roses",
+   "title": "Appetite For Destruction",
+   "short": "Appetite For Destruction",
+   "released": "1987년 7월",
+   "genre": "하드 록",
+   "blurb": "로스앤젤레스 거리의 밴드가 1년 넘게 기다려 미국 1위에 오른, 미국 역사상 가장 많이 팔린 데뷔 음반.",
+   "length": "12곡 · 54분",
+   "spotify": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW",
+   "apple": "https://music.apple.com/kr/album/1377813284",
+   "top": "Hard Rock / Metal",
+   "sub": "Hard Rock"
+  }
+ ],
+ "essays": [
+  {
+   "id": "paid-in-full",
+   "heading": "서두르지 않는 목소리, 빈틈없는 운율",
+   "paras": [
+    "〈I Ain't No Joke〉가 시작되면 에릭 B가 고른 무거운 드럼과 펑크 베이스 위로 라킴이 낮고 차분하게 랩을 한다. 그전 랩이 대개 외치듯 크고 줄 끝에서만 운을 맞췄다면, 라킴은 한 줄 안에서도 비슷한 소리를 여러 번 맞추는 내부 운율(internal rhyme)을 쓰고 박자 사이를 미끄러지듯 오간다. 〈I Know You Got Soul〉은 같은 제목의 바비 버드 곡을, 〈Eric B. Is President〉는 옛 소울과 펑크 음반을 잘라 이어 붙였다. 샘플링(sampling, 기존 음반의 한 부분을 떼어 새 곡의 재료로 쓰는 것)이 힙합의 기본 문법이 되는 과정이 이 음반에 들린다.",
+    "음반은 1986년부터 이듬해까지 프로듀서 말리 말의 집 스튜디오와 뉴욕의 파워 플레이 스튜디오에서 녹음했고, 약 일주일 만에 마쳤다고 알려져 있다. 말리 말은 제작에 참여했다고 주장했지만 에릭 B는 그가 엔지니어였을 뿐이라고 말해, 크레딧은 두 사람 이름으로 남았다. 아일랜드 레코드 산하의 4th & B'way에서 나온 음반은 빌보드 200에서 58위에 머물렀지만, 영국 듀오 콜드컷이 만든 〈Paid in Full〉 리믹스가 유럽 클럽에서 크게 히트했다. 오늘 듣는 1–10곡이 원래 음반이고, 뒤의 두 곡은 덧붙은 판이다.",
+    "음반은 1995년에야 미국 플래티넘 인증을 받았다. 그러나 라킴 이후 랩은 무엇을 말하느냐 못지않게 어떻게 말을 짜느냐를 겨루는 기술이 됐고, 나스와 제이지 같은 다음 세대 래퍼들이 그에게서 큰 영향을 받은 것으로 알려져 있다. 1984년 런 디엠시의 첫 음반과 이어 들으면, 3년 사이 랩의 목소리가 고함에서 정교한 말솜씨로 바뀐 것이 분명하게 들린다."
+   ]
+  },
+  {
+   "id": "appetite",
+   "heading": "정글에 온 것을 환영한다",
+   "paras": [
+    "〈Welcome to the Jungle〉은 슬래시의 기타가 메아리 속에서 내려오듯 시작하고, 액슬 로즈가 날카로운 비명으로 문을 연다. 이지 스트래들린의 리듬 기타와 더프 매케이건의 베이스, 스티븐 애들러의 드럼은 헤비메탈보다 오히려 롤링 스톤스나 에어로스미스에 가까운 출렁이는 로큰롤로 굴러간다. 〈Sweet Child o' Mine〉은 슬래시가 손가락을 풀다 친 것으로 알려진 반짝이는 기타 선율로 시작하고, 〈Paradise City〉는 느긋한 후렴 뒤 점점 빨라지며 끝난다. 마약 거래상을 노래한 〈Mr. Brownstone〉처럼 가사는 거리의 일상을 숨기지 않는다.",
+    "다섯 멤버는 1980년대 중반 로스앤젤레스 선셋 스트립의 클럽을 돌며 가난하게 살았다. 음반은 1987년 1월부터 6월까지 프로듀서 마이크 클링크와 녹음했다. 처음에는 빌보드 200에 182위로 들어와 몇 달 동안 약 20만 장밖에 팔리지 않았고, 음반사 게펜의 임원이 MTV를 설득한 끝에 〈Welcome to the Jungle〉 뮤직비디오가 사흘 동안 하룻밤에 한 번씩 방송됐다. 곧 MTV에서 가장 많이 신청받는 비디오가 됐다. 로봇이 여성을 공격하는 그림을 쓴 원래 표지는 여러 음반 매장이 판매를 거부해 십자가와 해골 그림으로 바뀌었다.",
+    "음반은 발매 1년여 뒤인 1988년 8월 미국 1위에 올랐고 〈Sweet Child o' Mine〉도 싱글 1위를 했다. 미국에서만 1800만 장 넘게 출하돼 빌보드가 꼽은 미국 최다 판매 데뷔 음반이 됐다. 1979년 AC/DC의 《Highway to Hell》과 이어 들으면, 단순하고 거친 로큰롤이 10년 뒤 어떻게 다시 거리의 목소리가 됐는지 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Paid in Full (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Paid_in_Full_(album)"
+  },
+  {
+   "title": "Appetite for Destruction · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Appetite_for_Destruction"
+  },
+  {
+   "title": "Rakim · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Rakim"
+  }
+ ],
+ "edges": [
+  {
+   "from": "run-dmc",
+   "to": "paid-in-full",
+   "type": "listen",
+   "label": "3년 사이 고함에서 정교한 말솜씨로"
+  },
+  {
+   "from": "highway-to-hell",
+   "to": "appetite",
+   "type": "listen",
+   "label": "단순하고 거친 로큰롤의 10년 뒤"
+  }
+ ]
+}

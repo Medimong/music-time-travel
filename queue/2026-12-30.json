@@ -1,0 +1,92 @@
+{
+ "date": "2026-12-30",
+ "part": "1988-P3",
+ "year": 1988,
+ "partNo": 3,
+ "partTotal": 3,
+ "total": "약 112분",
+ "title": "침묵을 연주한 음반, 기타 소음으로 그린 미국 지도",
+ "intro": "오늘은 두 장이다. 《Daydream Nation》은 LP 두 장에 걸친 71분짜리 음반이고, 《Spirit of Eden》은 41분이지만 아주 조용하고 느려서 다른 음반과 섞기보다 따로 귀를 기울일 만하다. 1988년 가을, 영국과 미국의 두 밴드는 정반대 방향에서 록의 틀을 벗어났다. 한때 신스팝 히트곡을 내던 런던의 토크 토크는 노래 대신 침묵과 즉흥 연주를 택했고, 그 때문에 음반사와 법정 다툼까지 벌였다. 뉴욕의 소닉 유스는 기타 줄을 제멋대로 조율하고 소음을 길게 밀어붙여 미국 인디 록이 어디까지 갈 수 있는지 보여 줬다. 두 음반 모두 당장 많이 팔리지는 않았지만, 1990년대의 포스트록(Post-Rock)과 얼터너티브 록(Alternative Rock)이 여기서 길을 찾았다.",
+ "albums": [
+  {
+   "id": "spirit-eden",
+   "artist": "Talk Talk",
+   "title": "Spirit of Eden",
+   "short": "Spirit of Eden",
+   "released": "1988년 9월",
+   "genre": "아트 록 · 포스트록",
+   "blurb": "몇 시간의 즉흥 연주를 잘라 붙여 침묵과 소리로 짠, 토크 토크의 네 번째 음반.",
+   "length": "6곡 · 41분",
+   "spotify": "https://open.spotify.com/album/4YXo7p7aubyVIbNLoVlBp9",
+   "apple": "https://music.apple.com/kr/album/701395363",
+   "top": "Pop / Art Pop",
+   "sub": "Art Rock · Post-Rock"
+  },
+  {
+   "id": "daydream-nation",
+   "artist": "Sonic Youth",
+   "title": "Daydream Nation",
+   "short": "Daydream Nation",
+   "released": "1988년 10월",
+   "genre": "노이즈 록 · 얼터너티브 록",
+   "blurb": "변칙 조율한 기타 소음으로 미국 인디 록의 지도를 그린 소닉 유스의 LP 두 장짜리 음반.",
+   "length": "1–14곡 · 71분",
+   "spotify": "https://open.spotify.com/album/5z8bPdGFiJx56cqsHTvWM9",
+   "apple": "https://music.apple.com/kr/album/520335802",
+   "top": "Rock",
+   "sub": "Noise Rock · Alternative Rock"
+  }
+ ],
+ "essays": [
+  {
+   "id": "spirit-eden",
+   "heading": "침묵을 연주한 음반",
+   "paras": [
+    "첫 곡 〈The Rainbow〉는 트럼펫과 오르간의 희미한 소리, 긴 침묵으로 한참을 머물다가 하모니카와 기타가 날카롭게 끼어든다. 마크 홀리스는 웅얼거리듯 낮게 노래하고, 곡은 갑자기 크게 터졌다가 다시 숨을 죽인다. 여섯 곡 41분 동안 드럼은 재즈처럼 가볍게 스치고, 하모늄, 더블 베이스, 바이올린, 목관 악기, 첼름스퍼드 대성당 성가대가 잠깐씩 나타났다 사라진다. 듣는 사람은 곡의 구조보다 소리와 소리 사이의 빈 공간을 듣게 된다. 볼륨을 넉넉히 올리고 조용한 곳에서 들어야 하는 음반이다.",
+    "토크 토크는 1980년대 초 〈Talk Talk〉, 〈It's My Life〉 같은 신스팝으로 이름을 알렸다. 홀리스와 프로듀서 팀 프리즈-그린은 1987년 5월부터 이듬해 3월까지 런던 웨섹스 스튜디오에서 녹음했다. 빛을 가린 스튜디오에 오일 프로젝터와 스트로브 조명을 켜 두고 연주자들에게 몇 시간씩 즉흥 연주를 시킨 뒤, 쓸 만한 순간을 골라 편집하고 다시 짜 맞췄다. 엔지니어 필 브라운은 우연과 사고, 몇 시간의 시도로 녹음된 음반이라고 회고했다. 1969년 마일스 데이비스의 《In a Silent Way》가 즉흥 연주를 잘라 붙여 만든 방식과 닮았다.",
+    "음반사 EMI는 팔릴 만한 곡이 없다며 다시 녹음하라고 했지만 홀리스는 거절했다. 1988년 9월 12일 나온 음반은 영국 차트 19위에 올랐고, 밴드는 라이브로 재현할 방법을 모르겠다며 공연을 하지 않았다. EMI와의 계약 다툼은 법정까지 갔고, 항소심에서 이긴 밴드는 폴리도어로 옮겨 1991년 《Laughing Stock》을 냈다. 당시에는 상업적 실패였지만 훗날 여러 평론가가 이 음반을 포스트록의 출발점으로 꼽았고, 엘보, 도브스 같은 밴드가 영향을 밝혔다."
+   ]
+  },
+  {
+   "id": "daydream-nation",
+   "heading": "기타 소음으로 그린 미국 지도",
+   "paras": [
+    "〈Teen Age Riot〉은 킴 고든의 속삭임 뒤에 두 대의 기타가 맑게 울리는 리프로 달려 나가고, 서스턴 무어가 노래를 이끈다. 소닉 유스는 기타 줄을 표준과 다르게 맞추는 변칙 조율(alternate tuning)을 즐겨 썼고, 때로는 줄 사이에 드럼 스틱이나 드라이버를 끼워 소리를 바꿨다. 그래서 화음이 익숙한 장조나 단조로 정리되지 않고 종소리처럼 반짝이거나 쇳소리처럼 긁힌다. 〈The Sprawl〉과 〈'Cross the Breeze〉에서는 노래가 끝난 뒤에도 기타 소음이 몇 분씩 이어지고, 마지막 〈Trilogy〉는 세 곡을 하나로 묶어 14분 남짓 흐른다.",
+    "밴드는 1981년 뉴욕의 실험 음악 무대에서 출발해 작은 인디 레이블에서 음반을 내며 미국 곳곳의 클럽과 대학 라디오를 돌았다. 1988년 7월부터 8월까지 맨해튼 소호의 그린 스트리트 레코딩에서 프로듀서 닉 산사노와 약 3만 달러로 녹음했고, 10월 18일 에니그마 레코드에서 LP 두 장으로 냈다. 표지에는 독일 화가 게르하르트 리히터의 1983년 그림 〈촛불(Kerze)〉을 썼다. 〈Teen Age Riot〉은 다이너소어 주니어의 J 마스키스가 대통령이 된 세상을 상상한 노래로 알려져 있다.",
+    "음반은 미국 앨범 차트에 오르지 못했고 영국에서도 99위에 그쳤지만, 〈Teen Age Riot〉은 빌보드 모던 록 차트 20위에 올랐다. 평단의 찬사를 발판 삼아 밴드는 메이저 레이블 게펜과 계약했고, 미국 의회도서관은 이 음반을 국가 녹음 등록부에 올렸다. 1977년 텔레비전의 《Marquee Moon》과 이어 들으면, 뉴욕의 기타 밴드들이 길고 날카로운 기타 연주로 펑크 이후의 록을 넓혀 간 계보가 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Spirit of Eden · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Spirit_of_Eden"
+  },
+  {
+   "title": "Daydream Nation · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Daydream_Nation"
+  },
+  {
+   "title": "Talk Talk · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Talk_Talk"
+  },
+  {
+   "title": "Post-rock · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Post-rock"
+  }
+ ],
+ "edges": [
+  {
+   "from": "silent-way",
+   "to": "spirit-eden",
+   "type": "listen",
+   "label": "즉흥 연주를 잘라 붙여 만든 음반"
+  },
+  {
+   "from": "marquee-moon",
+   "to": "daydream-nation",
+   "type": "listen",
+   "label": "뉴욕 기타 밴드의 길고 날카로운 연주"
+  }
+ ]
+}

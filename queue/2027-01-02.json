@@ -1,0 +1,103 @@
+{
+ "date": "2027-01-02",
+ "part": "1989-P3",
+ "year": 1989,
+ "partNo": 3,
+ "partTotal": 3,
+ "total": "약 112분",
+ "title": "맨체스터의 찰랑이는 기타, 105곡을 엮은 로스앤젤레스의 콜라주",
+ "intro": "1988년과 1989년 여름 영국에서는 애시드 하우스(Acid House)와 레이브 파티가 젊은이들을 사로잡았고, 이를 ‘두 번째 사랑의 여름(Second Summer of Love)’이라 불렀다. 맨체스터에서는 클럽 하시엔다를 중심으로 기타 밴드와 댄스 음악이 섞였고, 언론은 이 장면을 매드체스터(Madchester)라 불렀다. 오늘은 두 장이다. 두 음반이 각각 한 시간 가까이 되어 합치면 두 시간에 가깝기 때문이다. 스톤 로지스는 60년대풍 기타 팝에 춤추는 리듬을 살짝 얹어 영국 록의 다음 10년을 열었다. 대서양 건너 로스앤젤레스에서는 비스티 보이스가 첫 음반의 소란스러운 이미지를 벗고 수많은 샘플로 짠 두 번째 음반을 냈다. 처음에는 둘 다 크게 팔리지 않았지만, 시간이 지나며 1989년을 대표하는 음반이 됐다.",
+ "albums": [
+  {
+   "id": "stone-roses",
+   "artist": "The Stone Roses",
+   "title": "The Stone Roses",
+   "short": "The Stone Roses",
+   "released": "1989년 5월",
+   "genre": "매드체스터 · 기타 팝",
+   "blurb": "60년대풍 기타 팝과 춤추는 리듬으로 매드체스터와 브릿팝의 틀을 만든 스톤 로지스의 데뷔작.",
+   "length": "12곡 · 59분",
+   "spotify": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw",
+   "apple": "https://music.apple.com/kr/album/322969529",
+   "top": "Rock",
+   "sub": "Madchester · Jangle Pop"
+  },
+  {
+   "id": "pauls-boutique",
+   "artist": "Beastie Boys",
+   "title": "Paul's Boutique",
+   "short": "Paul's Boutique",
+   "released": "1989년 7월",
+   "genre": "힙합 · 샘플 콜라주",
+   "blurb": "105곡을 샘플로 엮어 처음엔 팔리지 않았으나 힙합의 걸작이 된 비스티 보이스의 두 번째 음반.",
+   "length": "23곡 · 53분",
+   "spotify": "https://open.spotify.com/album/1kmyirVya5fRxdjsPFDM05",
+   "apple": "https://music.apple.com/kr/album/721276795",
+   "top": "Hip-Hop",
+   "sub": "Alternative Hip-Hop"
+  }
+ ],
+ "essays": [
+  {
+   "id": "stone-roses",
+   "heading": "찰랑이는 기타와 춤추는 드럼",
+   "paras": [
+    "〈I Wanna Be Adored〉는 거의 들리지 않는 소리에서 시작해 마니의 베이스, 존 스콰이어의 기타가 차례로 떠오르고, 이언 브라운이 담담하게 숭배받고 싶다고 노래한다. 스콰이어의 기타는 버즈처럼 맑게 찰랑이는 쟁글(Jangle) 소리이고, 선율은 비틀스처럼 쉽게 귀에 붙는다. 그 아래에서 드러머 레니는 록 드럼보다 가볍고 흔들리는 리듬을 친다. 〈Elizabeth My Dear〉는 영국 민요 〈Scarborough Fair〉의 선율을 빌려 1분도 안 되게 지나간다. 마지막 〈I Am the Resurrection〉은 8분 동안 이어지며 후반부 긴 연주로 끝난다. 오늘 듣는 판의 12번째 곡 〈Fools Gold〉는 원래 1989년 11월 따로 낸 싱글로, 뒤에 음반에 덧붙었다. 제임스 브라운의 〈Funky Drummer〉 비트를 바탕으로 쓴 이 10분짜리 곡에서야 춤 음악이 본격적으로 들린다.",
+    "스톤 로지스는 1983년 맨체스터에서 결성해 여러 이름과 소리를 거쳤다. 제작자 존 레키는 데모의 템포가 너무 빠르다며 곡을 다시 다듬게 했다. 표지는 스콰이어가 잭슨 폴록을 본떠 그린 그림으로, 1968년 파리 5월 시위를 가리킨다. 처음엔 크게 주목받지 못했지만 1989년 2월 하시엔다 공연 같은 무대로 이름을 얻었고, 11월 해피 먼데이스와 같은 회차의 〈톱 오브 더 팝스〉에 나간 일은 매드체스터가 전국에 알려진 순간으로 꼽힌다. 〈Fools Gold〉는 밴드의 첫 영국 10위권 싱글이 됐다.",
+    "음반은 지금까지 전 세계에서 400만 장 넘게 팔렸다. 오아시스를 비롯한 1990년대 브릿팝 밴드들이 이 음반을 출발점으로 삼았다는 평이 많다. 1966년 비틀스의 《Revolver》와 이어 들으면, 60년대의 찰랑이는 기타가 20여 년 뒤 클럽의 리듬과 만난 모습이 들린다."
+   ]
+  },
+  {
+   "id": "pauls-boutique",
+   "heading": "105곡으로 짠 거리 풍경",
+   "paras": [
+    "〈Shake Your Rump〉는 펑크 기타, 드럼 브레이크, 손뼉 소리 등 여러 샘플이 한꺼번에 돌아가는 위에서 세 멤버가 한 줄씩 주고받으며 랩을 한다. 〈Egg Man〉은 영화 〈사이코〉의 날카로운 현악과 커티스 메이필드의 베이스를 같은 곡에 넣고, 〈The Sounds of Science〉는 비틀스의 여러 곡을 잘라 붙인다. 마지막 〈B-Boy Bouillabaisse〉는 아홉 조각의 짧은 곡을 이어 붙인 12분짜리 모음곡이라 오늘 듣는 판에서는 23곡으로 나뉘어 있다. 음반 전체에 105곡이 샘플로 쓰였고, 마지막 곡에만 24개가 들어 있다.",
+    "1986년 《Licensed to Ill》은 크게 성공했지만 술 취한 대학생의 랩이라는 비웃음도 함께 받았다. 비스티 보이스는 제작자 릭 루빈, 음반사 데프 잼과 갈라선 뒤 1988년 로스앤젤레스로 건너가 캐피톨과 계약했다. 그곳에서 만난 제작자 더스트 브라더스는 클럽용 연주곡으로 쓰려던 빽빽한 샘플 트랙을 갖고 있었는데, 멤버들은 그 위에 그대로 랩을 하겠다고 했다. 녹음은 대부분 친구 맷 다이크의 거실에서 했다. 엔지니어 마리오 칼다토 주니어는 샘플 사용료로 약 25만 달러를 썼다고 말했다. 1991년 샘플 소송 판결 이후 이런 방식은 사실상 불가능해졌다.",
+    "음반은 빌보드 앨범 차트 14위에 그쳐 실패작으로 여겨졌고, 캐피톨도 거의 홍보하지 않았다. 그러나 평론가들의 평가는 해가 갈수록 올라가 ‘힙합의 《Sgt. Pepper》’라는 별명을 얻었고, 1999년에는 200만 장 판매 인증을 받았다. 1967년 비틀스의 《Sgt. Pepper's Lonely Hearts Club Band》와 이어 들으면, 스튜디오 자체를 악기로 쓰는 실험이 22년 뒤 샘플러로 어떻게 이어졌는지 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "The Stone Roses (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Stone_Roses_(album)"
+  },
+  {
+   "title": "Fools Gold (The Stone Roses song) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fools_Gold_(The_Stone_Roses_song)"
+  },
+  {
+   "title": "Madchester · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Madchester"
+  },
+  {
+   "title": "Paul's Boutique · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Paul%27s_Boutique"
+  },
+  {
+   "title": "Second Summer of Love · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Second_Summer_of_Love"
+  }
+ ],
+ "edges": [
+  {
+   "from": "revolver",
+   "to": "stone-roses",
+   "type": "listen",
+   "label": "60년대 찰랑이는 기타가 클럽 리듬과 만나다"
+  },
+  {
+   "from": "licensed-ill",
+   "to": "pauls-boutique",
+   "type": "document",
+   "label": "비스티 보이스의 데뷔작에서 두 번째 음반으로",
+   "source": "https://en.wikipedia.org/wiki/Paul%27s_Boutique"
+  },
+  {
+   "from": "sgt-pepper",
+   "to": "pauls-boutique",
+   "type": "listen",
+   "label": "힙합의 Sgt. Pepper, 스튜디오를 악기로"
+  }
+ ]
+}

@@ -1,0 +1,90 @@
+{
+ "date": "2027-01-01",
+ "part": "1989-P2",
+ "year": 1989,
+ "partNo": 2,
+ "partTotal": 3,
+ "total": "약 111분",
+ "title": "조용히 시작해 터지는 노래, 서른을 앞둔 가장 긴 어둠",
+ "intro": "1980년대 끝자락에 미국과 영국의 대학 라디오와 독립 음반사에서 자란 기타 음악은 아직 주류 밖에 있었다. 차트는 화려한 팝과 헤어 메탈이 차지했지만, 영국 음악 주간지들은 미국 보스턴의 픽시즈를 먼저 알아보고 표지에 올렸다. 오늘은 두 장이다. 큐어의 음반이 72분으로 매우 길어 둘만으로도 두 시간에 가깝기 때문이다. 픽시즈는 조용한 절과 폭발하는 후렴을 오가는 짧은 노래들로 몇 해 뒤 너바나의 소리를 미리 들려줬다. 큐어는 팝 히트로 커진 인기를 등지고 다시 어둡고 긴 곡으로 돌아갔는데, 그 음반이 오히려 그들의 가장 큰 성공이 됐다. 같은 해 봄 영국과 미국에서 나온 두 음반은 1990년대 얼터너티브 록(Alternative Rock)이 어디서 왔는지를 보여 준다.",
+ "albums": [
+  {
+   "id": "doolittle",
+   "artist": "Pixies",
+   "title": "Doolittle",
+   "short": "Doolittle",
+   "released": "1989년 4월",
+   "genre": "얼터너티브 록",
+   "blurb": "조용한 절과 터지는 후렴으로 1990년대 록의 문법을 미리 쓴 픽시즈의 두 번째 음반.",
+   "length": "15곡 · 39분",
+   "spotify": "https://open.spotify.com/album/0DQyTVcDhK9wm0f6RaErWO",
+   "apple": "https://music.apple.com/kr/album/7060469",
+   "top": "Rock",
+   "sub": "Alternative Rock"
+  },
+  {
+   "id": "disintegration",
+   "artist": "The Cure",
+   "title": "Disintegration",
+   "short": "Disintegration",
+   "released": "1989년 5월",
+   "genre": "고딕 록 · 드림 팝",
+   "blurb": "서른을 앞둔 로버트 스미스가 신시사이저와 느린 기타로 다시 어둠 속에 들어간 큐어의 여덟 번째 음반.",
+   "length": "12곡 · 72분",
+   "spotify": "https://open.spotify.com/album/7uUltiwqvVn8Uy23Hdf1kE",
+   "apple": "https://music.apple.com/kr/album/1440785740",
+   "top": "New Wave / Post-Punk",
+   "sub": "Gothic Rock · Dream Pop"
+  }
+ ],
+ "essays": [
+  {
+   "id": "doolittle",
+   "heading": "조용히, 그리고 갑자기 크게",
+   "paras": [
+    "〈Debaser〉는 킴 딜의 베이스 한 줄로 시작하고, 조이 산티아고의 기타와 블랙 프랜시스의 외침이 한꺼번에 덮친다. 〈Tame〉은 더 극단적이다. 절에서는 베이스와 드럼 위에 숨죽인 목소리만 깔리다가 후렴에서 프랜시스가 목이 찢어지게 소리 지른다. 이 조용한 절과 시끄러운 후렴(Quiet/Loud dynamic)이 음반 전체의 뼈대다. 〈Here Comes Your Man〉은 반대로 밝은 기타 팝이고, 〈Monkey Gone to Heaven〉에는 첼로와 바이올린이 들어간다. 〈Wave of Mutilation〉은 사업에 실패하고 바다로 차를 몰았다는 신문 기사에서 출발했다. 15곡 가운데 3분을 넘는 곡은 세 곡뿐이다.",
+    "가사는 기묘하다. 〈Debaser〉는 부뉴엘과 달리의 초현실주의 영화 〈안달루시아의 개〉를 노래하고, 〈Dead〉와 〈Gouge Away〉는 구약 성경의 다윗과 밧세바, 삼손과 델릴라 이야기를 끌어온다. 프랜시스는 열두 살 때 부모와 함께 오순절 교회에 다녔다. 1988년 첫 음반 《Surfer Rosa》가 영국에서 먼저 인정받자 음반사 4AD는 이전의 네 배인 4만 달러를 내주었고, 프로듀서 길 노턴은 거친 소리를 다듬고 곡을 늘리자고 했다. 노래를 짧게 두고 싶던 프랜시스는 그를 레코드 가게로 데려가 버디 홀리의 2~3분짜리 곡들을 보여 줬다고 한다.",
+    "음반은 영국 앨범 차트 8위에 올랐고, 《멜로디 메이커》와 《사운즈》는 그해 최고의 음반으로 꼽았다. 커트 코베인은 〈Smells Like Teen Spirit〉을 픽시즈 곡을 쓰려다 만든 노래라고 말했다. 1988년 《Surfer Rosa》와 이어 들으면, 같은 밴드가 스티브 앨비니의 날것 녹음에서 길 노턴의 다듬은 소리로 옮겨 간 차이가 들린다."
+   ]
+  },
+  {
+   "id": "disintegration",
+   "heading": "서른을 앞둔 가장 긴 어둠",
+   "paras": [
+    "첫 곡 〈Plainsong〉은 종소리 같은 효과음 뒤로 신시사이저 화음이 천천히 쏟아지고, 로버트 스미스는 한참 뒤에야 들어와 몇 마디를 읊조린다. 곡 대부분이 길고 느리며, 신시사이저와 키보드가 두껍게 깔리고 기타는 같은 선율을 끝없이 되풀이한다. 그 사이에 〈Pictures of You〉와 〈Lullaby〉가 있다. 〈Lullaby〉는 짧게 끊어 치는 기타와 현악 위에서 스미스가 속삭이듯 노래한다. 〈Lovesong〉은 사이먼 갤럽과 보리스 윌리엄스의 단단한 리듬 위에 놓인, 음반에서 가장 솔직한 사랑 노래다.",
+    "1987년 《Kiss Me, Kiss Me, Kiss Me》의 성공으로 큐어는 세계 순회공연 표가 모두 팔리는 밴드가 됐다. 스미스는 팝 스타가 되는 일이 불편했고, 스물아홉 번째 생일에 곧 서른이 된다는 사실에 겁을 먹었다. 위대한 록 음반은 모두 서른 전에 나왔다고 생각했기 때문이다. 그는 우울을 견디려 환각제를 자주 썼고, 1982년 《Pornography》의 분위기로 돌아가려 했다. 녹음은 옥스퍼드셔의 시골 스튜디오에서 했고, 스미스는 일부러 거의 말을 하지 않았다고 한다. 창립 멤버 롤 톨허스트는 술 문제로 녹음 뒤 밴드에서 해고됐다. 〈Lovesong〉은 곧 결혼할 메리 풀에게 준 결혼 선물이었다.",
+    "영국에서는 〈Lullaby〉가 5위에 올라 밴드의 가장 높은 싱글이 됐다. 음반은 영국 3위, 미국 12위로 그때까지 큐어의 가장 높은 순위였고, 〈Lovesong〉은 빌보드 싱글 차트 2위까지 올랐다. 지금까지 밴드에서 가장 많이 팔린 음반이다. 1985년 《The Head On the Door》와 이어 들으면, 열 가지 색깔의 팝을 쓰던 밴드가 4년 만에 한 가지 색으로 72분을 채운 결심이 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Doolittle (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Doolittle_(album)"
+  },
+  {
+   "title": "Disintegration (The Cure album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Disintegration_(The_Cure_album)"
+  },
+  {
+   "title": "Alternative rock · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Alternative_rock"
+  }
+ ],
+ "edges": [
+  {
+   "from": "surfer-rosa",
+   "to": "doolittle",
+   "type": "document",
+   "label": "픽시즈의 첫 음반에서 다음 음반으로",
+   "source": "https://en.wikipedia.org/wiki/Doolittle_(album)"
+  },
+  {
+   "from": "head-on-door",
+   "to": "disintegration",
+   "type": "document",
+   "label": "팝으로 갔던 큐어가 어둠으로 돌아간 길",
+   "source": "https://en.wikipedia.org/wiki/Disintegration_(The_Cure_album)"
+  }
+ ]
+}

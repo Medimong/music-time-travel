@@ -1,0 +1,104 @@
+{
+ "date": "2026-12-31",
+ "part": "1989-P1",
+ "year": 1989,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 114분",
+ "title": "데이지 시대의 장난스러운 샘플, 기도와 고백이 된 팝",
+ "intro": "1989년은 세계 지도가 바뀐 해다. 6월 베이징 톈안먼 광장의 시위가 무력으로 진압됐고, 11월 9일에는 베를린 장벽이 열렸다. 대중음악에서는 샘플러(Sampler, 녹음된 소리를 잘라 저장했다가 다시 연주하는 기계)가 어디까지 갈 수 있는지를 보여 준 음반들이 잇따랐다. 오늘은 두 장이다. 하나는 63분, 다른 하나는 51분으로 합쳐 두 시간에 가깝기 때문이다. 뉴욕 롱아일랜드의 고등학생 셋이 만든 데 라 소울은 갱스터 랩이 커지던 시기에 꽃무늬와 농담으로 정반대 길을 냈다. 서른 살을 맞은 마돈나는 이혼과 어머니의 죽음, 가톨릭 신앙을 처음으로 정면에서 노래했다. 둘 다 그해 비평가들이 가장 많이 이야기한 음반이다.",
+ "albums": [
+  {
+   "id": "three-feet",
+   "artist": "De La Soul",
+   "title": "3 Feet High and Rising",
+   "short": "3 Feet High and Rising",
+   "released": "1989년 2월",
+   "genre": "힙합 · 얼터너티브 힙합",
+   "blurb": "수십 곡의 샘플과 퀴즈쇼 촌극으로 힙합의 표정을 바꾼 데 라 소울의 데뷔작.",
+   "length": "23곡 · 63분",
+   "spotify": "https://open.spotify.com/album/34LxHI9x14qXUOS8AWRrYD",
+   "apple": "https://music.apple.com/kr/album/1657705063",
+   "top": "Hip-Hop",
+   "sub": "Alternative Hip-Hop"
+  },
+  {
+   "id": "like-prayer",
+   "artist": "Madonna",
+   "title": "Like a Prayer",
+   "short": "Like a Prayer",
+   "released": "1989년 3월",
+   "genre": "팝 · 댄스 팝",
+   "blurb": "가톨릭 신앙과 가족, 무너진 결혼을 처음 정면으로 노래한 마돈나의 네 번째 음반.",
+   "length": "11곡 · 51분",
+   "spotify": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV",
+   "apple": "https://music.apple.com/kr/album/83448003",
+   "top": "Pop / Art Pop",
+   "sub": "Dance-Pop"
+  }
+ ],
+ "essays": [
+  {
+   "id": "three-feet",
+   "heading": "꽃무늬를 그린 힙합",
+   "paras": [
+    "음반은 퀴즈쇼 진행자 목소리로 시작한다. 세 멤버가 엉뚱한 질문에 답하는 촌극(Skit, 곡과 곡 사이에 넣는 짧은 연극 조각)이 음반 곳곳에 다시 나타나고, 그 사이로 짧은 곡과 긴 곡이 23곡이나 이어진다. 〈The Magic Number〉는 어린이 교육 방송 노래를 끌어오고, 〈Eye Know〉는 오티스 레딩의 휘파람과 스틸리 대니의 선율을 겹친다. 〈Me Myself and I〉는 펑크(Funk) 베이스 위에서 스스로를 우스갯소리로 소개한다. 프로듀서 프린스 폴은 카시오 드럼머신과 하모나이저로 샘플을 자르고 붙였는데, 소울과 펑크뿐 아니라 두왑, 사이키델릭 록, 동요까지 재료로 썼다.",
+    "셋은 롱아일랜드 애미티빌의 고등학교 친구로, 〈Plug Tunin'〉 데모 테이프로 프린스 폴의 눈에 들었다. 당시 랩은 거칠고 공격적인 갱스터 랩 쪽으로 기울고 있었는데, 이들은 비듬이나 정원 가꾸기 같은 엉뚱한 소재를 골랐다. 반복해서 나오는 ‘데이지 시대(D.A.I.S.Y. Age)’는 ‘안쪽의 소리(Da Inner Sound, Y'all)’를 줄인 말이다. 형광 꽃무늬 표지 때문에 히피 그룹이라는 말을 들었지만 멤버들은 그 꼬리표를 늘 거부했다. 《빌리지 보이스》의 1989년 평론가 투표에서 1위를 했다.",
+    "샘플을 마음껏 쓰던 시절은 오래가지 않았다. 60년대 그룹 터틀스가 자신들의 곡을 허락 없이 썼다며 소송을 걸었고, 샘플 사용권 문제 때문에 이 음반은 2023년에야 스트리밍에 올라왔다. 재즈와 농담을 품은 얼터너티브 힙합(Alternative Hip-Hop)은 여기서 갈라져 나왔다는 평을 받고, 같은 무리의 어 트라이브 콜드 퀘스트가 그 길을 이었다. 1988년 퍼블릭 에너미의 음반과 이어 들으면, 같은 샘플링이 한쪽에서는 사이렌이 되고 다른 쪽에서는 놀이가 되는 것이 들린다."
+   ]
+  },
+  {
+   "id": "like-prayer",
+   "heading": "기도처럼 부른 고백",
+   "paras": [
+    "첫 곡 〈Like a Prayer〉는 왜곡된 기타가 쾅 울린 뒤 교회 오르간과 함께 조용히 시작한다. 이어 가스펠 가수 안드라에 크라우치가 이끄는 합창단이 들어와 노래를 점점 크게 끌어올린다. 〈Express Yourself〉와 〈Keep It Together〉는 슬라이 앤드 더 패밀리 스톤에 바치는 펑크 곡이고, 〈Love Song〉은 프린스와 함께 쓰고 함께 부른 이중창이다. 〈Promise to Try〉는 피아노와 첼로만으로 일찍 세상을 떠난 어머니를 부르고, 〈Oh Father〉는 아버지와의 관계를 다룬다. 프린스는 몇 곡에서 이름을 올리지 않고 기타를 쳤다.",
+    "1988년 마돈나는 영화의 실패와 연극 혹평을 겪었고, 배우 숀 펜과의 결혼이 끝나 1989년 1월 이혼 소송을 냈다. 어머니가 세상을 떠난 나이인 서른이 된 것도 그를 흔들었다. 그는 일기장을 뒤져 그동안 너무 솔직해서 녹음하지 못했던 이야기를 꺼냈고, 패트릭 레너드와는 하루에 한 곡씩 썼다고 한다. 펩시는 이 곡을 쓰는 광고에 500만 달러를 냈지만, 불타는 십자가와 흑인 성인이 나오는 뮤직비디오에 종교 단체와 바티칸이 반발하자 광고를 거둬들였다. 첫 LP에는 교회 냄새를 내려고 패출리 향을 입혔고, 에이즈 정보지를 함께 넣었다.",
+    "음반은 20개 나라에서 1위에 올랐고, 타이틀곡은 마돈나의 일곱 번째 빌보드 1위 곡이 됐다. 평론가들은 이때부터 그를 아이돌이 아닌 진지한 음악가로 다루기 시작했고, 뒤에 나온 여성 가수들이 자기 이야기를 앨범 단위로 털어놓는 데 이 음반이 길을 냈다는 평도 받는다. 이듬해 블론드 앰비션 투어는 이 노래들을 거대한 무대 공연으로 바꿨다. 1983년 데뷔작과 이어 들으면, 댄스 플로어의 신인이 6년 만에 고백하는 작가가 된 거리가 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "3 Feet High and Rising · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/3_Feet_High_and_Rising"
+  },
+  {
+   "title": "De La Soul · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/De_La_Soul"
+  },
+  {
+   "title": "Like a Prayer (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Like_a_Prayer_(album)"
+  },
+  {
+   "title": "Like a Prayer (song) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Like_a_Prayer_(song)"
+  },
+  {
+   "title": "베를린 장벽의 붕괴 · 위키백과",
+   "url": "https://ko.wikipedia.org/wiki/%EB%B2%A0%EB%A5%BC%EB%A6%B0_%EC%9E%A5%EB%B2%BD%EC%9D%98_%EB%B6%95%EA%B4%B4"
+  }
+ ],
+ "edges": [
+  {
+   "from": "nation-millions",
+   "to": "three-feet",
+   "type": "listen",
+   "label": "같은 샘플링, 한쪽은 사이렌 한쪽은 놀이"
+  },
+  {
+   "from": "madonna-1983",
+   "to": "like-prayer",
+   "type": "document",
+   "label": "마돈나의 데뷔작에서 네 번째 음반으로",
+   "source": "https://en.wikipedia.org/wiki/Like_a_Prayer_(album)"
+  },
+  {
+   "from": "sign-times",
+   "to": "like-prayer",
+   "type": "document",
+   "label": "프린스가 함께 쓰고 부른 〈Love Song〉",
+   "source": "https://en.wikipedia.org/wiki/Like_a_Prayer_(album)"
+  }
+ ]
+}

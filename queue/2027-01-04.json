@@ -1,0 +1,96 @@
+{
+ "date": "2027-01-04",
+ "part": "1990-P2",
+ "year": 1990,
+ "partNo": 2,
+ "partTotal": 3,
+ "total": "약 108분",
+ "title": "메이저로 간 소음, 텍사스에서 바꾼 메탈의 걸음",
+ "intro": "1990년 여름, 오랫동안 작은 음반사나 지역 무대에서 활동하던 밴드들이 잇따라 메이저 음반사와 계약해 첫 음반을 냈다. 뉴욕 언더그라운드의 상징이던 소닉 유스는 게펜 계열의 DGC에서, 텍사스의 판테라는 애트코에서 음반을 냈다. 둘 다 계약 조건으로 자신들이 하던 음악을 그대로 할 자유를 얻었다는 점이 중요하다. 같은 해 8월 이라크가 쿠웨이트를 침공하며 걸프 위기가 시작됐고, 미국의 젊은 청취자들은 라디오 히트곡보다 거칠고 시끄러운 소리에 귀를 기울이기 시작했다. 오늘은 두 장이다. 각각 50분과 58분으로 길고, 1991년 이후 대중음악 판도를 바꿀 얼터너티브 록과 새로운 메탈이 여기서 출발한다.",
+ "albums": [
+  {
+   "id": "goo",
+   "artist": "Sonic Youth",
+   "title": "Goo",
+   "short": "Goo",
+   "released": "1990년 6월",
+   "genre": "얼터너티브 록 · 노이즈 록",
+   "blurb": "언더그라운드의 소음과 대중문화를 향한 풍자를 메이저 음반사에서 처음 낸 소닉 유스의 여섯 번째 음반.",
+   "length": "11곡 · 50분",
+   "spotify": "https://open.spotify.com/album/5iYYQwB0oH9FVyVlaOXZdr",
+   "apple": "https://music.apple.com/kr/album/1440838993",
+   "top": "Rock",
+   "sub": "Alternative Rock · Noise Rock"
+  },
+  {
+   "id": "cowboys-hell",
+   "artist": "Pantera",
+   "title": "Cowboys from Hell",
+   "short": "Cowboys from Hell",
+   "released": "1990년 7월",
+   "genre": "그루브 메탈 · 스래시 메탈",
+   "blurb": "글램 메탈을 버리고 무겁게 튀는 리프로 그루브 메탈의 출발점이 된 판테라의 메이저 데뷔작.",
+   "length": "12곡 · 58분",
+   "spotify": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe",
+   "apple": "https://music.apple.com/kr/album/1163813822",
+   "top": "Hard Rock / Metal",
+   "sub": "Groove Metal"
+  }
+ ],
+ "essays": [
+  {
+   "id": "goo",
+   "heading": "메이저 음반사에서 낸 소음",
+   "paras": [
+    "첫 곡 〈Dirty Boots〉는 두 대의 기타가 맑게 엇갈리다가 점점 찢어지는 소음으로 번진다. 서스턴 무어와 리 라나도는 기타 줄을 특이하게 조율해 다른 밴드에서 들을 수 없는 화음을 냈다. 이번 음반에서는 베이스의 킴 고든이 노래와 작곡에서 훨씬 큰 몫을 맡았다. 〈Kool Thing〉에서 고든은 무심하게 말하듯 노래하고, 중간에 퍼블릭 에너미의 척 디가 끼어들어 대화를 주고받는다. 〈Tunic (Song for Karen)〉은 거식증으로 세상을 떠난 카펜터스의 카렌 카펜터를 노래한다.",
+    "1988년 《Daydream Nation》으로 이름을 얻은 밴드는 1989년 게펜과 계약했고, 음반은 새로 만든 자회사 DGC에서 1990년 6월 26일 나왔다. 다섯 장 계약에 창작을 온전히 밴드가 결정한다는 조항을 넣었다. 〈Kool Thing〉은 고든이 1989년 LL 쿨 J를 인터뷰하고 실망한 경험에서 나왔다. 그녀는 그의 음반 《Radio》로 랩을 좋아하게 됐지만, 펑크에 무관심하고 여성을 낮춰 보는 태도에 질렸다고 한다. 무어는 마스터링 엔지니어에게 아직 무명이던 너바나의 《Bleach》를 들려주며 이런 소리를 원한다고 말한 것으로 알려져 있다. 표지는 블랙 플래그의 표지를 그린 레이먼드 페티본의 그림이다.",
+    "음반은 미국 차트 96위로 밴드의 그때까지 가장 높은 순위였고, 〈Kool Thing〉은 모던 록 차트 7위에 올랐다. 1990년 말까지 20만 장 넘게 팔려 음반사의 기대를 넘었다. 이듬해 너바나가 같은 DGC에서 《Nevermind》를 냈으니, 얼터너티브 록이 주류로 가는 길을 이 음반이 먼저 닦은 셈이다. 1988년 《Daydream Nation》과 이어 들으면, 긴 기타 즉흥이 짧고 날카로운 노래 안으로 단단하게 들어앉는 것이 들린다."
+   ]
+  },
+  {
+   "id": "cowboys-hell",
+   "heading": "빠르기 대신 튀는 걸음",
+   "paras": [
+    "타이틀곡 〈Cowboys from Hell〉의 리프는 스래시 메탈처럼 날카롭지만 무작정 달리지 않는다. 다이아몬드 대럴(뒤의 다임백 대럴)의 기타는 박자의 앞뒤를 비켜 가며 툭툭 끊기고, 비니 폴의 드럼과 렉스 브라운의 베이스가 그 틈을 단단히 붙잡는다. 이렇게 중간 빠르기로 무겁게 튀는 느낌을 뒤에 그루브 메탈(Groove Metal)이라 불렀다. 필 앤설모는 노래와 고함 사이를 오가고, 7분짜리 〈Cemetery Gates〉에서는 브라운이 쓴 어쿠스틱 기타 도입부 뒤로 높은 음역까지 뻗는 목소리를 들려준다. 녹음할 때 드럼을 먼저, 기타를 다음, 베이스는 기타만 들으며 따로 얹어 소리가 유난히 빈틈없다.",
+    "판테라는 1981년 텍사스에서 결성돼 첫 세 장을 화려한 차림의 글램 메탈로 냈고, 독립 음반사에서만 네 장을 냈다. 앤설모가 들어온 1988년 《Power Metal》부터 소리가 무거워졌다. 메이저 음반사들에 여러 차례 거절당한 끝에 애트코와 계약했고, 텍사스 판테고의 스튜디오에서 제작자 테리 데이트와 처음 작업했다. 리프에는 오버킬의 《The Years of Decay》 같은 스래시 메탈의 영향이 짙다. 같은 무렵 메가데스의 데이브 머스테인이 대럴에게 기타리스트 자리를 제안했지만, 형 비니 폴도 함께 데려가겠다는 조건이 맞지 않아 그는 판테라에 남았다.",
+    "음반은 처음에 천천히 팔려 2년 뒤인 1992년에야 빌보드 차트에 들었지만, 꾸준히 팔려 미국에서 200만 장 인증을 받았다. 1990년대 메탈 밴드들이 이 걸음걸이를 따라 했고, 그루브 메탈을 정의한 음반으로 꼽힌다. 1986년 슬레이어의 《Reign in Blood》와 이어 들으면, 같은 뿌리에서 나온 메탈이 빠르기를 줄이고 무게와 리듬을 택한 순간이 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Goo (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Goo_(album)"
+  },
+  {
+   "title": "Cowboys from Hell · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cowboys_from_Hell"
+  },
+  {
+   "title": "Groove metal · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Groove_metal"
+  }
+ ],
+ "edges": [
+  {
+   "from": "daydream-nation",
+   "to": "goo",
+   "type": "document",
+   "label": "바로 앞 음반의 성공 뒤 메이저 음반사로 옮겨 낸 다음 음반",
+   "source": "https://en.wikipedia.org/wiki/Goo_(album)"
+  },
+  {
+   "from": "radio-ll",
+   "to": "goo",
+   "type": "document",
+   "label": "킴 고든이 랩을 좋아하게 된 음반, 〈Kool Thing〉의 출발점",
+   "source": "https://en.wikipedia.org/wiki/Goo_(album)"
+  },
+  {
+   "from": "reign-blood",
+   "to": "cowboys-hell",
+   "type": "listen",
+   "label": "스래시의 빠르기에서 그루브 메탈의 무게로"
+  }
+ ]
+}
