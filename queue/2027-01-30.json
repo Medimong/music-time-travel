@@ -1,0 +1,99 @@
+{
+ "date": "2027-01-30",
+ "part": "1999-P1",
+ "year": 1999,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 102분",
+ "title": "스톡홀름에서 온 십 대의 노래, 디트로이트의 악동",
+ "intro": "1999년 1월 1일 유럽 11개 나라가 공동 화폐 유로를 도입했다. 연말이 다가오자 컴퓨터가 2000년을 1900년으로 착각할 것이라는 ‘Y2K’ 공포가 세계를 덮었다. 미국 대중음악에서는 MTV의 〈TRL〉을 보는 십 대가 차트를 움직였고, 1월과 2월에 나온 두 데뷔작이 그 시대의 양극단이 됐다. 한국에서는 god와 핑클, S.E.S. 같은 아이돌 그룹이 음반 판매 순위를 휩쓸었다. 오늘은 두 장이다. 브리트니 스피어스의 42분짜리 음반과 에미넴의 60분짜리 음반을 합치면 약 102분이다. 하나는 스웨덴 작곡가들이 다듬은 완벽한 팝이고, 다른 하나는 부모들이 가장 두려워한 랩이었다. 둘 다 같은 십 대 시청자가 열광했다.",
+ "albums": [
+  {
+   "id": "baby-one-more",
+   "artist": "Britney Spears",
+   "title": "...Baby One More Time",
+   "short": "Baby One More Time",
+   "released": "1999년 1월",
+   "genre": "틴 팝 · 댄스 팝",
+   "blurb": "맥스 마틴의 정밀한 팝 작법으로 열일곱 살 가수를 세계적 스타로 만든 브리트니 스피어스의 데뷔작.",
+   "length": "1–11곡 · 42분",
+   "spotify": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx",
+   "apple": "https://music.apple.com/kr/album/268284599",
+   "top": "Pop / Art Pop",
+   "sub": "Teen Pop · Dance-Pop"
+  },
+  {
+   "id": "slim-shady",
+   "artist": "Eminem",
+   "title": "The Slim Shady LP",
+   "short": "Slim Shady LP",
+   "released": "1999년 2월",
+   "genre": "호러코어 · 하드코어 힙합",
+   "blurb": "닥터 드레가 발견한 디트로이트 백인 래퍼가 또 다른 자아 ‘슬림 셰이디’를 내세워 만든 메이저 데뷔작.",
+   "length": "20곡 · 60분",
+   "spotify": "https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l",
+   "apple": "https://music.apple.com/kr/album/1440871441",
+   "top": "Hip-Hop",
+   "sub": "Hardcore Hip-Hop · Horrorcore"
+  }
+ ],
+ "essays": [
+  {
+   "id": "baby-one-more",
+   "heading": "피아노 세 음으로 연 새 시대",
+   "paras": [
+    "〈...Baby One More Time〉은 묵직한 피아노 세 음과 브리트니 스피어스의 낮고 쉰 듯한 첫마디로 시작한다. 드럼은 R&B처럼 묵직하고 기타는 펑크 록처럼 짧게 끊기며, 후렴은 한 번만 들어도 따라 부를 수 있게 짜여 있다. 〈(You Drive Me) Crazy〉와 〈Sometimes〉도 같은 공식을 따른다. 짧은 도입, 점점 쌓이는 브리지, 그리고 가장 큰 후렴. 모든 소리가 라디오에서 가장 크게 들리도록 다듬어져 있다.",
+    "타이틀곡을 비롯한 핵심 곡들은 스웨덴 스톡홀름의 샤이론 스튜디오에서 맥스 마틴과 동료들이 만들었다. 그들은 백스트리트 보이스의 곡으로 이미 미국 시장을 연 상태였다. 타이틀곡은 원래 다른 그룹을 위해 쓴 곡이었다는 이야기가 전해진다. 브리트니는 어린 시절 디즈니 채널의 〈미키 마우스 클럽〉에 출연한 경력이 있었고, 학교 교복을 입은 뮤직비디오로 단번에 시선을 끌었다.",
+    "음반은 빌보드 1위로 데뷔했고 전 세계에서 2천만 장 넘게 팔린 것으로 알려져 있다. 이 성공으로 2000년대 초 틴 팝 붐이 일었고, 맥스 마틴은 이후 20년 넘게 미국 팝 히트곡을 가장 많이 만든 작곡가가 됐다. 스파이스 걸스의 《Spice》와 이어 들으면 영국과 스웨덴이 만든 세계 팝의 공식을 비교할 수 있다."
+   ]
+  },
+  {
+   "id": "slim-shady",
+   "heading": "두 개의 자아로 쓴 블랙 코미디",
+   "paras": [
+    "〈My Name Is〉는 라비 시프레의 1975년 곡에서 따온 느긋한 베이스 위로 에미넴이 콧소리 섞인 높은 목소리로 자기를 소개한다. 랩은 엄청나게 빠르고 정확하며, 한 줄 안에 여러 겹의 운을 겹쳐 쌓는다. 가사는 폭력과 마약, 어머니와 전 여자 친구에 대한 분노를 만화처럼 과장한다. 〈Guilty Conscience〉에서는 닥터 드레와 함께 사람의 양쪽 어깨에 앉은 천사와 악마를 연기한다.",
+    "에미넴, 본명 마셜 매더스는 디트로이트의 가난한 동네에서 자랐다. 1997년 로스앤젤레스의 랩 대회에서 2위를 한 뒤 그의 독립 음반이 인터스코프 레코드 대표 지미 아이오빈을 거쳐 닥터 드레의 손에 들어갔다. 백인 래퍼가 진지하게 받아들여지기 어렵던 때, 드레의 후원은 결정적이었다. ‘슬림 셰이디’는 그가 가장 잔인하고 웃긴 말을 내뱉을 때 쓰는 가면이다.",
+    "음반은 빌보드 2위에 올랐고 그래미 최우수 랩 앨범상을 받았다. 동시에 폭력과 여성 혐오 가사로 큰 비판을 받았다. 에미넴은 이후 2000년대 가장 많이 팔린 음악가가 됐다. 닥터 드레의 《The Chronic》과 이어 들으면 같은 프로듀서가 서부의 느긋함에서 어떻게 방향을 틀었는지 들린다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "...Baby One More Time (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/...Baby_One_More_Time_(album)"
+  },
+  {
+   "title": "The Slim Shady LP · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Slim_Shady_LP"
+  },
+  {
+   "title": "Max Martin · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Max_Martin"
+  },
+  {
+   "title": "Teen pop · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Teen_pop"
+  }
+ ],
+ "edges": [
+  {
+   "from": "spice",
+   "to": "baby-one-more",
+   "type": "listen",
+   "label": "세계 시장을 노린 십 대 팝의 공식"
+  },
+  {
+   "from": "chronic",
+   "to": "slim-shady",
+   "type": "document",
+   "label": "닥터 드레가 발굴하고 함께 만든 에미넴의 데뷔작",
+   "source": "https://en.wikipedia.org/wiki/The_Slim_Shady_LP"
+  },
+  {
+   "from": "licensed-ill",
+   "to": "slim-shady",
+   "type": "listen",
+   "label": "백인 래퍼의 악동 같은 유머"
+  }
+ ]
+}

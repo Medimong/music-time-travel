@@ -1,0 +1,99 @@
+{
+ "date": "2027-02-02",
+ "part": "2000-P1",
+ "year": 2000,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 121분",
+ "title": "일렉트릭 레이디의 느린 박자, 노란 별빛",
+ "intro": "새 천년의 첫해, 걱정하던 Y2K 대란은 일어나지 않았다. 3월에는 부풀 대로 부푼 미국 인터넷 기업들의 주가가 무너지기 시작했고, 4월에는 메탈리카가 냅스터를 고소하며 음악과 인터넷의 싸움이 본격화됐다. 음반은 여전히 기록적으로 팔리고 있었지만, 그 끝이 멀지 않았다. 한국에서는 서태지가 4년 만에 돌아와 하드코어 록 음반을 내놓았다. 오늘은 두 장이다. 디안젤로의 79분짜리 두 번째 음반과 콜드플레이의 42분짜리 데뷔작을 합치면 약 121분이다. 뉴욕 녹음실에서 오래 숙성한 소울과 런던의 젊은 밴드가 만든 조용한 록은 둘 다 크게 소리치지 않고 듣는 이를 끌어당긴다.",
+ "albums": [
+  {
+   "id": "voodoo",
+   "artist": "D'Angelo",
+   "title": "Voodoo",
+   "short": "Voodoo",
+   "released": "2000년 1월",
+   "genre": "네오 소울 · 펑크",
+   "blurb": "박자 뒤로 늘어지는 드럼과 겹겹의 목소리로 네오 소울의 정점을 찍은 디안젤로의 두 번째 음반.",
+   "length": "13곡 · 79분",
+   "spotify": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8",
+   "apple": "https://music.apple.com/kr/album/1440841365",
+   "top": "Soul / R&B",
+   "sub": "Neo Soul"
+  },
+  {
+   "id": "parachutes",
+   "artist": "Coldplay",
+   "title": "Parachutes",
+   "short": "Parachutes",
+   "released": "2000년 7월",
+   "genre": "얼터너티브 록 · 포스트 브릿팝",
+   "blurb": "〈Yellow〉와 〈Trouble〉의 조용한 피아노와 기타로 2000년대 영국 록의 새 얼굴이 된 콜드플레이의 데뷔작.",
+   "length": "10곡 · 42분",
+   "spotify": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra",
+   "apple": "https://music.apple.com/kr/album/696830354",
+   "top": "Rock",
+   "sub": "Alternative Rock · Post-Britpop"
+  }
+ ],
+ "essays": [
+  {
+   "id": "voodoo",
+   "heading": "취한 듯 늦게 떨어지는 박자",
+   "paras": [
+    "〈Playa Playa〉가 시작되면 드럼이 이상하게 들린다. 퀘스트러브의 스네어는 정박보다 살짝 늦게, 마치 술에 취한 듯 떨어지고, 피노 팔라디노의 베이스는 그보다 더 늦게 따라온다. 디안젤로의 목소리는 여러 겹으로 녹음돼 합창처럼 겹치며, 가사는 일부러 웅얼거린다. 〈Untitled (How Does It Feel)〉은 프린스를 떠올리게 하는 느린 발라드로, 마지막에 터지는 고음이 압권이다. 트럼펫 연주자 로이 하그로브의 관악도 곳곳에 등장한다.",
+    "디안젤로는 뉴욕의 일렉트릭 레이디 스튜디오에서 몇 년에 걸쳐 이 음반을 녹음했다. 지미 헨드릭스가 세운 그 녹음실에 퀘스트러브, 커먼, 에리카 바두, 제이 딜라 같은 음악가들이 모여 ‘소울쿼리언스’라는 느슨한 집단을 이뤘다. 그들은 제이 딜라의 비트처럼 기계적으로 맞지 않는 박자에서 사람 냄새를 찾았다. 녹음 중에는 옛 소울과 펑크 공연 영상을 틀어 놓고 함께 연주한 것으로 알려져 있다.",
+    "음반은 빌보드 1위로 데뷔했고 그래미 최우수 R&B 앨범상을 받았다. 그러나 근육질 상반신을 드러낸 뮤직비디오가 화제가 되며 디안젤로는 쏟아지는 관심에 지쳐 무대에서 사라졌고, 다음 음반은 14년 뒤에야 나왔다. 그는 2025년 10월 세상을 떠났다. 1995년 《Brown Sugar》와 이어 들으면 5년 사이 그의 박자가 얼마나 느슨하고 깊어졌는지 들린다."
+   ]
+  },
+  {
+   "id": "parachutes",
+   "heading": "조용히 부르는 노란색",
+   "paras": [
+    "〈Yellow〉는 살짝 일그러진 기타 코드를 느긋하게 치며 시작하고, 크리스 마틴은 낮은 목소리로 시작해 후렴에서 가성으로 올라간다. 〈Trouble〉은 피아노 반복구 하나로 사과의 마음을 전하는 곡이다. 〈Shiver〉와 〈Don't Panic〉에서는 기타의 메아리와 부드러운 드럼이 담담하게 흐른다. 전체적으로 소리는 크지 않고, 목소리와 피아노, 기타가 가까이에서 들린다. 〈Yellow〉의 뮤직비디오는 크리스 마틴이 바닷가를 혼자 걸으며 노래하는 한 장면으로 찍었다.",
+    "네 멤버는 런던 유니버시티 칼리지 기숙사에서 만났다. 녹음은 웨일스와 리버풀 등의 녹음실에서 프로듀서 켄 넬슨과 함께 진행됐다. 오아시스와 블러가 시끄럽게 다투던 브릿팝 시대가 저물고, 라디오헤드가 실험적인 방향으로 떠나자, 영국 기타 록에는 감정을 솔직하게 털어놓는 조용한 밴드들이 들어섰다. 콜드플레이는 그 가운데 가장 크게 성공했다.",
+    "음반은 영국 1위에 올랐고 머큐리상 후보에 올랐으며, 미국에서도 그래미 최우수 얼터너티브 음반상을 받았다. 평론가들은 라디오헤드의 《The Bends》와 비교하곤 했다. 콜드플레이는 이후 세계 최대의 공연 밴드가 됐고, 이 음반의 부드러운 감성은 2000년대 영국 록의 한 흐름이 됐다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "Voodoo (D'Angelo album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Voodoo_(D%27Angelo_album)"
+  },
+  {
+   "title": "Parachutes (album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Parachutes_(album)"
+  },
+  {
+   "title": "Soulquarians · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Soulquarians"
+  },
+  {
+   "title": "Electric Lady Studios · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Electric_Lady_Studios"
+  }
+ ],
+ "edges": [
+  {
+   "from": "brown-sugar",
+   "to": "voodoo",
+   "type": "document",
+   "label": "5년 만에 낸 디안젤로의 두 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/Voodoo_(D%27Angelo_album)"
+  },
+  {
+   "from": "sign-times",
+   "to": "voodoo",
+   "type": "listen",
+   "label": "프린스에게서 이어진 겹겹의 목소리와 펑크"
+  },
+  {
+   "from": "the-bends",
+   "to": "parachutes",
+   "type": "listen",
+   "label": "가성과 기타로 부르는 영국 록 발라드"
+  }
+ ]
+}

@@ -1,0 +1,99 @@
+{
+ "date": "2027-01-25",
+ "part": "1997-P2",
+ "year": 1997,
+ "partNo": 2,
+ "partTotal": 3,
+ "total": "약 110분",
+ "title": "기계 속의 불안, 불을 지르는 춤",
+ "intro": "1997년 5월 영국 총선에서 토니 블레어의 노동당이 압승했고, 언론은 ‘쿨 브리타니아’라는 말로 영국 대중문화의 자신감을 치켜세웠다. 7월 1일에는 홍콩이 중국에 반환됐다. 개인용 컴퓨터와 휴대전화, 인터넷이 빠르게 퍼지면서 기술이 삶을 편하게 해 줄지, 사람을 더 외롭게 만들지에 대한 불안도 커졌다. 영국 차트에서는 기타 밴드와 전자음악 팀이 나란히 1위를 다퉜다. 오늘은 두 장이다. 라디오헤드의 54분짜리 세 번째 음반과 프로디지의 56분짜리 세 번째 음반을 합치면 약 110분이다. 두 영국 밴드는 같은 해 정반대 방향에서 기계 시대를 그렸다.",
+ "albums": [
+  {
+   "id": "ok-computer",
+   "artist": "Radiohead",
+   "title": "OK Computer",
+   "short": "OK Computer",
+   "released": "1997년 5월",
+   "genre": "아트 록 · 얼터너티브 록",
+   "blurb": "현대인의 고립과 기술 사회의 불안을 장대한 기타 록으로 그려 1990년대 최고의 음반으로 자주 꼽히는 라디오헤드의 세 번째 음반.",
+   "length": "12곡 · 54분",
+   "spotify": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE",
+   "apple": "https://music.apple.com/kr/album/1097861387",
+   "top": "Rock",
+   "sub": "Art Rock · Alternative Rock"
+  },
+  {
+   "id": "fat-of-land",
+   "artist": "The Prodigy",
+   "title": "The Fat of the Land",
+   "short": "Fat of the Land",
+   "released": "1997년 6월",
+   "genre": "빅 비트 · 일렉트로닉 록",
+   "blurb": "〈Firestarter〉와 〈Breathe〉로 레이브의 에너지를 펑크 록처럼 터뜨려 영국과 미국 차트 1위에 오른 프로디지의 세 번째 음반.",
+   "length": "10곡 · 56분",
+   "spotify": "https://open.spotify.com/album/5ruKe5L3QJcvnQCT5RHKVr",
+   "apple": "https://music.apple.com/kr/album/1450123945",
+   "top": "Electronic",
+   "sub": "Big Beat"
+  }
+ ],
+ "essays": [
+  {
+   "id": "ok-computer",
+   "heading": "고속도로 위의 편집증",
+   "paras": [
+    "첫 곡 〈Airbag〉은 첼로처럼 낮게 깔리는 기타와 잘게 쪼갠 드럼 루프로 시작한다. 6분이 넘는 〈Paranoid Android〉는 어쿠스틱 기타 도입부, 날카로운 기타 솔로, 합창 같은 느린 부분으로 세 번 모양을 바꾼다. 〈Karma Police〉는 피아노와 기타로 걷듯 진행하다 끝에서 소리가 일그러지며 무너진다. 〈Fitter Happier〉에서는 컴퓨터 음성이 건강하고 생산적인 삶의 목록을 기계적으로 읽어 내려간다.",
+    "밴드는 프로듀서 나이절 고드리치와 함께, 영국 배스 근처의 오래된 저택에서 상당 부분을 녹음했다. 전작 《The Bends》의 성공 뒤 그들은 끝없는 투어와 이동 속에서 느낀 피로를 노래로 옮겼다. 톰 요크의 가사에는 교통사고, 정치인, 외계인, 감시당하는 느낌이 뒤섞여 있다. 음반사는 처음에 상업성이 없다고 걱정한 것으로 알려져 있다. 표지와 소책자는 스탠리 돈우드와 톰 요크가 만든 낙서 같은 그림으로 채워졌다.",
+    "음반은 영국 1위에 올랐고 그래미 최우수 얼터너티브 음반상을 받았다. 지금도 1990년대 최고의 음반을 꼽는 목록 맨 위에 자주 오른다. 기타 록이 앨범 단위의 예술이 될 수 있다는 것을 다시 보여 줬고, 이후 수많은 밴드가 이 쓸쓸한 소리를 따라 했다."
+   ]
+  },
+  {
+   "id": "fat-of-land",
+   "heading": "레이브가 펑크가 될 때",
+   "paras": [
+    "〈Firestarter〉는 북을 두드리듯 무거운 브레이크비트와 일그러진 기타 샘플 위로 키스 플린트가 쉰 목소리로 소리친다. 〈Breathe〉는 느린 듯 육중한 비트에 두 보컬이 주고받는 긴장으로 몰아붙인다. 브레이크비트(breakbeat, 옛 펑크나 소울 음반의 드럼 연주를 잘라 반복한 리듬)를 크고 거칠게 키우고, 그 위에 록 기타와 사이렌 같은 신시사이저를 얹는 방식을 영국 언론은 빅 비트(big beat)라고 불렀다.",
+    "리엄 하울렛은 1990년대 초 영국 레이브 파티에서 활동하던 프로듀서였다. 프로디지는 원래 춤추는 무리를 위한 밴드였지만, 이 음반에서는 키스 플린트를 펑크 가수 같은 프런트맨으로 내세웠다. 〈Smack My Bitch Up〉은 제목과 뮤직비디오 때문에 큰 논란이 됐고, 일부 방송과 매장에서 거부당했다.",
+    "음반은 영국과 미국 앨범 차트 1위로 데뷔했다. 전자음악 음반이 미국에서 1위에 오른 일은 당시 매우 드물었다. 록 공연장에서 통하는 전자음악이라는 공식은 이후 수많은 밴드와 페스티벌 무대로 이어졌다. 나인 인치 네일스의 《The Downward Spiral》과 이어 들으면 기계와 분노가 만나는 다른 방식을 비교할 수 있다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "OK Computer · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/OK_Computer"
+  },
+  {
+   "title": "The Fat of the Land · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Fat_of_the_Land"
+  },
+  {
+   "title": "Big beat · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Big_beat"
+  },
+  {
+   "title": "Cool Britannia · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Cool_Britannia"
+  }
+ ],
+ "edges": [
+  {
+   "from": "the-bends",
+   "to": "ok-computer",
+   "type": "document",
+   "label": "《The Bends》 다음에 낸 라디오헤드의 세 번째 음반",
+   "source": "https://en.wikipedia.org/wiki/OK_Computer"
+  },
+  {
+   "from": "dark-side",
+   "to": "ok-computer",
+   "type": "listen",
+   "label": "현대 사회의 불안을 앨범 한 장으로 그린 아트 록"
+  },
+  {
+   "from": "downward-spiral",
+   "to": "fat-of-land",
+   "type": "listen",
+   "label": "기계 소리와 분노가 만나는 다른 방식"
+  }
+ ]
+}

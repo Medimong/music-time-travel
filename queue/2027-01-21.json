@@ -1,0 +1,99 @@
+{
+ "date": "2027-01-21",
+ "part": "1996-P1",
+ "year": 1996,
+ "partNo": 1,
+ "partTotal": 3,
+ "total": "약 121분",
+ "title": "지하실 스튜디오의 난민들, 샘플로 짠 이상한 미국",
+ "intro": "1996년 1월 서태지와 아이들이 은퇴를 발표했고, 그해 가을 SM엔터테인먼트가 H.O.T.를 내놓으며 한국 아이돌 시대가 열렸다. 미국에서는 통신법 개정으로 라디오 방송국 소유 제한이 풀려 대기업이 방송국을 대거 사들이기 시작했다. 힙합은 이미 미국 대중음악의 중심에 들어섰고, 록과 힙합의 경계도 빠르게 흐려졌다. 음반 가게에서는 CD가 카세트를 밀어내고 가장 많이 팔리는 매체가 되어 있었다. 오늘은 두 장이다. 뉴저지 지하실에서 만든 퓨지스의 69분짜리 음반과, 샘플과 연주를 뒤섞은 벡의 52분짜리 음반을 함께 들으면 두 시간이 찬다. 둘 다 장르를 고르지 않고 손에 잡히는 모든 소리를 집어 들었다.",
+ "albums": [
+  {
+   "id": "the-score",
+   "artist": "Fugees",
+   "title": "The Score",
+   "short": "The Score",
+   "released": "1996년 2월",
+   "genre": "얼터너티브 힙합 · 힙합 소울",
+   "blurb": "로린 힐의 노래와 랩, 와이클레프 장의 기타로 힙합에 소울과 레게를 녹여 1990년대 가장 많이 팔린 힙합 음반 가운데 하나가 된 퓨지스의 두 번째 음반.",
+   "length": "15곡 · 69분",
+   "spotify": "https://open.spotify.com/album/4z6F5s3RVaOsekuaegbLfD",
+   "apple": "https://music.apple.com/kr/album/1054461239",
+   "top": "Hip-Hop",
+   "sub": "Alternative Hip-Hop"
+  },
+  {
+   "id": "odelay",
+   "artist": "Beck",
+   "title": "Odelay",
+   "short": "Odelay",
+   "released": "1996년 6월",
+   "genre": "얼터너티브 록 · 샘플 콜라주",
+   "blurb": "더스트 브라더스와 함께 블루스, 힙합, 컨트리, 노이즈를 잘라 붙여 장르의 경계를 지운 벡의 대표작.",
+   "length": "14곡 · 52분",
+   "spotify": "https://open.spotify.com/album/1Pus5h1qGedCn4CtOuPVtp",
+   "apple": "https://music.apple.com/kr/album/1510827144",
+   "top": "Rock",
+   "sub": "Alternative Rock · Sample Collage"
+  }
+ ],
+ "essays": [
+  {
+   "id": "the-score",
+   "heading": "지하실에서 부른 옛 노래",
+   "paras": [
+    "가장 먼저 귀에 남는 것은 로린 힐의 목소리다. 랩을 할 때는 단단하고 빠르며, 노래로 넘어가면 1970년대 소울 가수처럼 따뜻하다. 로버타 플랙의 〈Killing Me Softly with His Song〉을 다시 부른 곡에서는 느린 힙합 비트 위에 원곡의 선율을 거의 그대로 얹었고, 〈Ready or Not〉은 엔야의 〈Boadicea〉를 샘플로 써서 안개 낀 듯한 분위기를 만든다. 와이클레프 장의 어쿠스틱 기타와 아이티 출신다운 레게 리듬, 프라스의 낮은 목소리가 그 사이를 채운다.",
+    "퓨지스라는 이름은 아이티 난민을 낮춰 부르던 말 ‘리퓨지(refugee)’에서 왔다. 세 사람은 뉴저지에 있던 와이클레프 삼촌 집 지하실의 작은 스튜디오에서 이 음반을 녹음한 것으로 알려져 있다. 갱스터 랩이 차트를 지배하던 때, 그들은 총과 돈 대신 이민자의 삶과 옛 소울 음악에 대한 애정을 내세웠다.",
+    "음반은 빌보드 앨범 차트 1위에 올랐고 이듬해 그래미 최우수 랩 앨범상을 받았다. 그룹은 곧 흩어졌지만 로린 힐은 2년 뒤 솔로 데뷔작으로 더 큰 성공을 거뒀다. 노래와 랩을 한 사람이 오가는 방식은 이후 수많은 R&B와 힙합 가수에게 이어졌다."
+   ]
+  },
+  {
+   "id": "odelay",
+   "heading": "중고 가게에서 주운 소리로 만든 파티",
+   "paras": [
+    "〈Devils Haircut〉은 1960년대 개러지 록 밴드 뎀의 곡에서 따온 기타 리프와 둔탁한 드럼 루프로 시작한다. 〈Where It's At〉에서는 펜더 로즈 전기 피아노가 느슨하게 흐르고, 오래된 교육용 레코드의 목소리가 끼어든다. 하모니카, 슬라이드 기타, 턴테이블 긁는 소리, 컨트리풍 페달 스틸이 한 곡 안에서 차례로 나타났다 사라진다. 벡은 노래하듯 랩하고, 가사는 뜻보다 말의 울림을 따라간다.",
+    "프로듀서 더스트 브라더스는 1989년 비스티 보이스의 《Paul's Boutique》를 만든 2인조다. 그들은 샘플 수백 개를 겹치던 방식에 벡의 생연주를 섞었다. 1994년 〈Loser〉의 깜짝 성공 뒤 반짝 스타로 끝날 것이라는 예상이 많았지만, 벡은 이 음반으로 그 예상을 뒤집었다.",
+    "음반은 평단의 극찬을 받았고 그래미 올해의 앨범 후보에 올랐고, 최우수 얼터너티브 음악 퍼포먼스상을 받았다. 장르를 가리지 않고 과거의 음반을 뒤져 새것으로 조립하는 태도는 인터넷 시대 음악가들의 기본 자세가 됐다. 《Paul's Boutique》와 이어 들으면 같은 프로듀서의 손이 어떻게 달라졌는지 비교할 수 있다."
+   ]
+  }
+ ],
+ "readings": [
+  {
+   "title": "The Score (Fugees album) · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/The_Score_(Fugees_album)"
+  },
+  {
+   "title": "Odelay · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Odelay"
+  },
+  {
+   "title": "Fugees · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Fugees"
+  },
+  {
+   "title": "Dust Brothers · Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Dust_Brothers"
+  }
+ ],
+ "edges": [
+  {
+   "from": "pauls-boutique",
+   "to": "odelay",
+   "type": "document",
+   "label": "같은 프로듀서 더스트 브라더스가 만든 샘플 콜라주",
+   "source": "https://en.wikipedia.org/wiki/Odelay"
+  },
+  {
+   "from": "whats-going-on",
+   "to": "the-score",
+   "type": "listen",
+   "label": "옛 소울의 따뜻함을 힙합 비트 위에 되살린 노래"
+  },
+  {
+   "from": "natty-dread",
+   "to": "the-score",
+   "type": "listen",
+   "label": "와이클레프 장의 레게 리듬과 이어 듣기"
+  }
+ ]
+}
